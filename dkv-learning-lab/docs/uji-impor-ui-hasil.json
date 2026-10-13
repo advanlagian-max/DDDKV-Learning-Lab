@@ -1,0 +1,71 @@
+{
+  "waktu": "2026-10-13T14:43:00.385Z",
+  "basis": "http://localhost:8080",
+  "ringkas": "UJI IMPOR SISWA MASSAL (ANTARMUKA): 8/8 LULUS",
+  "hasil": [
+    {
+      "no": "I1",
+      "fitur": "Panel impor massal tersedia di Panel Admin → Akun",
+      "langkah": "Buka /admin sebagai admin dan periksa panel",
+      "harapan": "Panel \"Tambah siswa massal (tempel dari Excel / daftar kelas)\" terlihat",
+      "aktual": "panel tampil di tab Akun",
+      "status": "LULUS"
+    },
+    {
+      "no": "I2",
+      "fitur": "Tombol \"Periksa dulu\" menampilkan pratinjau",
+      "langkah": "Klik 🔍 Periksa dulu setelah menempel 3 baris (2 kelas baru, 1 kelas lama)",
+      "harapan": "pratinjau 3 baris tampil sebelum disimpan",
+      "aktual": "pratinjau tampil (kelas X DKV 9 terbaca=true); belum ada akun yang dibuat",
+      "status": "LULUS"
+    },
+    {
+      "no": "I3",
+      "fitur": "Tombol Impor membuat akun + kelas baru",
+      "langkah": "Klik 📥 Impor akun",
+      "harapan": "3 akun dibuat, kelas X DKV 9 terbentuk otomatis, daftar akun + sandi awal tampil",
+      "aktual": "pesan=\"3 akun dibuat, 0 dilewati, 0 gagal. Nama Username Sandi awal Kelas Uji Massal Satu ujimassalsatu dkv2026 X DKV 9 Uji Massal Dua ujimassaldua dkv2026 X DKV 9 Uji Massal Tiga ujimassaltiga dkv2026 X DKV 1\"; baris daftar akun hasil impor=3; sandi awal tampil=true",
+      "status": "LULUS"
+    },
+    {
+      "no": "I4",
+      "fitur": "Akun hasil impor dapat login",
+      "langkah": "Login dengan username otomatis (ujimassalsatu) & sandi awal di halaman siswa",
+      "harapan": "login berhasil dan nama siswa tampil di dashboard",
+      "aktual": "masuk=true (url=/); nama tampil=true",
+      "status": "LULUS"
+    },
+    {
+      "no": "I5",
+      "fitur": "Impor ulang tidak menggandakan akun",
+      "langkah": "Tekan 📥 Impor akun sekali lagi dengan tempelan yang sama",
+      "harapan": "\"0 akun dibuat, 3 dilewati\"; tempelan di kotak teks tetap utuh",
+      "aktual": "pesan=\"0 akun dibuat, 3 dilewati, 0 gagal. Dilewati: Uji Massal Satu (ujimassalsatu), Uji Massal Dua (ujimassaldua), Uji Massal Tiga (ujimassaltiga)\"; isi kotak tempelan tetap ada (3 baris)",
+      "status": "LULUS"
+    },
+    {
+      "no": "I6",
+      "fitur": "Unduh daftar akun (CSV) tetap tersedia setelah impor ulang",
+      "langkah": "Impor ulang (0 akun baru) lalu klik ⬇️ Unduh daftar akun (CSV) dan periksa isi berkas",
+      "harapan": "tombol unduh masih ada dan berkas CSV berisi nama, username, sandi awal ketiga akun hasil impor sebelumnya",
+      "aktual": "berkas=daftar-akun-siswa-2026-10-13.csv; tombol tetap tampil=true; memuat 3 akun + sandi + nama siswa",
+      "status": "LULUS"
+    },
+    {
+      "no": "I7",
+      "fitur": "Daftar akun di Admin ikut bertambah",
+      "langkah": "Setelah impor, hitung baris tabel \"Daftar akun\"",
+      "harapan": "tabel memuat akun baru (13 akun demo → 16)",
+      "aktual": "baris tabel daftar akun=16",
+      "status": "LULUS"
+    },
+    {
+      "no": "I8",
+      "fitur": "Tidak ada galat JavaScript / permintaan ditolak selama alur impor",
+      "langkah": "Kumpulkan galat konsol, galat halaman, dan balasan 4xx/5xx (URL dicatat) selama seluruh alur",
+      "harapan": "0 galat konsol dan 0 balasan 4xx/5xx yang tidak diharapkan",
+      "aktual": "galat konsol=0; balasan 4xx/5xx=0",
+      "status": "LULUS"
+    }
+  ]
+}

@@ -1,0 +1,3498 @@
+{
+  "meta": {
+    "semester": 2,
+    "judul": "Peta Operasional Pembelajaran Minggu 19-36 - Dasar-Dasar DKV Kelas X",
+    "versi": "0.1-tahap1",
+    "catatan": "Rancangan operasional berbasis buku teks Dasar-Dasar Desain Komunikasi Visual Kelas X Semester 2 (Kemendikbudristek, 2022). BUKAN ATP resmi - wajib diverifikasi guru. Alokasi menit per tahap dapat diubah guru.",
+    "sumber": [
+      {
+        "kode": "B2",
+        "nama": "Dasar-Dasar Desain Komunikasi Visual Semester 2 (Buku Siswa Kelas X SMK)",
+        "penerbit": "Kemendikbudristek",
+        "tahun": 2022,
+        "halaman": 184
+      },
+      {
+        "kode": "SUP",
+        "nama": "Instrumen Supervisi Akademik Kurikulum Merdeka dengan Pendekatan Deep Learning",
+        "keterangan": "Dokumen sekolah - dasar indikator perencanaan, pelaksanaan, 5C deep learning, asesmen, refleksi"
+      }
+    ]
+  },
+  "minggu": [
+    {
+      "minggu": 19,
+      "semester": 2,
+      "tema": "Pengertian, Sejarah, dan Peran Tipografi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 1 Tipografi",
+          "subbab": "A. Sejarah Tipografi + B. Pengertian Tipografi",
+          "halaman": "4-6"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan tiga era perkembangan tipografi (pracetak, cetak, digital).",
+        "Menjelaskan pengertian tipografi sebagai seni cetak/tata huruf.",
+        "Menjelaskan peran tipografi dalam Desain Komunikasi Visual."
+      ],
+      "kataKunci": [
+        "tipografi",
+        "tata huruf",
+        "era pracetak",
+        "era cetak",
+        "era digital"
+      ],
+      "pemantik": [
+        "Bagaimana manusia menyampaikan pesan sebelum ada huruf cetak?",
+        "Mengapa 'hanya' pengaturan huruf disebut seni?"
+      ],
+      "materiInti": [
+        "Sejarah tipografi dibagi tiga era: perkembangan era pracetak (dimulai dari ukiran dan lukisan), era cetak, dan era digital (sesuai buku hal. 4-5).",
+        "Pengertian tipografi: seni cetak atau tata huruf, seni menyusun huruf dengan tujuan memperoleh kesan tertentu sehingga teks menyampaikan pesan kepada pembaca (hal. 6).",
+        "Pada era digital, tipografi menjadi salah satu teknik wajib bagi desainer grafis.",
+        "Peran tipografi dalam DKV: membangun keterbacaan, karakter, dan daya tarik pesan visual."
+      ],
+      "petaKonsep": [
+        "Sejarah 3 era",
+        "Pengertian tipografi",
+        "Tata huruf",
+        "Kesan font",
+        "Peran di DKV"
+      ],
+      "pertemuanSenin": {
+        "tema": "Sejarah & konsep tipografi",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: mengamati poster lama vs modern; menebak perubahan gaya huruf."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A. Sejarah Tipografi; menyusun garis waktu 3 era."
+          },
+          {
+            "tahap": "Demonstrasi & aktivitas 1.1",
+            "menit": 45,
+            "kegiatan": "Diskusi hasil Ayo Bereksplorasi 1.1: mencari jenis huruf Phoenicia, Yunani, Romawi dan memberi pendapat."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Menganalisis 3 contoh desain tipografi (poster/kemasan/majalah) dan mengaitkan dengan kesan yang ditimbulkan."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal sejarah & pengertian tipografi."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: era mana yang paling memengaruhi desain hari ini?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Peran tipografi dalam DKV",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau hasil kuis; menetapkan fokus hari."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Evolusi alat: pahat, sablon, mesin cetak, komputer."
+          },
+          {
+            "tahap": "Praktik mengamati",
+            "menit": 125,
+            "kegiatan": "Tur visual sekitar sekolah: mencatat 10 contoh tipografi (papan nama, poster, kemasan) dan menilai keterbacaan & kesan."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 40,
+            "kegiatan": "Berbagi temuan; guru mengarahkan pada peran tipografi di DKV."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Dokumentasi foto temuan ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah 3 era sejarah tipografi",
+          "Menjelaskan pengertian tipografi"
+        ],
+        "mengaplikasi": [
+          "Menyusun garis waktu",
+          "Mengamati & menilai tipografi nyata di sekitar"
+        ],
+        "merefleksi": [
+          "Menilai kepekaan saya terhadap huruf di sekitar"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-tipografi",
+        "judul": "Laboratorium Tipografi (pemilihan huruf & kesan)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 19 - Garis Waktu & Galeri Tipografi Sekitar",
+        "langkah": [
+          "Susun garis waktu 3 era tipografi",
+          "Kumpulkan 10 foto contoh tipografi",
+          "Nilai keterbacaan & kesan tiap contoh"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan garis waktu",
+            "skor4": "Akurat & lengkap dengan contoh",
+            "skor3": "Akurat",
+            "skor2": "Ada kekeliruan",
+            "skor1": "Tidak akurat"
+          },
+          {
+            "kriteria": "Kekayaan contoh",
+            "skor4": "10 contoh variatif dengan analisis tajam",
+            "skor3": "10 contoh",
+            "skor2": "5-9 contoh",
+            "skor1": "Kurang dari 5"
+          },
+          {
+            "kriteria": "Ketepatan penilaian",
+            "skor4": "Penilaian keterbacaan & kesan tepat",
+            "skor3": "Tepat",
+            "skor2": "Umum",
+            "skor1": "Tidak tepat"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Sejarah & pengertian tipografi"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan 3 era tipografi dengan contoh",
+        "Menganalisis contoh tipografi nyata"
+      ],
+      "remedial": "Ringkasan terbimbing 3 era tipografi dengan kartu kata.",
+      "pengayaan": "Menelusuri satu jenis huruf bersejarah dan membuat profil singkatnya.",
+      "refleksiSiswa": [
+        "Apa hal baru tentang huruf yang saya sadari hari ini?",
+        "Contoh tipografi favorit saya dan alasannya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Pembuka bab berbasis eksplorasi konteks nyata.",
+        "pelaksanaan": "Tur visual sekolah menumbuhkan kepekaan (mindful).",
+        "asesmen": "Formatif + rubrik galeri.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": "Aktivitas Ayo Bereksplorasi 1.1 diintegrasikan ke pertemuan Senin sesuai buku."
+    },
+    {
+      "minggu": 20,
+      "semester": 2,
+      "tema": "Jenis Huruf, Klasifikasi, dan Karakter Tipografi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 1",
+          "subbab": "C. Jenis Tipografi (+ gambar 1.11-1.14 klasifikasi huruf)",
+          "halaman": "7-8, 15-18"
+        }
+      ],
+      "tujuan": [
+        "Mengidentifikasi ciri huruf tulis (script) dan huruf latin.",
+        "Membedakan ciri Oldstyle, Modern Style, Slab Serif, dan Sans Serif.",
+        "Memilih klasifikasi huruf yang sesuai dengan karakter pesan desain."
+      ],
+      "kataKunci": [
+        "script",
+        "oldstyle",
+        "modern style",
+        "slab serif",
+        "sans serif"
+      ],
+      "pemantik": [
+        "Mengapa dua huruf berbeda ukuran sama bisa terasa berbeda 'suara'-nya?",
+        "Kapan huruf bergaya tulis tangan tepat dipakai?"
+      ],
+      "materiInti": [
+        "Teks selalu ada di tiap desain; teks terbentuk dari gabungan huruf sehingga pemilihan huruf harus sesuai desain (hal. 7).",
+        "Jenis tipografi mencakup huruf tulis/latin (script) dan kelompok huruf cetak.",
+        "Klasifikasi & ciri: Oldstyle (gambar 1.11), Modern Style (1.12), Slab Serif (1.13), Sans Serif (1.14).",
+        "Karakter huruf memengaruhi kesan desain (gambar 1.2): serius, ramah, tegas, santai."
+      ],
+      "petaKonsep": [
+        "Script",
+        "Oldstyle",
+        "Modern Style",
+        "Slab Serif",
+        "Sans Serif",
+        "Karakter/kesan"
+      ],
+      "pertemuanSenin": {
+        "tema": "Mengenal klasifikasi huruf",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menebak 'mood' 4 contoh poster dari bentuk hurufnya."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca C. Jenis Tipografi dan ciri gambar 1.11-1.14; mengisi tabel ciri."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru memperlihatkan perbandingan serif/sans serif pada layar & cetak."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Klasifikasi 20 contoh huruf ke 4 kelompok dengan alasan."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 8 soal klasifikasi huruf."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: kelompok huruf favorit dan alasannya."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Memilih huruf sesuai karakter pesan",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Mengingat temuan klasifikasi; menyiapkan sesi pemilihan."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Kaitkan karakter huruf dengan pesan: ajakan, peringatan, acara, produk."
+          },
+          {
+            "tahap": "Praktik pemilihan",
+            "menit": 130,
+            "kegiatan": "Kelompok memilih & membenarkan pemilihan 3 pasang (pesan-huruf) untuk konteks berbeda; menuliskan alasan."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 40,
+            "kegiatan": "Presentasi pilihan; kelas menilai kesesuaian."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah ciri 4 klasifikasi huruf",
+          "Menganalisis karakter/kesan huruf"
+        ],
+        "mengaplikasi": [
+          "Mengklasifikasi contoh huruf",
+          "Memilih huruf sesuai pesan"
+        ],
+        "merefleksi": [
+          "Menilai kemampuan saya memilih huruf"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-tipografi",
+        "judul": "Laboratorium Tipografi (pemilihan jenis huruf & kesan)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 20 - Klasifikasi & Pemilihan Huruf",
+        "langkah": [
+          "Isi tabel ciri 4 klasifikasi",
+          "Klasifikasi 20 contoh",
+          "Pilih 3 pasang huruf-pesan dengan alasan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan klasifikasi",
+            "skor4": "Benar >18 dari 20 dengan alasan",
+            "skor3": "Benar 15-18",
+            "skor2": "Benar 10-14",
+            "skor1": "<10 benar"
+          },
+          {
+            "kriteria": "Kelogisan pemilihan",
+            "skor4": "Alasan kuat berbasis karakter huruf",
+            "skor3": "Beralasan",
+            "skor2": "Lemah",
+            "skor1": "Tanpa alasan"
+          },
+          {
+            "kriteria": "Kerapian dokumentasi",
+            "skor4": "Rapi, mudah dibaca",
+            "skor3": "Rapi",
+            "skor2": "Kurang rapi",
+            "skor1": "Tidak rapi"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Jenis & klasifikasi huruf"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Mengklasifikasi huruf dengan benar minimal 15 dari 20",
+        "Memilih huruf sesuai karakter pesan dengan alasan"
+      ],
+      "remedial": "Latihan klasifikasi 10 contoh dengan panduan ciri visual.",
+      "pengayaan": "Membuat 'kamus mood huruf': 10 huruf + kata sifat yang mewakilinya.",
+      "refleksiSiswa": [
+        "Kesalahan klasifikasi saya dan cara memperbaikinya?",
+        "Huruf jenis apa yang cocok untuk karya saya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Latihan klasifikasi terukur.",
+        "pelaksanaan": "Aktivitas pemilihan mendorong berpikir kreatif.",
+        "asesmen": "Kuis objektif + rubrik pemilihan.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": "Ciri klasifikasi merujuk gambar 1.11-1.14 (hal. 15-18); urutan mengikuti alur bab meski gambar berada setelah pembahasan anatomi."
+    },
+    {
+      "minggu": 21,
+      "semester": 2,
+      "tema": "Anatomi Huruf dan Istilah Tipografi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 1",
+          "subbab": "D. Fungsi, Anatomi, Prinsip, Lingkup Huruf, dan Layout dalam Tipografi (bagian fungsi & anatomi)",
+          "halaman": "9-13"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan fungsi tipografi dalam perancangan DKV.",
+        "Mengidentifikasi bagian-bagian anatomi huruf (baseline, stem, ascender, descender, lowercase, uppercase, ear, shoulder).",
+        "Menggunakan istilah anatomi huruf secara tepat."
+      ],
+      "kataKunci": [
+        "fungsi tipografi",
+        "baseline",
+        "stem",
+        "ascender",
+        "descender",
+        "lowercase",
+        "uppercase",
+        "ear",
+        "shoulder"
+      ],
+      "pemantik": [
+        "Kenapa huruf 'g' punya ekor di bawah garis?",
+        "Apa yang terjadi bila huruf kehilangan 'garis dasarnya'?"
+      ],
+      "materiInti": [
+        "Fungsi tipografi dalam perancangan & proses produksi DKV (hal. 9).",
+        "Anatomi huruf: baseline (gambar 1.3), stem (1.4), ascender & descender (1.5), lowercase & uppercase (1.6), ear & shoulder (1.7).",
+        "Setiap bagian huruf memengaruhi keterbacaan dan karakter.",
+        "Istilah dipakai untuk berkomunikasi profesional antar-desainer."
+      ],
+      "petaKonsep": [
+        "Fungsi tipografi",
+        "Baseline",
+        "Stem",
+        "Ascender-Descender",
+        "Lowercase-Uppercase",
+        "Ear-Shoulder"
+      ],
+      "pertemuanSenin": {
+        "tema": "Fungsi tipografi & anatomi huruf",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: membedah huruf besar 'R' dan 'g' di papan tulis."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca bagian fungsi & anatomi; melabeli gambar anatomi huruf (1.3-1.7)."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru menggambar anatomi huruf besar di papan; siswa menandai bagian."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan melabeli 6 huruf berbeda (A, E, g, y, R, T) dengan istilah anatomi."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis mencocokkan istilah-anatomi."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: istilah yang paling sulit diingat + cara menghafalnya."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik: membaca anatomi pada karya",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau latihan; menyiapkan kartu huruf."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Menghubungkan anatomi dengan keterbacaan pada teks panjang."
+          },
+          {
+            "tahap": "Praktik mandiri",
+            "menit": 130,
+            "kegiatan": "Membuat poster anatomi satu huruf pilihan: huruf besar + 8 label istilah + penjelasan singkat (karya manual/digital)."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Klinik & pajang karya",
+            "menit": 40,
+            "kegiatan": "Karya dipajang; saling memeriksa ketepatan label."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah poster anatomi ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah anatomi huruf dari gambar buku",
+          "Menjelaskan fungsi tipografi"
+        ],
+        "mengaplikasi": [
+          "Melabeli huruf dengan istilah anatomi",
+          "Membuat poster anatomi huruf"
+        ],
+        "merefleksi": [
+          "Menilai penguasaan istilah saya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-tipografi",
+        "judul": "Laboratorium Tipografi (anatomi & label interaktif)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 21 - Poster Anatomi Huruf",
+        "langkah": [
+          "Pilih 1 huruf",
+          "Gambar/unduh huruf besar",
+          "Labeli 8 istilah anatomi",
+          "Tulis fungsi tiap bagian"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan label anatomi",
+            "skor4": "8 label benar dengan penjelasan",
+            "skor3": "8 label benar",
+            "skor2": "5-7 benar",
+            "skor1": "<5 benar"
+          },
+          {
+            "kriteria": "Kejelasan visual",
+            "skor4": "Jelas, rapi, mudah dipahami",
+            "skor3": "Jelas",
+            "skor2": "Kurang jelas",
+            "skor1": "Tidak jelas"
+          },
+          {
+            "kriteria": "Kelengkapan penjelasan fungsi",
+            "skor4": "Fungsi dijelaskan dengan contoh",
+            "skor3": "Dijelaskan",
+            "skor2": "Singkat",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-mencocokkan",
+        "jumlahSoal": 10,
+        "cakupan": "Anatomi huruf & fungsi tipografi"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Melabeli 8 bagian anatomi dengan benar",
+        "Menjelaskan fungsi tipografi dalam DKV"
+      ],
+      "remedial": "Melabeli 4 bagian anatomi utama dengan pendampingan.",
+      "pengayaan": "Menganalisis anatomi pada logo terkenal (mis. huruf 'a' pada logo).",
+      "refleksiSiswa": [
+        "Bagian anatomi yang paling menarik bagi saya?",
+        "Bagaimana istilah ini membantu saya bekerja nanti?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Konten faktual disampaikan dengan aktivitas melabeli.",
+        "pelaksanaan": "Belajar visual & taktil (menggambar).",
+        "asesmen": "Kuis mencocokkan + rubrik poster.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 22,
+      "semester": 2,
+      "tema": "Fungsi Tipografi, Hierarki, dan Penerapan dalam Tata Letak",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 1",
+          "subbab": "D. ... Prinsip, Lingkup Huruf, dan Layout (legibility, readability, visibility, headline)",
+          "halaman": "13-21"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan legibility, readability, dan visibility.",
+        "Menerapkan penyusunan headline yang benar (awal kapital, semua kapital, menggantung, penegasan).",
+        "Menghindari kesalahan pemotongan headline pada tata letak."
+      ],
+      "kataKunci": [
+        "legibility",
+        "readability",
+        "visibility",
+        "headline",
+        "tata letak"
+      ],
+      "pemantik": [
+        "Apa bedanya teks yang 'bisa dibaca' dan teks yang 'nyaman dibaca'?",
+        "Pernah lihat headline yang terpotong aneh? Apa efeknya?"
+      ],
+      "materiInti": [
+        "Legibility (gambar 1.8): kualitas huruf dapat dibedakan satu dari lainnya; Readability (1.9): kenyamanan membaca; Visibility (1.10): keterlihatan dari jarak.",
+        "Headline: penulisan dengan huruf awal kapital (1.15), seluruh huruf kapital (1.16), menggantung (1.17), dan pemberian kesan penegasan (1.18).",
+        "Pemotongan headline yang salah (1.19) vs yang benar (1.20).",
+        "Lingkup huruf & layout: hierarki teks, pemisah kata, panjang baris."
+      ],
+      "petaKonsep": [
+        "Legibility",
+        "Readability",
+        "Visibility",
+        "Headline",
+        "Layout & hierarki"
+      ],
+      "pertemuanSenin": {
+        "tema": "Legibility, readability, visibility & headline",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: uji baca 3 contoh teks dari jarak dekat, sedang, jauh."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca bagian prinsip; membandingkan 1.8-1.10 dan 1.15-1.20."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru memperagakan pemotongan headline salah vs benar."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Memperbaiki 5 contoh headline bermasalah (terpotong, terlalu panjang, kontras lemah)."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 8 soal prinsip keterbacaan."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: kesalahan tipografi yang paling sering saya buat."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik tata letak: hierarki teks",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau perbaikan headline; menyiapkan konten latihan."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Hierarki: headline-subheadline-tubuh-keterangan."
+          },
+          {
+            "tahap": "Praktik layout",
+            "menit": 130,
+            "kegiatan": "Menyusun ulang 1 poster sederhana (judul, isi, penutup) dengan hierarki benar; boleh manual/digital."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Uji baca jauh & umpan balik",
+            "menit": 40,
+            "kegiatan": "Uji visibility karya dari berbagai jarak; catat temuan."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah karya + catatan perbaikan ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah 3 prinsip keterbacaan",
+          "Menganalisis contoh headline"
+        ],
+        "mengaplikasi": [
+          "Memperbaiki headline bermasalah",
+          "Menyusun hierarki teks poster"
+        ],
+        "merefleksi": [
+          "Menilai mutu tipografi karya sendiri"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-tipografi",
+        "judul": "Laboratorium Tipografi (hierarki & keterbacaan)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 22 - Hierarki Teks & Perbaikan Headline",
+        "langkah": [
+          "Perbaiki 5 headline bermasalah",
+          "Susun poster berhierarki",
+          "Uji baca dari 3 jarak",
+          "Catat & terapkan perbaikan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan prinsip keterbacaan",
+            "skor4": "Perbaikan tepat & beralasan prinsip",
+            "skor3": "Perbaikan tepat",
+            "skor2": "Sebagian tepat",
+            "skor1": "Tidak tepat"
+          },
+          {
+            "kriteria": "Kualitas hierarki",
+            "skor4": "Hierarki jelas; mata mudah menelusuri",
+            "skor3": "Hierarki terbaca",
+            "skor2": "Kabur",
+            "skor1": "Tidak ada hierarki"
+          },
+          {
+            "kriteria": "Dokumentasi uji baca",
+            "skor4": "Data uji & perbaikan lengkap",
+            "skor3": "Lengkap",
+            "skor2": "Sebagian",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Legibility/readability/visibility & headline"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan perbedaan 3 prinsip keterbacaan",
+        "Menghasilkan poster berhierarki yang lulus uji baca"
+      ],
+      "remedial": "Fokus memperbaiki 2 headline dengan panduan.",
+      "pengayaan": "Menganalisis hierarki 1 surat kabar/majalah.",
+      "refleksiSiswa": [
+        "Hierarki karya saya sudah jelas?",
+        "Apa yang masih membuat pembaca terdistraksi?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Latihan memperbaiki (revisi) melatih berpikir kritis.",
+        "pelaksanaan": "Uji baca nyata memberi umpan balik langsung.",
+        "asesmen": "Rubrik proses + kuis.",
+        "deepLearning": "critical-thinking"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 23,
+      "semester": 2,
+      "tema": "Leading, Kerning, Tracking, Keterbacaan, dan Keterlihatan",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 1",
+          "subbab": "E. Menjelaskan Pengertian Leading, Kerning, dan Tracking",
+          "halaman": "22-25"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan pengertian leading, kerning, dan tracking.",
+        "Mencontohkan kondisi spasi huruf yang perlu pengaturan khusus (gambar 1.24).",
+        "Mengatur spasi teks untuk meningkatkan keterbacaan."
+      ],
+      "kataKunci": [
+        "leading",
+        "kerning",
+        "tracking",
+        "spasi",
+        "keterbacaan"
+      ],
+      "pemantik": [
+        "Mengapa dua huruf tertentu terlihat 'berpelukan'?",
+        "Apa pengaruh jarak antarbaris pada kenyamanan membaca?"
+      ],
+      "materiInti": [
+        "Leading (gambar 1.21): jarak antarbaris; contoh penerapan pada poster kemerdekaan (1.22).",
+        "Kerning (1.23): penyesuaian jarak antarhuruf; beberapa pasangan huruf perlu diatur khusus (1.24).",
+        "Tracking (1.25): pengaturan jarak huruf secara keseluruhan pada rentang teks.",
+        "Pengaruh ketiganya pada keterbacaan & estetika teks."
+      ],
+      "petaKonsep": [
+        "Leading",
+        "Kerning",
+        "Tracking",
+        "Pasangan huruf khusus",
+        "Dampak pada keterbacaan"
+      ],
+      "pertemuanSenin": {
+        "tema": "Memahami tiga pengatur spasi",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menilai 3 cuplikan teks dengan spasi berbeda, memilih yang paling nyaman."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca E; mencatat definisi leading/kerning/tracking dari buku."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mendemonstrasikan perubahan leading & tracking pada teks contoh."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan manual: menyalin 1 paragraf, menandai pasangan huruf yang butuh kerning khusus."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal leading/kerning/tracking."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: spasi seperti apa yang paling nyaman dibaca?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik pengaturan spasi",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau latihan; menentukan teks yang akan ditata."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Rentang spasi yang sehat: terlalu rapat vs terlalu renggang."
+          },
+          {
+            "tahap": "Praktik pengaturan",
+            "menit": 130,
+            "kegiatan": "Menata ulang satu teks poster/undangan: atur leading, perbaiki kerning 3 pasang huruf, sesuaikan tracking; cetak/lihat hasil."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Perbandingan hasil",
+            "menit": 40,
+            "kegiatan": "Bandingkan sebelum-sesudah; beri skor kenyamanan bersama."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah sebelum-sesudah ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah definisi 3 istilah spasi",
+          "Menganalisis gambar 1.21-1.25"
+        ],
+        "mengaplikasi": [
+          "Menandai pasangan huruf kerning khusus",
+          "Menata spasi teks"
+        ],
+        "merefleksi": [
+          "Menilai ketelitian saya dalam detail tipografi"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-tipografi",
+        "judul": "Laboratorium Tipografi (pengatur leading/kerning/tracking interaktif)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 23 - Spasi yang Nyaman Dibaca",
+        "langkah": [
+          "Atur leading 1 paragraf",
+          "Perbaiki kerning 3 pasang huruf",
+          "Sesuaikan tracking judul",
+          "Dokumentasikan sebelum-sesudah"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan istilah & penerapan",
+            "skor4": "Penerapan tepat sesuai definisi buku",
+            "skor3": "Tepat",
+            "skor2": "Ada kekeliruan",
+            "skor1": "Tidak tepat"
+          },
+          {
+            "kriteria": "Peningkatan keterbacaan",
+            "skor4": "Jelas lebih nyaman dibaca + alasan",
+            "skor3": "Lebih nyaman",
+            "skor2": "Sedikit",
+            "skor1": "Tidak berubah"
+          },
+          {
+            "kriteria": "Ketelitian detail",
+            "skor4": "Detail rapi, konsisten",
+            "skor3": "Rapi",
+            "skor2": "Kurang teliti",
+            "skor1": "Tidak teliti"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Leading, kerning, tracking"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan perbedaan 3 istilah dengan contoh",
+        "Menghasilkan teks dengan spasi nyaman dibaca"
+      ],
+      "remedial": "Latihan leading & tracking saja dengan contoh terbimbing.",
+      "pengayaan": "Mengumpulkan 5 contoh desain dengan kerning buruk & memperbaikinya.",
+      "refleksiSiswa": [
+        "Detail spasi mana yang paling sulit saya lihat?",
+        "Bagaimana melatih ketelitian saya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Definisi mengikuti buku; latihan berbasis praksis.",
+        "pelaksanaan": "Perbandingan sebelum-sesudah memudahkan refleksi.",
+        "asesmen": "Rubrik + kuis.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 24,
+      "semester": 2,
+      "tema": "Proyek Desain Berbasis Tipografi",
+      "statusSumber": "sebagian",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 1",
+          "subbab": "Rangkuman, Asesmen, Uji Kompetensi, Pengayaan, Refleksi (hal. 26-30)",
+          "halaman": "26-30",
+          "ket": "Buku menyediakan asesmen & uji kompetensi; proyek desain tipografi adalah usulan operasional guru"
+        }
+      ],
+      "tujuan": [
+        "Menerapkan pengetahuan tipografi (jenis, anatomi, prinsip, spasi) pada satu karya desain.",
+        "Menjelaskan pertanggungjawaban pilihan tipografi dalam karya.",
+        "Menyelesaikan asesmen & uji kompetensi Bab 1."
+      ],
+      "kataKunci": [
+        "tipografi",
+        "jenis huruf",
+        "karya desain",
+        "uji kompetensi"
+      ],
+      "pemantik": [
+        "Jika tipografi adalah 'suara' dari desain, seperti apa suara karya saya?",
+        "Bagaimana membuktikan pilihan huruf saya bukan sekadar selera?"
+      ],
+      "materiInti": [
+        "Penerapan keterpaduan: jenis huruf, anatomi, hierarki, spasi, prinsip keterbacaan.",
+        "Menyusun karya berbasis tipografi (poster/undangan/kartu ucapan) dengan alasan desain.",
+        "Uji kompetensi Bab 1 sebagai asesmen bab (buku hal. 28-29).",
+        "Pelaporan proses: latar masalah, pilihan tipografi, evaluasi."
+      ],
+      "petaKonsep": [
+        "Ringkasan Bab 1",
+        "Proyek tipografi",
+        "Pertanggungjawaban desain",
+        "Uji kompetensi"
+      ],
+      "pertemuanSenin": {
+        "tema": "Perancangan karya tipografi",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Membahas rangkuman Bab 1 & brief proyek karya tipografi."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Rambu-rambu karya: pesan jelas, tipografi terarah, rapi."
+          },
+          {
+            "tahap": "Perancangan",
+            "menit": 135,
+            "kegiatan": "Menyusun konsep karya: pesan, target pembaca, pilihan 2 huruf, tata letak kasar."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Pengerjaan & konsultasi",
+            "menit": 40,
+            "kegiatan": "Pengerjaan karya; konsultasi cepat per siswa."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 15,
+            "kegiatan": "Ceklis progres karya."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Penyelesaian, presentasi, & asesmen Bab 1",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Finalisasi karya & ceklis mandiri."
+          },
+          {
+            "tahap": "Penyelesaian karya",
+            "menit": 100,
+            "kegiatan": "Menyelesaikan karya; memastikan prinsip keterbacaan dan spasi diterapkan."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi karya",
+            "menit": 60,
+            "kegiatan": "Presentasi: pesan, pilihan huruf, alasan, evaluasi diri."
+          },
+          {
+            "tahap": "Uji kompetensi Bab 1",
+            "menit": 45,
+            "kegiatan": "Mengerjakan Uji Kompetensi (buku hal. 28-29) secara mandiri."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Dokumentasi karya & refleksi ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Meninjau rangkuman Bab 1",
+          "Menganalisis kebutuhan pesan"
+        ],
+        "mengaplikasi": [
+          "Merancang & membuat karya tipografi",
+          "Mempresentasikan pertanggungjawaban desain"
+        ],
+        "merefleksi": [
+          "Menilai perkembangan kompetensi tipografi saya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-tipografi",
+        "judul": "Laboratorium Tipografi (studio karya tipografi)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 24 - Karya Tipografi & Lembar Pertanggungjawaban",
+        "langkah": [
+          "Tetapkan pesan & pembaca",
+          "Rancang tata letak",
+          "Pilih huruf dengan alasan",
+          "Presentasikan & isi lembar evaluasi diri"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Kualitas karya",
+            "skor4": "Pesan kuat, tipografi terarah, rapi",
+            "skor3": "Pesan jelas, cukup rapi",
+            "skor2": "Pesan kabur",
+            "skor1": "Belum layak"
+          },
+          {
+            "kriteria": "Pertanggungjawaban desain",
+            "skor4": "Alasan berbasis prinsip tipografi",
+            "skor3": "Beralasan",
+            "skor2": "Lemah",
+            "skor1": "Tanpa alasan"
+          },
+          {
+            "kriteria": "Kelengkapan proses",
+            "skor4": "Sketsa-tata letak-final terdokumentasi",
+            "skor3": "Terdokumentasi",
+            "skor2": "Sebagian",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 25
+      },
+      "asesmenFormatif": {
+        "bentuk": "uji-kompetensi-ebab-buku",
+        "jumlahSoal": 10,
+        "cakupan": "Uji Kompetensi Bab 1 Tipografi (buku hal. 28-29)"
+      },
+      "proyek": {
+        "judul": "Proyek: Karya Desain Berbasis Tipografi",
+        "jenis": "individu",
+        "luaran": "Poster/undangan/kartu dengan lembar pertanggungjawaban",
+        "tenggat": "Minggu 24 (selesai)"
+      },
+      "kriteriaKeberhasilan": [
+        "Karya selesai dengan alasan tipografi yang jelas",
+        "Uji kompetensi Bab 1 selesai"
+      ],
+      "remedial": "Penyederhanaan karya (1 pesan, 2 huruf) dengan pendampingan ekstra.",
+      "pengayaan": "Mendesain varian kedua untuk target pembaca yang berbeda.",
+      "refleksiSiswa": [
+        "Pilihan tipografi saya sudah tepat untuk pembacanya?",
+        "Apa yang akan saya perbaiki jika ada waktu tambahan?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Proyek menutup bab dengan bukti belajar.",
+        "pelaksanaan": "Konsultasi individual memberi diferensiasi.",
+        "asesmen": "Rubrik karya + uji kompetensi buku.",
+        "deepLearning": "meaningful-joyful"
+      },
+      "catatanVerifikasi": "Proyek desain tipografi adalah usulan guru (buku hanya menyediakan refleksi/asesmen); guru dapat menggantinya dengan tugas pengayaan buku hal. 29."
+    },
+    {
+      "minggu": 25,
+      "semester": 2,
+      "tema": "Pengenalan Kamera, Bagian Kamera, dan Perlengkapan Fotografi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 2 Fotografi Dasar",
+          "subbab": "A. Peralatan Kamera Fotografi + B. Bagian-Bagian Kamera DSLR",
+          "halaman": "34-48"
+        }
+      ],
+      "tujuan": [
+        "Membedakan jenis-jenis kamera dan kegunaannya.",
+        "Mengidentifikasi bagian-bagian kamera DSLR (bawah, depan, atas, belakang) dan fungsinya.",
+        "Menjelaskan fungsi dial mode, viewfinder, dan pengendali cepat (quick control)."
+      ],
+      "kataKunci": [
+        "kamera saku",
+        "smartphone",
+        "bridge",
+        "mirrorless",
+        "DSLR",
+        "dial mode",
+        "viewfinder"
+      ],
+      "pemantik": [
+        "Kamera apa yang kamu pakai sehari-hari dan apa keterbatasannya?",
+        "Tombol apa saja yang ada di kamera DSLR dan untuk apa?"
+      ],
+      "materiInti": [
+        "Jenis kamera yang dibahas buku: kamera saku (2.2), kamera smartphone (2.3), kamera bridge (2.4), mirrorless (2.5), hingga DSLR (2.7).",
+        "Bagian bawah & depan kamera DSLR (2.8) dan bagian atas & belakang (2.9) beserta fungsi tiap bagian.",
+        "Tombol dial mode (2.10): memilih mode pemotretan.",
+        "Tampilan viewfinder (2.11) dan pengendali cepat/quick control (2.12): membaca & mengubah pengaturan."
+      ],
+      "petaKonsep": [
+        "Jenis kamera",
+        "Bagian DSLR",
+        "Dial mode",
+        "Viewfinder",
+        "Quick control"
+      ],
+      "pertemuanSenin": {
+        "tema": "Jenis kamera & bagian-bagian DSLR",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: membandingkan foto ponsel dan foto kamera profesional."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A & B; mencatat jenis kamera dan bagian DSLR dengan fungsinya."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mengenalkan kamera DSLR nyata: siswa menyebut nama bagian saat ditunjuk."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Berpasangan menjelajahi kamera: temukan & jelaskan 10 bagian, isi lembar identifikasi."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 10 soal bagian kamera."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: bagian mana yang paling asing bagi saya?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik pengenalan kontrol kamera",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau identifikasi; menyiapkan sesi kontrol kamera."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Dial mode, viewfinder, quick control: fungsi & kapan dipakai."
+          },
+          {
+            "tahap": "Praktik terstruktur",
+            "menit": 130,
+            "kegiatan": "Rotasi stasiun: tiap kelompok mempraktikkan menyalakan kamera, memasang baterai/kartu memori, membaca viewfinder, mengubah pengaturan via quick control (tanpa memotret tajam/dengan aman)."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Cek pemahaman",
+            "menit": 40,
+            "kegiatan": "Permainan 'tebak bagian & fungsi' secara cepat."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Catatan pengenalan kamera diunggah ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah jenis kamera & bagian DSLR",
+          "Membaca fungsi dial/viewfinder/quick control"
+        ],
+        "mengaplikasi": [
+          "Menjelajahi kamera nyata",
+          "Mempraktikkan pengaturan dasar kamera"
+        ],
+        "merefleksi": [
+          "Menilai kesiapan saya mengoperasikan kamera"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-fotografi",
+        "judul": "Laboratorium Fotografi (model kamera & bagian-bagian interaktif)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 25 - Identifikasi Kamera & Bagiannya",
+        "langkah": [
+          "Daftar jenis kamera + kegunaan",
+          "Identifikasi 10 bagian DSLR",
+          "Praktikkan pengaturan dasar",
+          "Catat fungsi dial & quick control"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan identifikasi",
+            "skor4": "10 bagian benar + fungsi tepat",
+            "skor3": "8-10 benar",
+            "skor2": "5-7 benar",
+            "skor1": "<5 benar"
+          },
+          {
+            "kriteria": "Keterampilan pengoperasian",
+            "skor4": "Mandiri, aman, runut",
+            "skor3": "Runut dengan sedikit arahan",
+            "skor2": "Perlu banyak arahan",
+            "skor1": "Belum bisa"
+          },
+          {
+            "kriteria": "Keselamatan & perawatan alat",
+            "skor4": "Pegang-simpan sesuai prosedur",
+            "skor3": "Sesuai prosedur",
+            "skor2": "Perlu diingatkan",
+            "skor1": "Berisiko"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 10,
+        "cakupan": "Jenis kamera & bagian DSLR"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menyebutkan 10 bagian kamera beserta fungsi",
+        "Mengoperasikan pengaturan dasar secara aman"
+      ],
+      "remedial": "Pendampingan langsung mengenali 5 bagian utama kamera.",
+      "pengayaan": "Membandingkan spesifikasi 3 jenis kamera dari sumber katalog.",
+      "refleksiSiswa": [
+        "Bagian kamera yang paling ingin saya kuasai?",
+        "Kesalahan penanganan apa yang harus saya hindari?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Pengenalan alat nyata, bukan hanya gambar buku.",
+        "pelaksanaan": "Rotasi stasiun mengaktifkan semua siswa.",
+        "asesmen": "Kuis + rubrik praktik.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 26,
+      "semester": 2,
+      "tema": "Segitiga Eksposur: Aperture, Shutter Speed, dan ISO",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 2",
+          "subbab": "C. Segitiga Exposure Kamera DSLR",
+          "halaman": "49-52"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan pengertian diafragma/aperture, shutter speed, dan ISO.",
+        "Menjelaskan hubungan ketiganya dalam menentukan eksposur.",
+        "Memprediksi perubahan hasil foto ketika salah satu unsur diubah."
+      ],
+      "kataKunci": [
+        "segitiga exposure",
+        "diafragma",
+        "shutter speed",
+        "ISO"
+      ],
+      "pemantik": [
+        "Mengapa foto bisa terlalu gelap atau terlalu terang?",
+        "Unsur mana yang membuat foto 'beku' dan mana yang membuat 'jejak cahaya'?"
+      ],
+      "materiInti": [
+        "Kamera saku/kompak sering mengatur eksposur otomatis; DSLR memungkinkan pengaturan manual (hal. 49).",
+        "Segitiga exposure (gambar 2.13): keterkaitan diafragma, shutter speed, dan ISO.",
+        "Diafragma mengatur bukaan cahaya; shutter speed mengatur durasi cahaya masuk; ISO mengatur sensitivitas sensor (gambar 2.14).",
+        "Perubahan satu unsur menuntut penyesuaian unsur lain (kekompensasian)."
+      ],
+      "petaKonsep": [
+        "Segitiga exposure",
+        "Diafragma",
+        "Shutter speed",
+        "ISO",
+        "Kompensasi"
+      ],
+      "pertemuanSenin": {
+        "tema": "Konsep segitiga eksposur",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menilai 3 foto (gelap, tepat, terang) dan menebak penyebabnya."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca C. Segitiga Exposure; mencatat definisi & analogi tiap unsur."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mendemonstrasikan perubahan diafragma & shutter pada kamera (atau tampilan simulasi)."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan prediksi: 'jika ISO dinaikkan & shutter dipercepat, apa yang terjadi?' (kartu skenario)."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 8 soal segitiga eksposur."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: unsur mana yang paling sulit dipahami?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik/simulasi memengaruhi hasil foto",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau kuis; menyiapkan sesi eksperimen."
+          },
+          {
+            "tahap": "Simulasi interaktif",
+            "menit": 60,
+            "kegiatan": "Menjalankan Simulasi Fotografi: mengubah aperture, shutter speed, ISO pada model virtual dan mengamati hasilnya."
+          },
+          {
+            "tahap": "Eksperimen terkendali",
+            "menit": 105,
+            "kegiatan": "Praktik nyata: memotret objek sama dengan 3 kombinasi eksposur berbeda; mencatat setelan pada lembar data."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Analisis hasil",
+            "menit": 45,
+            "kegiatan": "Membandingkan hasil foto & setelan; menyimpulkan hubungan unsur."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah 3 foto + tabel setelan ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah teori segitiga eksposur",
+          "Membaca tampilan viewfinder (2.14)"
+        ],
+        "mengaplikasi": [
+          "Menjalankan simulasi eksposur",
+          "Melakukan eksperimen 3 kombinasi setelan"
+        ],
+        "merefleksi": [
+          "Menilai pemahaman saya atas hubungan 3 unsur"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-fotografi",
+        "judul": "Laboratorium Fotografi (simulasi aperture-shutter-ISO)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 26 - Eksperimen Segitiga Eksposur",
+        "langkah": [
+          "Tentukan objek tetap",
+          "Ambil 3 foto dengan kombinasi berbeda",
+          "Catat setelan tiap foto",
+          "Simpulkan pengaruhnya"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan konsep",
+            "skor4": "Simpulan tepat & beralasan teori",
+            "skor3": "Tepat",
+            "skor2": "Sebagian tepat",
+            "skor1": "Keliru"
+          },
+          {
+            "kriteria": "Kelengkapan data",
+            "skor4": "Semua setelan tercatat rapi",
+            "skor3": "Tercatat",
+            "skor2": "Sebagian",
+            "skor1": "Tidak ada"
+          },
+          {
+            "kriteria": "Kualitas foto",
+            "skor4": "Komposisi & fokus terjaga",
+            "skor3": "Cukup tajam",
+            "skor2": "Banyak gagal fokus",
+            "skor1": "Tidak layak"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Diafragma, shutter speed, ISO"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan hubungan 3 unsur eksposur",
+        "Memprediksi hasil dari perubahan setelan"
+      ],
+      "remedial": "Simulasi terpandu 2 skenario sederhana.",
+      "pengayaan": "Mencoba teknik long exposure sederhana dan menuliskan hasilnya.",
+      "refleksiSiswa": [
+        "Pemahaman awal saya sebelum-sesudah praktik?",
+        "Setelan yang paling sering saya gunakan dan mengapa?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Teori langsung diuji lewat eksperimen.",
+        "pelaksanaan": "Simulasi sebelum praktik nyata (joyful).",
+        "asesmen": "Rubrik data + kuis.",
+        "deepLearning": "critical-thinking"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 27,
+      "semester": 2,
+      "tema": "Jenis dan Penerapan Fotografi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 2",
+          "subbab": "D. Penggunaan Kamera DSLR + E. Alat Penunjang Fotografi Digital Indoor dan Outdoor + F. Jenis-Jenis Fotografi",
+          "halaman": "53-64"
+        }
+      ],
+      "tujuan": [
+        "Mengikuti langkah penggunaan kamera DSLR sesuai buku.",
+        "Mengidentifikasi alat penunjang fotografi indoor dan outdoor.",
+        "Membedakan 7 jenis fotografi dan konteks penggunaannya."
+      ],
+      "kataKunci": [
+        "penggunaan DSLR",
+        "tripod",
+        "slider",
+        "tudung lensa",
+        "potret",
+        "still life",
+        "fotografi jalanan"
+      ],
+      "pemantik": [
+        "Apa yang membuat foto makanan terlihat menggiurkan?",
+        "Kapan fotografer perlu tripod?"
+      ],
+      "materiInti": [
+        "Langkah penggunaan DSLR (hal. 53): membuka penutup lensa, memasang baterai, menyiapkan kartu memori, dan seterusnya mengikuti alur buku.",
+        "Alat penunjang indoor/outdoor (hal. 55-57): antara lain tripod, slider, dan tudung lensa; tudung lensa mencegah flare sehingga saturasi & kontras terjaga.",
+        "Jenis fotografi (hal. 58-64): potret (2.15), makanan (2.16), still life (2.17), jalanan (2.18), aksi (2.19), periklanan (2.20), alam/pemandangan (2.21).",
+        "Setiap jenis menuntut pendekatan peralatan & pengaturan berbeda."
+      ],
+      "petaKonsep": [
+        "Langkah penggunaan DSLR",
+        "Alat penunjang",
+        "7 jenis fotografi",
+        "Konteks penerapan"
+      ],
+      "pertemuanSenin": {
+        "tema": "Langkah penggunaan DSLR & alat penunjang",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menyusun urutan langkah pemotretan dari kartu langkah acak."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca D & E; mencatat langkah baku dan alat penunjang + fungsinya."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mendemonstrasikan rangkaian penggunaan kamera dari awal."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Praktik rangkaian langkah penggunaan DSLR; berpasangan saling mengecek dengan ceklis."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 8 soal langkah & alat penunjang."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: langkah mana yang sering terlupa?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Jenis fotografi & latihan pembidikan",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Mengulas jenis fotografi lewat kuis foto cepat."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Pendekatan tiap jenis: potret, makanan, still life, jalanan, aksi, periklanan, alam."
+          },
+          {
+            "tahap": "Praktik jenis fotografi",
+            "menit": 130,
+            "kegiatan": "Stasiun mini: kelompok memotret 2 jenis berbeda (mis. still life & potret) dengan menyesuaikan setelan & penunjang."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Seleksi & diskusi",
+            "menit": 40,
+            "kegiatan": "Pilih 3 foto terbaik tiap kelompok; diskusikan kesesuaian pendekatan jenis."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah foto terpilih ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah langkah penggunaan DSLR",
+          "Mengidentifikasi alat penunjang & jenis fotografi"
+        ],
+        "mengaplikasi": [
+          "Mempraktikkan langkah baku",
+          "Memotret 2 jenis fotografi"
+        ],
+        "merefleksi": [
+          "Menilai jenis fotografi yang paling sesuai minat saya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-fotografi",
+        "judul": "Laboratorium Fotografi (pilihan alat & jenis)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 27 - Dua Jenis Fotografi & Peralatannya",
+        "langkah": [
+          "Pilih 2 jenis fotografi",
+          "Siapkan alat penunjang sesuai kebutuhan",
+          "Praktikkan pemotretan",
+          "Tuliskan perbandingan hasil"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Kesesuaian peralatan",
+            "skor4": "Alat & setelan tepat untuk jenisnya",
+            "skor3": "Tepat",
+            "skor2": "Kurang tepat",
+            "skor1": "Tidak tepat"
+          },
+          {
+            "kriteria": "Kualitas hasil",
+            "skor4": "Fokus, eksposur, komposisi baik",
+            "skor3": "Layak",
+            "skor2": "Banyak kekurangan",
+            "skor1": "Tidak layak"
+          },
+          {
+            "kriteria": "Kedisiplinan langkah kerja",
+            "skor4": "Mengikuti langkah baku & aman",
+            "skor3": "Runut",
+            "skor2": "Melompat",
+            "skor1": "Tidak runut"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Penggunaan DSLR, alat penunjang, jenis fotografi"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjalankan langkah penggunaan kamera secara runut",
+        "Menghasilkan foto 2 jenis dengan pendekatan tepat"
+      ],
+      "remedial": "Pendampingan langkah baku dengan ceklis tercetak.",
+      "pengayaan": "Membuat perbandingan gaya 2 fotografer profesional.",
+      "refleksiSiswa": [
+        "Jenis fotografi apa yang paling ingin saya tekuni?",
+        "Apa kekurangan teknis foto terbaik saya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Praktik lintas jenis memberi pilihan minat siswa (diferensiasi).",
+        "pelaksanaan": "Pembelajaran berbasis stasiun.",
+        "asesmen": "Rubrik hasil + kedisiplinan langkah.",
+        "deepLearning": "joyful-meaningful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 28,
+      "semester": 2,
+      "tema": "Shot Size, Sudut Pengambilan Gambar, dan Komposisi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 2",
+          "subbab": "G. Teknik Pengambilan Gambar Berdasarkan Ukuran Gambar dan Sudut Pengambilan (Angle)",
+          "halaman": "65-73"
+        }
+      ],
+      "tujuan": [
+        "Membedakan 7 ukuran gambar: ECU, BCU, CU, MCU, MS, MLS, LS.",
+        "Membedakan sudut pengambilan: frog eye, low angle, eye level, high angle, bird eye.",
+        "Memilih ukuran & sudut sesuai pesan foto."
+      ],
+      "kataKunci": [
+        "extreme close up",
+        "close up",
+        "medium shot",
+        "long shot",
+        "angle",
+        "panning"
+      ],
+      "pemantik": [
+        "Mengapa wajah orangkadang difoto dari bawah dan kadang dari atas?",
+        "Bagaimana satu objek bisa tampak 'perkasa' atau 'lemah' dari sudut berbeda?"
+      ],
+      "materiInti": [
+        "Ukuran gambar (gambar 2.22-2.28): Extreme Close Up, Big Close Up, Close Up, Medium Close Up, Medium Shot, Medium Long Shot, Long Shot.",
+        "Sudut pengambilan (2.29): frog eye (2.30), low angle (2.31), eye level, high angle, bird eye.",
+        "Teknik panning (2.35): menggerakkan kamera berlawanan objek sehingga objek tampak beku dan latar blur.",
+        "Pemilihan ukuran & sudut menentukan fokus dan pesan foto."
+      ],
+      "petaKonsep": [
+        "Ukuran gambar",
+        "Sudut pengambilan",
+        "Komposisi",
+        "Panning",
+        "Pesan visual"
+      ],
+      "pertemuanSenin": {
+        "tema": "Mengenal ukuran gambar & angle",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menebak ukuran gambar & sudut dari 7 contoh foto."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca G; mencocokkan istilah dan gambar 2.22-2.31."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru memotret satu siswa dari 5 sudut berbeda; kelas menebak & menilai efek."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan berpasangan: 'tangkap' 7 ukuran gambar pada satu objek."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 10 soal istilah ukuran & sudut."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: ukuran/sudut yang paling sering saya lupakan."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik komposisi & panning",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau kuis; menyiapkan sesi praktik komposisi."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Dasar komposisi & kapan memakai tiap sudut untuk pesan tertentu."
+          },
+          {
+            "tahap": "Praktik terarah",
+            "menit": 125,
+            "kegiatan": "Memotret cerita mini 5 bingkai (mulai dari LS sampai ECU) dan mencoba panning bersama."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Kurasi & umpan balik",
+            "menit": 40,
+            "kegiatan": "Pilih 5 bingkai terbaik; guru menilai keragaman ukuran/sudut."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah cerita visual ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah 7 ukuran gambar & 5 sudut",
+          "Menganalisis efek sudut pada pesan"
+        ],
+        "mengaplikasi": [
+          "Latihan menangkap ukuran gambar",
+          "Memotret cerita visual 5 bingkai"
+        ],
+        "merefleksi": [
+          "Menilai kekayaan sudut pandang foto saya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-fotografi",
+        "judul": "Laboratorium Fotografi (pemilih shot size & angle)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 28 - Cerita Visual 5 Bingkai",
+        "langkah": [
+          "Tentukan objek & pesan",
+          "Susun rencana 5 bingkai (ukuran/sudut)",
+          "Praktikkan pemotretan",
+          "Kurasi & beri keterangan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Variasi ukuran & sudut",
+            "skor4": "5 bingkai variatif & tepat pesan",
+            "skor3": "Variatif",
+            "skor2": "Monoton",
+            "skor1": "Tidak variatif"
+          },
+          {
+            "kriteria": "Kualitas teknis",
+            "skor4": "Fokus & eksposur konsisten",
+            "skor3": "Baik",
+            "skor2": "Cukup",
+            "skor1": "Kurang"
+          },
+          {
+            "kriteria": "Kekuatan cerita",
+            "skor4": "Pesan tergambar utuh",
+            "skor3": "Terbaca",
+            "skor2": "Lemah",
+            "skor1": "Tidak terbaca"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-mencocokkan",
+        "jumlahSoal": 10,
+        "cakupan": "Istilah ukuran gambar & sudut"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Mengidentifikasi 7 ukuran & 5 sudut dengan benar",
+        "Menghasilkan cerita visual 5 bingkai"
+      ],
+      "remedial": "Latihan mengenali 4 ukuran & 3 sudut utama.",
+      "pengayaan": "Menganalisis ukuran/sudut pada adegan film pendek.",
+      "refleksiSiswa": [
+        "Sudut apa yang paling mendukung pesan saya?",
+        "Apa yang perlu saya latih untuk panning?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Keterampilan teknis diarahkan pada kekuatan pesan.",
+        "pelaksanaan": "Praktik lapangan aktif & kolaboratif.",
+        "asesmen": "Rubrik cerita visual.",
+        "deepLearning": "collaboration-communication"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 29,
+      "semester": 2,
+      "tema": "Pencahayaan serta Praktik Foto Indoor dan Outdoor",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 2",
+          "subbab": "H. Pencahayaan pada Fotografi",
+          "halaman": "74-76"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan peran arah cahaya terhadap karakter foto.",
+        "Membedakan jenis pencahayaan: front light, side light, rim light, dan lainnya sesuai buku.",
+        "Menerapkan pencahayaan pada praktik indoor & outdoor."
+      ],
+      "kataKunci": [
+        "pencahayaan",
+        "front light",
+        "side light",
+        "rim light",
+        "indoor",
+        "outdoor"
+      ],
+      "pemantik": [
+        "Mengapa wajah tampak berbeda saat difoto pagi dan sore?",
+        "Cahaya dari samping memberi kesan apa?"
+      ],
+      "materiInti": [
+        "Pencahayaan membentuk bayangan, dimensi, dan suasana foto (hal. 74).",
+        "Side light: cahaya dari sudut 90 derajat/samping objek; bayangan terbagi berlawanan (gambar 2.38).",
+        "Rim light: cahaya dari arah belakang yang membentuk garis tepi (hal. 75-76).",
+        "Kombinasi arah cahaya diterapkan berbeda untuk foto indoor (lampu studio) dan outdoor (cahaya matahari)."
+      ],
+      "petaKonsep": [
+        "Arah cahaya",
+        "Front-Side-Rim light",
+        "Suasana foto",
+        "Indoor",
+        "Outdoor"
+      ],
+      "pertemuanSenin": {
+        "tema": "Karakter arah cahaya",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: memperhatikan wajah teman di bawah 3 arah cahaya ponsel."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca H. Pencahayaan; mencatat jenis & efeknya (2.38 dst)."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru memindahkan sumber lampu mengelilingi objek; siswa mengamati perubahan bayangan."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan menebak arah cahaya dari 10 contoh foto."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 8 soal pencahayaan."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: arah cahaya favorit & alasannya."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik foto indoor & outdoor dengan pencahayaan",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Menyiapkan sesi indoor & outdoor; meninjau alat."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 35,
+            "kegiatan": "Strategi indoor (lampu, reflektor sederhana) & outdoor (jam emas, bayangan)."
+          },
+          {
+            "tahap": "Praktik lapangan",
+            "menit": 130,
+            "kegiatan": "Sesi A: still life indoor dengan 3 arah lampu; Sesi B: potret outdoor; masing-masing 3 foto terbaik."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Analisis & presentasi",
+            "menit": 40,
+            "kegiatan": "Membandingkan foto indoor & outdoor; mengaitkan dengan teori arah cahaya."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah 6 foto + analisis ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah jenis pencahayaan & efeknya",
+          "Mengidentifikasi arah cahaya pada foto contoh"
+        ],
+        "mengaplikasi": [
+          "Mengatur sumber cahaya indoor",
+          "Memotret outdoor memanfaatkan cahaya alami"
+        ],
+        "merefleksi": [
+          "Menilai kepekaan saya terhadap cahaya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-fotografi",
+        "judul": "Laboratorium Fotografi (pengatur arah cahaya)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 29 - Studio Cahaya: Indoor & Outdoor",
+        "langkah": [
+          "Siapkan objek & sumber cahaya",
+          "Ambil 3 foto indoor dengan arah berbeda",
+          "Ambil 3 foto outdoor",
+          "Analisis suasana tiap foto"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan penerapan arah cahaya",
+            "skor4": "Efek arah cahaya jelas & disengaja",
+            "skor3": "Terlihat",
+            "skor2": "Samar",
+            "skor1": "Tidak terkendali"
+          },
+          {
+            "kriteria": "Kualitas artistik",
+            "skor4": "Suasana foto kuat & konsisten",
+            "skor3": "Menarik",
+            "skor2": "Datar",
+            "skor1": "Tidak menarik"
+          },
+          {
+            "kriteria": "Analisis hasil",
+            "skor4": "Analisis tepat & mendalam",
+            "skor3": "Tepat",
+            "skor2": "Dangkal",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Jenis & arah pencahayaan"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan 3 arah cahaya utama & efeknya",
+        "Menghasilkan foto indoor & outdoor berpencahayaan terkendali"
+      ],
+      "remedial": "Latihan 1 sesi (indoor saja) dengan panduan langkah.",
+      "pengayaan": "Eksperimen reflektor darurat (kertas/karton) dan bandingkan hasilnya.",
+      "refleksiSiswa": [
+        "Apa yang berubah dalam cara saya melihat cahaya?",
+        "Sesi mana yang lebih menantang dan mengapa?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Praktik ganda (indoor-outdoor) memberi pengalaman lengkap.",
+        "pelaksanaan": "Eksperimen cahaya menumbuhkan rasa ingin tahu (joyful).",
+        "asesmen": "Rubrik hasil + analisis.",
+        "deepLearning": "joyful"
+      },
+      "catatanVerifikasi": "Jenis pencahayaan selain side & rim light mengikuti penomoran gambar 2.38-2.39 pada buku; guru dapat menyesuaikan contoh sesuai alat yang tersedia."
+    },
+    {
+      "minggu": 30,
+      "semester": 2,
+      "tema": "Penyuntingan Foto Digital dan Evaluasi Hasil",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 2",
+          "subbab": "I. Penyuntingan Fotografi Digital + Rangkuman/Asesmen/Uji Kompetensi Bab 2",
+          "halaman": "77-86"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan tujuan dan tahapan penyuntingan foto digital.",
+        "Melakukan penyuntingan dasar (pemotongan, koreksi cahaya-warna, kebersihan gambar).",
+        "Mengevaluasi hasil foto akhir dengan kriteria yang jelas."
+      ],
+      "kataKunci": [
+        "penyuntingan",
+        "menyunting",
+        "warna",
+        "noise"
+      ],
+      "pemantik": [
+        "Seberapa jauh penyuntingan boleh mengubah foto?",
+        "Apa bedanya memperbaiki foto dan memanipulasi?"
+      ],
+      "materiInti": [
+        "Penyuntingan fotografi digital: tujuan, alur, dan etika (hal. 77).",
+        "Penyuntingan dasar: pemotongan (crop), koreksi eksposur/kontras, koreksi warna, menghilangkan gangguan.",
+        "Evaluasi hasil: ketajaman, eksposur, komposisi, kesesuaian pesan.",
+        "Asesmen Bab 2 & uji kompetensi (hal. 83-85)."
+      ],
+      "petaKonsep": [
+        "Alur penyuntingan",
+        "Koreksi dasar",
+        "Etika editing",
+        "Evaluasi hasil"
+      ],
+      "pertemuanSenin": {
+        "tema": "Dasar penyuntingan foto",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menilai 'foto mana yang diedit berlebihan'."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca I. Penyuntingan Fotografi Digital; mencatat alur & etika."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru menyunting satu foto: crop, eksposur, warna, bersih-bersih gangguan."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Menyunting 2 foto sendiri dengan urutan baku; mencatat langkah."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal penyuntingan."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: batas etika editing menurut saya."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Evaluasi hasil & asesmen Bab 2",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau hasil suntingan; menyiapkan kriteria evaluasi."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 35,
+            "kegiatan": "Kriteria evaluasi foto: teknis, komposisi, pesan."
+          },
+          {
+            "tahap": "Klinik evaluasi",
+            "menit": 105,
+            "kegiatan": "Penilaian sejawat terarah: 3 karya terbaik tiap siswa dinilai dengan lembar kriteria, lalu direvisi."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Asesmen Bab 2",
+            "menit": 65,
+            "kegiatan": "Mengerjakan Asesmen & Uji Kompetensi Bab 2 (buku hal. 83-85)."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Dokumentasi karya foto terbaik semester; refleksi."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah alur & etika penyuntingan",
+          "Menggunakan kriteria evaluasi foto"
+        ],
+        "mengaplikasi": [
+          "Menyunting 2 foto",
+          "Menilai karya sejawat & merevisi"
+        ],
+        "merefleksi": [
+          "Menilai perkembangan keterampilan fotografi saya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-fotografi",
+        "judul": "Laboratorium Fotografi (sebelum-sesudah penyuntingan)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 30 - Sebelum & Sesudah: Penyuntingan Foto",
+        "langkah": [
+          "Pilih 2 foto mentah",
+          "Sunting dengan urutan baku",
+          "Dokumentasikan sebelum-sesudah",
+          "Evaluasi dengan kriteria"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan urutan penyuntingan",
+            "skor4": "Runut & sesuai tujuan",
+            "skor3": "Runut",
+            "skor2": "Acak",
+            "skor1": "Tidak terarah"
+          },
+          {
+            "kriteria": "Mutu hasil suntingan",
+            "skor4": "Alami, seimbang, tidak berlebihan",
+            "skor3": "Baik",
+            "skor2": "Berlebihan/kurang",
+            "skor1": "Rusak"
+          },
+          {
+            "kriteria": "Kualitas evaluasi",
+            "skor4": "Evaluasi tajam berbasis kriteria",
+            "skor3": "Evaluasi jelas",
+            "skor2": "Umum",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Penyuntingan foto digital"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Melakukan alur penyuntingan dasar dengan benar",
+        "Menilai foto dengan kriteria teknis-komposisi-pesan"
+      ],
+      "remedial": "Menyunting 1 foto dengan ceklis langkah.",
+      "pengayaan": "Membuat perbandingan gaya 2 alur penyuntingan untuk kebutuhan berbeda (sosial media vs cetak).",
+      "refleksiSiswa": [
+        "Kesalahan editing yang paling sering saya lakukan?",
+        "Bagaimana saya menjaga keaslian foto?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Etika digital menjadi muatan karakter.",
+        "pelaksanaan": "Penilaian sejawat membangun komunikasi & tanggung jawab.",
+        "asesmen": "Rubrik + asesmen buku.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 31,
+      "semester": 2,
+      "tema": "Perbedaan Grafis Bitmap dan Vektor",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 3 Komputer Grafis",
+          "subbab": "A. Pengertian Bitmap dan Vektor",
+          "halaman": "90-94"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan pengertian gambar bitmap dan vektor.",
+        "Membandingkan kualitas keduanya saat diperbesar (ketajaman).",
+        "Memilih jenis grafis yang tepat untuk kebutuhan karya."
+      ],
+      "kataKunci": [
+        "bitmap",
+        "vektor",
+        "piksel",
+        "raster",
+        "resolusi"
+      ],
+      "pemantik": [
+        "Mengapa foto jadi pecah-pecah saat di-zoom?",
+        "Gambar jenis apa yang tetap tajam sebesar apa pun?"
+      ],
+      "materiInti": [
+        "Bitmap: kumpulan titik piksel dalam grid; tiap piksel punya lokasi & warna sehingga membentuk tampilan gambar; disebut juga raster (hal. 90).",
+        "Kelemahan bitmap: membesar melebihi batas akan pecah/tidak tajam (sesuai kutipan Anggawirya, 2004 pada buku).",
+        "Vektor: dibentuk dari garis/path matematis sehingga tetap tajam saat diperbesar.",
+        "Pemilihan sesuai kebutuhan: foto (bitmap) vs logo/ilustrasi presisi (vektor)."
+      ],
+      "petaKonsep": [
+        "Bitmap",
+        "Piksel & grid",
+        "Vektor",
+        "Ketajaman",
+        "Pemilihan format"
+      ],
+      "pertemuanSenin": {
+        "tema": "Eksperimen bitmap vs vektor",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: zoom foto ponsel sampai pecah-pecah."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A. Pengertian Bitmap dan Vektor; mengisi tabel perbandingan."
+          },
+          {
+            "tahap": "Demonstrasi & simulasi",
+            "menit": 45,
+            "kegiatan": "Membandingkan pembesaran gambar bitmap & vektor melalui simulasi layar."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan pengamatan mikroskopis: mengamati piksel gambar bitmap secara digital (zoom) & menggambar path sederhana."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 8 soal bitmap-vektor."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: perbedaan paling penting bagi pekerjaan saya."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik memilih jenis grafis",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau kuis; menyiapkan studi kasus."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Aturan praktis: kapan bitmap, kapan vektor."
+          },
+          {
+            "tahap": "Praktik studi kasus",
+            "menit": 130,
+            "kegiatan": "Kelompok menerima 8 kebutuhan desain (logo, foto katalog, spanduk besar, stiker, dsb.) dan menentukan jenis grafis + alasannya; menyertakan bukti pengujian pembesaran."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 40,
+            "kegiatan": "Presentasi keputusan; guru mengoreksi alasan teknis."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah tabel keputusan ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah definisi bitmap & vektor",
+          "Menganalisis kelemahan bitmap"
+        ],
+        "mengaplikasi": [
+          "Menguji pembesaran gambar",
+          "Menentukan jenis grafis untuk 8 kasus"
+        ],
+        "merefleksi": [
+          "Menilai pemahaman saya tentang format gambar"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-bitmap-vektor",
+        "judul": "Laboratorium Bitmap & Vektor (pengujian pembesaran gambar)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 31 - Bitmap atau Vektor? Studi Kasus 8 Kebutuhan",
+        "langkah": [
+          "Isi tabel perbandingan",
+          "Analisis 8 kebutuhan desain",
+          "Buktikan dengan uji pembesaran",
+          "Tulis rekomendasi"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan teori",
+            "skor4": "Perbandingan tepat & lengkap",
+            "skor3": "Tepat",
+            "skor2": "Sebagian",
+            "skor1": "Keliru"
+          },
+          {
+            "kriteria": "Ketepatan keputusan",
+            "skor4": "8 keputusan tepat dengan bukti",
+            "skor3": "6-7 tepat",
+            "skor2": "4-5 tepat",
+            "skor1": "<4 tepat"
+          },
+          {
+            "kriteria": "Kualitas bukti",
+            "skor4": "Bukti uji jelas & relevan",
+            "skor3": "Ada bukti",
+            "skor2": "Lemah",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Bitmap, vektor, piksel, ketajaman"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan perbedaan bitmap & vektor dengan bukti",
+        "Memilih jenis grafis tepat untuk minimal 6 dari 8 kasus"
+      ],
+      "remedial": "Latihan 4 kasus sederhana dengan panduan.",
+      "pengayaan": "Mengubah satu logo bitmap pecah menjadi vektor sederhana (jiplak manual).",
+      "refleksiSiswa": [
+        "Kasus mana yang paling membingungkan dan mengapa?",
+        "Bagaimana saya akan memilih format nanti?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Pembuka bab 3 dengan eksperimen visual.",
+        "pelaksanaan": "Simulasi memperjelas konsep abstrak.",
+        "asesmen": "Kuis + rubrik kasus.",
+        "deepLearning": "critical-thinking"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 32,
+      "semester": 2,
+      "tema": "Pengenalan Perangkat Lunak Grafis dan Kegunaannya",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 3",
+          "subbab": "B. Jenis-Jenis Perangkat Lunak Desain Grafis (pengenalan CorelDRAW, Adobe Illustrator, Adobe Photoshop)",
+          "halaman": "95-105"
+        }
+      ],
+      "tujuan": [
+        "Mengidentifikasi perangkat lunak grafis utama: CorelDRAW, Adobe Illustrator, Adobe Photoshop.",
+        "Menjelaskan kegunaan masing-masing perangkat lunak.",
+        "Menentukan perangkat lunak yang tepat untuk satu kebutuhan pekerjaan."
+      ],
+      "kataKunci": [
+        "CorelDRAW",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "vektor",
+        "bitmap"
+      ],
+      "pemantik": [
+        "Kenapa desainer memakai aplikasi berbeda untuk logo dan foto?",
+        "Aplikasi mana yang cocok untuk poster berukuran besar?"
+      ],
+      "materiInti": [
+        "Buku membahas tiga perangkat lunak: CorelDRAW (1), Adobe Illustrator (2), Adobe Photoshop (3) pada peta konsep hal. 89.",
+        "CorelDRAW & Illustrator berbasis vektor untuk logo, ilustrasi, tata letak; Photoshop berbasis bitmap untuk foto & retouching.",
+        "Anatomi area kerja aplikasi: lembar kerja, toolbar, panel (dari pembahasan bab).",
+        "Pemilihan alat mengikuti kebutuhan luaran."
+      ],
+      "petaKonsep": [
+        "Perangkat lunak vektor",
+        "Perangkat lunak bitmap",
+        "Area kerja",
+        "Kebutuhan pekerjaan"
+      ],
+      "pertemuanSenin": {
+        "tema": "Mengenal tiga perangkat lunak grafis",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menebak karya dibuat dengan aplikasi apa."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca B; mengisi tabel aplikasi-fungsi-jenis grafis."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru membuka ketiga aplikasi/alternatif yang tersedia; menunjukkan area kerja & alat dasar."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Eksplorasi terbimbing: membuat dokumen baru, mengenal toolbar, menyimpan file di tiap aplikasi."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 8 soal perangkat lunak & kegunaannya."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: aplikasi mana yang paling ingin saya kuasai?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Memilih aplikasi untuk kebutuhan nyata",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau tabel; menyiapkan studi kasus."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Kriteria memilih aplikasi: jenis luaran, ukuran, tim, sumber daya."
+          },
+          {
+            "tahap": "Praktik alur kerja",
+            "menit": 130,
+            "kegiatan": "Kelompok merancang alur kerja sederhana proyek (mis. identitas produk UMKM): aplikasi apa untuk riset visual, logo, kemasan, katalog."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi alur",
+            "menit": 40,
+            "kegiatan": "Presentasi alur kerja & alasan pemilihan aplikasi."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan alur kerja ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah fungsi tiap aplikasi",
+          "Mengenal area kerja"
+        ],
+        "mengaplikasi": [
+          "Membuat dokumen & menyimpan di tiap aplikasi",
+          "Merancang alur kerja proyek"
+        ],
+        "merefleksi": [
+          "Menilai kesiapan saya memakai aplikasi industri"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 32 - Tiga Aplikasi, Satu Proyek",
+        "langkah": [
+          "Isi tabel aplikasi-fungsi",
+          "Rancang alur kerja proyek UMKM",
+          "Tentukan aplikasi tiap tahap",
+          "Presentasikan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan fungsi aplikasi",
+            "skor4": "Tepat & lengkap dengan alasan",
+            "skor3": "Tepat",
+            "skor2": "Sebagian",
+            "skor1": "Keliru"
+          },
+          {
+            "kriteria": "Kelogisan alur kerja",
+            "skor4": "Alur efisien & realistis",
+            "skor3": "Logis",
+            "skor2": "Kurang logis",
+            "skor1": "Tidak logis"
+          },
+          {
+            "kriteria": "Kualitas presentasi",
+            "skor4": "Jelas & meyakinkan",
+            "skor3": "Jelas",
+            "skor2": "Kurang jelas",
+            "skor1": "Tidak siap"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Perangkat lunak grafis & kegunaannya"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan kegunaan 3 aplikasi",
+        "Menentukan aplikasi tepat untuk tiap tahap proyek"
+      ],
+      "remedial": "Pendampingan mengisi tabel dengan 1 contoh per aplikasi.",
+      "pengayaan": "Mencoba satu fitur baru di aplikasi favorit & menulis panduan mini 3 langkah.",
+      "refleksiSiswa": [
+        "Aplikasi mana yang paling menantang dan mengapa?",
+        "Apa rencana saya untuk menguasainya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Pengenalan aplikasi dikaitkan kebutuhan industri.",
+        "pelaksanaan": "Praktik langsung membuka aplikasi.",
+        "asesmen": "Rubrik alur kerja.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": "Jika laboratorium belum memiliki lisensi Adobe, guru dapat memakai alternatif (mis. Inkscape/GIMP) sebagai padanan latihan dengan catatan aplikasi industri tetap menjadi acuan buku."
+    },
+    {
+      "minggu": 33,
+      "semester": 2,
+      "tema": "Objek Vektor, Warna, Path, dan Fitur Pembentukan Objek",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 3",
+          "subbab": "B. Jenis-Jenis Perangkat Lunak Desain Grafis (praktik objek vektor & pembentukan objek)",
+          "halaman": "105-115"
+        }
+      ],
+      "tujuan": [
+        "Membuat dan memodifikasi objek vektor dasar.",
+        "Mengatur warna objek (isi & garis).",
+        "Menggunakan path dan fitur pembentukan objek untuk menyusun bentuk baru."
+      ],
+      "kataKunci": [
+        "objek vektor",
+        "path",
+        "warna isi",
+        "outline",
+        "pembentukan objek"
+      ],
+      "pemantik": [
+        "Bagaimana bentuk kompleks logo bisa tersusun dari bentuk dasar?",
+        "Apa bedanya warna isi dan warna garis?"
+      ],
+      "materiInti": [
+        "Membuat objek dasar (persegi, elips) dan memodifikasinya; mengenal Pick Tool & shortcut seperti F6 pada praktik buku (hal. 135 dst).",
+        "Mengatur warna objek: isi (fill) & garis (outline).",
+        "Path: garis pembentuk objek vektor; menyusun & mengedit titik path.",
+        "Fitur pembentukan objek: menggabungkan, memotong, dan menyusun bentuk (sesuai praktik aplikasi pada buku)."
+      ],
+      "petaKonsep": [
+        "Objek dasar",
+        "Warna isi & garis",
+        "Path",
+        "Pembentukan objek",
+        "Penyusunan bentuk"
+      ],
+      "pertemuanSenin": {
+        "tema": "Objek vektor & warna",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: membedah logo sederhana menjadi bentuk dasar."
+          },
+          {
+            "tahap": "Eksplorasi & demonstrasi",
+            "menit": 70,
+            "kegiatan": "Guru mendemonstrasikan membuat objek, mengubah ukuran (pick tool), dan memberi warna isi/garis."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 95,
+            "kegiatan": "Latihan berjenjang: membuat 5 objek dasar, memberi warna, menyusun komposisi sederhana."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Cek keterampilan: menyelesaikan 3 tantangan cepat (buat, warnai, susun)."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 35,
+            "kegiatan": "Menyimpan file dengan penamaan benar; refleksi."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Path & pembentukan objek",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau objek Senin; menyiapkan latihan bentuk."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Membahas path & operasi pembentukan (gabung, potong, irisan)."
+          },
+          {
+            "tahap": "Praktik bentuk",
+            "menit": 130,
+            "kegiatan": "Membuat ikon sederhana (mis. ikon buku atau gelas) dari gabungan bentuk dasar menggunakan operasi pembentukan & pengaturan path."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Klinik karya",
+            "menit": 40,
+            "kegiatan": "Umpan balik kerapian path & susunan warna."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Ekspor hasil (PNG/SVG sederhana) & unggah ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah konsep path & pembentukan objek",
+          "Mengenal pengaturan warna"
+        ],
+        "mengaplikasi": [
+          "Membuat & memodifikasi objek dasar",
+          "Menyusun ikon dari bentuk gabungan"
+        ],
+        "merefleksi": [
+          "Menilai ketelitian saya mengatur bentuk & warna"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-bitmap-vektor",
+        "judul": "Laboratorium Bitmap & Vektor (latihan bentuk & path vektor)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 33 - Ikon dari Bentuk Dasar",
+        "langkah": [
+          "Buat 5 objek dasar",
+          "Susun menjadi ikon bertema",
+          "Gunakan minimal 2 operasi pembentukan",
+          "Ekspor & dokumentasikan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Penguasaan alat dasar",
+            "skor4": "Mahir & mandiri",
+            "skor3": "Cukup mahir",
+            "skor2": "Perlu banyak arahan",
+            "skor1": "Belum bisa"
+          },
+          {
+            "kriteria": "Kerapian konstruksi",
+            "skor4": "Bentuk bersih, proporsional, konsisten",
+            "skor3": "Rapi",
+            "skor2": "Kasar",
+            "skor1": "Tidak rapi"
+          },
+          {
+            "kriteria": "Kreativitas penyusunan",
+            "skor4": "Ikon orisinal & menarik",
+            "skor3": "Menarik",
+            "skor2": "Umum",
+            "skor1": "Meniru mentah"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "praktik-terbimbing",
+        "jumlahSoal": 3,
+        "cakupan": "Tantangan cepat: buat, warnai, susun"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menghasilkan objek dengan warna & ukuran terkendali",
+        "Menggunakan minimal 2 operasi pembentukan objek"
+      ],
+      "remedial": "Latihan membentuk 1 objek dengan pendampingan langkah per langkah.",
+      "pengayaan": "Membuat set 3 ikon dengan gaya seragam.",
+      "refleksiSiswa": [
+        "Alat apa yang masih membuat saya lambat?",
+        "Bagaimana saya menjaga kerapian bentuk?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Keterampilan bertahap (objek-warna-path).",
+        "pelaksanaan": "Tantangan cepat menjaga keterlibatan (joyful).",
+        "asesmen": "Rubrik hasil praktik.",
+        "deepLearning": "joyful"
+      },
+      "catatanVerifikasi": "Nomor halaman praktik objek vektor mengikuti bagian B bab 3 (hal. 95-123); fitur yang tersedia berbeda antarkomputer laboratorium - guru menyesuaikan versi aplikasi."
+    },
+    {
+      "minggu": 34,
+      "semester": 2,
+      "tema": "Penyuntingan Gambar Bitmap dan Penggunaan Layer",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 3",
+          "subbab": "B. (praktik penyuntingan bitmap: seleksi, color range, color channels, panel layer)",
+          "halaman": "115-124"
+        }
+      ],
+      "tujuan": [
+        "Melakukan seleksi objek pada gambar bitmap.",
+        "Menggunakan panel layer untuk mengelola bagian gambar.",
+        "Menerapkan penyuntingan dasar pada foto/gambar bitmap."
+      ],
+      "kataKunci": [
+        "seleksi",
+        "marquee",
+        "lasso",
+        "color range",
+        "color channels",
+        "layer"
+      ],
+      "pemantik": [
+        "Bagaimana cara 'menggunting' orang dari latar foto?",
+        "Mengapa pekerjaan desain disusun berlapis-lapis?"
+      ],
+      "materiInti": [
+        "Teknik seleksi pada bitmap, antara lain marquee & lasso; seleksi kompleks dengan Color Range melalui menu Select (gambar 3.61).",
+        "Color Channels untuk seleksi rumit seperti rambut/bulu dengan mengaktifkan channel pada panel layer (hal. 123).",
+        "Panel layer: mengelola, menyembunyikan, dan menyusun bagian-bagian gambar.",
+        "Penyuntingan bitmap: koreksi & komposisi gambar."
+      ],
+      "petaKonsep": [
+        "Seleksi dasar",
+        "Color range",
+        "Color channels",
+        "Layer",
+        "Komposisi bitmap"
+      ],
+      "pertemuanSenin": {
+        "tema": "Teknik seleksi bitmap",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: membayangkan memisahkan objek dari latar."
+          },
+          {
+            "tahap": "Eksplorasi & demonstrasi",
+            "menit": 70,
+            "kegiatan": "Guru mendemonstrasikan marquee, lasso, dan Color Range (Select > Color Range) sesuai gambar 3.61."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 95,
+            "kegiatan": "Latihan seleksi berjenjang: bentuk sederhana, objek berlatar warna, lalu objek bertepi kompleks."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Tantangan cepat: potong 3 objek dari 3 foto."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 35,
+            "kegiatan": "Refleksi teknik seleksi mana yang paling andal bagi saya."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Layer & komposisi bitmap",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau hasil seleksi; menyiapkan komposisi berlapis."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Panel layer: menambah, menamai, membekukan, mengatur urutan."
+          },
+          {
+            "tahap": "Praktik komposisi",
+            "menit": 130,
+            "kegiatan": "Menyusun poster sederhana 3 layer (latar, objek utama, teks) dari hasil seleksi; mencoba Color Channels untuk objek bertepi rumit."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Klinik & penyimpanan",
+            "menit": 40,
+            "kegiatan": "Umpan balik komposisi; menyimpan dalam format kerja & ekspor."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah karya & catatan proses ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah teknik seleksi & panel layer",
+          "Mengenal Color Range & Color Channels"
+        ],
+        "mengaplikasi": [
+          "Memotong objek dari foto",
+          "Menyusun komposisi berlayer"
+        ],
+        "merefleksi": [
+          "Menilai kerapian & keteraturan kerja saya di aplikasi"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-bitmap-vektor",
+        "judul": "Laboratorium Bitmap & Vektor (simulasi seleksi & layer)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 34 - Poster 3 Layer dari Hasil Seleksi",
+        "langkah": [
+          "Potong 3 objek dengan teknik berbeda",
+          "Susun 3 layer tersusun",
+          "Beri teks & koreksi warna dasar",
+          "Simpan format kerja & ekspor"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan seleksi",
+            "skor4": "Tepi bersih untuk semua objek",
+            "skor3": "Tepi cukup bersih",
+            "skor2": "Banyak cacat",
+            "skor1": "Gagal seleksi"
+          },
+          {
+            "kriteria": "Pengelolaan layer",
+            "skor4": "Rapi, ternama, urut logis",
+            "skor3": "Rapi",
+            "skor2": "Berantakan",
+            "skor1": "Tidak menggunakan layer"
+          },
+          {
+            "kriteria": "Kualitas komposisi akhir",
+            "skor4": "Seimbang & bermakna",
+            "skor3": "Baik",
+            "skor2": "Kurang",
+            "skor1": "Tidak layak"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "praktik-terbimbing",
+        "jumlahSoal": 3,
+        "cakupan": "Tantangan seleksi cepat"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Memotong minimal 3 objek dengan tepi bersih",
+        "Menyusun komposisi berlayer yang rapi"
+      ],
+      "remedial": "Latihan seleksi 1 objek berlatar kontras dengan pendampingan.",
+      "pengayaan": "Melakukan seleksi objek berambut/bulu dengan Color Channels.",
+      "refleksiSiswa": [
+        "Teknik seleksi mana yang paling cepat & rapi?",
+        "Bagaimana saya menjaga file kerja tetap rapi?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Keterampilan bitmap melanjutkan konsep minggu 31.",
+        "pelaksanaan": "Tantangan cepat & klinik karya.",
+        "asesmen": "Rubrik proses & hasil.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": "Penyebutan menu Select > Color Range & Color Channels mengikuti gambar 3.61 & hal. 123 buku; versi antarmuka aplikasi dapat berbeda."
+    },
+    {
+      "minggu": 35,
+      "semester": 2,
+      "tema": "Pembuatan Produk Grafis (Mug, Logo, Packaging, Kartu Nama)",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 3",
+          "subbab": "C. Produk Rancangan Komputer Grafis (1. Mug, 2. Logo, 3. Packaging, 4. Kartu Nama)",
+          "halaman": "124-137"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan langkah pembuatan produk grafis sesuai buku.",
+        "Membuat satu produk grafis dari rangkaian langkah kerja.",
+        "Menerapkan standar ukuran kerja (mis. ukuran standar mug 8 cm x 20 cm)."
+      ],
+      "kataKunci": [
+        "mug",
+        "logo",
+        "packaging",
+        "kartu nama",
+        "lembar kerja",
+        "ekspor"
+      ],
+      "pemantik": [
+        "Produk grafis apa yang paling dekat dengan usaha di sekitarmu?",
+        "Mengapa ukuran lembar kerja harus ditentukan lebih dulu?"
+      ],
+      "materiInti": [
+        "Produk rancangan komputer grafis yang dibahas buku: 1) Mug, 2) Logo, 3) Packaging, 4) Kartu Nama (hal. 124-137).",
+        "Mug: membuat lembar kerja, ukuran standar mug 8 cm x 20 cm, latar & desain, ekspor (hal. 124-127).",
+        "Logo & packaging: menyusun identitas dan menambahkan keterangan produk (desain akhir packaging, gambar 3.85).",
+        "Kartu nama: membuat kotak, memberi warna dengan Pick Tool, menambahkan ikon sosial media (desain sendiri atau template gratis seperti Freepik, Vecteezy, Flaticon), menambahkan logo, menyimpan dengan Ctrl+S (hal. 135-137)."
+      ],
+      "petaKonsep": [
+        "Lembar kerja",
+        "Mug",
+        "Logo",
+        "Packaging",
+        "Kartu nama"
+      ],
+      "pertemuanSenin": {
+        "tema": "Mengikuti langkah pembuatan produk",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: memilih produk grafis untuk latihan (mug/logo/simple packaging/kartu nama)."
+          },
+          {
+            "tahap": "Eksplorasi & demonstrasi",
+            "menit": 70,
+            "kegiatan": "Guru mendemonstrasikan salah satu alur lengkap dari buku (membuat lembar kerja, ukuran standar 8x20 cm untuk mug, elemen desain)."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 95,
+            "kegiatan": "Siswa mengikuti langkah-langkah buku untuk membuat produk pilihan; guru mendampingi per tahap."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Ceklis progres: lembar kerja, elemen, warna."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 35,
+            "kegiatan": "Menyimpan file kerja dengan penamaan benar; refleksi kendala."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Menyelesaikan & menyajikan produk grafis",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau progres; menyiapkan penyelesaian karya."
+          },
+          {
+            "tahap": "Penyelesaian karya",
+            "menit": 120,
+            "kegiatan": "Menuntaskan produk: menambahkan ikon/logo, memeriksa ukuran & warna, menyimpan (Ctrl+S), dan mengekspor untuk pratinjau."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi produk",
+            "menit": 60,
+            "kegiatan": "Presentasi: apa produknya, untuk siapa, ukuran & alasan desain."
+          },
+          {
+            "tahap": "Umpan balik & penilaian",
+            "menit": 30,
+            "kegiatan": "Guru menilai dengan rubrik; catatan perbaikan."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah hasil & deskripsi ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah langkah kerja produk dari buku",
+          "Memahami standar ukuran kerja"
+        ],
+        "mengaplikasi": [
+          "Membuat produk grafis mengikuti alur",
+          "Menyimpan & mengekspor karya"
+        ],
+        "merefleksi": [
+          "Menilai ketelitian saya mengikuti standar"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-studio-dkv",
+        "judul": "Studio Proyek Desain Terpadu (bahan pendamping)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 35 - Produk Grafis Siap Pakai",
+        "langkah": [
+          "Tentukan produk & pengguna",
+          "Ikuti langkah buku (lembar kerja-ukuran-elemen)",
+          "Selesaikan & ekspor",
+          "Presentasikan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketaatan langkah & ukuran",
+            "skor4": "Semua standar diterapkan tepat",
+            "skor3": "Standar utama diterapkan",
+            "skor2": "Ada standar terlewat",
+            "skor1": "Tidak mengikuti"
+          },
+          {
+            "kriteria": "Kualitas hasil desain",
+            "skor4": "Menarik, bersih, siap produksi",
+            "skor3": "Layak",
+            "skor2": "Kurang layak",
+            "skor1": "Belum layak"
+          },
+          {
+            "kriteria": "Kelengkapan file",
+            "skor4": "File kerja & ekspor lengkap, tertata",
+            "skor3": "Lengkap",
+            "skor2": "Sebagian",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 25
+      },
+      "asesmenFormatif": {
+        "bentuk": "ceklis-progres",
+        "jumlahSoal": 8,
+        "cakupan": "Lembar kerja, elemen, warna, penyimpanan file"
+      },
+      "proyek": {
+        "judul": "Proyek: Produk Grafis (Mug/Logo/Packaging/Kartu Nama)",
+        "jenis": "individu",
+        "luaran": "File produk + deskripsi desain",
+        "tenggat": "Minggu 35 (selesai)"
+      },
+      "kriteriaKeberhasilan": [
+        "Produk grafis selesai sesuai langkah buku",
+        "Menerapkan standar ukuran (mis. 8x20 cm untuk mug)"
+      ],
+      "remedial": "Penyederhanaan: menyelesaikan satu produk dengan langkah inti saja.",
+      "pengayaan": "Membuat varian produk kedua (mis. kartu nama dari logo yang sama) dengan gaya seragam.",
+      "refleksiSiswa": [
+        "Langkah mana yang paling menantang?",
+        "Apakah produk saya siap dipakai nyata? Mengapa?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Produk akhir nyata menghubungkan keterampilan dengan dunia kerja.",
+        "pelaksanaan": "Pendampingan per tahap.",
+        "asesmen": "Rubrik produk + ketaatan standar.",
+        "deepLearning": "meaningful-connection-to-real-life"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 36,
+      "semester": 2,
+      "tema": "Proyek Terpadu, Portofolio, Presentasi, Asesmen Akhir, Remedial, Pengayaan, dan Refleksi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B2",
+          "bab": "Bab 3 & penutup buku",
+          "subbab": "Rangkuman/Asesmen/Uji Kompetensi BAB 3, Pengayaan, Refleksi + Latihan Soal Semester 2 + Glosarium",
+          "halaman": "138-157"
+        }
+      ],
+      "tujuan": [
+        "Menyelesaikan proyek terpadu lintas materi semester 2.",
+        "Mengkurasi portofolio tahun pembelajaran dan mempresentasikannya.",
+        "Menyelesaikan asesmen akhir serta refleksi perkembangan kompetensi."
+      ],
+      "kataKunci": [
+        "rangkuman",
+        "uji kompetensi",
+        "refleksi",
+        "pengayaan"
+      ],
+      "pemantik": [
+        "Karya mana yang paling membanggakan dari seluruh tahun ini?",
+        "Jika menjadi desainer untuk sehari, pesan apa yang ingin saya sampaikan?"
+      ],
+      "materiInti": [
+        "Integrasi kompetensi semester 2: tipografi, fotografi, komputer grafis dalam satu proyek.",
+        "Rangkuman & asesmen BAB 3, uji kompetensi (hal. 138-142).",
+        "Latihan Soal Semester 2 (hal. 143-156) & glosarium (hal. 157) sebagai bahan pengayaan.",
+        "Kurasi portofolio: seleksi, deskripsi, dan narasi perkembangan."
+      ],
+      "petaKonsep": [
+        "Proyek terpadu",
+        "Portofolio tahunan",
+        "Presentasi",
+        "Asesmen akhir",
+        "Refleksi & tindak lanjut"
+      ],
+      "pertemuanSenin": {
+        "tema": "Penyelesaian proyek terpadu",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Brief proyek terpadu: karya komunikasi visual mini menggunakan tipografi, foto, dan grafis."
+          },
+          {
+            "tahap": "Perencanaan akhir",
+            "menit": 40,
+            "kegiatan": "Menetapkan konsep, pembagian waktu, dan target karya."
+          },
+          {
+            "tahap": "Kerja proyek",
+            "menit": 130,
+            "kegiatan": "Pengerjaan proyek (riset, desain, produksi) dengan konsultasi berkala."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Umpan balik antar tema",
+            "menit": 35,
+            "kegiatan": "Peer review terarah: tipografi, kualitas foto, kerapian grafis."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 20,
+            "kegiatan": "Ceklis kesiapan presentasi."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Presentasi, asesmen akhir, dan refleksi tahunan",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Penjelasan alur presentasi & penilaian akhir."
+          },
+          {
+            "tahap": "Presentasi karya",
+            "menit": 80,
+            "kegiatan": "Presentasi proyek terpadu: konsep, proses, bukti belajar."
+          },
+          {
+            "tahap": "Asesmen akhir",
+            "menit": 65,
+            "kegiatan": "Mengerjakan bagian Asesmen BAB 3 & latihan soal terpilih (hal. 139-156) sesuai penugasan guru."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Remedial & pengayaan terarah",
+            "menit": 50,
+            "kegiatan": "Remedial bagi yang belum tuntas; pengayaan lanjutan bagi yang sudah tuntas (mis. memperdalam glosarium, tantangan desain tambahan)."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 40,
+            "kegiatan": "Refleksi tahunan, kurasi portofolio akhir, penetapan target kelas XI."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Meninjau rangkuman & glosarium",
+          "Menyiapkan narasi portofolio"
+        ],
+        "mengaplikasi": [
+          "Menyelesaikan proyek terpadu",
+          "Mempresentasikan portofolio"
+        ],
+        "merefleksi": [
+          "Menilai perjalanan kompetensi setahun",
+          "Menetapkan target lanjutan"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-studio-dkv",
+        "judul": "Studio Proyek Desain Terpadu (brief-riset-ide-desain-revisi-presentasi)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 36 - Portofolio Tahunan & Proyek Terpadu",
+        "langkah": [
+          "Kumpulkan 8-10 karya terbaik",
+          "Tulis narasi perkembangan tiap karya",
+          "Selesaikan proyek terpadu",
+          "Presentasikan & refleksikan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Kualitas proyek terpadu",
+            "skor4": "Menggabungkan 3 bidang kompetensi secara harmonis",
+            "skor3": "Menggabungkan 2-3 bidang",
+            "skor2": "Didominasi satu bidang",
+            "skor1": "Belum terpadu"
+          },
+          {
+            "kriteria": "Kualitas portofolio",
+            "skor4": "Terpilih, terdeskripsi, menunjukkan progres",
+            "skor3": "Lengkap",
+            "skor2": "Sekadar kumpulan",
+            "skor1": "Tidak lengkap"
+          },
+          {
+            "kriteria": "Presentasi & refleksi",
+            "skor4": "Runtut, reflektif, menanggapi pertanyaan",
+            "skor3": "Runtut",
+            "skor2": "Terbata-bata",
+            "skor1": "Tidak siap"
+          }
+        ],
+        "bobot": 30
+      },
+      "asesmenFormatif": {
+        "bentuk": "asesmen-sumatif-akhir-semester",
+        "jumlahSoal": 25,
+        "cakupan": "Bab 3 + latihan soal semester 2 terpilih (hal. 139-156)"
+      },
+      "proyek": {
+        "judul": "Proyek Terpadu Semester 2 & Portofolio Tahunan",
+        "jenis": "individu",
+        "luaran": "Karya komunikasi visual terpadu + portofolio 8-10 karya bernarasi",
+        "tenggat": "Minggu 36 (selesai)"
+      },
+      "kriteriaKeberhasilan": [
+        "Proyek terpadu selesai & dipresentasikan",
+        "Portofolio tahunan terkurasi dengan narasi",
+        "Asesmen akhir & refleksi tuntas"
+      ],
+      "remedial": "Program remedial terarah per kompetensi yang belum tuntas (dijadwalkan terpisah sesuai kebijakan sekolah).",
+      "pengayaan": "Tantangan lanjutan: merancang mini-kampanye untuk kegiatan sekolah menggunakan seluruh kompetensi semester 2.",
+      "refleksiSiswa": [
+        "Apa kompetensi terkuat saya setelah satu tahun ini?",
+        "Bagaimana saya akan memakainya di kelas XI dan dunia kerja?",
+        "Apa satu hal yang saya syukuri dari proses belajar ini?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Penutup tahun memadukan asesmen, portofolio, refleksi, remedial-pengayaan.",
+        "pelaksanaan": "Presentasi & peer review membangun komunikasi profesional.",
+        "asesmen": "Rubrik portofolio + asesmen buku; keputusan akhir nilai mempertimbangkan pertimbangan profesional guru.",
+        "deepLearning": "meaningful-mindful-joyful"
+      },
+      "catatanVerifikasi": "Latihan Soal Semester 2 (hal. 143-156) berjumlah besar; guru memilih butir sesuai peta asesmen sekolah. Remedial/pengayaan mengikuti kebijakan kurikulum SMKN 3 Kuningan."
+    }
+  ]
+}

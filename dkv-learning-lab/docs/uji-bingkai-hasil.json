@@ -1,0 +1,56 @@
+{
+  "waktu": "2026-10-13T12:00:37.179Z",
+  "asal_penyemat": "http://127.0.0.1:8142",
+  "daftar_izin": "http://127.0.0.1:8142 https://sites.google.com",
+  "ringkas": "UJI PENYEMATAN (GOOGLE SITES): 6/6 LULUS",
+  "hasil": [
+    {
+      "no": 1,
+      "fitur": "Penyematan diizinkan dimuat, yang tidak diizinkan ditolak",
+      "langkah": "Muat halaman penyemat berisi 2 bingkai: aplikasi ber-izin (8141) & mode daring tanpa izin (8143)",
+      "harapan": "bingkai 8141 memuat halaman login; bingkai 8143 gagal dimuat (ditolak peramban)",
+      "aktual": "bingkai 8141: halaman login terlihat (src=http://localhost:8141/); bingkai 8143: ditolak (url bingkai=http://localhost:8141/login, chrome-error://chromewebdata/)",
+      "status": "LULUS"
+    },
+    {
+      "no": 2,
+      "fitur": "Login peserta didik berhasil di dalam bingkai",
+      "langkah": "Isi username & password lalu klik Masuk pada formulir DI DALAM iframe",
+      "harapan": "dashboard siswa tampil di dalam bingkai (tidak diblokir cookie pihak ketiga)",
+      "aktual": "setelah login: dashboard=true; nama siswa tampil=true — aplikasi berfungsi penuh di dalam bingkai",
+      "status": "LULUS"
+    },
+    {
+      "no": 3,
+      "fitur": "Sesi tetap aktif setelah cookie dihapus",
+      "langkah": "Hapus seluruh cookie konteks peramban lalu muat ulang halaman penyemat",
+      "harapan": "siswa tetap dalam keadaan masuk (token disimpan di localStorage milik aplikasi)",
+      "aktual": "tetap masuk=true; cookie tersisa=0 — tidak bergantung cookie pihak ketiga (baik untuk Google Sites)",
+      "status": "LULUS"
+    },
+    {
+      "no": 4,
+      "fitur": "Perlindungan bawaan: penyematan tanpa izin ditolak",
+      "langkah": "Muat bingkai ke aplikasi mode daring TANPA DKV_FRAME_ANCESTORS pada halaman penyemat",
+      "harapan": "bingkai gagal dimuat + peramban mencatat pelanggaran CSP frame-ancestors 'none'",
+      "aktual": "bingkai ditolak (1 halaman galat); pesan CSP: \"Framing 'http://localhost:8143/' violates the following Content Security Policy directive: \"frame-ancestors 'n…\"",
+      "status": "LULUS"
+    },
+    {
+      "no": 5,
+      "fitur": "Header balasan tepat untuk penyematan",
+      "langkah": "GET /api/health pada server ber-izin dan server mode daring biasa",
+      "harapan": "ber-izin: tanpa X-Frame-Options + CSP memuat daftar asal; tanpa izin: X-Frame-Options DENY + frame-ancestors 'none'",
+      "aktual": "ber-izin: xfo=(tidak dikirim), csp=\"frame-ancestors http://127.0.0.1:8142 https://sites.google.com; base-uri 'self'; object-src 'none'\"; tanpa izin: xfo=DENY, csp=\"frame-ancestors 'none'; base-uri 'self'; object-src 'none'\"",
+      "status": "LULUS"
+    },
+    {
+      "no": 6,
+      "fitur": "Bingkai yang diizinkan tidak menimbulkan galat pemblokiran",
+      "langkah": "Kumpulkan galat konsol selama halaman penyemat dibuka, login, dan muat ulang",
+      "harapan": "0 pesan pemblokiran untuk bingkai 8141 (pesan untuk bingkai yang sengaja ditolak tidak dihitung)",
+      "aktual": "0 pesan pemblokiran untuk bingkai ber-izin; pesan total di konsol: 3",
+      "status": "LULUS"
+    }
+  ]
+}

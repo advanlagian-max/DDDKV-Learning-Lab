@@ -1,0 +1,203 @@
+{
+ "part": 6,
+ "minggu": [
+  {
+   "minggu": 31,
+   "senin": {
+    "tujuan": ["Menjelaskan perbedaan gambar bitmap dan vektor.", "Menunjukkan akibat perbesaran pada kedua jenis gambar."],
+    "pemantik": ["Mengapa logo tetap tajam meskipun diperbesar sepuluh kali?", "Apa yang terjadi pada foto ketika diperbesar terlalu banyak?"],
+    "materi": {
+     "pengantar": "Gambar digital disimpan dengan dua cara. Bitmap tersusun dari titik-titik kecil (piksel), sedangkan vektor dibentuk oleh rumus matematis berupa garis dan bidang. Perbedaan cara penyimpanan inilah yang menentukan perilakunya saat diperbesar.",
+     "poin": ["Bitmap tersusun dari piksel sehingga jumlah piksel menentukan mutu; memperbesar berlebihan membuat tepi gambar bertingkat.", "Vektor tersusun dari bentuk matematis sehingga tetap tajam pada ukuran berapa pun.", "Foto selalu berupa bitmap karena berasal dari tangkapan cahaya, sedangkan logo, ikon, dan teks lebih cocok dibuat vektor.", "Ukuran berkas bitmap umumnya besar dan bergantung resolusi, sementara vektor biasanya lebih kecil untuk bentuk yang sama."],
+     "istilah": [{"t": "bitmap", "a": "Gambar yang tersusun dari titik-titik piksel."}, {"t": "vektor", "a": "Gambar yang tersusun dari bentuk matematis berupa garis dan bidang."}, {"t": "piksel", "a": "Titik terkecil pembentuk gambar bitmap."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Pengertian bitmap dan vektor", "keterangan": "Perhatikan uraian dan contoh perbandingan pada Buku Sem 2 Bab 3 subbab A (halaman 90–94)."}, {"jenis": "diagram", "id": "diagram-bitmap-vektor", "judul": "Bitmap vs vektor saat diperbesar", "keterangan": "Diagram orisinal: pembesaran 100%–1600% pada dua jenis gambar."}],
+    "aktivitas": {"memahami": ["Membaca uraian perbedaan bitmap dan vektor", "Mengaitkan jenis gambar dengan keperluan karya"], "mengaplikasi": ["Menjalankan simulasi bitmap vs vektor pada pembesaran berbeda", "Memeriksa jenis berkas pada lima berkas latihan", "Menulis kesimpulan pemakaian"], "merefleksi": ["Menulis jenis gambar yang paling sering saya salah pilih selama ini"]},
+    "lkpd": {"judul": "LKPD 61 — Eksperimen Bitmap vs Vektor", "langkah": ["Uji pembesaran pada satu gambar bitmap.", "Uji pembesaran pada satu gambar vektor.", "Catat hasil pada tiap tingkat pembesaran."], "rubrik": [{"kriteria": "Ketepatan pengamatan", "skor4": "Hasil catatan rinci pada tiap tingkat pembesaran", "skor3": "Catatan lengkap", "skor2": "Catatan sebagian", "skor1": "Tidak mencatat"}, {"kriteria": "Mutu kesimpulan", "skor4": "Kesimpulan memuat aturan pemakaian kedua jenis gambar", "skor3": "Kesimpulan jelas", "skor2": "Kesimpulan umum", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Gambar yang tetap tajam saat diperbesar adalah", "opsi": ["Vektor", "Bitmap", "Tangkapan layar"], "kunci": 0}, {"soal": "Foto digital pada dasarnya berjenis", "opsi": ["Bitmap", "Vektor", "Campuran teks"], "kunci": 0}]},
+    "tugas": {"judul": "Catatan eksperimen pembesaran dua jenis gambar", "bentuk": "individu", "luaran": "Tangkapan hasil simulasi + tabel pengamatan"},
+    "tindakLanjut": {"remedial": "Pendampingan memeriksa jenis berkas satu per satu.", "pengayaan": "Membandingkan ukuran berkas bitmap dan vektor untuk bentuk yang sama."}
+   },
+   "rabu": {
+    "tujuan": ["Memilih jenis grafis yang tepat untuk kebutuhan karya nyata.", "Menentukan keluaran karya berdasarkan jenis gambar dan ukuran akhir."],
+    "pemantik": ["Apa jenis gambar yang tepat untuk spanduk besar?", "Kapan foto bitmap tetap menjadi pilihan terbaik?"],
+    "materi": {
+     "pengantar": "Memilih jenis grafis bergantung pada keluaran. Karya yang akan diperbesar atau dicetak berulang sebaiknya vektor, sedangkan karya yang membutuhkan rincian nyata seperti foto tetap bitmap.",
+     "poin": ["Logo, ikon, huruf, dan bentuk sederhana: gunakan vektor agar tetap tajam dan mudah diubah warna.", "Foto produk, potret, dan tekstur: gunakan bitmap karena menyimpan rincian nyata.", "Karya gabungan memerlukan keduanya: latar foto bitmap dengan teks dan bentuk vektor di atasnya.", "Rencana keluaran (cetak besar, layar, atau keduanya) ditetapkan sebelum mulai merancang."],
+     "istilah": [{"t": "keluaran karya", "a": "Bentuk akhir karya: cetak, layar, atau keduanya."}, {"t": "karya gabungan", "a": "Karya yang memadukan gambar bitmap dan unsur vektor."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Tiga karya, tiga jenis gambar", "keterangan": "Amati poster, label produk, dan spanduk; tentukan bagian yang vektor dan bagian yang bitmap."}, {"jenis": "diagram", "id": "diagram-bitmap-vektor", "judul": "Pedoman pemilihan", "keterangan": "Diagram orisinal: jenis gambar ↔ kebutuhan keluaran."}],
+    "aktivitas": {"memahami": ["Membandingkan kebutuhan keluaran karya", "Mengelompokkan jenis gambar sesuai keperluan"], "mengaplikasi": ["Menentukan jenis gambar untuk lima kebutuhan nyata", "Menyusun rancangan karya gabungan sederhana", "Menjalankan simulasi bitmap vs vektor"], "merefleksi": ["Menulis satu keputusan pemilihan jenis gambar yang akan saya ubah"]},
+    "lkpd": {"judul": "LKPD 62 — Memilih Jenis Grafis untuk Kebutuhan Nyata", "langkah": ["Tulis lima kebutuhan karya.", "Tentukan jenis gambar untuk tiap kebutuhan.", "Jelaskan alasan dengan ukuran keluaran."], "rubrik": [{"kriteria": "Ketepatan pemilihan", "skor4": "Lima pilihan tepat dengan alasan teknis", "skor3": "Lima pilihan tepat", "skor2": "Tiga pilihan tepat", "skor1": "Kurang dari tiga"}, {"kriteria": "Kelengkapan alasan", "skor4": "Alasan mengaitkan jenis gambar, ukuran, dan keluaran", "skor3": "Alasan jelas", "skor2": "Alasan umum", "skor1": "Tanpa alasan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Spanduk berukuran sangat besar sebaiknya memakai unsur", "opsi": ["Vektor untuk teks dan bentuk", "Bitmap beresolusi rendah", "Tangkapan layar"], "kunci": 0}, {"soal": "Karya gabungan berarti", "opsi": ["Memadukan gambar bitmap dan unsur vektor", "Hanya memakai foto", "Hanya memakai bentuk"], "kunci": 0}]},
+    "tugas": {"judul": "Rancangan karya gabungan sederhana", "bentuk": "individu", "luaran": "Sketsa rancangan + keterangan jenis gambar tiap bagian"},
+    "tindakLanjut": {"remedial": "Pendampingan memilih satu kebutuhan paling sederhana.", "pengayaan": "Membuat versi vektor untuk logo latihan."}
+   }
+  },
+  {
+   "minggu": 32,
+   "senin": {
+    "tujuan": ["Mengenal perangkat lunak desain grafis dan kegunaannya.", "Membandingkan kegunaan perangkat pengolah vektor dan bitmap."],
+    "pemantik": ["Mengapa membuat logo dan menyunting foto memerlukan perangkat berbeda?", "Apa yang membuat aplikasi terasa berat dipakai di komputer sekolah?"],
+    "materi": {
+     "pengantar": "Perangkat lunak desain dibedakan menurut jenis gambar yang diolah. Perangkat pengolah vektor dipakai untuk bentuk, logo, dan tata letak, sedangkan perangkat pengolah bitmap dipakai untuk menyunting foto.",
+     "poin": ["Perangkat vektor: mengolah garis, bentuk, dan teks tanpa kehilangan ketajaman saat diperbesar.", "Perangkat bitmap: menyunting foto melalui seleksi, lapisan, dan penyesuaian warna.", "Perangkat tata letak: mengatur susunan halaman, teks panjang, dan siap cetak.", "Pemilihan perangkat mempertimbangkan kebutuhan, kemampuan komputer, dan ketersediaan lisensi di sekolah."],
+     "istilah": [{"t": "perangkat vektor", "a": "Aplikasi pengolah gambar berbasis bentuk matematis."}, {"t": "lapisan (layer)", "a": "Susunan bidang kerja bertingkat yang memudahkan penyuntingan."}, {"t": "lisensi", "a": "Izin penggunaan resmi sebuah perangkat lunak."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Jenis-jenis perangkat lunak desain grafis", "keterangan": "Perhatikan uraian dan daftar perangkat pada Buku Sem 2 Bab 3 subbab B (halaman 95–104). Buku menyebut perangkat berlisensi; di laboratorium sekolah dapat dipakai padanan bebas seperti Inkscape untuk vektor dan GIMP untuk bitmap (perlu penyesuaian guru)."}, {"jenis": "pengamatan", "judul": "Rambu-rambu antarmuka", "keterangan": "Amati antarmuka satu aplikasi: cari bagian kanvas, daftar alat, panel lapisan, dan menu simpan."}],
+    "aktivitas": {"memahami": ["Membaca uraian perangkat lunak dan kegunaannya", "Membedakan perangkat vektor, bitmap, dan tata letak"], "mengaplikasi": ["Menjalankan aplikasi desain yang tersedia di laboratorium", "Mengenali bagian antarmuka dan menyimpan berkas", "Mencatat padanan perangkat berlisensi dan perangkat bebas"], "merefleksi": ["Menulis perangkat yang paling ingin saya kuasai dan alasannya"]},
+    "lkpd": {"judul": "LKPD 63 — Mengenal Tiga Perangkat Lunak Grafis", "langkah": ["Isi tabel: nama perangkat, jenisnya, kegunaan utama.", "Buka satu aplikasi dan kenali bagian antarmuka.", "Simpan satu berkas latihan."], "rubrik": [{"kriteria": "Ketepatan tabel perangkat", "skor4": "Tiga perangkat tepat dengan kegunaannya", "skor3": "Tiga perangkat tepat", "skor2": "Dua perangkat", "skor1": "Satu perangkat"}, {"kriteria": "Keterampilan dasar aplikasi", "skor4": "Membuka, mengenali antarmuka, dan menyimpan mandiri", "skor3": "Dapat membuka dan menyimpan", "skor2": "Perlu dibantu", "skor1": "Belum dapat"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Perangkat yang tepat untuk menyunting foto adalah", "opsi": ["Pengolah bitmap (mis. GIMP)", "Pengolah vektor saja", "Perangkat tata letak"], "kunci": 0}, {"soal": "Hal yang perlu dipertimbangkan dalam memilih perangkat lunak sekolah adalah", "opsi": ["Kebutuhan, kemampuan komputer, dan ketersediaan lisensi", "Popularitas merek saja", "Warna lambang aplikasi"], "kunci": 0}]},
+    "tugas": {"judul": "Tabel perangkat lunak + catatan padanan bebas", "bentuk": "individu", "luaran": "Tabel tiga perangkat, kegunaan, dan padanan yang tersedia di sekolah (perlu verifikasi guru)"},
+    "tindakLanjut": {"remedial": "Pendampingan membuka aplikasi satu per satu.", "pengayaan": "Membandingkan dua aplikasi untuk pekerjaan yang sama."}
+   },
+   "rabu": {
+    "tujuan": ["Memilih aplikasi yang sesuai untuk kebutuhan nyata.", "Menyusun rencana kerja sederhana dengan aplikasi yang dipilih."],
+    "pemantik": ["Apa risikonya memakai aplikasi berat untuk pekerjaan yang sederhana?", "Bagaimana merencanakan pekerjaan agar tidak berhenti di tengah jalan?"],
+    "materi": {
+     "pengantar": "Aplikasi yang dipilih menentukan kelancaran kerja. Untuk tugas sekolah, kemampuan menyelesaikan karya tepat waktu lebih penting daripada memakai perangkat paling canggih.",
+     "poin": ["Pekerjaan berbasis bentuk dan teks: gunakan perangkat vektor.", "Pekerjaan berbasis foto: gunakan perangkat bitmap.", "Pekerjaan halaman, buklet, dan label: gunakan perangkat tata letak atau fitur tata letak pada perangkat vektor.", "Rencana kerja memuat ukuran kanvas, isi karya, pemilihan huruf, dan tempat penyimpanan berkas."],
+     "istilah": [{"t": "ukuran kanvas", "a": "Bidang kerja tempat karya dirancang."}, {"t": "rencana kerja aplikasi", "a": "Catatan langkah dan pengaturan sebelum mulai merancang."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Aplikasi untuk tiga pekerjaan", "keterangan": "Amati tiga pekerjaan nyata (kartu nama, poster foto, buklet) dan tentukan aplikasi yang paling sesuai."}, {"jenis": "diagram", "id": "diagram-alur-produksi", "judul": "Rencana sebelum merancang", "keterangan": "Diagram orisinal: ukuran → isi → huruf → penyimpanan."}],
+    "aktivitas": {"memahami": ["Menelaah kesesuaian aplikasi dengan pekerjaan", "Menyusun rencana kerja aplikasi"], "mengaplikasi": ["Menetapkan aplikasi untuk tiga pekerjaan nyata", "Membuat berkas baru dengan ukuran kanvas yang tepat", "Menyimpan berkas dengan penamaan yang benar"], "merefleksi": ["Menulis kendala perangkat di sekolah dan cara menyiasatinya"]},
+    "lkpd": {"judul": "LKPD 64 — Memilih Aplikasi & Menyiapkan Berkas", "langkah": ["Tentukan tiga pekerjaan.", "Pilih aplikasi untuk tiap pekerjaan.", "Buat berkas baru dan simpan dengan penamaan benar."], "rubrik": [{"kriteria": "Ketepatan pilihan aplikasi", "skor4": "Tiga pilihan tepat dengan alasan", "skor3": "Tiga pilihan tepat", "skor2": "Dua pilihan tepat", "skor1": "Kurang dari dua"}, {"kriteria": "Kerapian penyiapan berkas", "skor4": "Ukuran, nama, dan folder tertib", "skor3": "Berkas tersimpan", "skor2": "Berkas berantakan", "skor1": "Belum menyimpan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Pekerjaan kartu nama sebaiknya dikerjakan dengan perangkat", "opsi": ["Vektor/tata letak", "Bitmap saja", "Pemutar musik"], "kunci": 0}, {"soal": "Hal yang ditetapkan sebelum merancang adalah", "opsi": ["Ukuran kanvas dan isi karya", "Warna kursi", "Nama teman sekelas"], "kunci": 0}]},
+    "tugas": {"judul": "Tiga berkas latihan tersimpan rapi", "bentuk": "individu", "luaran": "Tiga berkas dengan ukuran kanvas dan penamaan yang benar"},
+    "tindakLanjut": {"remedial": "Pendampingan membuat berkas baru.", "pengayaan": "Membuat templat berkas untuk pekerjaan kelas."}
+   }
+  },
+  {
+   "minggu": 33,
+   "senin": {
+    "tujuan": ["Mengenal objek vektor dan cara memakainya.", "Menjelaskan fungsi warna pada karya vektor."],
+    "pemantik": ["Mengapa warna pada karya cetak bisa berbeda dari tampilan layar?", "Apa gunanya menyimpan warna dengan nama sendiri?"],
+    "materi": {
+     "pengantar": "Pada aplikasi vektor, semua yang tampak di kanvas adalah objek: garis, bentuk, dan teks. Setiap objek dapat diubah ukuran, warna, dan susunannya tanpa memengaruhi objek lain.",
+     "poin": ["Objek dasar vektor: garis, persegi, elips, dan bentuk bebas.", "Warna pada karya digital dibedakan antara warna untuk layar dan warna untuk cetak; hasil cetak bisa berbeda dari tampilan.", "Menyimpan warna dengan nama sendiri menjaga keseragaman warna pada seluruh karya.", "Warna perlu dipilih dengan pertimbangan keterbacaan, kesan pesan, dan sasaran pengguna, bukan hanya keindahan."],
+     "istilah": [{"t": "objek vektor", "a": "Bentuk pada aplikasi vektor yang dapat diubah terpisah."}, {"t": "mode warna", "a": "Sistem penyusunan warna untuk keperluan layar atau cetak."}, {"t": "palet warna", "a": "Kumpulan warna yang dipakai pada satu karya."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Objek dan warna pada komputer grafis", "keterangan": "Perhatikan uraian dan langkah praktik pada Buku Sem 2 Bab 3 subbab B (halaman 105–114). Latihan di buku memakai perangkat tertentu; di sekolah dapat memakai padanan bebas dengan langkah yang setara."}, {"jenis": "diagram", "id": "diagram-warna", "judul": "Palet warna karya", "keterangan": "Diagram orisinal: warna utama, warna pendukung, dan warna latar."}],
+    "aktivitas": {"memahami": ["Membaca uraian objek dan warna", "Mengenali perbedaan warna layar dan cetak"], "mengaplikasi": ["Membuat tiga objek dasar dan mengubah ukurannya", "Menyusun palet empat warna untuk satu karya", "Menyimpan palet agar dapat dipakai ulang"], "merefleksi": ["Menulis kesalahan warna yang pernah saya buat dan cara memperbaikinya"]},
+    "lkpd": {"judul": "LKPD 65 — Objek Vektor & Palet Warna", "langkah": ["Buat tiga objek dasar.", "Ubah ukuran dan warna tiap objek.", "Susun palet empat warna dan simpan.", "Uji keterbacaan teks di atas warna."], "rubrik": [{"kriteria": "Keterampilan membuat objek", "skor4": "Tiga objek dibuat rapi dengan pengaturan tepat", "skor3": "Tiga objek dibuat", "skor2": "Satu-dua objek", "skor1": "Belum dapat"}, {"kriteria": "Mutu palet warna", "skor4": "Palet selaras, terbaca, dan tersimpan", "skor3": "Palet selaras", "skor2": "Palet kurang selaras", "skor1": "Tidak menyusun palet"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Semua yang tampak pada kanvas aplikasi vektor berupa", "opsi": ["Objek yang dapat diubah terpisah", "Piksel yang menyatu", "Teks yang tidak dapat diubah"], "kunci": 0}, {"soal": "Menyimpan warna dengan nama sendiri berguna untuk", "opsi": ["Menjaga keseragaman warna karya", "Menambah ukuran berkas", "Menyulitkan pencarian"], "kunci": 0}]},
+    "tugas": {"judul": "Latihan objek & palet warna", "bentuk": "individu", "luaran": "Berkas berisi tiga objek dan palet empat warna"},
+    "tindakLanjut": {"remedial": "Pendampingan membuat objek satu per satu.", "pengayaan": "Merancang ikon sederhana dua warna."}
+   },
+   "rabu": {
+    "tujuan": ["Menggunakan pengaturan garis dan pembentukan objek pada karya vektor.", "Membentuk objek baru dari gabungan atau pemotongan bentuk."],
+    "pemantik": ["Bagaimana membuat bentuk bulan sabit dari dua lingkaran?", "Apa kegunaan pengaturan ketebalan garis?"],
+    "materi": {
+     "pengantar": "Bentuk rumit biasanya dibangun dari bentuk sederhana. Dengan menggabungkan, memotong, atau menumpuk bentuk dasar, kita dapat membuat bentuk baru yang rapi dan mudah diubah.",
+     "poin": ["Pengaturan garis meliputi ketebalan, jenis ujung garis, dan jenis sudut pertemuan.", "Bentuk baru dibuat dengan menggabungkan dua bentuk, memotong bagian yang bertumpuk, atau mengambil bagian tengahnya.", "Menyusun objek bertingkat (di depan atau di belakang) menentukan bagian mana yang terlihat.", "Menyimpan hasil pembentukan sebagai objek baru memudahkan pengubahan berikutnya."],
+     "istilah": [{"t": "pembentukan objek", "a": "Membuat bentuk baru dengan menggabung atau memotong bentuk dasar."}, {"t": "urutan tumpukan", "a": "Susunan depan-belakang antar objek pada kanvas."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Bedah ikon sederhana", "keterangan": "Amati satu ikon dan tebak bentuk dasar apa saja yang menyusunnya."}, {"jenis": "diagram", "id": "diagram-path", "judul": "Gabung, potong, tengah", "keterangan": "Diagram orisinal: tiga cara pembentukan objek dari dua bentuk."}],
+    "aktivitas": {"memahami": ["Menelaah cara membentuk objek baru", "Mengenali pengaturan garis"], "mengaplikasi": ["Membuat satu ikon sederhana dari bentuk dasar", "Mengatur ketebalan garis dan tumpukan objek", "Menyimpan hasil sebagai objek baru"], "merefleksi": ["Menulis langkah pembentukan yang paling sulit saya kerjakan"]},
+    "lkpd": {"judul": "LKPD 66 — Path & Pembentukan Objek", "langkah": ["Susun ikon dari dua-tiga bentuk dasar.", "Gunakan penggabungan atau pemotongan.", "Atur ketebalan dan tumpukan.", "Simpan hasil."], "rubrik": [{"kriteria": "Ketepatan hasil pembentukan", "skor4": "Ikon tersusun rapi dan bentuk akhir bersih", "skor3": "Ikon tersusun", "skor2": "Bentuk belum rapi", "skor1": "Belum membentuk"}, {"kriteria": "Keterampilan pengaturan", "skor4": "Garis dan urutan tumpukan diatur tepat", "skor3": "Diatur sebagian", "skor2": "Diatur asal", "skor1": "Tidak diatur"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Bentuk baru dapat dibuat dengan cara", "opsi": ["Menggabung atau memotong bentuk dasar", "Menambah banyak warna", "Memperbesar kanvas"], "kunci": 0}, {"soal": "Fungsi pengaturan ketebalan garis adalah", "opsi": ["Menentukan tampilan garis dari tipis sampai tebal", "Mengubah ukuran kanvas", "Menghapus objek"], "kunci": 0}]},
+    "tugas": {"judul": "Ikon sederhana hasil pembentukan objek", "bentuk": "individu", "luaran": "Satu berkas ikon + catatan langkah"},
+    "tindakLanjut": {"remedial": "Pendampingan mengikuti langkah bersama guru.", "pengayaan": "Membuat satu set tiga ikon dengan gaya sama."}
+   }
+  },
+  {
+   "minggu": 34,
+   "senin": {
+    "tujuan": ["Mengenal teknik seleksi pada gambar bitmap.", "Memilih teknik seleksi sesuai bentuk objek."],
+    "pemantik": ["Bagaimana memisahkan objek dari latarnya jika tepinya berambut?", "Mengapa seleksi kasar membuat hasil tampak tidak rapi?"],
+    "materi": {
+     "pengantar": "Seleksi adalah dasar penyuntingan bitmap: sebelum mengubah sebagian gambar, bagian itu harus dipilih dengan tepat. Ketepatan seleksi menentukan kerapian hasil akhir.",
+     "poin": ["Teknik seleksi bentuk sederhana: memilih persegi, elips, atau bentuk bebas.", "Teknik seleksi berbasis warna memilih area dengan warna serupa sehingga berguna untuk latar yang rata.", "Objek berambut atau tepi rinci memerlukan teknik seleksi halus atau pemotongan bertahap.", "Hasil seleksi dapat dipindahkan, disalin, atau diubah warnanya tanpa mengganggu bagian lain."],
+     "istilah": [{"t": "seleksi", "a": "Penandaan sebagian area gambar untuk diolah."}, {"t": "seleksi berbasis warna", "a": "Pemilihan area berdasarkan kesamaan warna."}, {"t": "tepi halus", "a": "Tepi seleksi yang dibuat bertahap agar hasil menyatu."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Praktik penyuntingan bitmap", "keterangan": "Perhatikan langkah seleksi dan penyuntingan pada Buku Sem 2 Bab 3 subbab B (halaman 115–123). Langkah dapat dijalankan dengan padanan bebas di laboratorium sekolah."}, {"jenis": "pengamatan", "judul": "Hasil seleksi rapi vs kasar", "keterangan": "Bandingkan dua hasil pemisahan objek: mana yang tepinya lebih bersih?"}],
+    "aktivitas": {"memahami": ["Membaca uraian teknik seleksi", "Membandingkan hasil seleksi kasar dan halus"], "mengaplikasi": ["Memotong satu objek dari latarnya memakai dua teknik", "Membandingkan kerapian hasil", "Menyimpan hasil sebagai berkas baru"], "merefleksi": ["Menulis teknik seleksi yang paling cocok untuk objek foto saya"]},
+    "lkpd": {"judul": "LKPD 67 — Teknik Seleksi Bitmap", "langkah": ["Ambil satu foto objek dengan latar sederhana.", "Pisahkan objek memakai seleksi dasar.", "Ulangi dengan seleksi halus.", "Bandingkan hasilnya."], "rubrik": [{"kriteria": "Ketepatan seleksi", "skor4": "Tepi objek bersih pada kedua teknik", "skor3": "Tepi cukup bersih", "skor2": "Tepi bergerigi", "skor1": "Gagal memisahkan"}, {"kriteria": "Mutu perbandingan", "skor4": "Perbedaan kedua teknik dijelaskan beralasan", "skor3": "Perbandingan dijelaskan", "skor2": "Perbandingan umum", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Teknik seleksi berbasis warna cocok untuk", "opsi": ["Latar dengan warna seragam", "Foto dengan banyak tekstur rumit", "Teks panjang"], "kunci": 0}, {"soal": "Tujuan seleksi halus adalah", "opsi": ["Membuat tepi hasil menyatu dan rapi", "Memperbesar berkas", "Menambah warna"], "kunci": 0}]},
+    "tugas": {"judul": "Foto objek terpisah dari latar (dua teknik)", "bentuk": "individu", "luaran": "Dua berkas hasil + catatan perbandingan"},
+    "tindakLanjut": {"remedial": "Pendampingan memakai foto dengan latar sangat sederhana.", "pengayaan": "Membuat gambar produk latar putih untuk keperluan promosi."}
+   },
+   "rabu": {
+    "tujuan": ["Menggunakan lapisan (layer) untuk menyusun karya bitmap.", "Menggabungkan beberapa gambar menjadi satu komposisi yang rapi."],
+    "pemantik": ["Mengapa bekerja dengan lapisan lebih aman daripada menyunting langsung?", "Bagaimana menyusun bingkai foto bergaya kolase?"],
+    "materi": {
+     "pengantar": "Lapisan membuat pekerjaan rapi dan dapat dibatalkan. Setiap unsur diletakkan pada lapisannya sendiri sehingga perubahan pada satu unsur tidak merusak unsur lain.",
+     "poin": ["Lapisan diberi nama sesuai isinya agar mudah dicari saat karya menjadi rumit.", "Urutan lapisan menentukan bagian mana yang tampak di depan.", "Penggabungan gambar memerlukan penyesuaian ukuran dan pencahayaan agar terlihat menyatu.", "Perubahan besar sebaiknya disimpan sebagai versi baru agar dapat dibandingkan."],
+     "istilah": [{"t": "lapisan (layer)", "a": "Bidang terpisah pada berkas gambar yang dapat diolah sendiri."}, {"t": "komposisi bitmap", "a": "Susunan beberapa gambar menjadi satu karya."}, {"t": "penyesuaian menyatu", "a": "Penyesuaian warna dan terang agar gabungan gambar tidak terlihat menempel."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Buka lapisan sebuah kolase", "keterangan": "Amati susunan lapisan pada contoh kolase sederhana dan tentukan fungsi tiap lapisan."}, {"jenis": "diagram", "id": "diagram-layer", "judul": "Susunan lapisan", "keterangan": "Diagram orisinal: latar, objek, tulisan, dan lapisan penyesuaian."}],
+    "aktivitas": {"memahami": ["Membaca uraian penggunaan lapisan", "Mengenali urutan lapisan pada contoh karya"], "mengaplikasi": ["Membuat kolase dua gambar dengan lapisan terpisah", "Menyusun urutan lapisan dan memberi nama", "Menyimpan versi kerja dan versi akhir"], "merefleksi": ["Menulis manfaat bekerja memakai lapisan berdasarkan pengalaman saya"]},
+    "lkpd": {"judul": "LKPD 68 — Layer & Komposisi Bitmap", "langkah": ["Siapkan dua gambar.", "Susun pada lapisan terpisah dan beri nama.", "Atur urutan dan pencahayaan.", "Simpan versi akhir."], "rubrik": [{"kriteria": "Kerapian penggunaan lapisan", "skor4": "Semua unsur pada lapisan bernama dan urutannya tepat", "skor3": "Lapisan dipakai dan dinamai", "skor2": "Lapisan dipakai tanpa nama", "skor1": "Bekerja pada satu lapisan saja"}, {"kriteria": "Mutu komposisi", "skor4": "Gabungan terlihat menyatu dan seimbang", "skor3": "Komposisi cukup rapi", "skor2": "Terlihat menempel", "skor1": "Belum tersusun"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Manfaat bekerja dengan lapisan adalah", "opsi": ["Perubahan pada satu unsur tidak merusak unsur lain", "Menambah jumlah berkas", "Membuat gambar gelap"], "kunci": 0}, {"soal": "Urutan lapisan menentukan", "opsi": ["Bagian yang tampak di depan", "Ukuran berkas", "Nama berkas"], "kunci": 0}]},
+    "tugas": {"judul": "Kolase dua gambar dengan lapisan", "bentuk": "individu", "luaran": "Satu berkas kolase + daftar lapisan"},
+    "tindakLanjut": {"remedial": "Pendampingan membuat dua lapisan saja.", "pengayaan": "Membuat kolase tiga gambar dengan penyesuaian warna."}
+   }
+  },
+  {
+   "minggu": 35,
+   "senin": {
+    "tujuan": ["Mengikuti langkah pembuatan produk grafis: mug, logo, packaging, dan kartu nama.", "Menerapkan pengaturan ukuran dan warna pada produk."],
+    "pemantik": ["Ukuran berapa yang tepat untuk cetak pada mug?", "Apa yang harus diperhatikan saat membuat gambar untuk kemasan?"],
+    "materi": {
+     "pengantar": "Produk grafis dibuat untuk dipakai, sehingga ukuran dan bahan menentukan cara menyiapkan berkas. Buku contoh memuat empat produk: gambar pada mug berukuran 8 × 20 cm, logo, kemasan (packaging), dan kartu nama.",
+     "poin": ["Mug: bidang cetak berbentuk memanjang 8 × 20 cm, sehingga susunan gambar sebaiknya mendatar dan tidak penting di bagian tepi.", "Logo: dibuat vektor, sederhana, tetap jelas pada ukuran kecil, dan mudah dikenali dalam satu warna.", "Kemasan: memuat informasi produk, gambar, dan susunan yang rapi; perlu mempertimbangkan bentuk lipatan.", "Kartu nama: ukuran kecil menuntut pemilihan huruf yang sederhana dan penempatan informasi yang jelas."],
+     "istilah": [{"t": "bidang cetak", "a": "Area pada produk yang dapat menerima gambar atau tulisan."}, {"t": "die-line", "a": "Garis panduan bentuk potongan dan lipatan pada kemasan."}, {"t": "keterbacaan produk", "a": "Kemudahan informasi pada produk dibaca oleh pengguna."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Produk rancangan komputer grafis", "keterangan": "Perhatikan langkah pembuatan produk pada Buku Sem 2 Bab 3 subbab C (halaman 124–137), termasuk produk 1 (mug), 2 (logo), 3 (packaging), dan 4 (kartu nama)."}, {"jenis": "pengamatan", "judul": "Ukur produk nyata", "keterangan": "Ukur mug dan kartu nama nyata, lalu bandingkan dengan ukuran bidang cetak pada buku."}],
+    "aktivitas": {"memahami": ["Membaca langkah pembuatan empat produk", "Mencatat kebutuhan ukuran tiap produk"], "mengaplikasi": ["Menyiapkan berkas untuk satu produk pilihan", "Menerapkan ukuran bidang cetak sesuai contoh buku", "Memeriksa hasil dengan mencetak uji"], "merefleksi": ["Menulis produk yang paling menantang bagi saya dan alasannya"]},
+    "lkpd": {"judul": "LKPD 69 — Menyiapkan Berkas Produk Grafis", "langkah": ["Pilih satu produk (mug/logo/packaging/kartu nama).", "Siapkan berkas dengan ukuran yang tepat.", "Susun isi karya dan simpan versi siap cetak."], "rubrik": [{"kriteria": "Ketepatan ukuran dan penyiapan berkas", "skor4": "Ukuran tepat, susunan sesuai bidang cetak", "skor3": "Ukuran tepat", "skor2": "Ukuran kurang tepat", "skor1": "Belum menyiapkan"}, {"kriteria": "Kesesuaian isi karya", "skor4": "Isi karya jelas dan mudah dibaca pada produk", "skor3": "Isi karya jelas", "skor2": "Isi karya kurang jelas", "skor1": "Belum ada isi"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Ukuran bidang gambar pada mug menurut buku contoh adalah", "opsi": ["8 × 20 cm", "20 × 30 cm", "3 × 4 cm"], "kunci": 0}, {"soal": "Logo yang baik tetap jelas saat", "opsi": ["Dicetak kecil dan satu warna", "Diperbesar tanpa batas dengan piksel", "Diberi banyak gradasi"], "kunci": 0}]},
+    "tugas": {"judul": "Berkas produk grafis tahap penyiapan", "bentuk": "individu", "luaran": "Satu berkas produk dengan ukuran bidang cetak tepat"},
+    "tindakLanjut": {"remedial": "Pendampingan mengikuti langkah buku untuk produk termudah.", "pengayaan": "Menghitung kebutuhan bahan untuk produksi lima benda."}
+   },
+   "rabu": {
+    "tujuan": ["Menyelesaikan dan menyajikan produk grafis.", "Menjelaskan pertimbangan produksi produk yang dibuat."],
+    "pemantik": ["Apa yang perlu dicek sebelum berkas dikirim ke percetakan?", "Bagaimana memastikan warna tidak berbeda jauh saat dicetak?"],
+    "materi": {
+     "pengantar": "Produk selesai bukan berarti pekerjaan berakhir. Pemeriksaan akhir memastikan berkas siap dicetak, dan penyajian menjelaskan mengapa produk dirancang demikian.",
+     "poin": ["Pemeriksaan akhir: ukuran, ketajaman, huruf, warna, dan posisi gambar pada bidang cetak.", "Penyimpanan berkas disertai versi siap cetak dan versi kerja agar dapat diperbaiki kemudian.", "Penyajian produk memuat alasan pemilihan bentuk, warna, dan huruf.", "Biaya bahan dan waktu pengerjaan perlu dicatat sebagai bahan belajar menetapkan harga."],
+     "istilah": [{"t": "versi siap cetak", "a": "Berkas akhir yang sudah diperiksa dan siap diproduksi."}, {"t": "pemeriksaan akhir", "a": "Pengecekan seluruh bagian karya sebelum diserahkan."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Ceklis sebelum cetak", "keterangan": "Amati satu berkas produk dan periksa memakai daftar periksa sebelum cetak."}, {"jenis": "diagram", "id": "diagram-alur-produksi", "judul": "Alur penyelesaian produk", "keterangan": "Diagram orisinal: periksa → simpan versi → sajikan → hitung biaya."}],
+    "aktivitas": {"memahami": ["Menelaah daftar pemeriksaan akhir", "Menyusun kerangka penyajian produk"], "mengaplikasi": ["Menyelesaikan produk dan memeriksa berkas", "Menyajikan produk dan menjelaskan pertimbangannya", "Mencatat kebutuhan bahan dan waktu"], "merefleksi": ["Menilai kesiapan produk saya untuk dicetak nyata"]},
+    "lkpd": {"judul": "LKPD 70 — Penyelesaian & Penyajian Produk Grafis", "langkah": ["Periksa berkas dengan daftar periksa.", "Simpan versi siap cetak.", "Sajikan produk tiga menit.", "Catat bahan dan waktu."], "rubrik": [{"kriteria": "Kualitas produk akhir", "skor4": "Berkas bersih, ukuran tepat, mudah dibaca", "skor3": "Produk baik", "skor2": "Produk cukup", "skor1": "Belum selesai"}, {"kriteria": "Mutu penyajian", "skor4": "Menjelaskan pertimbangan desain dan produksi dengan alasan", "skor3": "Menjelaskan dengan alasan", "skor2": "Menjelaskan singkat", "skor1": "Tidak siap"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Yang diperiksa pada pemeriksaan akhir produk adalah", "opsi": ["Ukuran, ketajaman, huruf, warna, dan posisi", "Jumlah pengunjung", "Warna kursi"], "kunci": 0}, {"soal": "Menyimpan versi kerja selain versi siap cetak berguna untuk", "opsi": ["Memudahkan perbaikan di kemudian hari", "Menambah jumlah folder", "Menghilangkan berkas asli"], "kunci": 0}]},
+    "tugas": {"judul": "Produk grafis siap cetak + laporan pertimbangan", "bentuk": "individu", "luaran": "Berkas produk, catatan pemeriksaan, dan laporan singkat"},
+    "tindakLanjut": {"remedial": "Pendampingan memeriksa berkas bersama.", "pengayaan": "Menawarkan produk latihan untuk keperluan nyata di sekolah."}
+   }
+  },
+  {
+   "minggu": 36,
+   "senin": {
+    "tujuan": ["Menyelesaikan proyek terpadu yang menggabungkan kemampuan satu tahun.", "Menyusun portofolio karya bernarasi."],
+    "pemantik": ["Kemampuan mana dari tiga bab semester ini yang paling sering kamu pakai?", "Bagaimana memilih sepuluh karya terbaik dari seluruh hasil belajar?"],
+    "materi": {
+     "pengantar": "Proyek terpadu menggabungkan kemampuan tipografi, fotografi, dan komputer grafis dalam satu karya komunikasi visual yang utuh, lengkap dengan proses dan penjelasannya.",
+     "poin": ["Tahap proyek terpadu: tetapkan pesan dan sasaran, riset kecil, susun rancangan, kerjakan, uji, perbaiki, dan siapkan presentasi.", "Portofolio bernarasi memuat karya, catatan proses, dan pelajaran yang didapat sehingga terlihat perkembangan pemikiran.", "Pemilihan karya mempertimbangkan keragaman jenis, mutu, dan waktu pengerjaan.", "Berkas proyek disusun rapi agar mudah ditelusuri oleh guru dan penguji."],
+     "istilah": [{"t": "proyek terpadu", "a": "Karya akhir yang memadukan beberapa kemampuan sekaligus."}, {"t": "portofolio bernarasi", "a": "Kumpulan karya yang disertai cerita proses dan pelajaran."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Rangkuman dan asesmen Bab 3 serta latihan soal semester 2", "keterangan": "Perhatikan rangkuman, asesmen, dan uji kompetensi Bab 3 pada Buku Sem 2 (halaman 138–142) serta latihan soal semester 2 (halaman 143–156)."}, {"jenis": "diagram", "id": "diagram-alur-produksi", "judul": "Tahap proyek terpadu", "keterangan": "Diagram orisinal: pesan → riset → rancangan → produksi → uji → presentasi."}],
+    "aktivitas": {"memahami": ["Membaca rangkuman dan menelaah kriteria proyek", "Menyusun rencana proyek terpadu"], "mengaplikasi": ["Mengerjakan proyek terpadu sesuai rencana", "Menyeleksi karya untuk portofolio", "Menulis catatan proses tiap karya"], "merefleksi": ["Menulis kemampuan yang paling berkembang sepanjang satu tahun"]},
+    "lkpd": {"judul": "LKPD 71 — Proyek Terpadu & Penyusunan Portofolio", "langkah": ["Tetapkan pesan, sasaran, dan media proyek.", "Kerjakan proyek sesuai rencana.", "Seleksi 8–10 karya untuk portofolio.", "Tulis catatan proses."], "rubrik": [{"kriteria": "Mutu proyek terpadu", "skor4": "Karya utuh, sesuai pesan, dan menunjukkan penguasaan tiga bidang", "skor3": "Karya baik dan sesuai pesan", "skor2": "Karya cukup", "skor1": "Belum selesai"}, {"kriteria": "Kelengkapan portofolio", "skor4": "8–10 karya dengan catatan proses dan pelajaran", "skor3": "8–10 karya dengan catatan", "skor2": "Kurang dari 8 karya", "skor1": "Belum menyusun"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Tahap proyek terpadu setelah perancangan adalah", "opsi": ["Pengerjaan dan pengujian karya", "Langsung presentasi", "Menghapus berkas"], "kunci": 0}, {"soal": "Portofolio bernarasi memuat", "opsi": ["Karya beserta catatan proses dan pelajaran", "Daftar nilai saja", "Tangkapan layar aplikasi"], "kunci": 0}]},
+    "tugas": {"judul": "Proyek terpadu + portofolio 8–10 karya", "bentuk": "individu", "luaran": "Berkas proyek dan dokumen portofolio bernarasi"},
+    "tindakLanjut": {"remedial": "Pendampingan memilih proyek yang paling sederhana.", "pengayaan": "Menyiapkan karya untuk pameran akhir tahun."}
+   },
+   "rabu": {
+    "tujuan": ["Mempresentasikan proyek dan portofolio tahunan.", "Menyelesaikan asesmen akhir tahun serta merefleksi capaian satu tahun belajar."],
+    "pemantik": ["Apa keputusan desain yang paling kamu banggakan?", "Apa rencana belajarmu setelah kelas X?"],
+    "materi": {
+     "pengantar": "Presentasi akhir menunjukkan kemampuan menjelaskan karya, menerima pertanyaan, dan mengakui bagian yang masih perlu diperbaiki. Refleksi tahunan menjadi titik tolak belajar pada tingkat berikutnya.",
+     "poin": ["Presentasi memuat pesan, proses, keputusan desain, kendala, dan pelajaran yang didapat.", "Penilaian akhir mempertimbangkan proses, hasil, sikap kerja, dan kemampuan menjelaskan karya.", "Refleksi tahunan memuat capaian, hambatan, dan rencana pengembangan diri.", "Portofolio tahunan diserahkan dalam bentuk berkas digital dan salinan cetak ringkas."],
+     "istilah": [{"t": "asesmen akhir tahun", "a": "Penilaian menyeluruh atas capaian belajar satu tahun."}, {"t": "refleksi tahunan", "a": "Penilaian diri atas perjalanan belajar satu tahun."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Susunan presentasi lima menit", "keterangan": "Amati contoh susunan lima slide: pesan, proses, karya, kendala, pelajaran."}, {"jenis": "diagram", "id": "diagram-alur-produksi", "judul": "Alur presentasi akhir", "keterangan": "Diagram orisinal: konteks → karya → keputusan → pelajaran → rencana."}],
+    "aktivitas": {"memahami": ["Menelaah kriteria penilaian akhir", "Menyusun kerangka presentasi"], "mengaplikasi": ["Mempresentasikan proyek dan portofolio", "Menjawab pertanyaan penguji", "Mengerjakan asesmen akhir semester 2"], "merefleksi": ["Menulis refleksi tahunan dan rencana belajar berikutnya"]},
+    "lkpd": {"judul": "LKPD 72 — Presentasi Akhir & Refleksi Tahunan", "langkah": ["Susun bahan presentasi.", "Presentasikan proyek dan portofolio.", "Kerjakan asesmen akhir semester 2.", "Isi lembar refleksi tahunan."], "rubrik": [{"kriteria": "Mutu presentasi", "skor4": "Jelas, beralasan, dan meyakinkan saat menjawab", "skor3": "Jelas dan beralasan", "skor2": "Kurang jelas", "skor1": "Tidak siap"}, {"kriteria": "Kedalaman refleksi", "skor4": "Capaian, hambatan, dan rencana belajar ditulis rinci", "skor3": "Refleksi jelas", "skor2": "Refleksi singkat", "skor1": "Belum mengisi"}]},
+    "asesmenFormatif": {"bentuk": "asesmen-sumatif-akhir-semester", "butir": [{"soal": "Penilaian akhir tahun mempertimbangkan", "opsi": ["Proses, hasil, sikap kerja, dan kemampuan menjelaskan", "Nilai satu tugas saja", "Kehadiran tanpa karya"], "kunci": 0}, {"soal": "Refleksi tahunan sebaiknya memuat", "opsi": ["Capaian, hambatan, dan rencana belajar", "Daftar nama teman", "Keluhan tanpa solusi"], "kunci": 0}, {"soal": "Portofolio tahunan sebaiknya disampaikan sebagai", "opsi": ["Berkas digital dan salinan cetak ringkas", "Foto layar saja", "Cerita lisan saja"], "kunci": 0}]},
+    "tugas": {"judul": "Presentasi akhir, asesmen akhir semester 2, refleksi tahunan", "bentuk": "individu", "luaran": "Bahan presentasi, lembar jawaban, dan lembar refleksi"},
+    "tindakLanjut": {"remedial": "Pendampingan menyiapkan bahan presentasi.", "pengayaan": "Mengikuti kegiatan pameran atau lomba karya desain."}
+   }
+  }
+ ]
+}

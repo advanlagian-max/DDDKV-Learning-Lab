@@ -1,0 +1,419 @@
+{
+ "meta": {
+  "judul": "Diagram contoh visual — modul Dasar-Dasar DKV Kelas X",
+  "catatan": "Semua diagram adalah gambar orisinal yang dibuat untuk modul ini (usulan ⧗ untuk diverifikasi guru), bukan kutipan dari buku. Disimpan sebagai bentuk sederhana lalu dirender menjadi SVG oleh aplikasi."
+ },
+ "diagram": [
+  {
+   "id": "diagram-postur",
+   "judul": "Postur kerja sehat di depan komputer",
+   "keterangan": "Kepala sejajar pandangan, siku ±90°, kaki menapak, monitor sejauh satu lengan.",
+   "elemen": [
+    {"tag": "rect", "x": 10, "y": 30, "w": 60, "h": 150, "rx": 3, "fill": "#e2e8f0"},
+    {"tag": "line", "x1": 22, "y1": 120, "x2": 150, "y2": 120, "stroke": "#475569", "w": 4},
+    {"tag": "rect", "x": 100, "y": 78, "w": 110, "h": 82, "rx": 6, "fill": "#e2e8f0", "stroke": "#94a3b8"},
+    {"tag": "rect", "x": 112, "y": 88, "w": 86, "h": 54, "rx": 3, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "circle", "cx": 170, "cy": 45, "r": 16, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "line", "x1": 170, "y1": 61, "x2": 170, "y2": 118, "stroke": "#1e293b", "w": 5},
+    {"tag": "line", "x1": 170, "y1": 80, "x2": 225, "y2": 96, "stroke": "#1e293b", "w": 5},
+    {"tag": "line", "x1": 170, "y1": 118, "x2": 150, "y2": 120, "stroke": "#1e293b", "w": 5},
+    {"tag": "line", "x1": 155, "y1": 120, "x2": 155, "y2": 152, "stroke": "#1e293b", "w": 5},
+    {"tag": "line", "x1": 155, "y1": 152, "x2": 172, "y2": 152, "stroke": "#1e293b", "w": 4},
+    {"tag": "line", "x1": 100, "y1": 45, "x2": 205, "y2": 45, "stroke": "#2563eb", "w": 2, "dash": "6 4"},
+    {"tag": "text", "x": 208, "y": 42, "teks": "pandangan sejajar", "size": 10, "fill": "#2563eb"},
+    {"tag": "text", "x": 210, "y": 112, "teks": "siku ±90°", "size": 10, "fill": "#2563eb"},
+    {"tag": "text", "x": 118, "y": 168, "teks": "kaki menapak", "size": 10, "fill": "#2563eb"},
+    {"tag": "text", "x": 30, "y": 40, "teks": "istirahat mata tiap 20–30 menit", "size": 10, "fill": "#7c2d12"}
+   ]
+  },
+  {
+   "id": "diagram-alur-kelas",
+   "judul": "Alur kerja penggambaran kelas & bangunan",
+   "keterangan": "Dari bentuk bebas ke ukuran terukur, lalu dievaluasi.",
+   "elemen": [
+    {"tag": "circle", "cx": 50, "cy": 60, "r": 26, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 50, "y": 64, "teks": "Bebas", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 78, "y1": 60, "x2": 108, "y2": 60, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "108,55 120,60 108,65", "fill": "#1e293b"},
+    {"tag": "rect", "x": 122, "y": 34, "w": 76, "h": 52, "rx": 6, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 160, "y": 64, "teks": "Terukur", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 200, "y1": 60, "x2": 228, "y2": 60, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "228,55 240,60 228,65", "fill": "#1e293b"},
+    {"tag": "rect", "x": 242, "y": 34, "w": 68, "h": 52, "rx": 6, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "text", "x": 276, "y": 64, "teks": "Evaluasi", "size": 11, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 50, "y": 104, "teks": "ide kasar", "size": 10, "anchor": "middle", "fill": "#475569"},
+    {"tag": "text", "x": 160, "y": 104, "teks": "kaidah gambar", "size": 10, "anchor": "middle", "fill": "#475569"},
+    {"tag": "text", "x": 276, "y": 104, "teks": "cek & perbaiki", "size": 10, "anchor": "middle", "fill": "#475569"},
+    {"tag": "text", "x": 160, "y": 150, "teks": "urutan ini dipakai pada LKPD penggambaran kelas", "size": 10, "anchor": "middle", "fill": "#334155"}
+   ]
+  },
+  {
+   "id": "diagram-peluang",
+   "judul": "Tiga hal yang perlu dihitung sebelum berwirausaha",
+   "keterangan": "Jumlah sasaran, kemampuan membeli, dan kemauan membayar.",
+   "elemen": [
+    {"tag": "circle", "cx": 60, "cy": 60, "r": 34, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 60, "y": 58, "teks": "Sasaran", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 60, "y": 74, "teks": "cukup banyak?", "size": 9, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "circle", "cx": 160, "cy": 60, "r": 34, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 160, "y": 58, "teks": "Daya beli", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 74, "teks": "mampu membeli?", "size": 9, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "circle", "cx": 260, "cy": 60, "r": 34, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "text", "x": 260, "y": 58, "teks": "Kemauan", "size": 11, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 260, "y": 74, "teks": "mau membayar?", "size": 9, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 160, "y": 128, "teks": "Bila salah satu dijawab tidak, peluang perlu diuji ulang", "size": 10, "anchor": "middle", "fill": "#334155"}
+   ]
+  },
+  {
+   "id": "diagram-rencana-usaha",
+   "judul": "Lima bagian rencana usaha jasa desain",
+   "keterangan": "Isi ringkas rencana yang disusun siswa sebelum usaha atau jasa berjalan.",
+   "elemen": [
+    {"tag": "rect", "x": 14, "y": 40, "w": 54, "h": 44, "rx": 5, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 41, "y": 66, "teks": "Produk", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 76, "y": 40, "w": 54, "h": 44, "rx": 5, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 103, "y": 66, "teks": "Sasaran", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 138, "y": 40, "w": 54, "h": 44, "rx": 5, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 165, "y": 66, "teks": "Harga", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 200, "y": 40, "w": 54, "h": 44, "rx": 5, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 227, "y": 60, "teks": "Promosi", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 227, "y": 73, "teks": "& layanan", "size": 9, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 262, "y": 40, "w": 48, "h": 44, "rx": 5, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "text", "x": 286, "y": 60, "teks": "Keuangan", "size": 10, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 286, "y": 73, "teks": "hari ini", "size": 9, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "line", "x1": 20, "y1": 100, "x2": 300, "y2": 100, "stroke": "#94a3b8", "w": 2},
+    {"tag": "text", "x": 160, "y": 122, "teks": "Bagian keuangan ditulis sederhana: pemasukan − pengeluaran", "size": 10, "anchor": "middle", "fill": "#334155"},
+    {"tag": "text", "x": 160, "y": 140, "teks": "Rencana diperiksa ulang setiap bulan ⧗", "size": 10, "anchor": "middle", "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-alur-produksi",
+   "judul": "Alur enam tahap pengerjaan karya desain",
+   "keterangan": "Diperkenalkan sejak semester 1, dipakai sampai proyek akhir tahun.",
+   "elemen": [
+    {"tag": "rect", "x": 8, "y": 34, "w": 60, "h": 34, "rx": 5, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 38, "y": 55, "teks": "Permintaan", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 68, "y1": 51, "x2": 84, "y2": 51, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "84,47 94,51 84,55", "fill": "#1e293b"},
+    {"tag": "rect", "x": 96, "y": 34, "w": 56, "h": 34, "rx": 5, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 124, "y": 55, "teks": "Konsep", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 152, "y1": 51, "x2": 168, "y2": 51, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "168,47 178,51 168,55", "fill": "#1e293b"},
+    {"tag": "rect", "x": 180, "y": 34, "w": 56, "h": 34, "rx": 5, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 208, "y": 55, "teks": "Desain", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 236, "y1": 51, "x2": 252, "y2": 51, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "252,47 262,51 252,55", "fill": "#1e293b"},
+    {"tag": "rect", "x": 264, "y": 34, "w": 48, "h": 34, "rx": 5, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 288, "y": 55, "teks": "Produksi", "size": 9, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 288, "y1": 68, "x2": 288, "y2": 84, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "284,84 288,94 292,84", "fill": "#1e293b"},
+    {"tag": "rect", "x": 176, "y": 96, "w": 136, "h": 34, "rx": 5, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "text", "x": 244, "y": 110, "teks": "Uji bersama & perbaikan", "size": 10, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 244, "y": 124, "teks": "menyerahkan hasil kepada pemberi tugas", "size": 8, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "line", "x1": 176, "y1": 113, "x2": 40, "y2": 113, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "40,109 30,113 40,117", "fill": "#1e293b"},
+    {"tag": "text", "x": 60, "y": 150, "teks": "bila belum lolos uji, kembali ke konsep atau desain", "size": 10, "fill": "#334155"}
+   ]
+  },
+  {
+   "id": "diagram-bitmap-vektor",
+   "judul": "Bitmap (piksel) dibandingkan vektor (bentuk matematis)",
+   "keterangan": "Kiri: memperbesar piksel membuat tepi bertingkat. Kanan: bentuk matematis tetap tajam.",
+   "elemen": [
+    {"tag": "rect", "x": 20, "y": 30, "w": 120, "h": 100, "fill": "#f1f5f9", "stroke": "#94a3b8"},
+    {"tag": "rect", "x": 20, "y": 30, "w": 20, "h": 20, "fill": "#93c5fd"},
+    {"tag": "rect", "x": 40, "y": 30, "w": 20, "h": 20, "fill": "#60a5fa"},
+    {"tag": "rect", "x": 60, "y": 30, "w": 20, "h": 20, "fill": "#3b82f6"},
+    {"tag": "rect", "x": 80, "y": 30, "w": 20, "h": 20, "fill": "#60a5fa"},
+    {"tag": "rect", "x": 100, "y": 30, "w": 20, "h": 20, "fill": "#93c5fd"},
+    {"tag": "rect", "x": 120, "y": 30, "w": 20, "h": 20, "fill": "#bfdbfe"},
+    {"tag": "rect", "x": 40, "y": 50, "w": 20, "h": 20, "fill": "#60a5fa"},
+    {"tag": "rect", "x": 80, "y": 50, "w": 20, "h": 20, "fill": "#3b82f6"},
+    {"tag": "rect", "x": 100, "y": 50, "w": 20, "h": 20, "fill": "#60a5fa"},
+    {"tag": "rect", "x": 120, "y": 50, "w": 20, "h": 20, "fill": "#bfdbfe"},
+    {"tag": "rect", "x": 60, "y": 70, "w": 20, "h": 20, "fill": "#93c5fd"},
+    {"tag": "rect", "x": 80, "y": 70, "w": 20, "h": 20, "fill": "#3b82f6"},
+    {"tag": "rect", "x": 120, "y": 70, "w": 20, "h": 20, "fill": "#60a5fa"},
+    {"tag": "rect", "x": 100, "y": 90, "w": 20, "h": 20, "fill": "#93c5fd"},
+    {"tag": "rect", "x": 120, "y": 90, "w": 20, "h": 20, "fill": "#bfdbfe"},
+    {"tag": "text", "x": 80, "y": 148, "teks": "BITMAP — tersusun piksel", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 180, "y": 30, "w": 120, "h": 100, "fill": "#fff", "stroke": "#94a3b8"},
+    {"tag": "path", "d": "M190 120 L300 40", "stroke": "#16a34a", "w": 6, "fill": "none"},
+    {"tag": "circle", "cx": 190, "cy": 120, "r": 4, "fill": "#15803d"},
+    {"tag": "circle", "cx": 300, "cy": 40, "r": 4, "fill": "#15803d"},
+    {"tag": "text", "x": 240, "y": 148, "teks": "VEKTOR — tersusun bentuk", "size": 11, "anchor": "middle", "fill": "#166534"},
+    {"tag": "text", "x": 160, "y": 172, "teks": "diperbesar 1600%: kiri bertingkat, kanan tetap halus", "size": 10, "anchor": "middle", "fill": "#334155"}
+   ]
+  },
+  {
+   "id": "diagram-prinsip-desain",
+   "judul": "Prinsip dasar penyusunan karya",
+   "keterangan": "Satu fokus utama, unsur pendukung seimbang, dan kesan menyatu.",
+   "elemen": [
+    {"tag": "rect", "x": 40, "y": 28, "w": 240, "h": 100, "rx": 4, "fill": "#fff", "stroke": "#94a3b8"},
+    {"tag": "line", "x1": 160, "y1": 28, "x2": 160, "y2": 128, "stroke": "#cbd5e1", "w": 1, "dash": "4 4"},
+    {"tag": "line", "x1": 40, "y1": 78, "x2": 280, "y2": 78, "stroke": "#cbd5e1", "w": 1, "dash": "4 4"},
+    {"tag": "circle", "cx": 160, "cy": 78, "r": 24, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "text", "x": 160, "y": 82, "teks": "fokus", "size": 10, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "rect", "x": 70, "y": 60, "w": 40, "h": 36, "rx": 3, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "rect", "x": 210, "y": 60, "w": 40, "h": 36, "rx": 3, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 90, "y": 108, "teks": "pendukung", "size": 9, "anchor": "middle", "fill": "#475569"},
+    {"tag": "text", "x": 230, "y": 108, "teks": "pendukung", "size": 9, "anchor": "middle", "fill": "#475569"},
+    {"tag": "text", "x": 160, "y": 46, "teks": "kesatuan: gaya, warna, dan huruf sejalan", "size": 10, "anchor": "middle", "fill": "#334155"},
+    {"tag": "text", "x": 160, "y": 152, "teks": "cek: apa yang pertama kali dilihat? apakah seimbang kiri–kanan?", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 170, "teks": "prinsip ini dipakai pada latihan komposisi semester 2", "size": 10, "anchor": "middle", "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-anatomi-huruf",
+   "judul": "Anatomi huruf dan istilah dasarnya",
+   "keterangan": "Bagian huruf yang perlu dikenali sebelum merancang tipografi.",
+   "elemen": [
+    {"tag": "text", "x": 90, "y": 130, "teks": "Rg", "size": 96, "anchor": "middle", "fill": "#1e3a8a", "weight": "700"},
+    {"tag": "line", "x1": 20, "y1": 130, "x2": 300, "y2": 130, "stroke": "#dc2626", "w": 2},
+    {"tag": "text", "x": 300, "y": 126, "teks": "garis dasar", "size": 9, "anchor": "end", "fill": "#dc2626"},
+    {"tag": "line", "x1": 20, "y1": 40, "x2": 300, "y2": 40, "stroke": "#2563eb", "w": 2, "dash": "6 4"},
+    {"tag": "text", "x": 300, "y": 36, "teks": "tinggi huruf besar", "size": 9, "anchor": "end", "fill": "#2563eb"},
+    {"tag": "line", "x1": 150, "y1": 150, "x2": 150, "y2": 170, "stroke": "#16a34a", "w": 4},
+    {"tag": "text", "x": 156, "y": 168, "teks": "kaki (stem)", "size": 9, "fill": "#166534"},
+    {"tag": "circle", "cx": 118, "cy": 92, "r": 16, "fill": "none", "stroke": "#d97706", "w": 2},
+    {"tag": "text", "x": 60, "y": 168, "teks": "ruang dalam (counter) & lengkung", "size": 9, "fill": "#7c2d12"},
+    {"tag": "text", "x": 160, "y": 190, "teks": "istilah dipakai pada modul tipografi minggu 19–24", "size": 10, "anchor": "middle", "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-hierarki-tipografi",
+   "judul": "Empat tingkat hierarki tulisan satu karya",
+   "keterangan": "Urutan kepentingan menentukan ukuran, ketebalan, dan warna huruf.",
+   "elemen": [
+    {"tag": "rect", "x": 20, "y": 26, "w": 280, "h": 8, "fill": "#e2e8f0"},
+    {"tag": "text", "x": 24, "y": 22, "teks": "1. Judul — paling besar & paling kuat", "size": 13, "fill": "#1e3a8a", "weight": "700"},
+    {"tag": "text", "x": 24, "y": 58, "teks": "2. Subjudul — setengah sampai dua pertiga judul", "size": 11, "fill": "#2563eb", "weight": "600"},
+    {"tag": "text", "x": 24, "y": 88, "teks": "3. Isi — ukuran paling nyaman dibaca (10–12 pt)", "size": 10, "fill": "#334155"},
+    {"tag": "line", "x1": 24, "y1": 104, "x2": 296, "y2": 104, "stroke": "#cbd5e1", "w": 1},
+    {"tag": "text", "x": 24, "y": 122, "teks": "4. Keterangan — paling kecil, warna lebih lembut", "size": 8, "fill": "#64748b"},
+    {"tag": "text", "x": 160, "y": 152, "teks": "Satu karya cukup memakai 2–3 ukuran huruf agar tidak gaduh", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 172, "teks": "latihan: potong dan urutkan tiga judul majalah ⧗", "size": 10, "anchor": "middle", "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-spasi",
+   "judul": "Jarak antarhuruf dan antar baris tulisan",
+   "keterangan": "Kerning (jarak huruf), tracking (jarak seluruh baris kata), leading (jarak antarbaris).",
+   "elemen": [
+    {"tag": "text", "x": 26, "y": 60, "teks": "A A", "size": 34, "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 26, "y1": 70, "x2": 120, "y2": 70, "stroke": "#dc2626", "w": 2},
+    {"tag": "text", "x": 26, "y": 88, "teks": "kerning: jarak antarpasangan huruf", "size": 9, "fill": "#dc2626"},
+    {"tag": "text", "x": 150, "y": 60, "teks": "R E N G G A N G", "size": 12, "fill": "#166534"},
+    {"tag": "line", "x1": 150, "y1": 70, "x2": 300, "y2": 70, "stroke": "#16a34a", "w": 2},
+    {"tag": "text", "x": 150, "y": 88, "teks": "tracking: jarak seluruh huruf dalam kata", "size": 9, "fill": "#166534"},
+    {"tag": "text", "x": 26, "y": 122, "teks": "baris satu contoh isi karya", "size": 11, "fill": "#334155"},
+    {"tag": "text", "x": 26, "y": 150, "teks": "baris dua contoh isi karya", "size": 11, "fill": "#334155"},
+    {"tag": "line", "x1": 10, "y1": 122, "x2": 10, "y2": 150, "stroke": "#2563eb", "w": 2},
+    {"tag": "line", "x1": 4, "y1": 122, "x2": 16, "y2": 122, "stroke": "#2563eb", "w": 2},
+    {"tag": "line", "x1": 4, "y1": 150, "x2": 16, "y2": 150, "stroke": "#2563eb", "w": 2},
+    {"tag": "text", "x": 160, "y": 178, "teks": "leading terlalu rapat membuat mata cepat lelah", "size": 10, "anchor": "middle", "fill": "#1e3a8a"}
+   ]
+  },
+  {
+   "id": "diagram-segitiga-eksposur",
+   "judul": "Tiga pengaturan yang menentukan terang foto",
+   "keterangan": "Mengubah satu bagian menuntut penyesuaian bagian lain.",
+   "elemen": [
+    {"tag": "poly", "points": "160,30 40,150 280,150", "fill": "#dbeafe", "stroke": "#2563eb", "w": 3},
+    {"tag": "text", "x": 160, "y": 66, "teks": "Bukaan", "size": 12, "anchor": "middle", "fill": "#1e3a8a", "weight": "600"},
+    {"tag": "text", "x": 160, "y": 82, "teks": "banyak/sedikit cahaya", "size": 9, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 96, "y": 122, "teks": "Kecepatan", "size": 12, "anchor": "middle", "fill": "#166534", "weight": "600"},
+    {"tag": "text", "x": 96, "y": 138, "teks": "lama singkap", "size": 9, "anchor": "middle", "fill": "#166534"},
+    {"tag": "text", "x": 226, "y": 122, "teks": "ISO", "size": 12, "anchor": "middle", "fill": "#7c2d12", "weight": "600"},
+    {"tag": "text", "x": 226, "y": 138, "teks": "kepekaan sensor", "size": 9, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 160, "y": 174, "teks": "dipakai untuk memperkirakan terang pada simulasi fotografi", "size": 10, "anchor": "middle", "fill": "#334155"}
+   ]
+  },
+  {
+   "id": "diagram-kamera",
+   "judul": "Bagian utama kamera dan fungsinya",
+   "keterangan": "Bagian yang perlu dikenali sebelum memotret dan merawat alat.",
+   "elemen": [
+    {"tag": "rect", "x": 60, "y": 58, "w": 190, "h": 84, "rx": 8, "fill": "#e2e8f0", "stroke": "#475569"},
+    {"tag": "poly", "points": "100,58 124,34 168,34 192,58", "fill": "#cbd5e1", "stroke": "#475569"},
+    {"tag": "circle", "cx": 160, "cy": 100, "r": 30, "fill": "#94a3b8", "stroke": "#334155", "w": 3},
+    {"tag": "circle", "cx": 160, "cy": 100, "r": 16, "fill": "#1e293b"},
+    {"tag": "line", "x1": 250, "y1": 70, "x2": 268, "y2": 54, "stroke": "#1e293b", "w": 2},
+    {"tag": "text", "x": 272, "y": 50, "teks": "tombol lepas lensa", "size": 9, "fill": "#1e293b"},
+    {"tag": "line", "x1": 146, "y1": 34, "x2": 120, "y2": 20, "stroke": "#1e293b", "w": 2},
+    {"tag": "text", "x": 108, "y": 16, "teks": "lampu kilat", "size": 9, "anchor": "middle", "fill": "#1e293b"},
+    {"tag": "line", "x1": 160, "y1": 130, "x2": 160, "y2": 154, "stroke": "#1e293b", "w": 2},
+    {"tag": "text", "x": 160, "y": 168, "teks": "lensa & sensor: tempat cahaya masuk", "size": 9, "anchor": "middle", "fill": "#1e293b"},
+    {"tag": "text", "x": 30, "y": 176, "teks": "Layar: melihat hasil · Tombol: mengatur eksposur", "size": 9, "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-shot-size",
+   "judul": "Ukuran pengambilan gambar (shot size)",
+   "keterangan": "Dari sangat lebar sampai sangat dekat.",
+   "elemen": [
+    {"tag": "rect", "x": 24, "y": 34, "w": 80, "h": 90, "fill": "#f1f5f9", "stroke": "#94a3b8"},
+    {"tag": "line", "x1": 24, "y1": 108, "x2": 104, "y2": 108, "stroke": "#cbd5e1", "w": 3},
+    {"tag": "circle", "cx": 64, "cy": 58, "r": 5, "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 64, "y1": 63, "x2": 64, "y2": 88, "stroke": "#1e3a8a", "w": 3},
+    {"tag": "line", "x1": 56, "y1": 74, "x2": 72, "y2": 74, "stroke": "#1e3a8a", "w": 2},
+    {"tag": "line", "x1": 64, "y1": 88, "x2": 58, "y2": 108, "stroke": "#1e3a8a", "w": 2},
+    {"tag": "line", "x1": 64, "y1": 88, "x2": 70, "y2": 108, "stroke": "#1e3a8a", "w": 2},
+    {"tag": "text", "x": 64, "y": 140, "teks": "Sangat lebar", "size": 10, "anchor": "middle", "fill": "#475569"},
+    {"tag": "rect", "x": 122, "y": 34, "w": 80, "h": 90, "fill": "#f1f5f9", "stroke": "#94a3b8"},
+    {"tag": "circle", "cx": 162, "cy": 64, "r": 10, "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 162, "y1": 74, "x2": 162, "y2": 104, "stroke": "#1e3a8a", "w": 4},
+    {"tag": "text", "x": 162, "y": 140, "teks": "Sedang", "size": 10, "anchor": "middle", "fill": "#475569"},
+    {"tag": "rect", "x": 220, "y": 34, "w": 80, "h": 90, "fill": "#f1f5f9", "stroke": "#94a3b8"},
+    {"tag": "circle", "cx": 260, "cy": 74, "r": 22, "fill": "#fde68a", "stroke": "#d97706", "w": 2},
+    {"tag": "text", "x": 260, "y": 80, "teks": "wajah", "size": 9, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 260, "y": 140, "teks": "Sangat dekat", "size": 10, "anchor": "middle", "fill": "#475569"},
+    {"tag": "text", "x": 160, "y": 168, "teks": "pilihan ukuran menentukan pesan yang sampai kepada penglihat ⧗", "size": 10, "anchor": "middle", "fill": "#334155"}
+   ]
+  },
+  {
+   "id": "diagram-komposisi",
+   "judul": "Penempatan objek pada bidang gambar",
+   "keterangan": "Objek utama diletakkan di sekitar titik pertemuan garis bantu.",
+   "elemen": [
+    {"tag": "rect", "x": 40, "y": 24, "w": 240, "h": 130, "fill": "#fff", "stroke": "#475569", "w": 2},
+    {"tag": "line", "x1": 120, "y1": 24, "x2": 120, "y2": 154, "stroke": "#cbd5e1", "w": 1},
+    {"tag": "line", "x1": 200, "y1": 24, "x2": 200, "y2": 154, "stroke": "#cbd5e1", "w": 1},
+    {"tag": "line", "x1": 40, "y1": 67, "x2": 280, "y2": 67, "stroke": "#cbd5e1", "w": 1},
+    {"tag": "line", "x1": 40, "y1": 111, "x2": 280, "y2": 111, "stroke": "#cbd5e1", "w": 1},
+    {"tag": "circle", "cx": 120, "cy": 67, "r": 5, "fill": "#dc2626"},
+    {"tag": "circle", "cx": 200, "cy": 111, "r": 5, "fill": "#dc2626"},
+    {"tag": "circle", "cx": 84, "cy": 92, "r": 20, "fill": "#2563eb", "stroke": "#1e3a8a"},
+    {"tag": "rect", "x": 210, "y": 74, "w": 44, "h": 62, "rx": 4, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 160, "y": 176, "teks": "objek utama tidak selalu di tengah; ruang kosong tetap diperlukan", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 192, "teks": "garis bantu di atas bukan patokan mutlak, hanya alat bantu ⧗", "size": 9, "anchor": "middle", "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-cahaya",
+   "judul": "Tiga arah cahaya pada pemotretan studio sederhana",
+   "keterangan": "Cahaya utama, cahaya pengisi, dan cahaya latar.",
+   "elemen": [
+    {"tag": "circle", "cx": 70, "cy": 60, "r": 18, "fill": "#fde68a", "stroke": "#d97706", "w": 2},
+    {"tag": "text", "x": 70, "y": 64, "teks": "utama", "size": 9, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "line", "x1": 84, "y1": 72, "x2": 140, "y2": 110, "stroke": "#d97706", "w": 2, "dash": "6 4"},
+    {"tag": "circle", "cx": 60, "cy": 130, "r": 12, "fill": "#e2e8f0", "stroke": "#475569"},
+    {"tag": "text", "x": 60, "y": 150, "teks": "pengisi", "size": 9, "anchor": "middle", "fill": "#334155"},
+    {"tag": "line", "x1": 70, "y1": 122, "x2": 140, "y2": 112, "stroke": "#475569", "w": 2, "dash": "6 4"},
+    {"tag": "circle", "cx": 160, "cy": 96, "r": 20, "fill": "#93c5fd", "stroke": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 100, "teks": "objek", "size": 9, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 250, "y": 30, "w": 40, "h": 140, "rx": 4, "fill": "#f1f5f9", "stroke": "#94a3b8"},
+    {"tag": "line", "x1": 190, "y1": 70, "x2": 244, "y2": 52, "stroke": "#16a34a", "w": 2, "dash": "6 4"},
+    {"tag": "text", "x": 216, "y": 40, "teks": "cahaya latar", "size": 9, "anchor": "middle", "fill": "#166534"},
+    {"tag": "text", "x": 160, "y": 186, "teks": "atur jarak lampu supaya bayangan tidak memotong wajah objek", "size": 10, "anchor": "middle", "fill": "#1e3a8a"}
+   ]
+  },
+  {
+   "id": "diagram-sunting",
+   "judul": "Memilih dan menyusun urutan gambar",
+   "keterangan": "Gambar terpilih disusun berurutan, bagian berlebih dipotong.",
+   "elemen": [
+    {"tag": "rect", "x": 20, "y": 30, "w": 60, "h": 40, "rx": 4, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 50, "y": 54, "teks": "Foto 1", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 90, "y": 30, "w": 60, "h": 40, "rx": 4, "fill": "#f1f5f9", "stroke": "#94a3b8"},
+    {"tag": "text", "x": 120, "y": 54, "teks": "Foto 2", "size": 10, "anchor": "middle", "fill": "#64748b"},
+    {"tag": "rect", "x": 160, "y": 30, "w": 60, "h": 40, "rx": 4, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 190, "y": 54, "teks": "Foto 3", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 226, "y1": 50, "x2": 250, "y2": 50, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "250,45 262,50 250,55", "fill": "#1e293b"},
+    {"tag": "text", "x": 120, "y": 88, "teks": "penyaringan: buang gambar yang tidak kuat", "size": 9, "anchor": "middle", "fill": "#64748b"},
+    {"tag": "text", "x": 160, "y": 118, "teks": "urutan akhir", "size": 10, "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 20, "y": 126, "w": 62, "h": 34, "rx": 4, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 51, "y": 147, "teks": "1", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 90, "y": 126, "w": 62, "h": 34, "rx": 4, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 121, "y": 147, "teks": "2", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 160, "y": 126, "w": 62, "h": 34, "rx": 4, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 191, "y": 147, "teks": "3", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 184, "teks": "penyuntingan ringan menjaga gambar tetap wajar, bukan berlebihan ⧗", "size": 10, "anchor": "middle", "fill": "#334155"}
+   ]
+  },
+  {
+   "id": "diagram-warna",
+   "judul": "Susunan warna pada satu karya",
+   "keterangan": "Warna utama, pendukung, dan latar yang dipakai konsisten.",
+   "elemen": [
+    {"tag": "rect", "x": 24, "y": 30, "w": 80, "h": 70, "rx": 6, "fill": "#1d4ed8", "stroke": "#1e3a8a"},
+    {"tag": "text", "x": 64, "y": 70, "teks": "utama", "size": 11, "anchor": "middle", "fill": "#fff"},
+    {"tag": "rect", "x": 118, "y": 30, "w": 80, "h": 70, "rx": 6, "fill": "#93c5fd", "stroke": "#2563eb"},
+    {"tag": "text", "x": 158, "y": 70, "teks": "pendukung", "size": 11, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 212, "y": 30, "w": 80, "h": 70, "rx": 6, "fill": "#f8fafc", "stroke": "#94a3b8"},
+    {"tag": "text", "x": 252, "y": 70, "teks": "latar", "size": 11, "anchor": "middle", "fill": "#334155"},
+    {"tag": "line", "x1": 24, "y1": 118, "x2": 292, "y2": 118, "stroke": "#cbd5e1", "w": 2},
+    {"tag": "text", "x": 158, "y": 140, "teks": "warna layar berbeda dari hasil cetak; uji cetak sebelum produksi", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 158, "y": 160, "teks": "keterbacaan teks putih di atas biru tua: tinggi", "size": 10, "anchor": "middle", "fill": "#166534"},
+    {"tag": "text", "x": 158, "y": 180, "teks": "palet disimpan bernama agar dipakai ulang pada karya berikutnya", "size": 10, "anchor": "middle", "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-path",
+   "judul": "Membentuk objek baru dari bentuk dasar",
+   "keterangan": "Gabung, potong, dan ambil bagian tengah.",
+   "elemen": [
+    {"tag": "circle", "cx": 48, "cy": 56, "r": 26, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "circle", "cx": 82, "cy": 56, "r": 26, "fill": "#93c5fd", "stroke": "#2563eb", "opacity": "0.75"},
+    {"tag": "text", "x": 65, "y": 104, "teks": "gabung", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "rect", "x": 128, "y": 30, "w": 52, "h": 52, "rx": 4, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "circle", "cx": 166, "cy": 68, "r": 22, "fill": "#fff", "stroke": "#164e63", "w": 2},
+    {"tag": "text", "x": 154, "y": 104, "teks": "potong", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "circle", "cx": 246, "cy": 56, "r": 26, "fill": "none", "stroke": "#dc2626", "w": 3},
+    {"tag": "circle", "cx": 246, "cy": 56, "r": 14, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "text", "x": 246, "y": 104, "teks": "ambil tengah", "size": 10, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 160, "y": 140, "teks": "hasil pembentukan menjadi objek baru yang dapat diubah lagi", "size": 10, "anchor": "middle", "fill": "#334155"},
+    {"tag": "text", "x": 160, "y": 160, "teks": "nama teknik pada aplikasi berbeda; tujuannya sama ⧗", "size": 10, "anchor": "middle", "fill": "#64748b"},
+    {"tag": "text", "x": 160, "y": 180, "teks": "latihan: buat satu ikon dari dua bentuk dasar", "size": 10, "anchor": "middle", "fill": "#1e3a8a"}
+   ]
+  },
+  {
+   "id": "diagram-layer",
+   "judul": "Susunan lapisan pada berkas bitmap",
+   "keterangan": "Setiap unsur pada lapisan sendiri agar mudah diubah dan tidak merusak unsur lain.",
+   "elemen": [
+    {"tag": "rect", "x": 24, "y": 24, "w": 150, "h": 90, "fill": "#f8fafc", "stroke": "#94a3b8"},
+    {"tag": "rect", "x": 40, "y": 84, "w": 118, "h": 24, "fill": "#a5b4fc"},
+    {"tag": "rect", "x": 56, "y": 62, "w": 86, "h": 24, "fill": "#60a5fa"},
+    {"tag": "rect", "x": 72, "y": 40, "w": 54, "h": 24, "fill": "#1d4ed8"},
+    {"tag": "text", "x": 99, "y": 57, "teks": "tulisan", "size": 9, "anchor": "middle", "fill": "#fff"},
+    {"tag": "rect", "x": 200, "y": 30, "w": 104, "h": 22, "rx": 3, "fill": "#1d4ed8"},
+    {"tag": "text", "x": 206, "y": 45, "teks": "lapisan tulisan", "size": 9, "fill": "#fff"},
+    {"tag": "rect", "x": 200, "y": 58, "w": 104, "h": 22, "rx": 3, "fill": "#60a5fa"},
+    {"tag": "text", "x": 206, "y": 73, "teks": "lapisan objek", "size": 9, "fill": "#0f172a"},
+    {"tag": "rect", "x": 200, "y": 86, "w": 104, "h": 22, "rx": 3, "fill": "#a5b4fc"},
+    {"tag": "text", "x": 206, "y": 101, "teks": "lapisan latar", "size": 9, "fill": "#0f172a"},
+    {"tag": "text", "x": 160, "y": 138, "teks": "lapisan paling atas terlihat paling depan", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 158, "teks": "beri nama lapisan sejak awal agar mudah dicari", "size": 10, "anchor": "middle", "fill": "#334155"},
+    {"tag": "text", "x": 160, "y": 178, "teks": "kesalahan dapat dibatalkan tanpa mengulang seluruh karya", "size": 10, "anchor": "middle", "fill": "#64748b"}
+   ]
+  },
+  {
+   "id": "diagram-lkpd-alur",
+   "judul": "Alur pengerjaan LKPD tiap pertemuan",
+   "keterangan": "Memahami → mengaplikasi → merefleksi → menyerahkan bukti belajar.",
+   "elemen": [
+    {"tag": "rect", "x": 12, "y": 40, "w": 66, "h": 40, "rx": 5, "fill": "#dbeafe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 45, "y": 64, "teks": "Memahami", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 78, "y1": 60, "x2": 94, "y2": 60, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "94,56 104,60 94,64", "fill": "#1e293b"},
+    {"tag": "rect", "x": 106, "y": 40, "w": 70, "h": 40, "rx": 5, "fill": "#bfdbfe", "stroke": "#2563eb"},
+    {"tag": "text", "x": 141, "y": 64, "teks": "Mengaplikasi", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "line", "x1": 176, "y1": 60, "x2": 192, "y2": 60, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "192,56 202,60 192,64", "fill": "#1e293b"},
+    {"tag": "rect", "x": 204, "y": 40, "w": 60, "h": 40, "rx": 5, "fill": "#fde68a", "stroke": "#d97706"},
+    {"tag": "text", "x": 234, "y": 64, "teks": "Merefleksi", "size": 10, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "line", "x1": 264, "y1": 60, "x2": 280, "y2": 60, "stroke": "#1e293b", "w": 3},
+    {"tag": "poly", "points": "280,56 290,60 280,64", "fill": "#1e293b"},
+    {"tag": "circle", "cx": 302, "cy": 60, "r": 12, "fill": "#16a34a"},
+    {"tag": "text", "x": 302, "y": 64, "teks": "✓", "size": 12, "anchor": "middle", "fill": "#fff"},
+    {"tag": "text", "x": 160, "y": 108, "teks": "bukti belajar: lembar kerja, berkas karya, tangkapan simulasi, catatan refleksi", "size": 10, "anchor": "middle", "fill": "#334155"},
+    {"tag": "text", "x": 160, "y": 132, "teks": "guru menilai memakai rubrik yang tertera pada LKPD", "size": 10, "anchor": "middle", "fill": "#1e3a8a"},
+    {"tag": "text", "x": 160, "y": 158, "teks": "bila belum tuntas, lanjut ke kegiatan remedial pertemuan itu", "size": 10, "anchor": "middle", "fill": "#7c2d12"},
+    {"tag": "text", "x": 160, "y": 180, "teks": "diagram orisinal untuk modul ini ⧗", "size": 10, "anchor": "middle", "fill": "#64748b"}
+   ]
+  }
+ ]
+}

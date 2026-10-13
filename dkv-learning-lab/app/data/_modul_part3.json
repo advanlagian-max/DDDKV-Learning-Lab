@@ -1,0 +1,203 @@
+{
+ "part": 3,
+ "minggu": [
+  {
+   "minggu": 13,
+   "senin": {
+    "tujuan": ["Menjelaskan cara berpikir dari sudut pandang yang berbeda dalam memecahkan masalah desain.", "Menggunakan pertanyaan pengubah sudut pandang untuk membuka gagasan."],
+    "pemantik": ["Bagaimana kemasan ini akan terlihat jika penggunanya anak-anak?", "Apa yang berubah jika biaya produksi dibatasi separuh?"],
+    "materi": {
+     "pengantar": "Berpikir kreatif berarti bersedia meninjau masalah dari beberapa sudut. Desainer yang baik tidak berhenti pada gagasan pertama, melainkan menguji kemungkinan lain sebelum memutuskan.",
+     "poin": ["Mengubah sudut pandang dapat dilakukan dengan bertanya: siapa penggunanya, kapan dipakai, di mana, dan apa kendalanya.", "Membalik anggapan membantu menemukan gagasan baru, misalnya membuat tampilan yang sengaja sederhana padahal biasanya ramai.", "Menggabungkan dua kebutuhan menjadi satu karya sering menghasilkan gagasan yang berguna.", "Membandingkan beberapa pilihan secara berdampingan memudahkan penilaian."],
+     "istilah": [{"t": "berpikir kreatif", "a": "Cara berpikir yang mencari beberapa kemungkinan jawaban sebelum memilih."}, {"t": "sudut pandang pengguna", "a": "Cara melihat karya dari sisi orang yang akan menggunakannya."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Berpikir kreatif", "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab B (halaman 80–81)."}, {"jenis": "pengamatan", "judul": "Satu masalah, tiga sudut", "keterangan": "Amati satu karya yang sama dari sudut pandang siswa, guru, dan pengunjung sekolah."}],
+    "aktivitas": {"memahami": ["Menelaah cara meninjau masalah dari beberapa sudut", "Mengidentifikasi anggapan yang perlu diuji"], "mengaplikasi": ["Menerapkan lima pertanyaan pengubah sudut pada satu masalah", "Membuat tiga alternatif solusi"], "merefleksi": ["Menulis sudut pandang yang biasanya saya lupakan ketika merancang"]},
+    "lkpd": {"judul": "LKPD 25 — Lima Sudut Pandang Satu Masalah", "langkah": ["Pilih satu masalah desain di sekolah.", "Terapkan lima pertanyaan sudut pandang.", "Tulis tiga alternatif solusi."], "rubrik": [{"kriteria": "Kedalaman peninjauan", "skor4": "Lima sudut dibahas dengan bukti pengamatan", "skor3": "Lima sudut dibahas", "skor2": "Tiga sudut", "skor1": "Kurang dari tiga"}, {"kriteria": "Keberagaman solusi", "skor4": "Tiga solusi benar-benar berbeda dan layak", "skor3": "Tiga solusi berbeda", "skor2": "Solusi mirip", "skor1": "Hanya satu solusi"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Mengubah sudut pandang berguna untuk", "opsi": ["Memperluas pilihan gagasan", "Memperkecil usaha", "Menghindari umpan balik"], "kunci": 0}, {"soal": "Pertanyaan yang paling membantu memahami pengguna adalah", "opsi": ["Siapa yang akan memakai karya ini dan kapan", "Warna apa yang paling saya suka", "Alat apa yang paling mahal"], "kunci": 0}]},
+    "tugas": {"judul": "Catatan tiga alternatif solusi satu masalah", "bentuk": "individu", "luaran": "Sketsa tiga alternatif + penjelasan singkat"},
+    "tindakLanjut": {"remedial": "Pendampingan meninjau satu masalah dengan pertanyaan pemandu.", "pengayaan": "Menguji solusi terpilih kepada lima responden."}
+   },
+   "rabu": {
+    "tujuan": ["Memecahkan masalah desain nyata secara berkelompok.", "Menyajikan dan menerima umpan balik atas solusi desain."],
+    "pemantik": ["Apa yang membuat sebuah usulan desain diterima orang lain?", "Bagaimana menerima kritik tanpa merasa diserang?"],
+    "materi": {
+     "pengantar": "Pemecahan masalah desain berjalan paling baik ketika dikerjakan berkelompok: satu mengamati, satu menggambar, satu menguji. Umpan balik membuat solusi lebih matang.",
+     "poin": ["Kelompok membagi peran: pencatat masalah, perancang gagasan, dan penguji hasil.", "Solusi diuji dengan pertanyaan sederhana: apakah masalahnya terjawab, apakah mudah dipakai, apakah dapat dikerjakan dengan bahan yang ada.", "Umpan balik disampaikan dengan menyebut hal yang sudah baik, hal yang perlu diperbaiki, dan usulan perbaikan.", "Keputusan akhir dicatat bersama agar dapat dipertanggungjawabkan."],
+     "istilah": [{"t": "umpan balik", "a": "Masukan terhadap karya yang berguna untuk perbaikan."}, {"t": "pembagian peran", "a": "Penetapan tugas tiap anggota kelompok agar pekerjaan berjalan lancar."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Uji pakai cepat", "keterangan": "Amati cara menguji satu desain papan informasi kepada tiga teman yang bukan perancangnya."}, {"jenis": "diagram", "id": "diagram-peluang", "judul": "Alur kerja kelompok", "keterangan": "Diagram orisinal: amati → gagas → uji → perbaiki."}],
+    "aktivitas": {"memahami": ["Menelaah kriteria pengujian solusi", "Menyimak tata cara memberi umpan balik"], "mengaplikasi": ["Mengerjakan pemecahan masalah secara berkelompok", "Menguji solusi kepada teman", "Mencatat keputusan akhir kelompok"], "merefleksi": ["Menulis peran yang saya ambil dan pelajaran dari umpan balik teman"]},
+    "lkpd": {"judul": "LKPD 26 — Kerja Kelompok Memecahkan Masalah Desain", "langkah": ["Tetapkan masalah dan pembagian peran.", "Susun solusi kelompok.", "Uji ke tiga responden.", "Perbaiki dan sajikan."], "rubrik": [{"kriteria": "Kerja sama", "skor4": "Semua anggota berkontribusi dan saling membantu", "skor3": "Semua berkontribusi", "skor2": "Sebagian mendominasi", "skor1": "Tidak bekerja sama"}, {"kriteria": "Mutu solusi", "skor4": "Menjawab masalah, teruji, dan layak", "skor3": "Menjawab masalah", "skor2": "Menjawab sebagian", "skor1": "Tidak menjawab"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Umpan balik yang baik disampaikan dengan cara", "opsi": ["Menyebut kebaikan, kekurangan, dan usulan perbaikan", "Menyebut kekurangan saja", "Tanpa alasan"], "kunci": 0}, {"soal": "Solusi desain diuji agar", "opsi": ["Mengetahui apakah masalah benar-benar terjawab", "Menambah jumlah gambar", "Memperlambat presentasi"], "kunci": 0}]},
+    "tugas": {"judul": "Laporan kelompok: solusi masalah desain", "bentuk": "kelompok", "luaran": "Satu halaman berisi masalah, solusi, hasil uji, dan perbaikan"},
+    "tindakLanjut": {"remedial": "Pendampingan pembagian peran kelompok.", "pengayaan": "Menerapkan solusi pada papan informasi/poster nyata di sekolah."}
+   }
+  },
+  {
+   "minggu": 14,
+   "senin": {
+    "tujuan": ["Menjelaskan mengapa kreativitas menjadi nilai jual karya dan jasa DKV.", "Membedakan karya yang serupa pasaran dan karya yang punya ciri."],
+    "pemantik": ["Mengapa dua poster dengan isi sama bisa bernilai berbeda?", "Apa yang membuat karya seseorang mudah dikenali?"],
+    "materi": {
+     "pengantar": "Di pasar yang penuh pilihan, karya yang punya ciri lebih mudah diingat. Ciri tidak berarti aneh, tetapi ada pilihan gagasan yang khas dan sesuai dengan penggunanya.",
+     "poin": ["Nilai tambah karya muncul dari gagasan, bukan hanya dari kerapian teknis.", "Ciri karya dapat dibangun dari gaya gambar, pilihan warna, cara menyusun huruf, atau sudut pengambilan foto yang khas.", "Kreativitas membantu menyelesaikan masalah klien: pesan yang biasanya rumit dapat disampaikan lebih sederhana.", "Menjaga ciri tidak berarti mengulang bentuk yang sama; variasi tetap diperlukan agar karya tidak membosankan."],
+     "istilah": [{"t": "nilai jual", "a": "Alasan mengapa karya dianggap berharga oleh pengguna atau pemesan."}, {"t": "ciri karya", "a": "Penanda khas yang membuat karya mudah dikenali."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Kreativitas dalam industri kreatif", "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab C (halaman 82–83)."}, {"jenis": "pengamatan", "judul": "Kenali ciri karya", "keterangan": "Amati tiga poster berbeda lalu tuliskan ciri yang membuat tiap karya khas."}],
+    "aktivitas": {"memahami": ["Menelaah hubungan kreativitas dan nilai jual", "Mengidentifikasi ciri karya"], "mengaplikasi": ["Menganalisis satu karya nyata: gagasan, ciri, dan sasarannya", "Menuliskan ciri yang ingin dibangun pada karya sendiri"], "merefleksi": ["Menilai apakah karya saya selama ini punya ciri atau hanya meniru"]},
+    "lkpd": {"judul": "LKPD 27 — Analisis Ciri & Nilai Jual Karya", "langkah": ["Pilih dua karya sejenis.", "Bandingkan gagasan, ciri, dan sasarannya.", "Tulis kesimpulan tentang nilai jual."], "rubrik": [{"kriteria": "Ketajaman analisis", "skor4": "Menemukan perbedaan halus dan beralasan", "skor3": "Menemukan perbedaan utama", "skor2": "Analisis umum", "skor1": "Hanya mendeskripsikan"}, {"kriteria": "Relevansi kesimpulan", "skor4": "Kesimpulan mengaitkan ciri dengan nilai jual", "skor3": "Kesimpulan relevan", "skor2": "Kesimpulan lemah", "skor1": "Tidak relevan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Nilai jual karya DKV terutama dibangun oleh", "opsi": ["Gagasan yang khas dan menjawab kebutuhan", "Banyaknya revisi tanpa arah", "Ukuran berkas terbesar"], "kunci": 0}, {"soal": "Ciri karya dapat dibangun melalui", "opsi": ["Gaya gambar, warna, susunan huruf, atau sudut foto", "Mengikuti semua tren yang ada", "Menyalin karya populer"], "kunci": 0}]},
+    "tugas": {"judul": "Rumusan ciri karya pribadi", "bentuk": "individu", "luaran": "Setengah halaman: tiga ciri yang ingin dibangun + contoh karyanya"},
+    "tindakLanjut": {"remedial": "Pendampingan membandingkan dua karya sederhana.", "pengayaan": "Membuat dua variasi karya mempertahankan ciri yang sama."}
+   },
+   "rabu": {
+    "tujuan": ["Meningkatkan nilai karya dengan menerapkan gagasan kreatif pada karya sendiri.", "Menerima dan menindaklanjuti kritik karya."],
+    "pemantik": ["Apa satu perubahan kecil yang membuat karya jauh lebih menarik?", "Bagaimana mengukur bahwa perbaikan benar-benar berhasil?"],
+    "materi": {
+     "pengantar": "Perbaikan karya dilakukan bertahap: tentukan satu hal yang paling mengganggu, ubah hanya bagian itu, lalu bandingkan sebelum dan sesudah.",
+     "poin": ["Mengubah satu unsur pada satu waktu memudahkan kita mengetahui perubahan mana yang berpengaruh.", "Perbandingan sebelum–sesudah menjadi bukti bahwa perbaikan berhasil.", "Kritik dari pengguna berbeda dengan selera perancang; keduanya perlu dicatat terpisah.", "Karya yang sudah diperbaiki wajib disimpan sebagai versi baru agar riwayat kerja tetap terlacak."],
+     "istilah": [{"t": "versi karya", "a": "Bentuk karya pada tahap tertentu yang disimpan terpisah."}, {"t": "perbandingan sebelum–sesudah", "a": "Cara menilai perbaikan dengan menyandingkan dua versi."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Bedah satu perbaikan", "keterangan": "Amati satu karya dengan dua versi dan tentukan perubahan yang paling berpengaruh."}, {"jenis": "diagram", "id": "diagram-alur-produksi", "judul": "Siklus perbaikan", "keterangan": "Diagram orisinal: uji → catat kritik → ubah satu unsur → bandingkan."}],
+    "aktivitas": {"memahami": ["Menelaah cara memperbaiki karya secara bertahap", "Membedakan kritik pengguna dan selera pribadi"], "mengaplikasi": ["Memperbaiki karya sendiri satu unsur", "Menyusun perbandingan sebelum–sesudah", "Menulis catatan versi"], "merefleksi": ["Menulis satu kebiasaan yang akan saya ubah saat menerima kritik"]},
+    "lkpd": {"judul": "LKPD 28 — Naikkan Nilai Karya: Sebelum & Sesudah", "langkah": ["Pilih satu karya sebelumnya.", "Ubah satu unsur berdasarkan kritik.", "Sajikan perbandingan dan alasannya."], "rubrik": [{"kriteria": "Ketepatan perbaikan", "skor4": "Perbaikan menjawab kritik dan terlihat jelas", "skor3": "Perbaikan terlihat", "skor2": "Perubahan kecil tanpa arah", "skor1": "Tidak diperbaiki"}, {"kriteria": "Dokumentasi versi", "skor4": "Kedua versi tersimpan rapi dengan catatan", "skor3": "Kedua versi tersimpan", "skor2": "Hanya versi akhir", "skor1": "Tidak ada bukti"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Sebaiknya mengubah karya dengan cara", "opsi": ["Satu unsur pada satu waktu lalu membandingkan", "Semua unsur sekaligus", "Menyalin karya orang lain"], "kunci": 0}, {"soal": "Menyimpan versi karya berguna untuk", "opsi": ["Melacak riwayat perbaikan", "Menambah ukuran berkas", "Menyembunyikan kesalahan"], "kunci": 0}]},
+    "tugas": {"judul": "Karya sebelum & sesudah diperbaiki", "bentuk": "individu", "luaran": "Dua versi karya + catatan alasan perbaikan"},
+    "tindakLanjut": {"remedial": "Pendampingan memilih unsur yang perlu diubah.", "pengayaan": "Membuat tiga variasi mempertahankan ciri karya."}
+   }
+  },
+  {
+   "minggu": 15,
+   "senin": {
+    "tujuan": ["Menjelaskan pengaruh kreativitas terhadap proses produksi dan teknologi.", "Membandingkan cara kerja lama dan baru pada proses produksi."],
+    "pemantik": ["Apakah alat baru selalu membuat karya lebih baik?", "Bagian mana dari proses produksi yang paling terbantu teknologi?"],
+    "materi": {
+     "pengantar": "Teknologi mengubah cara kerja, tetapi gagasan tetap menentukan mutu. Kreativitas muncul saat pekerja memilih cara paling tepat memakai alat yang tersedia.",
+     "poin": ["Teknologi mempercepat pekerjaan berulang seperti penyusunan ukuran, pemotongan, dan penggandaan berkas.", "Kreativitas diarahkan pada hal yang belum dapat dibantu mesin: memahami pesan, memilih gagasan, dan menilai hasil.", "Penggabungan cara lama dan baru sering menyelesaikan masalah. Contoh: sketsa tangan dahulu, baru digambar digital.", "Pemilihan teknologi mempertimbangkan waktu, biaya, dan mutu hasil yang dibutuhkan."],
+     "istilah": [{"t": "proses produksi", "a": "Rangkaian kegiatan mengubah rancangan menjadi karya nyata."}, {"t": "efisiensi kerja", "a": "Cara mencapai hasil dengan waktu dan bahan seminimal mungkin."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Kreativitas proses produksi dan teknologi", "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab D (halaman 84)."}, {"jenis": "pengamatan", "judul": "Sketsa tangan vs langsung digital", "keterangan": "Amati kelebihan dan kekurangan dua cara memulai perancangan logo."}],
+    "aktivitas": {"memahami": ["Menelaah perubahan cara kerja karena teknologi", "Mengidentifikasi pekerjaan yang tidak bisa digantikan alat"], "mengaplikasi": ["Menjalankan simulasi alur produksi", "Merancang satu proses kerja memakai campuran cara lama dan baru"], "merefleksi": ["Menulis alat yang paling membantu saya bekerja dan mengapa"]},
+    "lkpd": {"judul": "LKPD 29 — Proses Produksi Baru dan Lama", "langkah": ["Pilih satu jenis karya.", "Tulis proses lama dan proses baru.", "Tulis proses gabungan yang kamu pilih."], "rubrik": [{"kriteria": "Ketepatan perbandingan proses", "skor4": "Perbandingan rinci pada tiap tahap", "skor3": "Perbandingan jelas", "skor2": "Perbandingan umum", "skor1": "Tidak membandingkan"}, {"kriteria": "Kewajaran pilihan gabungan", "skor4": "Pilihan beralasan waktu, biaya, dan mutu", "skor3": "Pilihan beralasan", "skor2": "Alasan lemah", "skor1": "Tanpa alasan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Pekerjaan yang paling sulit digantikan teknologi adalah", "opsi": ["Memahami pesan dan memilih gagasan", "Memotong gambar", "Memperbesar ukuran"], "kunci": 0}, {"soal": "Memilih teknologi kerja sebaiknya mempertimbangkan", "opsi": ["Waktu, biaya, dan mutu hasil", "Merek paling baru", "Keinginan teman"], "kunci": 0}]},
+    "tugas": {"judul": "Usulan proses kerja gabungan satu halaman", "bentuk": "individu", "luaran": "Diagram alur + alasan pemilihan cara kerja"},
+    "tindakLanjut": {"remedial": "Pendampingan mengurutkan tahap kerja.", "pengayaan": "Menguji efisiensi waktu dua cara kerja pada tugas yang sama."}
+   },
+   "rabu": {
+    "tujuan": ["Menjelaskan budaya kerja desainer komunikasi visual.", "Menyelesaikan asesmen BAB 4 dan menilai penguasaan materi proses produksi."],
+    "pemantik": ["Apa yang membedakan pekerja profesional dan amatir?", "Bagaimana kebiasaan tepat waktu memengaruhi hasil karya?"],
+    "materi": {
+     "pengantar": "Budaya kerja adalah kebiasaan yang diulang setiap hari: hadir tepat waktu, menyiapkan bahan, menepati janji, dan menjaga mutu. Kebiasaan ini membentuk kepercayaan pemesan.",
+     "poin": ["Kebiasaan kerja yang dihargai: disiplin waktu, teliti pada rincian, jujur saat ada kesalahan, dan terbuka pada masukan.", "Menyiapkan alat dan bahan sebelum mulai bekerja mengurangi gangguan di tengah pekerjaan.", "Menepati tenggat memerlukan penjadwalan realistis dan menolak pekerjaan yang melebihi kemampuan.", "Menjaga hubungan baik dengan pemesan dan rekan kerja membuka pekerjaan berikutnya."],
+     "istilah": [{"t": "budaya kerja", "a": "Kebiasaan dan sikap yang menjadi ciri cara bekerja seseorang atau kelompok."}, {"t": "tenggat", "a": "Batas waktu penyerahan pekerjaan."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Budaya kerja desainer komunikasi visual", "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab E (halaman 85–86)."}, {"jenis": "pengamatan", "judul": "Ceklis kesiapan kerja", "keterangan": "Amati contoh daftar kesiapan kerja sebelum memulai proyek."}],
+    "aktivitas": {"memahami": ["Menelaah kebiasaan kerja profesional", "Membandingkan kebiasaan kerja sendiri"], "mengaplikasi": ["Menyusun daftar kesiapan kerja pribadi", "Mengerjakan asesmen BAB 4"], "merefleksi": ["Menulis satu kebiasaan kerja yang akan saya jaga konsisten"]},
+    "lkpd": {"judul": "LKPD 30 — Ceklis Budaya Kerja Desainer + Asesmen BAB 4", "langkah": ["Isi daftar kesiapan kerja.", "Beri tanda kebiasaan yang sudah kuat.", "Kerjakan asesmen BAB 4."], "rubrik": [{"kriteria": "Kejujuran penilaian diri", "skor4": "Penilaian disertai bukti perilaku", "skor3": "Penilaian jujur", "skor2": "Penilaian asal", "skor1": "Tidak mengisi"}, {"kriteria": "Ketepatan asesmen", "skor4": "Sebagian besar jawaban tepat", "skor3": "Separuh tepat", "skor2": "Sebagian kecil tepat", "skor1": "Belum tepat"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Kebiasaan kerja profesional ditunjukkan oleh", "opsi": ["Disiplin waktu dan menjaga mutu", "Mengerjakan sebanyak mungkin pekerjaan sekaligus", "Menyembunyikan kesalahan"], "kunci": 0}, {"soal": "Menepati tenggat dimulai dari", "opsi": ["Penjadwalan realistis", "Menunda pekerjaan", "Menerima semua permintaan"], "kunci": 0}]},
+    "tugas": {"judul": "Asesmen BAB 4 (proses produksi & budaya kerja)", "bentuk": "individu", "luaran": "Lembar jawaban asesmen + ceklis budaya kerja"},
+    "tindakLanjut": {"remedial": "Pendampingan menyusun ulang bagian materi yang sulit.", "pengayaan": "Membuat target kerja pribadi berjangka satu bulan."}
+   }
+  },
+  {
+   "minggu": 16,
+   "senin": {
+    "tujuan": ["Menjelaskan pengertian dan fungsi sketsa serta ilustrasi dalam karya DKV.", "Menjelaskan konsep karya sebelum menggambar."],
+    "pemantik": ["Mengapa desainer membuat sketsa sebelum berkarya?", "Apa bedanya sketsa dan ilustrasi?"],
+    "materi": {
+     "pengantar": "Sketsa adalah gambaran awal gagasan yang cepat dan sederhana, sedangkan ilustrasi adalah gambar yang sudah punya maksud jelas untuk mendukung pesan. Keduanya menjadi alat berpikir visual.",
+     "poin": ["Sketsa dipakai untuk mengejar gagasan dengan cepat, sehingga kerapian bukan tujuan utamanya.", "Ilustrasi menjelaskan, memperkuat, atau menghias pesan dan biasanya dibuat setelah konsep ditetapkan.", "Konsep karya memuat pesan yang ingin disampaikan, sasaran, dan cara penyampaiannya.", "Teknik sketsa berkembang dari latihan garis, bentuk dasar, dan pengamatan bentuk nyata."],
+     "istilah": [{"t": "sketsa", "a": "Gambar awal yang sederhana untuk menyusun gagasan."}, {"t": "ilustrasi", "a": "Gambar yang memiliki maksud memperjelas atau memperkuat pesan."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Konsep dan teknik sketsa serta ilustrasi", "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 5 subbab A dan B (halaman 95–97)."}, {"jenis": "pengamatan", "judul": "Sketsa kasar ke ilustrasi jadi", "keterangan": "Amati urutan satu gagasan dari coretan awal sampai gambar selesai."}],
+    "aktivitas": {"memahami": ["Membedakan fungsi sketsa dan ilustrasi", "Menelaah contoh konsep karya"], "mengaplikasi": ["Membuat sketsa cepat tiga objek di sekitar", "Menjalankan latihan dasar pada simulasi sketsa", "Menulis konsep sederhana satu karya"], "merefleksi": ["Menulis bagian menggambar yang paling ingin saya latih"]},
+    "lkpd": {"judul": "LKPD 31 — Konsep Karya & Sketsa Pertama", "langkah": ["Tulis konsep karya (pesan, sasaran, cara).", "Buat tiga sketsa alternatif.", "Pilih satu sketsa untuk dikembangkan."], "rubrik": [{"kriteria": "Kejelasan konsep", "skor4": "Pesan, sasaran, dan cara penyampaian selaras", "skor3": "Konsep jelas", "skor2": "Konsep kabur", "skor1": "Tidak ada konsep"}, {"kriteria": "Keragaman sketsa", "skor4": "Tiga sketsa benar-benar berbeda", "skor3": "Tiga sketsa ada", "skor2": "Dua sketsa", "skor1": "Satu sketsa"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Fungsi utama sketsa adalah", "opsi": ["Menyusun gagasan dengan cepat", "Menghasilkan karya akhir yang rapi", "Menghias laporan"], "kunci": 0}, {"soal": "Ilustrasi dibuat untuk", "opsi": ["Memperjelas atau memperkuat pesan", "Menggantikan huruf pada semua karya", "Menambah jumlah warna"], "kunci": 0}]},
+    "tugas": {"judul": "Tiga sketsa gagasan + konsep karya", "bentuk": "individu", "luaran": "Lembar sketsa dan catatan konsep"},
+    "tindakLanjut": {"remedial": "Latihan garis dan bentuk dasar tambahan.", "pengayaan": "Membuat ilustrasi sederhana untuk satu pesan sekolah."}
+   },
+   "rabu": {
+    "tujuan": ["Mengenali jenis-jenis gambar ilustrasi.", "Memilih jenis ilustrasi yang sesuai dengan pesan."],
+    "pemantik": ["Kapan ilustrasi realis lebih tepat daripada kartun?", "Apa kelebihan gambar sederhana pada poster ajakan?"],
+    "materi": {
+     "pengantar": "Ilustrasi memiliki banyak gaya: realis, kartun, dekoratif, dan bentuk sederhana. Pilihan gaya memengaruhi kesan yang diterima pengguna.",
+     "poin": ["Ilustrasi realis menampilkan bentuk mirip kenyataan dan cocok untuk penjelasan teknis.", "Ilustrasi kartun menyederhanakan bentuk dan cocok untuk pesan ramah atau sasaran anak-anak.", "Ilustrasi dekoratif mementingkan keindahan pola dan sering dipakai sebagai pemanis karya.", "Pemilihan gaya mempertimbangkan pesan, sasaran, dan media tempat ilustrasi dipakai."],
+     "istilah": [{"t": "ilustrasi realis", "a": "Gambar yang meniru bentuk nyata secara rinci."}, {"t": "ilustrasi dekoratif", "a": "Gambar yang menekankan keindahan bentuk dan pola."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Jenis-jenis gambar ilustrasi", "keterangan": "Perhatikan contoh pada Buku Sem 1 BAB 5 subbab C (halaman 98–99)."}, {"jenis": "pengamatan", "judul": "Kumpulkan tiga gaya", "keterangan": "Kumpulkan tiga ilustrasi bergaya berbeda dan tentukan kesan yang ditimbulkan."}],
+    "aktivitas": {"memahami": ["Membandingkan gaya ilustrasi", "Mengaitkan gaya dengan pesan dan sasaran"], "mengaplikasi": ["Menggambar satu pesan dengan dua gaya berbeda", "Menjalankan latihan simulasi sketsa", "Memilih gaya yang paling tepat dengan alasan"], "merefleksi": ["Menulis gaya ilustrasi yang paling cocok dengan kemampuan saya sekarang"]},
+    "lkpd": {"judul": "LKPD 32 — Dua Gaya untuk Satu Pesan", "langkah": ["Tentukan satu pesan singkat.", "Gambar dengan gaya realis sederhana.", "Gambar dengan gaya kartun.", "Pilih satu dengan alasan."], "rubrik": [{"kriteria": "Perbedaan gaya", "skor4": "Dua gaya jelas berbeda dan konsisten", "skor3": "Dua gaya berbeda", "skor2": "Perbedaan samar", "skor1": "Sama saja"}, {"kriteria": "Kesesuaian gaya dan pesan", "skor4": "Pilihan beralasan pesan, sasaran, dan media", "skor3": "Pilihan beralasan", "skor2": "Alasan lemah", "skor1": "Tanpa alasan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Ilustrasi kartun paling tepat untuk", "opsi": ["Pesan ramah bagi anak-anak", "Gambar anatomi medis", "Peta teknis"], "kunci": 0}, {"soal": "Pemilihan gaya ilustrasi mempertimbangkan", "opsi": ["Pesan, sasaran, dan media", "Kesukaan perancang saja", "Jumlah warna terbanyak"], "kunci": 0}]},
+    "tugas": {"judul": "Dua ilustrasi satu pesan", "bentuk": "individu", "luaran": "Dua gambar + catatan pemilihan gaya"},
+    "tindakLanjut": {"remedial": "Pendampingan latihan bentuk dasar.", "pengayaan": "Membuat ilustrasi untuk poster kegiatan sekolah."}
+   }
+  },
+  {
+   "minggu": 17,
+   "senin": {
+    "tujuan": ["Menyebutkan alat dan bahan menggambar serta kegunaannya.", "Menjalankan langkah awal membuat sketsa dan ilustrasi dengan urutan yang benar."],
+    "pemantik": ["Mengapa sketsa ringan lebih baik daripada langsung menggambar rinci?", "Alat apa yang paling membantu membuat garis lurus?"],
+    "materi": {
+     "pengantar": "Menggambar dimulai dari langkah sederhana: mengamati bentuk, membuat garis bantu, menyusun proporsi, lalu memperjelas rincian. Alat mengikuti kebutuhan, bukan sebaliknya.",
+     "poin": ["Alat gambar dasar: pensil berbagai kehitaman, penghapus, penggaris, dan kertas; alat digital: papan gambar dan pena pena digital.", "Langkah kerja: tentukan bidang gambar, buat garis bantu, susun bentuk dasar, lalu perinci.", "Menggambar dari pengamatan melatih ketepatan bentuk lebih cepat daripada menggambar dari ingatan.", "Latihan singkat tetapi rutin lebih bermanfaat daripada latihan panjang yang jarang."],
+     "istilah": [{"t": "proporsi", "a": "Perbandingan ukuran antarbagian gambar."}, {"t": "garis bantu", "a": "Garis tipis penanda susunan yang dihapus setelah gambar jadi."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Memulai sketsa dan ilustrasi", "keterangan": "Perhatikan langkah dan contoh pada Buku Sem 1 BAB 5 subbab D (halaman 100–106)."}, {"jenis": "pengamatan", "judul": "Empat tahap menggambar benda", "keterangan": "Amati urutan gambar satu benda dari garis bantu sampai perincian akhir."}],
+    "aktivitas": {"memahami": ["Menelaah kegunaan alat gambar", "Memahami urutan langkah menggambar"], "mengaplikasi": ["Menggambar satu benda nyata memakai garis bantu", "Menjalankan latihan pada simulasi sketsa", "Memeriksa proporsi hasil gambar"], "merefleksi": ["Menulis langkah yang paling sering saya lewatkan saat menggambar"]},
+    "lkpd": {"judul": "LKPD 33 — Menggambar dari Pengamatan", "langkah": ["Pilih satu benda sederhana.", "Buat garis bantu dan bentuk dasar.", "Perinci dan hapus garis bantu.", "Tulis catatan proporsi."], "rubrik": [{"kriteria": "Ketepatan proporsi", "skor4": "Proporsi tepat dan konsisten", "skor3": "Proporsi cukup tepat", "skor2": "Proporsi menyimpang", "skor1": "Tidak memperhatikan proporsi"}, {"kriteria": "Kerapian langkah kerja", "skor4": "Garis bantu rapi dan dihapus bersih", "skor3": "Langkah kerja tertib", "skor2": "Masih ada garis bantu", "skor1": "Tidak memakai garis bantu"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Garis bantu dibuat dengan tujuan", "opsi": ["Menjaga proporsi dan susunan gambar", "Menambah kerumitan", "Menutupi gambar"], "kunci": 0}, {"soal": "Latihan menggambar paling cepat meningkatkan kemampuan jika", "opsi": ["Dilakukan singkat tetapi rutin", "Dilakukan sekali sangat lama", "Hanya menyimak contoh"], "kunci": 0}]},
+    "tugas": {"judul": "Sketsa benda nyata + catatan proporsi", "bentuk": "individu", "luaran": "Satu gambar pensil dan catatan langkah"},
+    "tindakLanjut": {"remedial": "Latihan garis bantu dan bentuk dasar tambahan.", "pengayaan": "Menggambar benda dengan dua sudut pandang berbeda."}
+   },
+   "rabu": {
+    "tujuan": ["Menjelaskan prinsip dan unsur desain pada karya gambar.", "Menerapkan prinsip keseimbangan, penekanan, dan kesatuan pada sketsa."],
+    "pemantik": ["Mengapa gambar yang penuh warna bisa terasa membingungkan?", "Bagian mana yang pertama kali dilihat pada sebuah karya? Mengapa?"],
+    "materi": {
+     "pengantar": "Unsur desain adalah bahan dasar karya (garis, bentuk, warna, tekstur, ruang), sedangkan prinsip desain adalah cara menyusunnya agar enak dilihat dan pesannya sampai.",
+     "poin": ["Keseimbangan mengatur berat visual kiri dan kanan; dapat simetris maupun tidak simetris.", "Penekanan menentukan bagian yang paling ingin ditonjolkan agar mata pengguna diarahkan.", "Kesatuan membuat semua bagian terasa satu karya, bukan kumpulan gambar terpisah.", "Irama dan proporsi menjaga karya terasa hidup dan nyaman dipandang."],
+     "istilah": [{"t": "penekanan", "a": "Pengaturan bagian utama yang ingin ditonjolkan dalam karya."}, {"t": "kesatuan", "a": "Keselarasan seluruh bagian sehingga karya terasa utuh."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Prinsip dan unsur desain", "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 5 subbab E (halaman 107–115)."}, {"jenis": "diagram", "id": "diagram-prinsip-desain", "judul": "Empat prinsip dasar", "keterangan": "Diagram orisinal: keseimbangan, penekanan, kesatuan, irama."}],
+    "aktivitas": {"memahami": ["Membedakan unsur dan prinsip desain", "Mengidentifikasi prinsip pada karya nyata"], "mengaplikasi": ["Memperbaiki sketsa sendiri dengan menerapkan satu prinsip", "Menandai bagian penekanan pada karya teman"], "merefleksi": ["Menulis prinsip yang paling sulit saya terapkan dan cara melatihnya"]},
+    "lkpd": {"judul": "LKPD 34 — Menerapkan Prinsip Desain pada Sketsa", "langkah": ["Ambil sketsa sebelumnya.", "Perbaiki keseimbangan dan penekanan.", "Tulis alasan tiap perubahan."], "rubrik": [{"kriteria": "Penerapan prinsip", "skor4": "Tiga prinsip diterapkan tepat dan beralasan", "skor3": "Dua prinsip diterapkan", "skor2": "Satu prinsip", "skor1": "Tidak diterapkan"}, {"kriteria": "Mutu perbaikan", "skor4": "Karya jelas lebih nyaman dipandang", "skor3": "Ada perbaikan", "skor2": "Perbaikan kecil", "skor1": "Tidak berubah"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Prinsip yang mengatur bagian utama karya disebut", "opsi": ["Penekanan", "Simetri", "Tekstur"], "kunci": 0}, {"soal": "Kesatuan karya tercapai bila", "opsi": ["Semua bagian terasa selaras dan saling mendukung", "Semua warna dipakai sekaligus", "Setiap bagian berbeda gaya"], "kunci": 0}]},
+    "tugas": {"judul": "Sketsa diperbaiki + daftar prinsip yang dipakai", "bentuk": "individu", "luaran": "Dua versi sketsa + catatan prinsip"},
+    "tindakLanjut": {"remedial": "Pendampingan menandai keseimbangan pada contoh karya.", "pengayaan": "Merancang poster sederhana memakai tiga prinsip desain."}
+   }
+  },
+  {
+   "minggu": 18,
+   "senin": {
+    "tujuan": ["Mengembangkan sketsa menjadi karya cetak yang utuh.", "Menjelaskan pertimbangan pemilihan media karya cetak."],
+    "pemantik": ["Mengapa pesan yang sama perlu gaya berbeda untuk poster dan majalah?", "Apa yang membuat poster berhasil menarik perhatian?"],
+    "materi": {
+     "pengantar": "Karya cetak seperti poster, komik, dan ilustrasi majalah memiliki aturan berbeda. Poster berbicara dari jarak jauh dengan penekanan kuat, sedangkan ilustrasi majalah dibaca lebih dekat sehingga dapat lebih rinci.",
+     "poin": ["Poster yang baik memiliki satu pesan utama, elemen dominan, dan huruf yang terbaca dari jarak tertentu.", "Ilustrasi majalah dan buku mendukung tulisan, sehingga harus selaras dengan isi teks.", "Komik menyampaikan cerita melalui urutan panel dan balon kata, sehingga alur bacaannya penting.", "Pemilihan media menentukan ukuran, jumlah rincian, dan cara penyajian karya."],
+     "istilah": [{"t": "elemen dominan", "a": "Bagian karya yang paling menonjol dan mengarahkan perhatian."}, {"t": "panel komik", "a": "Kotak berisi adegan dalam cerita bergambar."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Konsep karya DKV melalui sketsa", "keterangan": "Perhatikan uraian dan contoh poster serta karya cetak pada Buku Sem 1 BAB 5 subbab F (halaman 116–127)."}, {"jenis": "pengamatan", "judul": "Poster baik dan kurang baik", "keterangan": "Bandingkan dua poster: mana yang lebih cepat dipahami dan mengapa?"}],
+    "aktivitas": {"memahami": ["Menelaah ciri karya cetak yang berhasil", "Membandingkan poster, ilustrasi majalah, dan komik"], "mengaplikasi": ["Memilih media yang tepat untuk pesan yang ditentukan", "Menyusun rancangan kasar karya cetak dari sketsa", "Menjalankan simulasi sketsa lanjutan"], "merefleksi": ["Menulis bagian yang paling menantang saat mengembangkan karya"]},
+    "lkpd": {"judul": "LKPD 35 — Rancangan Karya Cetak dari Sketsa", "langkah": ["Tetapkan pesan dan media.", "Susun rancangan kasar.", "Tentukan elemen dominan.", "Mintа umpan balik teman."], "rubrik": [{"kriteria": "Kesesuaian media dan pesan", "skor4": "Pilihan media tepat dan beralasan", "skor3": "Pilihan media tepat", "skor2": "Kurang tepat", "skor1": "Tidak sesuai"}, {"kriteria": "Kejelasan rancangan", "skor4": "Rancangan memuat pesan, elemen dominan, dan susunan", "skor3": "Rancangan jelas", "skor2": "Rancangan kabur", "skor1": "Belum ada rancangan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Ciri poster yang berhasil adalah", "opsi": ["Satu pesan utama dengan elemen dominan", "Banyak pesan sekaligus", "Huruf sangat kecil"], "kunci": 0}, {"soal": "Ilustrasi pada majalah sebaiknya", "opsi": ["Selaras dengan isi tulisan", "Bertentangan dengan tulisan", "Tidak berkaitan"], "kunci": 0}]},
+    "tugas": {"judul": "Rancangan karya cetak (poster/komik/ilustrasi)", "bentuk": "individu", "luaran": "Rancangan kasar + catatan konsep"},
+    "tindakLanjut": {"remedial": "Pendampingan memilih media yang paling sederhana.", "pengayaan": "Membuat dua versi poster untuk dua sasaran berbeda."}
+   },
+   "rabu": {
+    "tujuan": ["Menyelesaikan, mempresentasikan, dan menilai karya semester 1.", "Menyelesaikan asesmen akhir semester dan merefleksi capaian belajar."],
+    "pemantik": ["Apa karya terbaikmu semester ini dan mengapa?", "Apa satu hal yang akan kamu lakukan berbeda pada semester berikutnya?"],
+    "materi": {
+     "pengantar": "Presentasi karya melatih menjelaskan keputusan desain, bukan sekadar menunjukkan gambar. Refleksi akhir semester membantu merencanakan perbaikan cara belajar.",
+     "poin": ["Struktur penyajian karya: pesan yang diangkat, proses, keputusan desain, dan pelajaran yang didapat.", "Penilaian karya memakai rubrik: kesesuaian pesan, mutu visual, ketelitian teknis, dan kemandirian.", "Refleksi ditulis jujur: apa yang dikuasai, apa yang masih sulit, dan langkah berikutnya.", "Portofolio semester dikemas rapi agar dapat ditunjukkan kepada guru dan orang tua."],
+     "istilah": [{"t": "presentasi karya", "a": "Kegiatan menjelaskan karya dan keputusan desainnya kepada orang lain."}, {"t": "refleksi akhir", "a": "Penilaian diri atas capaian dan rencana perbaikan belajar."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Contoh susunan portofolio", "keterangan": "Amati contoh portofolio tiga halaman: karya, proses, dan refleksi."}, {"jenis": "diagram", "id": "diagram-alur-produksi", "judul": "Alur presentasi karya", "keterangan": "Diagram orisinal: pesan → proses → keputusan → pelajaran."}],
+    "aktivitas": {"memahami": ["Menelaah rubrik penilaian karya", "Menyusun kerangka presentasi"], "mengaplikasi": ["Menyelesaikan karya semester", "Mempresentasikan karya dan menjawab pertanyaan", "Mengerjakan asesmen akhir semester 1"], "merefleksi": ["Menulis refleksi capaian semester dan rencana semester berikutnya"]},
+    "lkpd": {"judul": "LKPD 36 — Portofolio & Presentasi Akhir Semester 1", "langkah": ["Susun portofolio minimal tiga karya.", "Tulis catatan proses tiap karya.", "Presentasikan lima menit.", "Isi lembar refleksi."], "rubrik": [{"kriteria": "Kelengkapan portofolio", "skor4": "Tiga karya lengkap dengan proses dan refleksi", "skor3": "Tiga karya lengkap", "skor2": "Dua karya", "skor1": "Satu karya"}, {"kriteria": "Mutu presentasi", "skor4": "Jelas, beralasan, dan menjawab pertanyaan", "skor3": "Jelas dan beralasan", "skor2": "Kurang jelas", "skor1": "Tidak siap"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Hal yang dinilai dalam presentasi karya adalah", "opsi": ["Kemampuan menjelaskan keputusan desain", "Jumlah kata yang diucapkan", "Kerapian pakaian"], "kunci": 0}, {"soal": "Refleksi akhir semester sebaiknya memuat", "opsi": ["Capaian, kesulitan, dan rencana perbaikan", "Daftar nilai teman", "Keluhan saja"], "kunci": 0}]},
+    "tugas": {"judul": "Portofolio semester 1 & presentasi karya", "bentuk": "individu", "luaran": "Portofolio 3 karya + lembar refleksi + asesmen akhir semester"},
+    "tindakLanjut": {"remedial": "Pendampingan menyusun portofolio.", "pengayaan": "Membuat karya tambahan untuk pameran kelas."}
+   }
+  }
+ ]
+}

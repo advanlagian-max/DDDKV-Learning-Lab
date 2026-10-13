@@ -1,0 +1,4330 @@
+
+<<<HAL 1>>>
+SMK/MAK KELAS X
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+2022
+Dasar-Dasar Desain 
+Komunikasi Visual
+Semester 2
+<<<HAL 2>>>
+Hak Cipta © 2022 pada Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia
+Dilindungi Undang-Undang
+Penaian. Buku ini diiiapkan oleh Pemerintah dalam rangka pemenuhan kebutuhan buku pendidikan yang 
+bermutu, murah, dan merata ieiuai dengan amanat dalam UU No. 3 Tahun  2017. Buku ini diiuiun dan 
+ditelaah oleh berbagai pihak di bawah koordinaii Kementerian Pendidikan, Kebudayaan, Riiet, dan Teknologi. 
+Buku ini merupakan dokumen hidup yang ienantiaia diperbaiki, diperbarui, dan dimutakhirkan ieiuai dengan 
+dinamika kebutuhan dan perubahan zaman. Maiukan dari berbagai kalangan yang dialamat kan kepada 
+penulii atau melalui alamat iurel buku@kemdikbud.go.id diharapkan dapat meningkatkan kualitai buku ini.
+Dasar-Dasar Desain Komunikasi Visual
+untuk SMK/MAK Kelas X Semester 2
+Penulis
+Maylinda Ambarwati
+ wi Kurnia Kuiwahyuni
+Penelaah
+Abi Senoprabowo 
+Muh Ariffudin Iilam
+Penyelia/Penyelaras
+Supriyatno
+Wardani Sugiyanto
+Mochamad Widiyanto 
+Wijanarko Adi Nugroho
+Yanuar Adi Sutraino
+Meylina
+Kontributor
+Sukarni
+Ahmad Fauzi
+Wuri Setyowati 
+Ilustrator
+Arief Firdaui
+Editor
+Rudi Norman Permana
+Meylina
+Desainer
+Muhamad Iinaini
+Penerbit
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+Dikeluarkan oleh
+Pusat Perbukuan
+Komplek Kemdikbudriitek Jalan RS. Fatmawati, Cipete, Jakarta Selatan
+httpi://buku.kemdikbud.go.id
+Cetakan Pertama, 2022
+ISBN  978-602-244-999-7 (no.jil.lengkap)
+ 978-602-427-884-7 (jil.2)
+ 978-623-388-032-9 (P F)
+Iii buku ini menggunakan huruf Fira Sani, Roboto, Noto Serif 11/17,6 pt, Steve Matteion.
+xiv, 170 hlm,: 17,6cm x 25cm.
+<<<HAL 3>>>
+iii
+Kata Pengantar
+Pusat Perbukuan; Badan Standar, Kurikulum, dan Asesmen Pendidikan; 
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi memiliki tugas 
+dan fungsi mengembangkan buku pendidikan pada satuan Pendidikan Anak 
+Usia Dini, Pendidikan Dasar, dan Pendidikan Menengah, termasuk Pendidikan 
+Khusus. Buku yang dikembangkan saat ini mengacu pada Kurikulum Merdeka. 
+Kurikulum ini memberikan keleluasaan bagi satuan/program pendidikan dalam 
+mengimplementasikan kurikulum dengan prinsip diversiikasi sesuai dengan 
+kondisi satuan pendidikan, potensi daerah, dan peserta didik.
+Pemerintah dalam hal ini Pusat Perbukuan mendukung impleme ntasi 
+Kurikulum Merdeka di satuan pendidikan dengan mengembangkan buku siswa 
+dan buku panduan guru sebagai buku teks utama. Buku ini dapat menjadi salah 
+satu referensi atau inspirasi sumber belajar yang dapat dimodiikasi, dijadikan 
+contoh, atau rujukan dalam merancang dan mengembangkan pembelajaran 
+sesuai karakteristik, potensi, dan kebutuhan peserta didik. 
+Adapun acuan penyusunan buku teks utama adalah Pedoman Penerapan 
+Kurikulum dalam rangka Pemulihan Pembelajaran yang ditetapkan melalui 
+Keputusan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi No. 262/M/2022 
+Tentang Perubahan atas Keputusan Mendikbudristek No. 56/M/2022 Tentang 
+Pedoman Penerapan Kurikulum dalam rangka Pemulihan Pembelajaran, serta 
+Keputusan Kepala Badan Standar, Kurikulum, dan Asesmen Pendidikan Nomor 
+033/H/KR/2022 tentang Perubahan Atas Keputusan Kepala Badan Standar, 
+Kurikulum, dan Asesmen Pendidikan Kementerian Pendidikan, Kebudayaan, 
+Riset, dan Teknologi Nomor 008/H/KR/2022 tentang Capaian Pembelajaran pada 
+Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan 
+Menengah pada Kurikulum Merdeka. 
+Sebagai dokumen hidup, buku ini tentu dapat diperbaiki dan disesuaikan 
+dengan kebutuhan dan perkembangan keilmuan dan teknologi. Oleh karena itu, 
+saran dan masukan dari para guru, peserta didik, orang tua, dan masyarakat 
+sangat dibutuhkan untuk pengembangan buku ini di masa yang akan datang. 
+Pada kesempatan ini, Pusat Perbukuan menyampaikan terima k asih kepada 
+semua pihak yang telah terlibat dalam penyusunan buku ini, mulai dari penulis, 
+penelaah, editor, ilustrator, desainer, dan kontributor terkait lainnya. Semoga 
+buku ini dapat bermanfaat khususnya bagi peserta didik dan guru dalam 
+meningkatkan mutu pembelajaran.
+Jakarta, Desember 2022
+Kepala Pusat,
+Supriyatno
+NIP 196804051988121001
+<<<HAL 4>>>
+iv
+Kata Pengantar
+Assalamualaikum Warahmatullahi Wabarakatuh
+Sehubungan dengan telah terbitnya Keputusan Menteri Pendidikan, Kebudayaan, 
+Riset, dan Teknologi Nomor 165/M/2021 tentang Program Sekolah Menengah 
+Kejuruan Pusat Keunggulan (SMK PK), Direktorat SMK, Direktorat Jenderal 
+Pendidikan Vokasi telah menyusun contoh perangkat ajar. 
+Perangkat ajar merupakan berbagai bahan ajar yang digunakan oleh pendidik 
+dalam upaya mencapai Proil Pelajar Pancasila dan capaian pembelajaran. 
+Perangkat ajar meliputi buku teks pelajaran, modul ajar, video pembelajaran, 
+modul Projek Penguatan Proil Pelajar Pancasila dan Budaya Kerja, serta bentuk 
+lainnya. Pendidik dapat menggunakan beragam perangkat ajar yang relevan 
+dari berbagai sumber. Pemerintah menyediakan beragam perangkat ajar 
+untuk membantu pendidik yang membutuhkan referensi atau inspirasi dalam 
+pengajaran. Pendidik memiliki keleluasaan untuk membuat sendiri, memilih, dan 
+memodiikasi perangkat ajar yang tersedia sesuai dengan konteks, karakteristik, 
+serta kebutuhan peserta didik.
+Buku ini merupakan salah satu perangkat ajar yang bisa digunakan sebagai 
+referensi bagi guru SMK dalam mengimplementasikan Pembelajaran dengan 
+Kurikulum Merdeka. Buku teks pelajaran ini digunakan masih terbatas pada 
+SMK Pusat Keunggulan. 
+Selanjutnya, Direktorat SMK mengucapkan terima kasih kepada seluruh 
+pihak yang terlibat dalam penyusunan buku ini mulai dari penulis, penelaah, 
+reviewer, edistor, ilustrator, desainer, dan pihak terkait lainnya yang tidak dapat 
+disebutkan satu per satu. Semoga buku ini bermanfaat untuk meningkatkan 
+mutu pembelajaran pada SMK Pusat Keunggulan. 
+Jakarta, Mei 2022
+Direktur SMK
+<<<HAL 5>>>
+v
+Prakata
+Dengan mengucap syukur ke hadirat Allah SWT atas rahmat dan hidayah-Nya, 
+penulisan buku teks Dasar-Dasar Desain Komunikasi Visual SMK/MAK Kelas 
+X Semester 2  ini dapat diselesaikan dengan baik. Buku teks ini sebagai salah 
+satu sumber belajar Dasar-Dasar Desain Komunikasi Visual kelas X Sekolah 
+Menengah Kejuruan dengan Kompetensi Keahlian Desain Komunikasi Visual.
+Buku teks ini disusun berdasarkan Capaian Pembelajaran (CP) yang bertujuan 
+membekali peserta didik dengan dasar-dasar pengetahuan, keterampilan, dan 
+sikap (hard skill dan soft skill). Buku teks ini membahas secara detail materi 
+pembelajaran Dasar-Dasar Desain Komunikasi Visual yang melibatkan unsur-
+unsur visual (seni rupa) dan komunikasi. Pada semester 2 ini, materi yang dibahas 
+ialah tentang tipografi, fotografi, mengidentifikasi dan mengolah desain, serta 
+mengoperasikan perangkat lunak desain.
+Penulis yakin dengan beberapa materi yang ada dalam buku ini, para peserta 
+didik kelas X dapat belajar lebih komprehensif lagi. Apalagi ditunjang dengan 
+adanya ilustrasi dan foto-foto yang sudah penulis lampirkan. Semoga buku 
+ini dapat memberikan motivasi dan inspirasi bagi peserta didik kelas X untuk 
+mendalami lebih jauh semua hal tentang Dasar-Dasar Desain Komunikasi Visual.
+Jakarta, Desember 2022 
+Penulis
+<<<HAL 6>>>
+vi
+Daftar Isi
+Kata Pengantar ................................................................................................. iii
+Prakata ................................................................................................................ v
+Daftar Isi ............................................................................................................. vi
+Daftar Gambar  ................................................................................................. viii
+Daftar Tabel ....................................................................................................... xiii
+Petunjuk Penggunaan Buku .......................................................................... xiv
+Bab 1 
+Tipograi ...................................................................................... 1
+A. Sejarah Tipograi  ........................................................................................ 4
+B. Pengertian Tipograi  ................................................................................ 6
+C. Jenis Tipograi  ............................................................................................. 7
+D. Fungsi, Anatomi, Prinsip, Lingkup Huruf, dan Layout dalam 
+Tipograi ....................................................................................................... 9
+E. Menjelaskan Pengertian Leading, Kerning, dan Tracking ............ 22
+Rangkuman .......................................................................................................  26
+Asesmen .............................................................................................................  27
+Uji Kompetensi..................................................................................................  28
+Pengayaan .......................................................................................................... 29
+Releksi ................................................................................................................ 30
+Bab 2 
+Fotograi Dasar .......................................................................... 31
+A. Peralatan Kamera Fotograi  .................................................................... 34
+B. Bagian-Bagian Kamera DSLR  .................................................................. 39
+C. Segitiga Exposure Kamera DSLR ............................................................ 49
+D. Penggunaan Kamera DSLR  .....................................................................  53
+E. Alat Penunjang Fotograi Digital Indoor dan Outdoor .................. 55
+<<<HAL 7>>>
+vii
+F. Jenis-Jenis Fotograi ...................................................................................  58
+G. Teknik Pengambilan Gambar Berdasarkan Ukuran Gambar dan 
+Sudut Pengambilan (Angle) ..................................................................... 65
+H. Pencahayaan pada Fotograi  ..................................................................  74
+I. Penyuntingan Fotograi Digital  ............................................................. 77
+Rangkuman .......................................................................................................  82
+Asesmen .............................................................................................................  83
+Uji Kompetensi..................................................................................................  85
+Pengayaan .......................................................................................................... 86
+Releksi ................................................................................................................ 86
+Bab 3 
+Komputer Grais ........................................................................ 87
+A. Pengertian Bitmap dan Vektor  ............................................................... 90
+B. Jenis-Jenis Perangkat Lunak Desain Grais  ......................................... 95
+C. Produk Rancangan Komputer Grais  ...................................................  124
+Rangkuman .......................................................................................................  138
+Asesmen .............................................................................................................  139
+Uji Kompetensi..................................................................................................  141
+Pengayaan .......................................................................................................... 142
+Releksi ................................................................................................................ 142
+Latihan Soal Semester 2 ................................................................................. 143
+Glosarium ........................................................................................................... 157
+Daftar Pustaka ..................................................................................................  159
+Indeks .................................................................................................................. 160
+Proil Pelaku Perbukuan ................................................................................ 163
+<<<HAL 8>>>
+viii
+Daftar Gambar
+Bab 1 Tipograi
+Gambar 1.1 Poster ...................................................................................... 3
+Gambar 1.2 Jenis font berpengaruh terhadap kesan yang 
+ditimbulkan. ......................................................................... 6
+Gambar 1.3 Baseline .................................................................................. 10
+Gambar 1.4 Stem.........................................................................................  11
+Gambar 1.5 Ascender dan Descender .................................................... 11
+Gambar 1.6 Lowercase dan Uppercase ................................................. 12
+Gambar 1.7 Ear dan Shoulder ................................................................. 12
+Gambar 1.8 Legibility ................................................................................  13
+Gambar 1.9 Readability ............................................................................. 14
+Gambar 1.10 Visibility ................................................................................. 14
+Gambar 1.11 Ciri-Ciri Huruf Oldstyle .....................................................  15
+Gambar 1.12 Ciri-Ciri Huruf Modern Style  ........................................... 16
+Gambar 1.13 Ciri-Ciri Huruf Slab Serif  .................................................. 17
+Gambar 1.14 Ciri-Ciri Huruf Sans Serif   ................................................ 18
+Gambar 1.15 Headline dengan Huruf Awal Kapital ............................ 19
+Gambar 1.16 Headline dengan Seluruh Huruf Kapital ......................  19
+Gambar 1.17 Headline Menggantung ...................................................... 20
+Gambar 1.18 Headline Memberikan Kesan Penegasan ...................... 20
+Gambar 1.19 Memotong Headline dengan Cara yang Salah ............. 21
+Gambar 1.20 Memotong Headline dengan Cara yang Benar ............ 21
+Gambar 1.21 Leading ................................................................................... 23
+Gambar 1.22 Poster Kemerdekaan .......................................................... 23
+Gambar 1.23 Kerning ................................................................................... 24
+Gambar 1.24 Spasi Huruf yang Perlu Diatur Secara Khusus............  24
+Gambar 1.25 Tracking ................................................................................. 25
+<<<HAL 9>>>
+ix
+Bab 2 Fotograi Dasar
+Gambar 2.1 Karya Fotograi  ................................................................... 33
+Gambar 2.2 Kamera Saku  ....................................................................... 35
+Gambar 2.3 Kamera Smartphone  .......................................................... 35
+Gambar 2.4 Kamera Bridge .....................................................................  36
+Gambar 2.5 Kamera Mirrorless .............................................................. 36
+Gambar 2.6 Kamera Mikro ...................................................................... 37
+Gambar 2.7 Kamera DSLR .......................................................................  38
+Gambar 2.8 Bagian Bawah dan Depan Kamera DSLR  ....................  39
+Gambar 2.9 Bagian Atas dan Belakang Kamera DSLR  .................... 40
+Gambar 2.10 Tombol Dial Mode Kamera  .............................................. 44
+Gambar 2.11 Tampilan dalam Viewinder  ............................................  45
+Gambar 2.12 Tampilan Pengendali Cepat (Quick Control) ................ 47
+Gambar 2.13 Segitiga Exposure ................................................................  50
+Gambar 2.14 Pengambilan objek gambar dengan menentukan 
+diafragma lensa, shutter speed, dan ISO. ...................... 52
+Gambar 2.15 Fotograi Potret .................................................................... 58
+Gambar 2.16 Fotograi Makanan .............................................................. 59
+Gambar 2.17 Fotograi Still Life ................................................................ 60
+Gambar 2.18 Fotograi Jalanan  ................................................................ 61
+Gambar 2.19 Fotograi Aksi .......................................................................  62
+Gambar 2.20 Fotograi Periklanan ........................................................... 63
+Gambar 2.21 Fotograi Alam atau Pemandangan................................  64
+Gambar 2.22 Extreme Close Up ................................................................. 65
+Gambar 2.23 Big Close Up ..........................................................................  66
+Gambar 2.24 Close Up .................................................................................. 66
+Gambar 2.25 Medium Close Up .................................................................  67
+Gambar 2.26 Medium Shot ......................................................................... 67
+Gambar 2.27 Medium Long Shot ............................................................... 68
+Gambar 2.28 Long Shot ............................................................................... 68
+Gambar 2.29 Teknik Pengambilan Gambar Berdasarkan Angle ..... 69
+Gambar 2.30 Frog Eye .................................................................................  70
+Gambar 2.31 Low Angle .............................................................................. 70
+<<<HAL 10>>>
+x
+Gambar 2.32 Eye Level ................................................................................ 71
+Gambar 2.33 High Angle ............................................................................. 71
+Gambar 2.34 Bird Eye .................................................................................. 72
+Gambar 2.35 Panning .................................................................................. 73
+Gambar 2.36 Front Light ............................................................................  74
+Gambar 2.37 Oval Light .............................................................................. 75
+Gambar 2.38 Side Light ............................................................................... 75
+Gambar 2.39 Rim Light ...............................................................................  76
+Gambar 2.40 Back Light .............................................................................. 76
+Gambar 2.41 Proses Cropping Gambar Foto .........................................  78
+Gambar 2.42 Pelurusan Horizon Foto yang Awalnya Miring ..........  78
+Gambar 2.43 Pengukuran Gelap Terang Gambar melalui 
+Histogram .............................................................................. 79
+Gambar 2.44 Penajaman Garis Gambar Foto .......................................  80
+Gambar 2.45 Penghilangan Efek Warna Merah pada Mata .............  80
+Gambar 2.46 Pengubahan Foto Berwarna Menjadi Hitam Putih .... 81
+Gambar 2.47 Pengurangan Efek Noise pada Gambar Foto ............... 81
+Bab 3 Komputer Grais
+Gambar 3.1 Komputer Grais .................................................................. 89
+Gambar 3.2 Gambar Bitmap ...................................................................  92
+Gambar 3.3 Gambar Vektor pada Kondisi Ukuran Normal  ........... 93
+Gambar 3.4 Detail Gambar pada Pembesaran Gambar Vektor 
+Masih Terlihat Utuh ............................................................ 93
+˙ Gambar 3.5 Software Komputer Grais ................................................  95
+Gambar 3.6 Tampilan Area Kerja CorelDRAW ................................... 97
+Gambar 3.7 Menu Bar ...............................................................................  97
+Gambar 3.8  Standard Bar  ........................................................................ 98
+Gambar 3.9  Property Bar  ........................................................................  98
+Gambar 3.10  Status Bar .............................................................................. 98
+Gambar 3.11 Page Area ............................................................................... 99
+Gambar 3.12  Ruler  ....................................................................................... 100
+Gambar 3.13 Toolbox ................................................................................... 100
+Gambar 3.14 Color Palette .......................................................................... 101
+<<<HAL 11>>>
+xi
+Gambar 3.15  Fitur Shaping CorelDRAW ................................................. 102
+Gambar 3.16  Combine .................................................................................  102
+Gambar 3.17  Weld ........................................................................................ 103
+Gambar 3.18  Trim ......................................................................................... 103
+Gambar 3.19  Intersect ................................................................................. 103
+Gambar 3.20  Simplify ................................................................................... 104
+Gambar 3.21  Front Minus Back ................................................................  104
+Gambar 3.22  Back Minus Front ................................................................  105
+Gambar 3.23  Create Boundary .................................................................. 105
+Gambar 3.24 Cara Membuka Perangkat Lunak Adobe Illustrator .  106
+Gambar 3.25 Tampilan Area Kerja Adobe Illustrator ......................... 106
+Gambar 3.26 Toolbox  .................................................................................. 107
+Gambar 3.27 Menu Bar ...............................................................................  107
+Gambar 3.28  Status Bar  ............................................................................. 108
+Gambar 3.29  Artboards  .............................................................................. 108
+Gambar 3.30  Color Palette .......................................................................... 109
+Gambar 3.31 Transparency Palette .......................................................... 109
+Gambar 3.32 Layer Palette ......................................................................... 110
+Gambar 3.33 Artwork Illustrator .............................................................  110
+Gambar 3.34 Path Terbuka ........................................................................ 111
+Gambar 3.35 Path Tertutup .......................................................................  111
+Gambar 3.36  Pathinder Illustrator  ......................................................... 112
+Gambar 3.37  Unite  ....................................................................................... 112
+Gambar 3.38  Minus Front  .......................................................................... 113
+Gambar 3.39  Intersect  ................................................................................ 113
+Gambar 3.40  Exclude  .................................................................................. 113
+Gambar 3.41  Divide  ..................................................................................... 114
+Gambar 3.42 Trim  ........................................................................................ 114
+Gambar 3.43  Merge  ..................................................................................... 114
+Gambar 3.44  Crop  ........................................................................................ 115
+Gambar 3.45  Outline  ................................................................................... 115
+Gambar 3.46  Minus Back  ........................................................................... 115
+Gambar 3.47 Anchor Point, Direction Point, dan Segment ................. 116
+Gambar 3.48 Bounding Box dan Handle ................................................. 116
+<<<HAL 12>>>
+xii
+Gambar 3.49 Tampilan Adobe Photoshop ............................................. 117
+Gambar 3.50 Tampilan Area Kerja Adobe Photoshop ........................ 118
+Gambar 3.51 Menu Bar ...............................................................................  118
+Gambar 3.52 Toolbox ................................................................................... 119
+Gambar 3.53 Judul Dokumen ..................................................................... 119
+Gambar 3.54 Palette ..................................................................................... 119
+Gambar 3.55 Option Bar ............................................................................. 119
+Gambar 3.56 Layer Photoshop .................................................................. 120
+Gambar 3.57 Elliptical Marquee................................................................  121
+Gambar 3.58 Lasso ....................................................................................... 121
+Gambar 3.59 Magic Wand Tool ................................................................. 122
+Gambar 3.60 Pen Tool .................................................................................. 122
+Gambar 3.61 Color Range ........................................................................... 123
+Gambar 3.62 Color Channels .....................................................................  123
+Gambar 3.63  Lembar Kerja Mug  ............................................................. 124
+Gambar 3.64  Ukuran Mug pada Lembar Kerja .................................... 125
+Gambar 3.65  Desain Mug ........................................................................... 125
+Gambar 3.66  Desain Mug Akhir ...............................................................  126
+Gambar 3.67  Lembar Kerja A4  ................................................................  126
+Gambar 3.68 Lembar Kerja Ukuran 1920 x 1080 px ........................... 127
+Gambar 3.69  Persegi Panjang dengan Rectangel ................................. 127
+Gambar 3.70  Penggunaan Shape Tool  .................................................... 128
+Gambar 3.71 Menggandakan Objek ........................................................ 128
+Gambar 3.72  Memutar (Rotate) Objek .................................................... 129
+Gambar 3.73  Menggabungkan Dua Objek (Weld) ................................ 129
+Gambar 3.74  Tool Bezier pada Objek  ..................................................... 130
+Gambar 3.75 Back Minus Front dan Break Apart pada Objek .......... 130
+Gambar 3.76  Interactive Fill Tool pada Objek  ...................................... 131
+Gambar 3.77  Penambahan Kata pada Desain Logo ............................ 131
+Gambar 3.78  Lembar Kerja Packaging  .................................................. 132
+Gambar 3.79  Desain Pola Packaging ....................................................... 132
+Gambar 3.80  Desain Pola Packaging yang Sudah Diwarnai  ............ 133
+Gambar 3.81  Menyiapkan Gambar Pendukung  .................................. 133
+Gambar 3.82  Power Clip Inside Objek atau Gambar Pendukung  ... 134
+<<<HAL 13>>>
+xiii
+Gambar 3.83  Desain Packaging yang Sudah Diberi Gambar 
+Pendukung  ........................................................................... 134
+Gambar 3.84  Menambahkan Keterangan pada Desain  .................... 135 
+Gambar 3.85  Desain Akhir Packaging  ...................................................  135
+Gambar 3.86 Lembar Kerja Kartu Nama ............................................... 136
+Gambar 3.87 Memberikan Warna pada Desain Kartu Nama ..........  136
+Gambar 3.88 Mendesain Ikon dan Identitas pada Kartu Nama ...... 137
+Gambar 3.89 Menambahkan Desain Logo ............................................  137
+Gambar 3.90 Karakter Indonesia ............................................................. 139
+Daftar Tabel
+Tabel 1.1  Gambar Ideograi  ............................................................... 4
+Tabel 1.2  Jenis-Jenis Huruf  ................................................................ 8
+Tabel 3.1  Perbedaan Gambar Bitmap dan Vektor ........................ 94
+<<<HAL 14>>>
+xiv
+Petunjuk Penggunaan Buku
+Buku Dasar-Dasar Desain Komunikasi  Visual untuk kelas  X semester 2 
+terdiri atas tiga bab, yaitu tipografi, fotografi dasar, dan komputer grafis. 
+Berikut penyajian materi yang terdapat dalam buku ini.
+Tujuan Pembelajaran
+Berisi daftar kemampuan yang akan kamu capai setelah mempelajari materi 
+pembelajaran.
+Aktivitas
+Berisi beberapa aktivitas, yaitu Ayo Bereksplorasi yang mengajak kamu untuk 
+mencari informasi terkait materi, Ayo Berkreasi yang mengajak kamu untuk 
+membuat sesuatu berdasarkan materi yang dipelajari, dan Ayo Praktikkan yang 
+mengajak kamu untuk mempraktikkan materi yang telah dipelajari.
+Rangkuman
+Berisi uraian materi secara singkat untuk mengingat lagi pokok-pokok materi 
+yang telah kamu pelajari.
+Asesmen
+Berisi tugas untuk mengukur ketercapaian tujuan pembelajaran. Asesmen 
+disajikan dalam bentuk tugas mandiri dan tugas kelompok.
+Uji Kompetensi
+Berisi soal-soal untuk mengukur kompetensi dan keterserapan materi yang 
+telah kamu pelajari. Uji kompetensi disajikan dalam soal esai.
+Pengayaan
+Berisi fitur kode QR untuk mengakses informasi yang mendukung pendalaman 
+materi. Informasi ini akan menambah wawasan kamu terkait materi yang dibahas 
+pada setiap bab.
+Refleksi
+Renungan untuk menemukan makna dan manfaat dari kegiatan pembelajaran 
+yang telah kamu lalui.
+<<<HAL 15>>>
+Bab 1  Tipograi 1
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET , DAN TEKNOLOGI  
+REPUBLIK INDONESIA, 2022
+Dasar-Dasar Desain Komunikasi Visual 
+untuk SMK/MAK Kelas X Semester 2 
+Penulis :  Maylinda Ambarwati dan Dwi Kurnia Kuswahyuni 
+ISBN :  978-602-427-884-7 
+  978-623-388-032-9 (PDF)
+Bab 1 
+Tipografi
+Bagaimana kamu memilih, menyusun, dan 
+mengatur huruf untuk karya desain grafis?
+<<<HAL 16>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 22
+Tujuan Pembelajaran
+Pada akhir pembelajaran ini, kamu diharapkan memahami 
+sejarah, perkembangan, pengertian, jenis, fungsi, karakter, 
+anatomi, lingkup huruf, dasar, dan peran tipografi dalam 
+Desain Komunikasi Visual serta dapat mengaplikasikannya 
+pada produk Desain Komunikasi Visual. 
+ Kata Kunci 
+tipograi, font, readability, legibility, visibility
+Peta Konsep
+Tipografi
+Fungsi, Anatomi, Prinsip, 
+Lingkup Huruf, dan 
+Layout dalam Tipografi
+D
+Sejarah TipografiA
+Pengertian TipografiB
+Jenis TipografiC
+Pengertian Leading, 
+Kerning, dan TrackingE
+<<<HAL 17>>>
+Bab 1  Tipograi 3
+Seni cetak atau tata huruf 
+adalah suatu kesenian dan 
+teknik memilih dan menata 
+huruf dengan pengaturan 
+penyebarannya pada ruang 
+yang tersedia, untuk mencip-
+takan kesan tertentu, guna 
+kenyamanan membaca  
+semaksimal mungkin.
+Dikenal pula seni rupa huruf 
+(type design), yaitu karya atau 
+desain yang menggunakan 
+pengaturan huruf sebagai 
+elemen utama. Dalam seni 
+rupa huruf, pengertian huruf 
+sebagai lambang bunyi bisa 
+diabaikan. 
+@aipirdoz
+Tipografi merupakan bagian terpenting dalam dunia desain. Tipografi 
+sendiri dapat diartikan sebagai seni memilih, menyusun, dan mengatur 
+tata letak serta jenis huruf untuk keperluan percetakan dan produksi. 
+Tujuan dari adanya ilmu tipografi ialah agar kamu dan para penikmat 
+desain dapat memahami dengan jelas ketika membaca sebuah teks. 
+Kekuatan tipografi dalam desain grafis ditentukan oleh pembuatan dan 
+pemilihan jenis huruf hingga penerapannya dalam sebuah desain. 
+Tipografi sendiri merupakan bagian dari Desain Komunikasi Visual 
+(DKV). Perkembangan tipografi dipengaruhi oleh berbagai hal, terutama 
+oleh budaya masyarakat dan teknik pembuatannya. Tipografi merupakan 
+unsur penting dalam ilmu DKV yang diterapkan pada kehidupan 
+masyarakat. Dengan demikian, budaya masyarakat dominan sekali dalam 
+memengaruhi perkembangan tipografi. Hal ini otomatis terkait pula dengan 
+teknik pembuatan tipografi, dari manual hingga menjadi digital saat ini, 
+yaitu pembuatan tipografi banyak menggunakan teknologi komputer. 
+Selain itu, tipografi juga memiliki kemampuan untuk memberikan kesan 
+secara visual. Nilai yang terdapat pada tipografi memiliki fungsi agar 
+pesan atau informasi yang disampaikan mudah dipahami dengan jelas 
+sekaligus sebagai daya tarik sebuah desain grafis.
+Gambar 1.1 Poster
+<<<HAL 18>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 24
+A. Sejarah Tipograi
+Sejarah perkembangan tipografi dapat dibagi menjadi tiga era, yaitu 
+sebagai berikut.
+1. Perkembangan Tipografi Era Pracetak
+Perkembangan tipografi dimulai dengan ditemukannya ukiran dan lukisan 
+yang dibuat oleh manusia pada dinding gua sejak 25000 SM. Hal ini menjadi 
+tonggak awal mulanya piktograf. Piktograf adalah tulisan yang berbentuk 
+gambar, biasanya berbentuk gambar objek seperti hewan, tumbuhan, dan 
+kegiatan manusia. Piktografi merupakan gambaran keadaan objek atau 
+peristiwa yang terjadi dalam kehidupan sehari-hari pada masa lampau.
+Pada tahun 1800 SM di sekitar daerah Cina ditemukan sebuah kaligrafi 
+yang merupakan gabungan antara piktografi dan ideografi. Ideografi 
+merupakan tulisan yang mengungkapkan gagasan yang dituangkan 
+dalam bentuk simbol tertentu. Tulisan ini ditorehkan pada tulang atau 
+benda lainnya. Berikut contoh gambar ideografi pada saat itu.
+Tabel 1.1 Gambar Ideografi
+Ancient Sumerian Ancient Egyptian Chinese
+Eye See (Verb) Eye
+Forest Water Water
+Mountains Cities Mountains
+Torch Fire Fire
+Person Men Person
+Women Woman
+<<<HAL 19>>>
+Bab 1  Tipograi 5
+Fonograf adalah tanda atau huruf yang menandakan bunyi. Fonograf 
+pertama kali digunakan pada budaya bangsa Phoenicia Kuno di wilayah 
+Lebanon sekitar 1000 SM yang berjumlah 22 huruf atau karakter. Fonograf 
+tersebut menjadi cikal bakal huruf yang ada di dunia. 
+Sekitar tahun 400 SM, bangsa Yunani mengadaptasi sistem alfabet 
+Phoenicia ke dalam struktur anatomi huruf atau alfabet yang lebih 
+teratur dengan berbasis bentuk geometri. Sistem alfabet kemudian 
+terus berkembang hingga akhirnya bangsa Romawi pada tahun 114 M 
+menyempurnakannya dalam bentuk huruf yang kita kenal sekarang.
+2. Perkembangan Tipografi Era Cetak
+Awal abad ke-15, tepatnya tahun 1455 M, Johannes Gensfleisch zur 
+Guttenberg dari Jerman menemukan huruf cetak timah yang dapat 
+disusun dan menjadikannya mesin cetak pertama. Teknologi mesin cetak 
+kemudian mengalami penyempurnaan. Pada tahun 1946, Herman Freud 
+dari Jerman membuat phototypesetting yang menggunakan proses film 
+sebelum naskah ditransfer ke lempeng cetakan yang kemudian dikenal 
+dengan istilah cetak datar atau ofset.
+3.  Perkembangan Tipografi Era Digital
+Tipografi era digital dimulai pada tahun 1987 ketika Adobe Systems 
+mengeluarkan PostScript Font, kemudian disusul Apple Computer dan 
+Microsoft Cooperation yang menghadirkan True Type Font. PostScript 
+Font merupakan format font yang mempunyai dua bagian, yaitu screen 
+font digunakan untuk tampilan layar dan printer font digunakan untuk 
+percetakan melalui printer.
+Setelah mempelajari dan memahami materi mengenai sejarah tipografi, 
+carilah jenis huruf Phoenicia, Yunani, dan Romawi  di internet. Berikan 
+pendapatmu mengenai huruf-huruf tersebut.
+1.1     AYO BEREKSPLORASI!
+<<<HAL 20>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 26
+B. Pengertian Tipograi 
+Gambar 1.2 Jenis font berpengaruh terhadap kesan yang ditimbulkan.
+Perhatikan gambar di atas. Apakah kesan yang ditimbulkan oleh jenis 
+font yang digunakan sudah tepat dengan temanya? Contoh di atas dapat 
+menggambarkan bahwa pemilihan jenis font sangat berpengaruh terhadap 
+kesan yang ditimbulkannya. Karena itu, penting untuk seorang desainer 
+mengerti ilmu tentang seluk-beluk mengerti ilmu tentang seluk-beluk font pada Desain Komunikasi Visual. 
+Gambar merupakan salah satu unsur grafis yang paling mudah dibaca. 
+Namun, selain gambar, adanya kata-kata yang tersusun dari huruf satu 
+dengan huruf lainnya akan memberikan pemahaman kepada pembaca 
+akan pesan yang ingin disampaikan. Desain grafis dikatakan berhasil 
+jika mampu menyampaikan pesan visual kepada pembaca, salah satunya 
+dengan cara penentuan tipografi yang tepat. Seperti yang dapat kamu lihat 
+saat melintas di jalan raya. Matamu akan tertuju pada sebuah billboard atau 
+baliho. Secara tidak langsung, kamu akan fokus pada headline billboard, 
+berupa tulisan dengan tipografi yang baik dan menarik. Inilah baliho 
+<<<HAL 21>>>
+Bab 1  Tipograi 7
+yang sukses menarik perhatian si pembacanya melalui eye-catcher yang 
+kreatif. Tidak hanya itu saja, kamu juga dapat melihat tipografi pada 
+desain nama majalah atau surat kabar, iklan media cetak, packaging atau 
+kemasan sebuah produk. 
+Pada teori terdahulu tentang periklanan, telah dikenal rumus AIDA, 
+yaitu Attention, Interest, Desire, dan Action. Artinya bahwa sebuah iklan 
+mampu menarik perhatian (attention) sehingga pembaca dapat tertarik 
+(interest) dengan produk yang ditawarkan. Setelah itu, dapat mendorong 
+pembaca agar ada keinginan untuk membeli ( desire) produk tersebut. 
+Terakhir melakukan kegiatan (action) untuk membeli produk atau jasa 
+yang diiklankan.
+Menurut Kusrianto (2007), tipografi adalah ilmu atau kemampuan 
+menata huruf atau aksara untuk publikasi visual, baik cetak maupun 
+noncetak. Tipografi tidak hanya menekankan penataan huruf, tetapi juga 
+termasuk penyebaran huruf tersebut pada ruang yang tersedia.
+Tipografi dapat dikatakan sebagai sebuah teknik mengatur huruf 
+dan teks dalam suatu media sehingga dapat menciptakan visual yang 
+menarik perhatian pembacanya, enak dilihat, dan mudah dibaca. Dalam 
+tipografi, seorang desainer harus dapat memilih jenis dan susunan huruf 
+yang bagus dengan tujuan memperoleh kesan tertentu sehingga teks 
+tersebut dapat menyampaikan pesan kepada pembaca. Pada era digital 
+saat ini, tipografi menjadi salah satu teknik yang harus dikuasai oleh 
+seorang desainer grafis.
+C. Jenis Tipograi
+Dalam DKV, elemen yang selalu ada pada tiap desain adalah teks. Teks 
+terbentuk dari gabungan beberapa huruf. Agar teks yang kamu gunakan 
+sesuai dengan desain yang akan dibuat, maka perlu adanya pemilihan jenis 
+huruf yang sesuai dan mendukung desain. Setiap huruf ternyata dapat 
+menimbulkan kesan yang berbeda-beda. Berikut jenis huruf berdasarkan 
+pengelompokan yang dilakukan oleh James Craig (dalam Yulianto, 2018) 
+beserta ciri-ciri dan kesan yang ditimbulkannya.  
+<<<HAL 22>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 28
+Tebel 1.2 Jenis-Jenis Huruf
+Jenis Huruf Ciri-Ciri Kesan yang 
+Ditimbulkan
+Contoh
+Huruf berkait 
+(roman/serif) 
+Terdapat kaki/
+sirip/serif yang 
+berbentuk lancip 
+pada ujungnya. 
+Garis-garis pada 
+huruf biasanya 
+memiliki ketebalan 
+dan ketipisan yang 
+kontras.
+Feminin, 
+klasik, 
+anggun, 
+dan lemah 
+gemulai
+Huruf tak 
+berkait
+(sans serif) 
+Pada ujung hurufnya 
+tanpa sirip/serif dan 
+biasanya memiliki 
+ketebalan huruf 
+yang sama atau 
+hampir sama.
+Kontemporer, 
+modern, dan 
+efisien 
+ 
+Huruf tulis/
+latin (script) 
+Seperti 
+coretan tangan 
+menggunakan pena, 
+kuas atau pensil 
+tajam dan biasanya 
+miring ke kanan.
+Sifat pribadi 
+dan akrab 
+ 
+Monospace Biasanya jarak/lebar 
+setiap hurufnya 
+sama. Huruf W dan 
+I akan mempunyai 
+ruang yang sama.
+Sederhana, 
+ringan 
+ 
+Dekoratif Pengembangan 
+dari bentuk-bentuk 
+yang sudah ada, 
+ditambah hiasan 
+dan ornamen atau 
+garis-garis dekoratif 
+Dekoratif, 
+ornamental, 
+dan unik
+<<<HAL 23>>>
+Bab 1  Tipograi 9
+Setelah mempelajari dan memahami materi mengenai jenis 
+tipografi, carilah satu desain tipografi yang terdapat pada salah 
+satu karya DKV, seperti poster, kemasan, dan majalah yang 
+mengandung huruf tulis/latin ( script). Berikan pendapatmu 
+mengenai desain tipografi tersebut.
+1.2     AYO BEREKSPLORASI!
+D. Fungsi, Anatomi, Prinsip, Lingkup Huruf, dan Layout 
+dalam Tipograi
+1. Fungsi Tipografi 
+Tipografi dalam perancangan dan proses produksi DKV memiliki fungsi, 
+antara lain sebagai berikut.
+a. Kemudahan membaca
+Pemilihan jenis font atau huruf dan ukuran yang tepat akan memudahkan 
+audiens untuk membacanya. 
+b. Menarik perhatian
+Selain huruf yang sudah tertata dalam suatu teks, juga terdapat warna 
+yang menarik sehingga akan memberikan kesan bagi pembacanya.
+c. Menciptakan keindahan
+Selain memberikan kesan mudah dibaca, tipografi juga dapat memberikan 
+kesan estetis pada huruf yang dirangkai dengan seindah mungkin.
+<<<HAL 24>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 210
+2. Anatomi Tipografi
+Bagi seorang perancang huruf atau type designer, tipografi sangat ber-
+manfaat saat digunakan untuk merancang sebuah font. Hal yang perlu 
+kamu perhatikan ialah mengetahui anatomi tipografi. Sebagai desainer 
+grafis, maka mutlak rasanya untuk mengenali dan memahami anatomi 
+dari bentuk huruf agar dalam perancangan visual tidak terjadi hal yang 
+tidak diinginkan.
+Anatomi huruf merupakan salah satu langkah awal dalam mempelajari 
+ilmu tipografi. Setelah mampu memahami anatomi huruf, maka diharapkan 
+para desainer grafis dapat membuat karya desain sesuai dengan ilmu 
+tipografi. 
+Berikut macam-macam contoh komponen anatomi huruf.
+a. Baseline 
+Baseline adalah garis maya yang mendatar (horizontal) sebagai garis 
+dasar untuk menempatkan huruf-huruf dalam posisi sejajar. Garis maya 
+ini merupakan batas dari bagian terbawah pada huruf besar dan badan 
+huruf kecil (tanpa ascender dan descender). 
+Gambar 1.3 Baseline
+b. Stem
+Stem adalah garis vertikal atau tegak ke atas untuk membuat huruf 
+seperti L atau F. Bisa juga menghubungkan satu stem ke stem yang lain 
+dengan menggunakan crossbar detail, seperti huruf H.
+<<<HAL 25>>>
+Bab 1  Tipograi 11
+L F H
+stem stem
+crossbar
+Gambar 1.4 Stem
+c. Ascender dan Descender
+Ascender adalah anatomi huruf kecil yang mengarah ke atas dan 
+posisinya berada di atas meanline. Ascender bisa juga merupakan 
+bagian karakter huruf yang bagiannya lebih tinggi melewati garis 
+atas x-height. Adapun descender merupakan kebalikan dari ascender, 
+yaitu anatomi huruf kecil yang mengarah ke bawah dan posisinya 
+berada di bawah baseline.
+yy    dd
+descender
+ascender
+Gambar 1.5 Ascender dan Descender
+d. Uppercase dan Lowercase
+Uppercase letters adalah huruf besar atau huruf kapital, sedangkan lower-
+case letters adalah huruf kecil atau huruf biasa. Huruf uppercase biasanya 
+digunakan untuk nama dan tempat serta mempertegas kata pada desain. 
+Namun, kelemahan huruf uppercase akan lebih sulit dibaca, sedangkan 
+huruf lowercase untuk penggunaan santai dan lebih mudah dibaca.
+<<<HAL 26>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 212
+lowercase  uppercase
+Gambar 1.6 Lowercase dan Uppercase
+e. Ear dan Shoulder
+Ear adalah detail dekoratif yang menyembul dari sebuah huruf seperti 
+huruf g. Adapun shoulder adalah goresan melengkung yang terlihat pada 
+huruf seperti m dan n.
+ear shoulder
+Gambar 1.7 Ear dan Shoulder
+Selain itu, ada dua aspek dalam anatomi huruf yang perlu kamu 
+ketahui manfaatnya, antara lain sebagai berikut.
+1. Aspek yang berkaitan dengan bentuk fisik huruf. Aspek ini berfungsi 
+mengenal bagaimana huruf dibentuk, baik secara vertikal maupun 
+horizontal.
+2. Aspek yang berkaitan dengan bentuk, konstruksi, dan tampilan 
+secara visual.
+<<<HAL 27>>>
+Bab 1  Tipograi 13
+3. Prinsip Tipografi
+Prinsip tipografi merupakan aturan dasar yang harus selalu diperhatikan 
+ketika membuat perancangan dan proses produksi dalam eksekusi kerja 
+DKV. Prinsip pokok tipografi sebagai berikut.
+a. Legibility
+Legibility adalah kemudahan dalam mengenali huruf sehingga dapat 
+dibedakan jenis huruf atau karakter masing-masing huruf tersebut. 
+Fungsi dari Fungsi dari legibility ialah dapat menghindari kesalahan dalam mengenali 
+huruf. Ciri-ciri dari legibility ialah masing-masing huruf atau karakternya 
+mudah dikenali.
+Ilegal
+Uppercase i bentuknya
+mirip lowercase l
+Ilegal
+L dengan lengan lengkungan
+di bagian bawah lebih legible
+Gambar 1.8 Legibility
+b. Readability
+Readability  adalah ukuran atau tingkat keterbacaan suatu teks atau 
+tulisan. Readability biasanya dipengaruhi oleh kombinasi huruf dan jarak. 
+Perhatikan tatanan huruf pada contoh gambar di bawah ini. Huruf yang 
+berada di sebelah kiri gambar memiliki tingkat keterbacaan yang rendah 
+karena jarak atau kerning begitu sangat rapat sehingga menyebabkan kata 
+tersebut sulit dibaca. Sementara susunan kata yang berada di sebelah 
+kanan merupakan tatanan huruf yang rapi sehingga mudah dibaca. 
+Hal tersebut karena jarak atau kerning huruf satu dengan yang lainnya 
+tidak terlalu dekat.
+<<<HAL 28>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 214
+d kv
+Kerning yang terlalu rapat
+antara huruf D dan K 
+seperti huruf O
+dkv
+Kerning yang baik membuat 
+huruf-huruf di atas menjadi 
+lebih mudah terbaca
+Gambar 1.9 Readability
+c. Visibility
+Visibility merupakan jarak pandang antara seorang pembaca dengan 
+objek yang dibaca. Apabila jarak pandang jauh, visibility-nya akan ber-
+kurang. Begitu pun sebaliknya. Apabila tingkat pemahaman ( legibility) 
+dan keterbacaan (readability) tersusun dengan baik, dengan jarak yang 
+jauh akan tetap terlihat jelas.
+dkv
+dkv
+Gambar 1.10 Visibility
+<<<HAL 29>>>
+Bab 1  Tipograi 15
+Carilah contoh tulisan atau kalimat pada sebuah artikel, majalah, 
+atau koran di lingkungan sekitarmu yang menerapkan prinsip 
+tipografi, seperti legibility, readability,  dan visibility. Berilah 
+tanggapan mengenai prinsip tipografi pada tulisan tersebut.
+1.3     AYO BEREKSPLORASI!
+4. Karakter Huruf Tipografi Berdasarkan Anatomi
+Di bawah ini merupakan empat macam kelompok huruf sesuai dengan 
+karakter anatominya (Kusrianto, 2007).
+a. Oldstyle
+Pada tahun 1470, terciptalah jenis huruf Oldstyle. Salah satunya adalah 
+huruf Venetian yang dibuat oleh seniman Venice, Aldus Manutius dari Italia 
+dan Caslon dari Jerman. Namun, pada abad ke-16 muncul jenis huruf baru 
+karya karya John Baskerville. Macam-macam huruf yang dapat dikategorikan 
+ke dalam Oldstyle adalah Bauer Text, CG Cloister, Claren-don, Oldstyle, 
+Garamond, Goudy Oldstyle, ITC Usherwood, dan Palatino. Berikut yang 
+dapat kamu pahami mengenai ciri-ciri huruf Oldstyle.
+Gambar 1.11 Ciri-Ciri Huruf Oldstyle
+Oldstyle
+Diagonal Stress
+Serif pada huruf kecil 
+berbentuk miring Perbedaan antara 
+bagian tebal dan 
+tipis sedang
+<<<HAL 30>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 216
+b. Modern Style
+Giambattista Bodoni pada abad ke-18 telah menciptakan karya-karya 
+huruf yang dikenal dengan font Bodoni. Karya hurufnya ini bertahan 
+sampai dengan abad ke-20 sehingga karya-karya typeface-nya sudah 
+semakin banyak. 
+Modern Style memiliki ciri khas, yaitu bentuk yang tipis, serif 
+horizontal panjang, dan yang jelas tebal atau transisi tipi s di stroke. 
+Tarikan garisnya tegak lurus (vertikal). Huruf jenis ini terlihat lebih rapi 
+dan tersusun, maka dapat menarik perhatian (dan tersusun, maka dapat menarik perhatian (eye-catching) dan terkesan 
+elegan. Namun, font ini tidak pas apabila digunakan untuk penulisan 
+isi teks karena terlihat sangat menonjol. Perbandingan garis yang tebal 
+akan semakin menonjol, sedangkan garis yang tipis akan semakin tidak akan semakin menonjol, sedangkan garis yang tipis akan semakin tidak 
+terlihat. Jenis huruf ini cocok digunakan untuk membuat sebuah judul terlihat. Jenis huruf ini cocok digunakan untuk membuat sebuah judul 
+dan subjudul. Macam-macam huruf yang termasuk dalam Modern Style 
+adalah Bodoni, Bauer Bodoni, Didot, Torino, Auriga, ITC Fenice, Linotype 
+Modern, ITC Modern, Walbaum Book, ITC Zapf Book, Cheltenham, dan 
+Melior.Melior.
+Gambar 1.12 Ciri-Ciri Huruf Modern Style 
+Modern
+Vertical Stress
+Serif pada huruf kecil 
+berbentuk lurus
+Perbedaan antara 
+bagian tebal dan 
+tipis ekstrem
+c. Slab Serif
+Masa kemunculan huruf ini bervariasi dan ikut menandai kemunculan 
+huruf-huruf yang berfungsi lebih tepat sebagai penarik perhatian, yaitu 
+<<<HAL 31>>>
+Bab 1  Tipograi 17
+sebagai header. Pada abad ke-19, Slab Serif merupakan jenis huruf yang 
+memiliki ciri sangat tebal. Huruf ini digunakan untuk display type agar 
+menarik perhatian pembaca iklan di poster atau flyer. Contoh huruf Slab 
+Serif adalah Boton, Aachen, Calvert, Lubalin Graph, Memphis, Rockwell, 
+Serifa, Clarendon, dan Stymie.Serifa, Clarendon, dan Stymie.
+Gambar 1.13 Ciri-Ciri Huruf Slab Serif 
+Slab serif
+Serif pada huruf kecil 
+berbentuk horizontal
+dan tebal
+Vertical stressPerbedaan antara 
+bagian tebal dan 
+tipis ekstrem
+d. Sans Serif
+Sans Serif diciptakan oleh William Caslon IV (keturunan William Caslon, 
+pencipta font Caslon di era Oldstyle) pada tahun 1816. Pada awalnya 
+font jenis ini disebut dengan Grotesque karena pada zaman itu bentuk 
+huruf tanpa serif dirasa unik dan aneh ( grotesque artinya aneh). Sans 
+Serif sendiri dibagi menjadi tiga kelompok, yaitu Grotesque, Geometric, 
+dan Humanist Sans Serif. 
+Ciri-ciri huruf Sans Serif ialah perbedaan yang kontras begitu halus, 
+bentuknya lebih menekankan pada arah garis vertikal, bentuk huruf 
+tanpa sirip, garis melengkung dengan bentuk persegi, ketebalan huruf 
+hampir sama dan memberi kesan efisien, kontemporer, dan modern.
+<<<HAL 32>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 218
+Gambar 1.14 Ciri-Ciri Huruf Sans Serif  
+Tebal stroke sama
+Tanpa stress 
+Ujung setiap huruf 
+tanpa serif
+5. Layout dan Hierarki dalam Tipografi
+Kata layout tentu tidak asing lagi bagi kamu yang menggeluti dunia desain. 
+Layout dapat membantu orang yang melihatnya memahami pesan yang 
+disampaikan oleh desain tersebut. Fungsi layout ialah menyajikan susunan 
+tata letak teks dan gambar sehingga terlihat harmonis, estetis, lebih 
+menarik, dan komunikatif. Layout membantu sekali untuk menyajikan 
+sebuah desain grafis, agar pesan yang disampaikan mudah dipahami 
+oleh khalayak.
+Hierarki tipografi berfungsi mengatur urutan penulisan berdasarkan 
+kepentingan informasi yang akan disampaikan agar pembaca dapat 
+dengan mudah menemukan apa yang mereka cari dan menavigasi konten. 
+Hierarki tipografi dimulai dari main title (judul utama), headline (judul 
+bahasan), dan subheadline (subjudul bahasan). Dalam desain text-heavy, 
+hierarki tipografi ini harus ditata dengan cara intuitif sehingga mudah 
+dibaca.dibaca.
+Berikut penjelasan hierarki tipografi yang dapat kamu pahami.
+a. Judul Utama atau Main Title
+Judul utama atau main title adalah judul yang ada pada kover sebuah 
+buku atau majalah. Judul utama harus eye-catchy, yaitu menggunakan 
+ukuran huruf yang besar, bentuk huruf yang sesuai, dan susunan huruf 
+yang menarik perhatian.  yang menarik perhatian.  
+<<<HAL 33>>>
+Bab 1  Tipograi 19
+b. Judul Bahasan (Headline dan Subheadline)
+Headline adalah judul bahasan yang ada pada setiap buku atau majalah. 
+Headline memiliki fungsi mengantar pandangan mata pembaca langsung 
+menuju teks. Apabila headline tidak menarik, teks naskah tersebut tidak 
+akan pernah dibaca. Selain teks harus menarik perhatian, hal lain yang 
+harus kamu perhatikan sebagai seorang desainer grais ialah dalam hal 
+copy writing. Bunyi pada sebuah judul harus menggelitik. Di bawah ini 
+adalah contoh memformat headline dan subheadline. 
+1) Memformat headline
+a) Pada setiap awal kata menggunakan huruf kapital, sedangkan 
+huruf berikutnya menggunakan huruf biasa. Susunan huruf 
+seperti ini memudahkan orang untuk membacanya.
+Gambar 1.15 Headline dengan Huruf Awal Kapital
+b) Penggunaan huruf kapital pada seluruh headline akan terlihat 
+lebih tradisional dan bahkan sulit untuk dibaca. Karena itu, 
+kamu harus hindari hal tersebut.
+DESAIN KOMUNIKASI VISUAL  DALAM INDUSTRI KREATIF DI ERA METAVERSE
+Gambar 1.16 Headline dengan Seluruh Huruf Kapital
+c) Apabila headline membentang di atas beberapa kolom, buatlah 
+agar judul bisa penuh hingga akhir lebar kolom. Dengan begitu, 
+pembaca dapat memahami dengan mudah bahwa kolom-kolom 
+tersebut berisi artikel yang sama.
+<<<HAL 34>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 220
+Desain Komunikasi Visual dalam Industri Kreatif di Era Metaverse
+Gambar 1.17 Headline Menggantung
+Desain Komunikasi Visual dalam Industri Kreatif di Era Metaverse
+Gambar 1.18 Headline Memberikan Kesan Penegasan
+Headline serasa menggantung karena tidak selebar bidang kolom-kolom.
+Headline mampu memberi penegasan bahwa kolom-kolom di bawahnya 
+ialah teks dalam sebuah artikel yang sama. 
+<<<HAL 35>>>
+Bab 1  Tipograi 21
+d) Apabila headline  terdiri lebih dari satu baris, kamu tidak 
+diperkenankan memotong kosakata atau kalimat yang menga -
+kibatkan kesalahan persepsi bagi pembacanya. Contohnya pada 
+pemotongan kalimat dalam judul teks berikut. Kesalahannya ada 
+pada kalimat dalam Industri yang ditulis pada baris berbeda.
+Memotong headline dengan cara yang salah.
+Desain Komunikasi Visual dalam 
+Industri Kreatif di Era MetaverseIndustri Kreatif di Era Metaverse
+Gambar 1.19 Memotong Headline dengan Cara yang Salah
+Memotong headline dengan cara yang benar.
+Desain Komunikasi Visual dalam Industri Kreatif 
+di Era Metaversedi Era Metaverse
+Gambar 1.20 Memotong Headline dengan Cara yang Benar
+<<<HAL 36>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 222
+2) Memformat subheadline
+a) Pada bagian level bahasan perlu dibuat subheadline (bagian yang 
+lebih detail) dari satu topik yang lebih rendah.
+b) Perlu kamu ingat bahwa subheadline  dan teks di bawahnya 
+merupakan satu kesatuan. Karena itu, berikan jarak cukup jauh 
+antara subheadline dengan teks sebelumnya.
+Headline memiliki fungsi mengantar pandangan mata pembaca 
+langsung menuju teks. Apabila headline tidak menarik, teks naskah 
+tersebut tidak akan pernah dibaca. Bagaimanakah membuat headline 
+yang menarik bagi mata pembaca? Cobalah kamu bereksplorasi 
+dengan mencari beberapa contoh headline yang terdapat pada 
+sebuah artikel dengan prinsip pemenggalan headline yang benar.
+1.4     AYO BEREKSPLORASI!
+E. Pengertian Leading, Kerning, dan Tracking
+1. Leading
+Leading atau biasa disebut pengaturan spasi baris dapat diartikan sebagai 
+jarak antarbaris. Pengaturan baris memiliki dua tujuan, yaitu readability 
+(mudah dibaca) dan estetis (keindahan). Secara umum, leading default 
+masih lebih baik dibandingkan kerning default, tapi masih tetap lebih baik 
+jika diatur manual. Hal tersebut karena kita perlu mempertimbangkan 
+huruf-huruf yang tinggi atau punya kaki ( ascender dan descender), 
+misalnya b, l kecil, g, h, j, p, dan y. Contoh lain jika kamu menggunakan 
+huruf 10 point untuk teks, spasi baris yang baik adalah 12 point. Namun 
+untuk teks yang pendek, spasi baris yang dapat kamu atur sesuai dengan 
+kebutuhan dan estetika. 
+<<<HAL 37>>>
+Bab 1  Tipograi 23
+Spasi baris untuk sebuah judul sebaiknya tidak terlalu lebar sehingga 
+kata-katanya akan terlihat menyatu dan mudah untuk dibaca. Ini juga 
+berlaku untuk teks yang cukup panjang. berlaku untuk teks yang cukup panjang. 
+tipografi
+tipografitipografi
+tipografitipografi
+tipografitipografi
+1 2
+tipografi
+tipografitipografi
+tipografi
+tipografi
+Gambar 1.21 Leading
+Berikut adalah salah satu contoh poster yang spasi barisnya dibuat 
+bervariasi. Secara visual terlihat unik, tidak monoton, dan ada perbedaan 
+tekstur yang dapat mengundang perhatian sehingga menjadi tekstur yang dapat mengundang perhatian sehingga menjadi point of 
+interest (pusat perhatian).
+Gambar 1.22 Poster Kemerdekaan
+Sumber:  Maylinda Ambarwati (2022)
+<<<HAL 38>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 224
+2. Kerning
+Kerning merupakan sebuah proses dan istilah dari tipografi. Kerning 
+mengacu pada jarak antara dua huruf dan sebagai proses penyesuaian 
+space secara manual. Penggunaan kerning yang baik ialah saat menye-
+suaikan logo, headline, dan komposisi tipografi. Spasi huruf yang dibuat 
+lebar dapat menimbulkan kesan keseimbangan, irama, komposisi, dan 
+image tertentu. Ada beberapa contoh huruf yang apabila berdampingan, 
+spasi akan menjadi terlalu lebar, seperti Y yang berdampingan dengan 
+A, W dengan A, dan Y dengan o kecil. Selain itu, ada juga huruf tertentu 
+yang apabila berdampingan terlihat terlalu rapat, seperti M dengan E.
+Gambar 1.23 Kerning
+Surakarta
+SURAKARTA
+Gambar 1.24 Spasi Huruf yang Perlu Diatur Secara Khusus
+<<<HAL 39>>>
+Bab 1  Tipograi 25
+Perhatikan contoh pada tulisan Surakarta. Spasi huruf S dan u terlihat 
+lebih lebar, sedangkan huruf r dan t tampak berkesinambungan. Agar 
+teks tampak terlihat selaras, maka beberapa spasi huruf perlu diatur 
+secara khusus. Hal ini juga berlaku pada desain tulisan di setiap judul 
+logo, logo, type, poster, dan judul iklan. Tujuan dari adanya kerning ialah untuk 
+memudahkan dan kenyamanan dalam membaca sebuah teks.
+3. Tracking
+Tracking dapat juga disebut sebagai letter-spacing, yaitu mengacu pada 
+keseluruhan jarak huruf (dan tidak hanya dua karakter), yang memung-
+kinkan kamu menyesuaikan space dengan teks secara seragam.
+T racking
+Tracking
+Track ing
+Gambar 1.25 Tracking
+Setelah kamu memahami materi mengenai tracking, coba berkreasilah 
+membuat tulisan yang terdapat unsur tracking menggunakan kalimat 
+bebas. Kamu dapat melihat contoh dari karya-karya DKV, seperti majalah 
+atau tabloid yang ada di sekitarmu. Buat seperti contoh pada  Gambar 
+1.25. Buatlah pada selembar kertas gambar A3.
+1.5     AYO BERKREASI!
+<<<HAL 40>>>
+26                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+Rangkuman
+ ﷔  Tipografi adalah sebuah teknik seni yang mengatur huruf dan 
+teks dalam suatu media sehingga menciptakan visual yang 
+dapat menarik perhatian, enak dilihat, dan mudah dibaca.
+ ﷔ Berikut jenis-jenis huruf berdasarkan pengelompokan yang 
+dilakukan oleh James Craig.
+1. Huruf berkait (roman/serif)
+2. Huruf tak berkait (sans serif)
+3. Huruf tulis/latin (script)
+4. Monospace
+5. Dekoratif
+ ﷔ Pada teori terdahulu tentang periklanan, telah dikenal rumus 
+AIDA, yaitu Attention, Interest, Desire, dan Action. Artinya 
+bahwa sebuah iklan mampu menarik perhatian ( attention) 
+sehingga pembaca dapat tertarik (interest) dengan produk yang 
+ditawarkan. Setelah itu, dapat mendorong pembaca agar ada 
+keinginan untuk membeli (desire) produk tersebut. Terakhir, 
+melakukan kegiatan (action) untuk membeli produk atau jasa 
+yang diiklankan.
+ ﷔ Fungsi tipografi antara lain:
+1. kemudahan membaca,
+2. menarik perhatian, dan
+3. menciptakan keindahan.
+ ﷔ Anatomi huruf merupakan salah satu langkah awal dalam 
+mempelajari ilmu tipografi. Setelah mampu memahami 
+anatomi huruf, maka diharapkan para desainer grafis dapat 
+membuat karya desain sesuai dengan ilmu tipografi.
+ ﷔ Prinsip tipografi adalah legibility, readability, dan visibility.
+ ﷔ Leading atau biasa disebut pengaturan spasi baris dapat 
+diartikan sebagai jarak antarbaris.
+Rangkuman
+<<<HAL 41>>>
+Bab 1  Tipograi                  27
+ ﷔ Kerning merupakan sebuah proses dan istilah dari tipografi. 
+Kerning mengacu pada jarak antara dua huruf dan sebagai 
+proses penyesuaian space secara manual.
+ ﷔ Tracking dapat juga disebut sebagai letter-spacing ,  yaitu 
+mengacu pada keseluruhan jarak huruf (dan tidak hanya 
+dua karakter), yang memungkinkan kamu menyesuaikan 
+space dengan teks secara seragam. 
+Assesmen
+ 
+Kerjakan tugas mandiri dan tugas kelompok ini di dalam buku 
+tugas!
+1. Tugas Mandiri
+Buatlah desain tipografi huruf A sampai Z dengan 
+kreativitasmu. Buatlah desain huruf tersebut meng-
+gunakan ilmu tipografi yang sudah kamu pelajari.
+Alat dan bahan:
+ Kertas gambar A3
+ Pensil
+ Cat poster atau pensil warna
+2. Tugas Kelompok
+Buatlah kelompok yang terdiri atas 45 orang. 
+Sebelum melakukan kegiatan, awali dengan berdoa. 
+Carilah desain kemasan atau packaging di lingkung-
+an sekitar kamu. Kemudian amati judul, subjudul, 
+dan teks yang terdapat pada desain kemasan produk 
+tersebut. Catatlah prinsip tipografi apa saja yang 
+terdapat pada desain kemasan tersebut. Diskusikan 
+bersama teman kelompok kamu. 
+Asesmen
+<<<HAL 42>>>
+28                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+Uji Kompetensi
+Jawablah pertanyaan di bawah ini dengan tepat dan kerjakan 
+di dalam buku tugas!
+1. Unsur grafis yang paling mudah terbaca adalah gambar. 
+Namun, kata-kata yang tersusun dari huruf demi huruflah yang 
+menuntun pemahaman pembaca terhadap pesan yang akan 
+disampaikan. Jelaskan apa yang dimaksud dengan tipografi!
+2. Tipografi tidak hanya menekankan pada penataan huruf, tetapi 
+juga penyebaran huruf tersebut pada ruang yang tersedia. 
+Tuliskan fungsi utama dari tipografi!
+3. Pada prinsip tipografi terdapat readability . Jelaskan apa 
+yang dimaksud dengan readability! Faktor apa saja yang 
+memengaruhi readability tersebut?
+4. Apa yang kamu ketahui tentang fungsi tipografi? Jelaskan 
+menurut pemahamanmu!
+5. Prinsip tipografi merupakan aturan dasar yang harus selalu 
+diperhatikan ketika membuat perancangan dan proses 
+produksi dalam eksekusi kerja DKV. Jelaskan prinsip tipografi 
+legibility!
+6. Sans Serif  diciptakan oleh William Caslon IV. Pada awalnya 
+font jenis ini disebut dengan Grotesque karena pada zaman 
+itu bentuk huruf tanpa serif dirasa unik dan aneh. Jelaskan 
+secara singkat pengertian huruf Sans Serif dan ciri-ciri dari 
+huruf tersebut!
+7. Jika kamu akan menulis sebuah artikel yang lumayan panjang, 
+misalnya pada majalah atau buku paket, jenis huruf apa yang 
+sebaiknya digunakan? Apa alasannya memilih jenis huruf 
+tersebut?
+Uji Kompetensi
+<<<HAL 43>>>
+Bab 1  Tipograi                  29
+8. Ukuran atau tingkat keterbacaan suatu teks atau sebuah 
+tulisan. Biasanya dipengaruhi oleh kombinasi huruf dan 
+jarak. Pernyataan tersebut merupakan pengertian dari prinsip 
+tipografi yang mana?
+9. Pada teori terdahulu tentang periklanan, telah dikenal rumus 
+AIDA, yaitu Attention, Interest, Desire, dan Action. Jelaskan 
+secara terperinci maksud dari rumus AIDA tersebut!
+10. Headline memiliki fungsi mengantar pandangan mata pembaca 
+langsung menuju teks. Judul headline yang penuh hingga akhir 
+lebar kolom akan membuat pembaca memahami bahwa kolom-
+kolom tersebut berisi artikel yang sama. Jelaskan bagaimana 
+membuat judul yang penuh hingga akhir lebar kolom!
+Pengayaan
+Pindai kode QR di bawah ini dengan menggunakan Scan QR pada 
+smartphone-mu, atau langsung ketikkan alamat tautan ke dalam 
+browser untuk menambah wawasan kamu tentang tipografi 
+(hierarki, leading, kerning , dan  tracking) dalam perancangan 
+dan proses produksi eksekusi kerja DKV!
+Pengayaan
+https://youtu.be/zPA_toRx6U0 https://youtu.be/Er4gL7H-aZE https://youtu.be/Sfke8_ck0iA
+<<<HAL 44>>>
+30                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+Releksi
+Setelah mempelajari materi tentang tipografi, kamu diharapkan 
+dapat memahami jenis, fungsi, karakter, anatomi, lingkup huruf, 
+dan dasar tipografi (hierarki, leading, kerning, dan tracking) dalam 
+perancangan dan proses produksi DKV.
+Refleksi
+<<<HAL 45>>>
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET , DAN TEKNOLOGI  
+REPUBLIK INDONESIA, 2022
+Dasar-Dasar Desain Komunikasi Visual 
+untuk SMK/MAK Kelas X Semester 2 
+Penulis :  Maylinda Ambarwati dan Dwi Kurnia Kuswahyuni 
+ISBN :  978-602-427-884-7 
+  978-623-388-032-9 (PDF)
+Bab 2 
+Fotografi Dasar
+Bagaimana kamu dapat memahami konsep 
+dan teknik dasar fotografi dalam eksekusi 
+kerja Desain Komunikasi Visual?
+<<<HAL 46>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 232
+Tujuan Pembelajaran
+Pada akhir pembelajaran ini, kamu diharapkan memahami 
+jenis kamera, komposisi, pencahayaan, menyimpan data 
+hasil pemotretan, dan pengeditan pada fotografi serta 
+menerapkannya dengan kreativitas dan disiplin dalam 
+perancangan dan proses produksi dalam eksekusi kerja 
+Desain Komunikasi Visual.
+A
+B
+C D
+E
+F
+GH
+Peralatan  
+Kamera 
+Fotograﬁ 
+Bagian-Bagian 
+Kamera DSLR
+Penggunaan 
+Kamera DSLR
+Alat Penunjang
+Fotograﬁ 
+Digital Indoor 
+dan Outdoor
+Jenis-Jenis 
+Fotograﬁ
+Teknik Pengambilan 
+Gambar Berdasarkan
+Ukuran Gambar dan 
+Sudut Pengambilan
+(Angle)
+Penyuntingan 
+Fotograﬁ 
+Digital
+Fotograﬁ
+Dasar
+Kamera
+Ukuran Kecil
+Kamera 
+Ukuran Menengah
+Kamera DSLR
+Aperture (Diafragma Lensa)
+Shutter Speed (Kecepatan Rana) 
+ISO (Kepekaan Cahaya)
+Bagian Bawah Kamera
+Bagian Depan Kamera
+Bagian Atas Kamera
+Bagian Belakang Kamera
+Segitiga 
+Exposure 
+Kamera DSLR
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+ Kata Kunci  
+fotograi, kamera, penyuntingan, iegitiga exposure, teknik pengambilan 
+gambar
+Peta Konsep
+<<<HAL 47>>>
+Bab 2   Fotograi  aiar 33
+Pernahkah kamu melihat suatu karya fotografi di sekitar lingkungan-
+mu? Contohnya melihat pameran karya fotografi. Pameran fotografi 
+biasanya menampilkan karya dengan tema-tema tertentu, seperti 
+momentum, dokumenter, sejarah, dan nusantara. Selain pameran 
+fotografi, apakah kamu pernah melihat kegiatan di lingkungan 
+sekitarmu yang berkaitan dengan pengambilan objek gambar?
+Membuat objek gambar dilakukan dengan cara menggambar garis 
+objek pada suatu media gambar secara manual menggunakan alat 
+gambar. Pada perkembangan alat cetak, pembuatan gambar dilakukan 
+dengan cara membuat acuan gambar kemudian dipindahkan ke 
+media gambar dengan proses cetak. Tapi tahukah kamu bagaimana 
+membuat objek gambar menggunakan cahaya?
+Gambar 2.1 Karya Fotografi 
+Sumber: Anggit Dwi Fadholi (2021)
+<<<HAL 48>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 234
+Gambar adalah suatu hasil kegiatan membentuk objek tertentu dengan 
+berbagai teknik dan alat. Pengertian fotografi menurut para ahli banyak 
+sekali versinya, tetapi pada intinya pengertian fotografi adalah salah satu 
+teknik dalam menghasilkan gambar, yaitu proses menangkap bentuk 
+dan warna suatu objek gambar. Sekarang ini perkembangan peralatan 
+fotografi sudah banyak menggunakan teknologi digital. Penggunaan 
+teknologi digital pada fotografi memberikan banyak kelebihan daripada 
+teknologi analog, baik dari segi kualitas gambarnya, fitur-fitur keguna-
+annya, maupun kemudahannya dalam proses produksi untuk tahap 
+produksi berikutnya.
+Sebelum mempelajari dan memahami materi mengenai fotografi, 
+tahukah kamu apa yang dimaksud dengan fotografi? Apakah fotografi 
+dapat dikatakan sebagai alat komunikasi? Materi berikut merupakan 
+penjelasan mengenai peralatan, jenis-jenis kamera, dan teknik peng -
+ambilan foto.
+A. Peralatan Kamera Fotograi
+Peralatan fotografi telah banyak mengalami perkembangan selama 
+lebih dari 150 tahun, sejak awal mula eksperimen perak nitrat yang 
+terkena sinar matahari, berubah menjadi serbuk hitam seperti tinta 
+pada tahun 1614 oleh Angelo Sala. Selain itu, pembuatan gambar foto 
+menggunakan kertas yang dibungkus dengan perak nitrat dan membuat 
+kamera kecil oleh Joseph Nicéphore Niépce pada tahun 1816. Teknologi 
+yang awalnya menggunakan sebuah emulsi pada film untuk menangkap 
+cahaya pada jenis kamera analog, kemudian berkembang dan beralih 
+pada penggunaan teknologi sensor perekam gambar ( Complementary 
+Metal-Oxide-Semiconductor atau CMOS) pada kamera digital.
+Peralatan fotografi sekarang ini banyak didominasi oleh peralatan 
+kamera digital. Kamera jenis analog sudah banyak ditinggalkan oleh 
+pengguna di pasaran karena dianggap kurang praktis. Perlu kamu ketahui, 
+secara ukuran kamera dan ukuran gambar foto yang dihasilkan, jenis 
+kamera fotografi digital dapat dibagi menjadi sebagai berikut.
+<<<HAL 49>>>
+Bab 2   Fotograi  aiar 35
+1. Kamera Ukuran Kecil
+a. Kamera Digital Saku
+Kamera ini berukuran cukup kecil 
+dan ringan sehingga sangat mudah 
+dan praktis sekali saat dibawa ke 
+mana pun. Selain itu, sangat mudah 
+pengoperasiannya seperti halnya 
+dengan cara tunjuk dan memotret 
+langsung. Fitur-fitur mode pengo -
+perasian yang ditawarkan cukup 
+beragam, mulai dari foto objek jarak 
+dekat, mode objek bergerak, mode 
+anak-anak, mode pemandangan, 
+dan mode malam.
+Kamera ini juga menyediakan flash (lampu kilat) yang dapat diatur 
+secara manual ataupun otomatis. Lensa memiliki kemampuan zoom, 
+baik secara tele pada lensa maupun secara zoom digital, meskipun lensa 
+tidak bisa dilepas seperti halnya pada kamera SLR.
+b. Kamera Smartphone
+Jenis kamera ini cukup banyak dan 
+populer digunakan oleh pengguna. 
+Kamu pasti memiliki kamera yang 
+ada pada smartphone- mu. Kamera 
+smartphone semakin populer setelah 
+berkembangnya aplikasi media sosial 
+dan aplikasi berbagi gambar yang 
+diikuti oleh seluruh pengguna smart-
+phone di berbagai negara. Fitur-fitur 
+mode pengoperasian seperti mode 
+malam, mode foto cantik, dan mode 
+filter dapat dijalankan pada aplikasi 
+Gambar 2.2 Kamera Saku 
+Sumber: Maylinda Ambarwati (2022)
+Gambar 2.3 Kamera Smartphone 
+Sumber: Maylinda Ambarwati (2022)
+<<<HAL 50>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 236
+kamera bawaan smartphone atau hasil dari unduh aplikasi pada layanan 
+penyedia aplikasi smartphone.
+Kamera ini juga dilengkapi dengan flash bawaan dari smartphone-nya 
+dan aksesori berupa peralatan tambahan untuk lensa jauh, lensa sudut 
+lebar, atau lensa makro yang dapat digunakan untuk menghasilkan 
+gambar foto yang jauh lebih maksimal daripada fitur yang telah ada.
+2. Kamera Ukuran Menengah
+a. Kamera Bridge
+Kamera ini memiliki fitur dan 
+kemampuan lebih dari kamera 
+kecil, tetapi masih berada di ba -
+wah kemampuan kamera DSLR. 
+Meskipun masih di bawah kemam-
+puan kamera DSLR, kamera bridge 
+sudah memiliki kemampuan zoom 
+yang sangat tinggi dan bervariasi. 
+Kamera ini juga memiliki ukuran 
+dan berat yang lebih ringan dari-
+pada DSLR sehingga sangat mudah 
+dibawa ke mana pun.
+b. Kamera Mirrorless
+Kamera digital dengan teknologi 
+tanpa cermin dalam menghasilkan 
+gambar secara digital membuat 
+kamera ini berukuran sangat kecil 
+dan ringan. Kamera ini biasanya 
+tidak memiliki viewfinder, melain-
+kan melalui panel layar belakang 
+untuk mengomposisikan gambar 
+Gambar 2.4 Kamera Bridge
+Sumber: Maylinda Ambarwati (2022)
+Gambar 2.5 Kamera Mirrorless
+Sumber: Maylinda Ambarwati (2022)
+<<<HAL 51>>>
+Bab 2   Fotograi  aiar 37
+ketika membidik objek. Hasil gambar yang dihasilkan cukup bagus dan 
+dapat dikatakan mampu bersaing dengan hasil gambar kamera DSLR. 
+Fitur Wi-Fi yang ada sangat memudahkan dalam proses berbagi gambar 
+sehingga sangat digemari oleh pengguna yang aktif di media sosial untuk 
+berbagi gambar dan momen.
+c. Kamera Mikro 4/3 (Micro Four Thirds atau MFT)
+Gambar 2.6 Kamera Mikro
+Sumber: Subhan Yulianto (2021)
+Kamera ini mengadopsi teknologi DSLR, tetapi tanpa cermin dalam 
+menghasilkan gambar dan tidak memiliki viewfinder. Kamera ini juga 
+dapat diganti lensanya seperti halnya kamera DSLR. Lensa-lensa tersebut 
+terdiri atas lensa dengan lebar fokus, kedalaman bidang, tingkat zoom, 
+hingga harganya yang sangat bervariasi. Meskipun sudah cukup lama ada 
+di pasaran, tetapi pengguna kamera ini tidak sepopuler kamera lainnya 
+yang secara kualitas hasilnya tidak kalah bagus dengan kamera DSLR. 
+Kamera jenis ini banyak digemari oleh fotografer jalanan dikarenakan 
+lebih praktis, baik dari ukuran maupun beratnya.
+<<<HAL 52>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 238
+3. Kamera Digital Single Lens Reflex (DSLR)
+Kamera ini banyak digunakan 
+dalam dunia fotografi profesional 
+karena banyaknya kemampuan 
+yang dapat diperoleh sesuai 
+dengan pengaturannya. Kamera 
+DSLR memiliki fitur-fitur peng -
+aturan pengoperasian kamera 
+yang sangat lengkap, seperti mode 
+automatic, mode manual, mode 
+program, mode prioritas shutter, 
+mode prioritas aperture , mode 
+jarak dekat, mode pemandangan, 
+mode anak-anak, mode malam, 
+dan mode objek bergerak.
+Keunggulan kamera DSLR adalah tersedianya banyak pilihan lensa, 
+mulai dari lensa lebar, lensa tele, hingga lensa tetap dengan berbagai fitur, 
+seperti antigoncangan dan fitur senyap. Selain itu, dapat juga menggunakan 
+viewfinder  dan panel Live View  dalam membidik objek. Keunggulan 
+lainnya adalah banyak aksesori tambahan yang dapat digunakan, seperti 
+flash eksternal, vertical grip yang juga dapat digunakan sebagai baterai 
+tambahan, dan filter lensa untuk menghasilkan gambar cahaya yang 
+lebih maksimal.
+Setelah kamu mempelajari dan memahami materi mengenai jenis-jenis 
+kamera, buatlah satu karya fotografi dengan menggunakan kamera 
+smartphone -mu. Ambillah objek gambar yang ada di lingkungan 
+sekitarmu seperti objek manusia, tumbuh-tumbuhan, atau benda  
+mati (still life). Buatlah karya fotografi semenarik mungkin. Sebelum 
+melakukan kegiatan, selalu awali dengan berdoa.
+2.1  AYO BERKREASI!
+Gambar 2.7 Kamera DSLR
+Sumber: Maylinda Ambarwati (2022)
+<<<HAL 53>>>
+Bab 2   Fotograi  aiar 39
+B. Bagian-Bagian Kamera DSLR
+Kamera yang umum digunakan dalam produksi fotografi adalah DSLR, 
+meskipun kamera ini bukan satu-satunya kamera yang dapat menghasilkan 
+gambar foto layaknya fotografer profesional. Sebelum menggunakannya, 
+perlu kamu ketahui apa saja bagian-bagian kamera DSLR. Bagian-bagian 
+kamera DSLR sebagai berikut.
+Bagian bawah kamera DSLR
+Bagian depan kamera DSLR
+soket tripod
+lampu kilat built-in
+mikrofon
+mirror (cerimn)
+tombol pelepas lensa
+indeks dudukan lensa
+dudukan lensa
+pengurangan mata-merah/
+lampu self timer
+tombol rana
+slot baterai
+dan 
+memori
+Gambar 2.8 Bagian Bawah dan Depan Kamera DSLR 
+Sumber: Maylinda Ambarwati (2022)
+<<<HAL 54>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 240
+Gambar 2.9 Bagian Atas dan Belakang Kamera DSLR 
+Sumber: Maylinda Ambarwati (2022)
+1. Bagian Bawah Kamera
+a. Soket Tripod
+Soket tripod adalah soket yang ditempatkan di bagian bawah badan 
+kamera untuk memasang kamera ke tripod. Pada sebagian besar kamera 
+DSLR, soket ini pas untuk ukuran uliran sekrup standar 1/4-20 UNC, yang 
+digunakan oleh tripod pada umumnya.
+Bagian atas kamera DSLR
+Bagian belakang kamera DSLR
+AF on-off
+tuas on-off
+tali gantung
+layar LCD
+tombol menu
+speaker
+hot shoe
+eyecup
+live view/movie 
+shooting
+pengaturan dioptri
+gelang 
+fokus
+gelang 
+zoom
+dial utama
+tombol 
+lampu kilat
+dial mode 
+kamera
+tombol pilihan titik fokus
+tombol penghapus
+tombol tampilan
+tombol pengendali cepat
+tombol ISO
+tombol lihat gambar
+tombol pengendali
+indikator memori
+indikator WIFI
+viewfinder
+<<<HAL 55>>>
+Bab 2   Fotograi  aiar 41
+b. Slot Baterai dan Memori
+Bagian ini merupakan tempat untuk memasukkan baterai dan memori. 
+Sisipkan baterai dengan mengarah ke terminal baterai, sejajar dengan 
+yang ada di dalam kamera. Sisipkan kartu memori untuk merekam 
+gambar ke dalam slot ini. Jenis kartu yang dapat digunakan bervariasi 
+sesuai dengan model kamera.
+2. Bagian Depan Kamera
+a. Tombol Rana
+Tekan tombol ini untuk melepaskan rana. Ada dua tahap dalam penekanan 
+tombol rana, yaitu: 
+1) menekan separuh tombol, mengaktifkan fungsi AF; dan
+2) menekan sepenuhnya, akan melepaskan rana.
+b. Lampu Penghilang Red Eye
+Jika ingin mengaktifkan red-eye reduction (pengurangan mata-merah) 
+dapat menekan separuh tombol rana dan lampu ini akan menyala. Apabila 
+kamu menggunakan lampu kilat bawaan, yaitu dengan cara menetapkan 
+self-timer, maka lampu ini akan berkedip selama durasi timer sampai 
+gambar diambil.
+c. Dudukan Lensa
+Bagian ini menghubungkan lensa yang dapat dipertukarkan ke kerangka 
+kamera. Untuk memasangkan lensa, kamu dapat menderetkan indeks 
+dudukan lensa dengan lensa yang bersangkutan. Lalu putar lensa searah 
+jarum jam sampai terdengar bunyi klik.
+d. Indeks Dudukan Lensa
+Sejajarkan tanda pada lensa dengan tanda ini apabila kamu memasang 
+atau melepas lensa.
+<<<HAL 56>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 242
+1) Indeks merah untuk lensa EF (dapat digunakan pada DSLR full-frame 
+dan APS-C).
+2) Indeks putih untuk lensa EF-S (dapat digunakan pada DSLR APS-C). 
+Indeks dudukan lensa ini dapat digunakan sesuai dengan jenis 
+kamera yang digunakan.
+e. Lampu Kilat Bawaan
+Apabila diperlukan, kamu dapat menembakkan lampu kilat untuk me-
+nangkap bidikan pemandangan yang redup cahaya. Lampu kilat dapat 
+secara otomatis ditembakkan pada sebagian mode.
+f. Mikrofon
+Bagian ini adalah mikrofon built-in untuk menangkap bunyi audio selama 
+perekaman film. Mikrofon yang digunakan dapat mono atau stereo, 
+tergantung model kamera.
+g. Cermin
+Cermin ini bersifat khas untuk kamera DSLR. Cermin ini memantulkan 
+cahaya dari lensa ke viewfinder sehingga fotografer dapat melihat bidikan 
+melalui viewfinder dalam waktu nyata. Mirror segera berputar balik, 
+tepat sebelum melepaskan rana (bidikan diambil).
+h. Tombol Pelepas Lensa
+Tekan tombol ini apabila kamu ingin melepaskan lensa. Tuas kunci 
+lensa akan ditarik keluar apabila tombol ditekan sehingga kamu dapat 
+memutar lensa secara bebas. Sebelum membidik, kuncikan lensa ke 
+dalam tempatnya dengan memutarnya sampai terdengar bunyi klik.
+<<<HAL 57>>>
+Bab 2   Fotograi  aiar 43
+3. Bagian Atas Kamera
+a. AF On-Off
+Gunakan sakelar ini untuk menetapkan mode ke Auto Focus (AF) atau 
+Manual Focus (MF).
+b. Speaker
+Bunyi audio rekaman film dapat diputar kembali melalui speaker. Selama 
+pemutaran film, memutar main dial akan memungkinkan kamu menye-
+suaikan level volume. Tidak hanya itu, kamu juga dapat memilih dan 
+memutar kembali musik latar belakang dari layar menu.
+c. Tali Gantung
+Tarik ujung tali melalui eyelet (lubang), lalu kencangkan seraya memastikan 
+bahwa kedua ujung tali seimbang.
+d. Hot Shoe
+Hot shoe adalah terminal untuk memasang unit lampu kilat eksternal. 
+Data ditransmisikan antara kamera dan unit lampu kilat melalui kontak. 
+Simpan kontak dalam keadaan bersih untuk memastikan tembakan 
+lampu kilat eksternal yang tepat saat diperlukan.
+e. Gelang Fokus ( Focus Ring)
+Apabila kamera berada dalam mode MF, putar ring ini untuk menyesuaikan 
+fokus. Posisi gelang fokus bervariasi menurut lensa yang digunakan.
+f. Gelang Zoom (Zoom Ring)
+Putar ring ini untuk mengubah focal length. Focal length (panjang fokus) 
+yang dipilih dapat dikenali dari angka dan indeks pada ujung bawah lensa.
+<<<HAL 58>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 244
+g. Dial Utama
+Dial utama adalah dial multiguna yang memungkinkan kamu melakukan 
+berbagai tugas, seperti menyesuaikan nilai pengaturan shooting (biasanya 
+aperture/shutter speed/exposure compensation) dan melompat melintasi 
+pemutaran gambar.
+h. Tombol Lampu Kilat
+Gunakan tombol ini untuk memunculkan flash built-in . Dalam mode 
+zona dasar, flash built-in dapat muncul secara otomatis pada sebagian 
+kasus menurut fungsi yang digunakan.
+i. Dial Mode Kamera
+Putar dial ini untuk memilih shooting mode menurut pemandangan yang 
+ingin kamu tangkap. Shooting mode pada umumnya dibagi ke dalam dua 
+zona berbeda, yaitu creative (kreatif) dan basic (dasar).
+1) Creative zone
+Memungkinkan pengguna memilih dan menetapkan fungsi menurut 
+tujuan mereka.
+Gambar 2.10 Tombol Dial Mode Kamera 
+<<<HAL 59>>>
+Bab 2   Fotograi  aiar 45
+2) Basic zone
+Kamera secara otomatis memilih pengaturan yang sesuai menurut 
+pemandangan yang dipilih.
+j. Tuas On-Off
+Gunakan sakelar ini untuk menghidupkan dan mematikan daya kamera. 
+Apabila daya kamera dibiarkan hidup untuk jangka waktu yang lama, 
+kamera akan otomatis dialihkan ke mode standby untuk menghemat 
+daya. Pada sebagian kamera, sakelar daya dilengkapi ikon movie (film) 
+seperti ditunjukkan dalam Gambar 2.10, yang memungkinkan kamu 
+beralih ke mode Movie shooting secara langsung.
+4. Bagian Belakang Kamera
+a. Eyecup
+Eyecup (bantalan mata) mencegah masuknya cahaya eksternal apabila 
+matamu kontak dengan eyepiece. Eyecup menggunakan bahan yang halus 
+untuk mengurangi beban pada mata dan dahi.
+b. Viewfinder
+Gambar 2.11 Tampilan dalam Viewfinder 
+angka aperture
+titik AF
+ISO
+lightmeter
+kecepatan rana
+<<<HAL 60>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 246
+Viewinder eyepiece adalah jendela kecil pada kamera. Melalui viewinder, 
+kamu dapat menyusun foto dan menetapkan fokus pada objek. Apabila 
+memotret dengan menggunakan viewinder, cahaya eksternal dikurangi. 
+Dengan demikian, kamu dapat mencurahkan perhatian sepenuhnya pada 
+objek di depan mata, yang pada gilirannya akan lebih memudahkan 
+untuk melacak objek bergerak.
+c. Layar LCD
+Selain pengaturan pemotretan seperti ditunjukkan dalam  Gambar 2.11, 
+tangkapan gambar dan informasi teks, seperti menu, dapat juga ditam-
+pilkan pada monitor LCD. Kamu dapat memperbesar gambar tampilan 
+untuk mengecek rinciannya. Sebagian model kamera dilengkapi dengan 
+monitor LCD vari-angle, yang memungkinkan kamu mengubah sudut 
+monitor selama pemotretan Live View, membuatnya lebih mudah untuk 
+menangkap bidikan low-angle atau high-angle.
+d. Tombol Menu
+Gunakan tombol ini untuk menampilkan menu fungsi kamera yang 
+berbeda-beda. Setelah memilih menu, kamu dapat menyesuaikan peng-
+aturan kamera secara lebih rinci.
+e. Pengaturan Dioptri
+Gunakan kenop ini untuk menyesuaikan kejernihan gambar viewfinder 
+menurut penglihatan matamu. Untuk melakukannya, putar kenop sewaktu 
+menilik melalui viewfinder.
+f. Live View/Movie Shooting
+Gunakan tombol ini untuk menghidupkan atau mematikan fungsi Live 
+View. Menekan tombol ini satu kali akan menampilkan gambar Live View 
+pada monitor LCD dan kamera siap untuk pemotretan Live View. Untuk 
+merekam film, tetapkan mode pemotretan ke Movie shooting pada mode 
+<<<HAL 61>>>
+Bab 2   Fotograi  aiar 47
+dial, lalu tekan tombol ini untuk mulai merekam. Untuk menghentikan, 
+tekan lagi tombolnya.
+g. Tombol Pilihan Titik Fokus
+Gunakan tombol ini untuk masuk ke mode AF point automatic selection 
+selama pemotretan AF. Selanjutnya, kamu dapat memilih titik AF mana 
+pun secara manual dengan menggunakan tombol Multi-controller.
+h. Tombol Penghapus
+Gunakan tombol ini untuk menghapus gambar yang tidak diinginkan.
+i. Tombol Tampilan
+Dengan menekan tombol DISP, kamu dapat:
+1) menghidupkan/mematikan tampilan,
+2) silih berganti antara tampilan informasi yang berbeda-beda dalam 
+mode Image/Movie Playback dan selama pemotretan Live View, serta
+3) menampilkan pengaturan fungsi terutama di kamera apabila menu 
+ditampilkan.
+j. Tombol Pengendali Cepat
+Gambar 2.12 Tampilan Pengendali Cepat (Quick Control)
+Sumber: Subhan Yulianto (2021)
+angka aperture
+ISO
+format dan 
+ukuran data 
+gambar
+sisa gambar
+kecepatan rana
+mode kamera
+tingkat isi 
+baterai
+<<<HAL 62>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 248
+Menekan tombol ini akan menampilkan layar quick control, yang me -
+mungkinkan kamu mengonfirmasi berbagai pengaturan kamera dengan 
+melirik sekilas dan menyesuaikannya.
+k. Tombol ISO
+Tekan tombol ini untuk menyesuaikan sensitivitas kamera terhadap 
+cahaya. ISO speed adalah standar internasional yang ditentukan berda-
+sarkan sensitivitas film negatif.
+l. Tombol Pengendali
+Multi-controller key adalah tombol arah yang memungkinkan kamu untuk:
+1) bergerak di antara berbagai unit menu,
+2) memindahkan tampilan yang diperbesar ke titik yang berbeda 
+selama pemutaran kembali gambar, dan
+3) menggerakkan titik AF selama pemilihan titik AF.
+Dalam mode pemotretan, fungsi tombol beralih ke tombol yang 
+ditunjukkan oleh ikon yang ada padanya. Sementara itu, tomb ol SET 
+mengonfirmasi pemilihan.
+m. Indikator Memori
+Lampu ini tampak berkedip-kedip apabila ada transmisi data antara 
+kamera dan kartu memori. Jangan buka slot kartu atau tutup wadah 
+baterai saat cahaya berkedip-kedip. Jika dibuka, ini dapat menyebabkan 
+kegagalan fungsi kamera.
+n. Indikator Wi-Fi
+1) Lampu ini mengindikasikan status koneksi nirkabel.
+2) Lampu menyala: koneksi Wi-Fi hidup.
+3) Lampu berkedip: kamera sedang menunggu koneksi/rekoneksi.
+4) Lampu berkedip cepat sesekali: kesalahan koneksi.
+5) Lampu berkedip cepat: data sedang dikirim/diambil.
+<<<HAL 63>>>
+Bab 2   Fotograi  aiar 49
+o. Tombol Lihat Gambar
+Tombol ini untuk memutarkan gambar yang sudah kamu tangkap. Dengan 
+menekan tombol ini satu kali, akan menampilkan gambar terakhir yang 
+kamu tangkap atau ditunjukkan pada monitor LCD.
+Ayo praktikkan cara menggunakan fungsi tombol pada kamera 
+DSLR yang ada di sekolahmu. Kerjakan praktik ini secara mandiri. 
+Kemudian sebutkan dan jelaskan kegunaan dari masing-masing 
+tombol kamera tersebut di depan guru. Sebelum melakukan praktik, 
+awali dengan berdoa.
+2.2  AYO PRAKTIKKAN!
+C. Segitiga Exposure Kamera DSLR
+Dalam fotografi, kamu perlu mengetahui apa saja yang akan memengaruhi 
+hasil sebuah gambar pada saat pelaksanaan fotografi. Pada kamera 
+saku atau kamera kompak, mungkin kamu tidak perlu mengetahui teori 
+exposure karena sudah diatur secara otomatis oleh kameranya. Berbeda 
+ketika menggunakan kamera DSLR. Meskipun dapat diatur secara mode 
+otomatis, tetapi hasil gambar akan berbeda jika kamu menggunakan 
+mode pilihan manual.
+Dalam fotografi dikenal istilah segitiga exposure. Segitiga tersebut 
+dapat menjadi panduan dan referensi pengaturan exposure pada DSLR 
+melalui aperture, ISO, dan kecepatan rana. Dengan adanya panduan 
+tersebut, maka foto yang dihasilkan akan menjadi bagus sesuai pada 
+kondisi cukup cahaya atau kurang cahaya sekalipun.
+<<<HAL 64>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 250
+Gambar 2.13 Segitiga Exposure
+Sumber: Subhan Yulianto (2021)
+1. Aperture (Diafragma Lensa)
+Nilai angka aperture ini berurutan dari 1.4, 2, 2.8, 4, 5.6, 8, 11, 16, dan 
+22. Dalam penulisan teknis dinyatakan dalam f1.4, f2, f2.8, f4, f5.6, f8, 
+f11, f16, dan f22. Angka-angka tersebut menunjukkan besarnya bukaan 
+aperture pada lensa. Semakin kecil angkanya berarti bukaan makin 
+besar. Contohnya bukaan pada f2.8 > f5.6, f11 > f22. 
+Dengan adanya bukaan aperture yang besar, maka jumlah cahaya 
+yang masuk ke sensor gambar kamera melalui lensa juga akan semakin 
+banyak pula. Bila cahaya yang masuk terlalu banyak, dapat mengakibatkan 
+hasil gambar foto menjadi over exposure. Bila terlalu sedikit, hasil gambar 
+foto menjadi under exposure.
+Bukaan aperture juga berpengaruh pada ruang tajam gambar yang 
+dihasilkan. Semakin kecil bukaan aperture, semakin besar ruang tajam 
+yang dihasilkan pada gambar. Contohnya ruang tajam bukaan f5.6 > 
+f2.8, f4 > f1.4.
+<<<HAL 65>>>
+Bab 2   Fotograi  aiar 51
+2. Kecepatan Rana ( Shutter Speed)
+Kecepatan rana merupakan kecepatan bukaan tirai di dalam badan kamera 
+DSLR. Semakin cepat tirai membuka, semakin sedikit cahaya yang masuk 
+ke sensor gambar kamera DSLR. Kecepatan rana pada umumnya beragam 
+mulai dari 30, 15, 8, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000 
+dan seterusnya dalam satuan detik. Bahkan beberapa kamera DSLR seri 
+tertentu memiliki kecepatan rana hingga 1/8000 detik.
+Kecepatan rana yang akan digunakan disesuaikan dengan kebutuhan 
+gambar yang ingin dihasilkan nanti. Kecepatan rana dapat dibagi sesuai 
+dengan kebutuhan, fungsi, dan tujuannya, yaitu sebagai berikut.
+a. Cepat
+Kecepatan yang sangat cepat bertujuan menghasilkan freeze (efek 
+beku) pada gambar.
+b. Normal
+Berfungsi memotret objek dengan pergerakan yang terbilang normal. 
+Dengan kecepatan ideal 1/200 hingga 1/60, objek dapat tertangkap 
+tanpa blur.
+c. Lambat
+Kecepatan rendah bertujuan melembutkan gambar. Umumnya 
+membutuhkan lebih dari satu detik atau lebih lambat.
+Perlu kamu ketahui ketika menggunakan kecepatan rana yang lambat 
+atau lebih lambat dari kecepatan rana normal, perlu digunakan alat 
+penyangga kamera (tripod atau monopod). Tujuannya agar gambar yang 
+dihasilkan tidak buram akibat goyangan kamera pada saat pemotretan 
+dengan kecepatan rendah.
+3. ISO (Kepekaan Cahaya)
+ISO merupakan pengaturan kepekaan sensor gambar terhadap cahaya 
+yang masuk yang dinyatakan dalam angka 100, 200, 400, 800, 1600, 3200, 
+6400, 12800, dan seterusnya. Semakin tinggi angka ISO, maka semakin 
+peka cahaya. Pada kondisi pemotretan dengan cukup cahaya, kamu 
+<<<HAL 66>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 252
+dapat menggunakan ISO rendah (100, 200, dan 400). Pada kondisi yang 
+kurang cahaya atau gelap, kamu dapat menggunakan pengaturan ISO 
+tinggi (800, 1600, dan 3200). Namun, akan berdampak muncul butiran 
+gambar yang disebut noise pada gambar foto yang dihasilkan. Semakin 
+tinggi angka ISO, semakin banyak noise yang dihasilkan.
+Gambar 2.14 Pengambilan objek gambar dengan menentukan diafragma 
+lensa, shutter speed, dan ISO.
+Sumber: Maylinda Ambarwati (2022)
+Setelah memahami materi segitiga exposure kamera DSLR, praktikkan 
+bersama temanmu mengenai prinsip aperture (diafragma lensa) dan 
+kecepatan rana (shutter speed) pada sebuah pengambilan objek gambar 
+di lingkungan sekolah menggunakan kamera DSLR. Kemudian pilihlah 
+hasil foto yang terbaik. Sebelum melakukan praktik, awali den gan 
+berdoa.
+2.3  AYO PRAKTIKKAN!
+<<<HAL 67>>>
+Bab 2   Fotograi  aiar 53
+D. Penggunaan Kamera DSLR
+Penggunaan kamera DSLR cukup mudah apabila kamu sudah mengetahui 
+prinsip kerja dari sebuah kamera. Beberapa pengaturan dapat disesuaikan 
+dengan tujuan pembuatan gambar fotografi. Sebelum menggunakan 
+kamera, kamu perlu melakukan beberapa hal sebagai berikut.
+1. Buka penutup lensa.
+2. Pasang baterai kamera DSLR yang sesuai dengan seri kamera.
+3. Nyalakan kamera DSLR melalui dial on-off.
+4. Periksa keadaan baterai kamera, apakah sudah penuh atau per lu 
+dilakukan pengisian ulang dulu. Isi baterai dapat dilihat pada layar 
+panel LCD kamera DSLR. Pengisian ulang baterai kamera sebaiknya 
+ketika sudah tersisa 30%. Apabila masih di atas 30%, masih da pat 
+digunakan dengan asumsi hanya untuk beberapa jepretan saja. 
+Apabila akan digunakan untuk mengambil banyak jepretan gambar, 
+harus diisi ulang hingga 100%. Ada baiknya sebelum digunakan 
+untuk pekerjaan dengan durasi lama sudah diisi ulang dahul u dan 
+juga mempersiapkan baterai cadangan yang sudah diisi ulang dan 
+siap untuk digunakan.
+5. Pasang memori penyimpanan pada kamera yang sesuai dengan 
+seri kamera.
+6. Periksa daya tampung memori penyimpanan, apakah masih ada atau 
+tidak ruang sisa untuk menyimpan gambar foto. Kapasitas memori 
+sisa penyimpanan dapat dilihat pada panel LCD kamera DSLR.
+7. Periksa tombol Auto Focus (AF) pada badan dan lensa kamera, apakah 
+sudah posisi aktif atau belum. Ketika tombol AF aktif, dilarang 
+untuk memutar gelang fokus pada lensa secara manual karena akan 
+merusak unit AF pada lensa. Atur pilihan AF pada pilihan di layar 
+menu.
+8. Atur ISO sesuai kebutuhan. Apabila kondisi cukup cahaya, dapat 
+gunakan ISO rendah (100, 200, dan 400). Pengaturan ISO dapat diakses 
+melalui pilihan di layar menu atau tombol pintas.
+<<<HAL 68>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 254
+9. Atur White Balance (WB) pada pilihan di layar menu, apakah ingin 
+memakai mode auto atau sesuaikan penggunaan cahaya.
+10. Pilih ukuran dan format file gambar yang akan dihasilkan melalui 
+pilihan pada layar menu LCD. Pilihan ukuran file gambar disesuaikan 
+dengan kebutuhan, mulai dari ukuran kecil, sedang, besar, hingga 
+sangat besar. Format file dapat dipilih, apakah JPEG, NEF, atau RAW.
+11. Pilih mode kamera yang akan digunakan melalui tombol pilihan 
+mode yang ada di kamera.
+12. Pegang kamera DSLR dengan benar dan stabil.
+Setelah melakukan langkah-langkah di atas, maka kamera DSLR 
+siap digunakan untuk mengambil objek gambar. Dalam melakukan 
+proses pengambilan gambar, ada beberapa hal yang perlu dilakukan 
+agar hasil gambarnya bagus. Berikut beberapa langkah pada saat proses 
+pengambilan gambar.
+1. Ambil posisi pemotretan sesuai dengan komposisi dan sudut 
+pengambilan gambar yang diinginkan.
+2. Bidik objek pemotretan melalui viewfinder atau Live View dari layar 
+LCD. Atur sedemikian rupa komposisi dan sudut pengambilan gambar 
+objek yang tampak pada viewfinder atau layar LCD. Sesuaikan panjang 
+lensa dengan komposisi melalui gelang panjang lensa pada lensa.
+3. Atur fokus pada objek dengan memutar gelang fokus pada lensa 
+bila menggunakan mode Manual Focus (AF off ) atau dengan cara 
+menekan ½ tekanan pada tombol rana bila menggunakan mode 
+Auto Focus (AF on).
+4. Atur exposure  kamera DSLR melalui lightmeter  yang ada pada 
+viewfinder atau layar LCD. Tekan ½ tekanan pada tombol rana untuk 
+melihat lightmeter. Pengaturan exposure pada lightmeter yang tepat 
+dapat melalui pengaturan bukaan rana pada kamera DSLR melalui 
+dial utama multiguna atau pengaturan bukaan aperture pada lensa 
+melalui tombol pintas pengaturan aperture.
+<<<HAL 69>>>
+Bab 2   Fotograi  aiar 55
+5. Setelah komposisi dan exposure lightmeter sudah tepat, tekan secara 
+penuh pada tombol rana untuk mengambil gambar. Tunggu beberapa 
+saat hingga lampu memori sudah tidak berkedip sebelum melihat hasil 
+jepretan pada layar LCD dengan cara menekan tombol lihat gambar.
+Pada materi di atas telah dijelaskan bagaimana penggunaan kamera 
+DSLR yang cukup mudah dengan mengetahui prinsip kerja pada sebuah 
+kamera. Sekarang kamu praktikkan cara menggunakan kamera DSLR 
+secara umum dengan prinsip kerja kamera tersebut bersama temanmu. 
+Berdiskusilah mengenai penggunaan kamera DSLR yang baik dan benar.
+2.4  AYO PRAKTIKKAN!
+E. Alat Penunjang Fotograi Digital Indoor dan Outdoor
+1. Background dan Stand Background
+Background dan stand background adalah alat yang sering digunakan 
+untuk latar belakang pemotretan di dalam studio ( indoor). Contohnya 
+untuk pemotretan pasfoto. Background ini memiliki berbagai macam 
+warna polos ataupun motif. Adapun stand background  memiliki dua 
+penyangga yang berfungsi untuk menyangga background. Penyangga 
+ini dapat diatur naik turun sesuai dengan kebutuhan.
+2. Tripod dan Monopod
+Tripod dan monopod adalah alat yang digunakan untuk menyangga 
+kamera. Fungsinya agar tidak terjadi guncangan ( shaking) pada saat 
+pengambilan gambar sedang berlangsung. Perbedaan antara tripod 
+dan monopod ialah tripod memiliki tiga kaki penyangga, sedangkan 
+<<<HAL 70>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 256
+monopod hanya memiliki satu kaki penyangga sehingga terlihat lebih 
+praktis dibawa ke mana-mana.
+3. Stabilizer atau Gimbal Kamera
+Stabilizer atau gimbal kamera adalah alat yang digunakan untuk mensta-
+bilkan gambar pada saat pemotretan. Alat ini juga dapat digunakan untuk 
+membuat video. Fungsinya agar hasil gambar tetap terlihat seimbang 
+dan mengurangi guncangan.
+4. Flash dan Flashmeter
+Flash adalah alat tambahan yang digunakan pada pemotretan yang 
+memerlukan cahaya tambahan, misalnya pemotretan pada malam hari. 
+Adapun flashmeter adalah alat yang digunakan untuk mengukur cahaya 
+dalam pemotretan.
+5. Payung Reflektor
+Payung reflektor adalah peralatan yang digunakan untuk mendapatkan 
+sifat cahaya yang jangkauannya luas. Payung reflektor ini dapat menim-
+bulkan bayangan dan cahaya menjadi lebih terlihat lembut.
+6. Dry Box
+Dry box  adalah alat yang digunakan untuk menyimpan kamera. Dry 
+box sering juga disebut lemari antilembap. Di dalam lemari ini terdapat 
+lampu yang berfungsi menjaga suhu di dalam tempat penyimpanan.
+7. Blower Blush
+Blower blush adalah alat yang digunakan untuk membersihkan kamera 
+dari debu. Alat ini berupa semburan udara. Biasanya digunakan untuk 
+pemotretan indoor ataupun outdoor agar dapat menghasilkan pemotretan 
+yang berkualitas.
+<<<HAL 71>>>
+Bab 2   Fotograi  aiar 57
+8. Filter
+Filter adalah alat bantu fotografi yang memiliki fungsi utamanya sebagai 
+penyaring cahaya yang akan masuk ke kamera. Filter ini dapat kamu 
+gunakan untuk menghasilkan efek-efek yang diinginkan saat proses 
+pemotretan. Filter memiliki dua bentuk, yaitu filter bulat ( circle) dan 
+filter kotak (square).
+9. Slider 
+Slider merupakan salah satu alat yang digunakan untuk menggeser kamera 
+secara manual, baik ke kiri maupun ke kanan, depan maupun belakang. 
+Fungsi utama slider ialah memperhalus gerakan kamera, baik secara 
+teknik pengambilan maupun sinematografi movement.
+10. Tudung Lensa
+Tudung lensa adalah alat bantu penghalang cahaya yang tidak dibutuhkan, 
+agar cahaya tidak masuk ke dalam kamera. Cahaya yang masuk dapat 
+menimbulkan flare pada hasil pemotretan sehingga mengurangi saturasi 
+dan kontras. Tudung lensa sangat berguna pada saat pemotretan outdoor 
+yang bertemu langsung cahaya matahari.
+Pada materi di atas telah dijelaskan apa saja peralatan 
+pendukung fotograi. Carilah di internet gambar dari 
+peralatan pendukung fotograi tersebut! 
+2.5  AYO BEREKSPLORASI!
+<<<HAL 72>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 258
+F. Jenis-Jenis Fotograi
+Pernahkah kamu melihat karya-karya fotografi seperti fotografi makanan, 
+fotografi still life, dan fotografi aksi? Di bawah ini merupakan materi 
+mengenai jenis-jenis fotografi yang dapat kamu pahami dan ketahui.
+1. Fotografi Potret ( Portrait Photography)
+Bagi seorang fotografer pemula, jenis fotografi potret ini menjadi salah 
+satu yang paling banyak dieksplorasi. Jenis fotografi ini identik dengan 
+seorang model dan semua tentang ekspresi yang tergambar di dalamnya. 
+Tujuan fotografi potret ialah untuk menampilkan rupa, kepribadian, dan 
+mood objek, yaitu fokus foto wajah seseorang meskipun seluruh tubuh 
+dan latar belakangnya dapat masuk ke dalam frame. Contoh fotografi 
+potret ialah foto wisuda dan pernikahan.
+Gambar 2.15 Fotografi Potret
+Sumber: Angga Raditya (2021)
+<<<HAL 73>>>
+Bab 2   Fotograi  aiar 59
+2. Fotografi Makanan ( Food Photography)
+Fotografi makanan adalah teknik memotret makanan menjadi lebih 
+menarik. Fotografi makanan diperlukan dalam industri kuliner, seperti 
+produsen makanan, periklanan, kafe, dan sebagainya.
+Gambar 2.16 Fotografi Makanan
+Sumber: Angga Raditya (2018)
+<<<HAL 74>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 260
+3. Fotografi Still Life
+Fotografi still life adalah fotografi yang memotret objek berupa benda 
+mati. Tujuan dari fotografi ini ialah agar dapat menampilkan kesan 
+lebih hidup pada benda mati tersebut sehingga terkesan lebih menarik. 
+Adapun manfaat fotografi still life ialah sebagai sarana menampilkan 
+deskripsi produk.
+Gambar 2.17 Fotografi Still Life
+Sumber: Angga Raditya (2018)
+<<<HAL 75>>>
+Bab 2   Fotograi  aiar 61
+4. Fotografi Jalanan (Street Photography)
+Fotografi jalanan (street photography) adalah fotografi yang memotret 
+keadaan di sekitar tempat tinggal kalian sesuai dengan situasi dan kondisi 
+aslinya. Contohnya memotret jalanan. Objeknya dapat berupa ruang 
+publik, aktivitas pusat perbelanjaan, tempat wisata, perk otaan, dan 
+fasilitas umum.
+Gambar 2.18 Fotografi Jalanan 
+Sumber: Angga Raditya (2018)
+<<<HAL 76>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 262
+5. Fotografi Aksi ( Action Photography)
+Fotografi aksi adalah fotografi yang mengambil objek-objek yang bergerak, 
+seperti fotografi olahraga dan fotografi menari ( dance). Pada fotografi 
+jenis ini, kamu harus bisa dengan cepat menangkap objek yang bergerak 
+untuk mendapatkan hasil gambar yang maksimal.
+Gambar 2.19 Fotografi Aksi
+Sumber: Daniel Budi Santoso (2021)
+<<<HAL 77>>>
+Bab 2   Fotograi  aiar 63
+6. Fotografi Periklanan (Advertising Photography)
+Fotografi periklanan adalah fotografi yang memotret suatu produk atau 
+jasa. Foto yang dihasilkan digunakan untuk media promosi produk atau 
+jasa tersebut. Banyak fotografer yang bergelut pada dunia periklanan 
+karena industrinya mudah dijangkau.
+Gambar 2.20 Fotografi Periklanan
+Sumber: Angga Raditya (2017)
+7. Fotografi Alam atau Pemandangan  
+(Landscape Photography)
+Jenis fotografi ini biasanya memperlihatkan potret pemandangan alam 
+yang ada di sekitarmu. Jenis foto ini sering diaplikasikan pada kartu pos, 
+cover majalah traveling, dan kalender.
+<<<HAL 78>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 264
+Gambar 2.21 Fotografi Alam atau Pemandangan
+Sumber: Angga Raditya (2018)
+Pada pembahasan materi di atas, dapat kamu ketahui jenis-jenis 
+fotografi yang ada di sekitarmu. Cobalah bereksplorasi dengan mem-
+bentuk kelompok 45 orang. Kemudian carilah di internet tent ang 
+jenis-jenis karya fotografi. Tempelkan gambar jenis fotografi pada  
+kertas selembar, kemudian berilah komentar atau pendapat pada 
+jenis fotografi tersebut.
+2.6  AYO BEREKSPLORASI!
+<<<HAL 79>>>
+Bab 2   Fotograi  aiar 65
+G. Teknik Pengambilan Gambar Berdasarkan Ukuran 
+Gambar dan Sudut Pengambilan (Angle)
+Teknik pengambilan gambar merupakan salah satu hal terpenting 
+untuk dapat menghasilkan sebuah foto yang baik. Penggunaan teknik 
+dalam pengambilan gambar ini perlu kamu ketahui karena teknik ini 
+menentukan fokus dan hal lainnya yang ingin kamu ambil. Oleh karena 
+itu, pada teknik pengambilan gambar perlu memperhitungkan sudut 
+pengambilan gambarnya. 
+1. Teknik Pengambilan Gambar Berdasarkan Ukuran Gambar
+a. Extreme Close Up 
+Extreme close up merupakan teknik pengambilan gambar dengan sangat 
+dekat. Tujuan extreme close up  ialah mengambil gambar objek secara 
+terpusat dan jelas. Contohnya menampilkan bagian matanya saja, bibirnya 
+saja, atau objek tertentu lainnya. Kamera yang digunakan seperti lensa 
+mikro agar objek terlihat jelas dan detail.
+Gambar 2.22 Extreme Close Up
+Sumber: Daniel Budi Santoso (2022)
+<<<HAL 80>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 266
+b. Big Close Up 
+Big close up  merupakan teknik 
+yang mengambil bagian tertentu 
+seperti wajah secara terperinci. 
+Contohnya menunjukkan ekspre-
+si dari model secara detail yang 
+terpusat pada wajahnya, seperti 
+tampilan make up.
+c. Close Up 
+Close up  merupakan teknik 
+pengambilan gambar yang 
+menghasilkan gambar jauh lebih 
+dekat. Contohnya objek manusia, 
+maka hasil yang akan diperoleh 
+hanya bagian bahu sampai de -
+ngan bagian atas kepala.
+Gambar 2.23 Big Close Up
+Sumber: Rizal (2021)
+Gambar 2.24 Close Up
+Sumber: Angga Raditya (2022)
+<<<HAL 81>>>
+Bab 2   Fotograi  aiar 67
+d. Medium Close Up 
+Medium close up  merupakan 
+teknik pengambilan gambar 
+gabungan, yaitu teknik close up 
+dengan medium shot . Tujuan 
+medium close up  ialah untuk 
+mempertegas gambar profil 
+seseorang. Posisi pengambilan 
+gambar pada teknik ini mulai 
+dari bagian dada sampai atas 
+kepala.
+e. Medium Shot 
+Medium shot merupakan teknik 
+pengambilan gambar beberapa 
+bagian saja dari objek. Contohnya 
+objek manusia, maka teknik ini 
+mengambil gambar dari ping -
+gang sampai bagian atas kepala. 
+Manfaat teknik ini agar hasil foto 
+tidak terlalu fokus pada area 
+sekitar objek dan lebih mem -
+perhatikan detail bagian tubuh.
+Gambar 2.25 Medium Close Up
+Sumber: Angga Raditya (2022)
+Gambar 2.26 Medium Shot
+Sumber: Angga Raditya (2022)
+<<<HAL 82>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 268
+f. Medium Long Shot 
+Medium long shot  merupakan 
+teknik yang hampir serupa 
+dengan medium shot, tetapi ca-
+kupan gambar yang dihasilkan 
+lebih luas. Contohnya jika kamu 
+hanya ingin mengambil setengah 
+bagian dari objek, kamu dapat 
+menggunakan teknik ini.
+g. Long Shot 
+Long shot  merupakan teknik 
+pengambilan gambar dengan 
+jarak jauh, dapat menampilkan 
+sedikit hingga banyak orang 
+secara seluruh badan dalam satu 
+frame. Teknik ini menghasilkan 
+tampilan gambar yang fokus 
+pada objek.
+Gambar 2.27 Medium Long Shot
+Sumber: Angga Raditya (2022)
+Gambar 2.28 Long Shot
+Sumber: Angga Raditya (2021)
+<<<HAL 83>>>
+Bab 2   Fotograi  aiar 69
+2. Teknik Pengambilan Gambar Berdasarkan Sudut 
+Pengambilan (Angle)
+Kamu perhatikan gambar di bawah ini. Gambar tersebut merupakan 
+teknik dasar pengambilan foto berdasarkan sudutnya ( angle). Fungsi 
+dari teknik ini menjadikan foto terkesan lebih menarik. 
+Angle
+Kamera
+Frog Eye
+Eye Level
+Bird Eye
+Low Angle
+High Angle
+Gambar 2.29 Teknik Pengambilan Gambar Berdasarkan Angle
+<<<HAL 84>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 270
+a. Frog Eye 
+Frog eye adalah teknik pengam-
+bil an gambar dengan posisi 
+kamera sejajar dengan bagian 
+bawah objek yang posisinya lebih 
+rendah dari dasar objek.rendah dari dasar objek.
+b. Low Angle 
+Low angle adalah teknik pengam-
+bilan gambar dari arah bawah 
+objek sehingga memberikan 
+kesan objek terlihat lebih besar.
+Gambar 2.30 Frog Eye
+Sumber: Angga Raditya (2022)
+Gambar 2.31 Low Angle
+Sumber: Angga Raditya (2022)
+Angle
+Kamera
+Frog Eye
+Eye Level
+Bird Eye
+Low Angle
+High Angle
+Angle
+Kamera
+Frog Eye
+Eye Level
+Bird Eye
+Low Angle
+High Angle
+<<<HAL 85>>>
+Bab 2   Fotograi  aiar 71
+c. Eye Level 
+Eye level adalah pengambilan 
+gambar dengan posisi yang 
+sejajar dengan objek. Gambar 
+yang dihasilkan akan memperyang dihasilkan akan memper -
+lihatkan tangkapan pandangan 
+mata orang yang berdiri sejajar 
+dengan objek tersebut.dengan objek tersebut.
+d. High Angle 
+High angle adalah teknik meng-
+ambil objek gambar dari sudut 
+atas objek. Teknik ini kebalikan 
+dari teknik low angle . Hasil 
+gambar terlihat lebih kecil dan 
+terkesan dramatis.
+Gambar 2.32 Eye Level
+Sumber: Daniel Budi Santoso (2021)
+Gambar 2.33 High Angle
+Sumber: Angga Raditya (2022)
+Angle
+Kamera
+Frog Eye
+Eye Level
+Bird Eye
+Low Angle
+High Angle
+Angle
+Kamera
+Frog Eye
+Eye Level
+Bird Eye
+Low Angle
+High Angle
+<<<HAL 86>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 272
+e. Bird Eye 
+Bird eye (mata burung) adalah teknik pengambilan gambar yang memo-
+sisikan kamera berada di atas ketinggian, seperti sudut pandang dari 
+seekor burung yang terbang. Gambar yang dihasilkan akan tampak 
+memperlihatkan lingkungan sekitar secara lebih luas dan objek sekitar 
+akan terlihat lebih kecil ukurannya.
+Gambar 2.34 Bird Eye
+Sumber: Daniel Budi Santoso (2019)
+Angle
+Kamera
+Frog Eye
+Eye Level
+Bird Eye
+Low Angle
+High Angle
+
+<<<HAL 87>>>
+Bab 2   Fotograi  aiar 73
+f. Panning
+Panning adalah salah satu teknik penggambilan objek gambar bergerak 
+menjadi diam (membekukan gambar). Teknik ini dapat dilakukan dengan 
+cara menggerakkan kamera secara berlawanan dengan objek gambar 
+sehingga menghasilkan objek gambar yang begerak menjadi diam dan 
+background menjadi blur.
+Gambar 2.35 Panning
+Sumber: Rangga (2022)
+Buatlah karya fotografi menggunakan kamera smartphone atau kamera 
+DSLR yang kamu miliki dengan memahami teknik pengambilan gambar 
+berdasarkan sudut pengambilan (angle). Carilah objek benda sederhana 
+yang ada di sekitarmu. Persiapkan terlebih dahulu peralatan yang 
+akan kamu gunakan sebelum memulai praktik.
+2.7  AYO PRAKTIKKAN!
+<<<HAL 88>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 274
+H. Pencahayaan pada Fotograi
+Pencahayaan merupakan salah satu elemen penting dalam dunia fotografi. 
+Jika dalam pengambilan gambar dirasa pencahayaan kurang atau tidak 
+tepat, gambar yang dihasilkan tidak sesuai dengan harapan, seperti 
+gambar menjadi gelap atau tidak terlihat jelas. Sumber cahaya yang 
+digunakan dapat berbagai macam dan kualitasnya pun berbeda-beda. 
+Dalam pencahayaan fotografi, yang harus diutamakan adalah lighting 
+dan shadow atau bayangan yang dihasilkan oleh cahaya tersebut. Berikut 
+adalah beberapa arah cahaya pada fotografi.
+1. Front Light
+Front light adalah cahaya yang berasal dari depan objek sehingga bagian 
+depan objek mendapatkan cahaya secara penuh.
+Gambar 2.36 Front light
+Sumber: Rangga dan Raja (2022)
+2. Oval Light
+Oval light adalah cahaya yang dihasilkan pada sudut 45 derajat dari posisi 
+fotografer berada sehingga menghasilkan bentuk cahaya berupa oval.
+<<<HAL 89>>>
+Bab 2   Fotograi  aiar 75
+Gambar 2.37 Oval Light
+Sumber: Rangga dan Raja (2022)
+3. Side Light
+Side light adalah cahaya yang dihasilkan dari sudut 90 derajat atau dari 
+samping objek gambar yang diambil. Bayangan pada bagian yang terang 
+akan terbagi menjadi posisi yang berlawanan.
+Gambar 2.38 Side Light
+Sumber: Rangga dan Raja (2022)
+<<<HAL 90>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 276
+4. Rim Light
+Rim light adalah cahaya yang dihasilkan dari bagian belakang dengan 
+sudut 45 derajat yang menghasilkan bagian objek gelap dan ada cahaya 
+pada bagian tepi objek.
+Gambar 2.39 Rim Light
+Sumber: Rangga dan Raja (2022)
+5. Back Light
+Gambar 2.40 Back Light
+Sumber: Rangga dan Raja (2022)
+<<<HAL 91>>>
+Bab 2   Fotograi  aiar 77
+Back light adalah cahaya yang berada di belakang objek sehingga bagian 
+depan objek gelap, tetapi ada garis cahaya tegas pada bagian belakang 
+objek.
+I. Penyuntingan Fotograi Digital 
+Hasil gambar foto secara komposisi sebetulnya sudah bagus apabila 
+sudah dilaksanakan secara tepat pengaturannya. Akan tetapi, bila ter -
+jadi sedikit kurang sempurna pada hasil gambar foto, perlu dilakukan 
+proses penyuntingan gambar foto. Penyuntingan di sini bukan berarti 
+mengubah keseluruhan komposisi foto hingga terlalu berlebihan dalam 
+menyuntingnya, misalnya terlalu banyak tambahan efek gambar dan 
+mengubah warna terlalu drastis. Penyuntingan gambar foto dilakukan 
+hanya sebatas penyesuaian kebutuhan gambar saja ketika akan digunakan 
+atau didistribusikan.
+Pengolahan gambar digital dapat menggunakan berbagai peranti 
+lunak komputer atau aplikasi pada smartphone. Beberapa peranti lunak 
+pengolah gambar foto berbasis komputer adalah Adobe Photoshop, Adobe 
+Lightroom, Corel Photopaint, GIMP, dan sebagainya. Pada smartphone 
+juga tersedia banyak aplikasi pengolahan foto, seperti Adobe Photoshop 
+Express, Adobe Lightroom, Snapseed, VSCO, PicsArt, Pixlr, dan sebagainya. 
+Bahkan penyuntingan foto secara online juga tersedia melalui BeFunky, 
+Fotor, Pixlr, FotoJet, dan sebagainya. Dengan adanya penyuntingan foto 
+secara online, ini kamu tidak perlu melakukan pemasangan peranti 
+lunak pada peralatan komputermu dengan catatan harus terhubung 
+dengan internet.
+Berikut beberapa hal yang biasa dilakukan dalam proses penyuntingan 
+gambar foto tanpa mengubah arti dan tujuan foto dibuat.
+<<<HAL 92>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 278
+1. Pemotongan Gambar (Cropping)
+Gambar 2.41 Cropping Gambar Foto
+Sumber: Maylinda Ambarwati (2022)
+Pemotongan gambar di sini adalah untuk menghilangkan bagian pada 
+sekitar gambar yang tidak diinginkan sehingga menjadi tidak terlihat. 
+Biasanya pemotongan gambar dengan cara mengurangi bagian kanan-kiri 
+gambar atau atas-bawah gambar, baik secara proporsional maupun tidak. 
+Efek setelah gambar terpotong ialah ukurannya menjadi lebih kecil.
+2. Meluruskan Horizon
+Sebelum Sesudah
+Gambar 2.42 Pelurusan Horizon Foto yang Awalnya Miring
+Sumber: Maylinda Ambarwati (2022)
+Area 
+Terpotong
+Area tak 
+Terpotong
+Sebelum Sesudah
+<<<HAL 93>>>
+Bab 2   Fotograi  aiar 79
+Terkadang ketika kamu memotret terjadi horizon pada gambar foto 
+terlihat miring. Hal ini dapat diperbaiki dengan memutar gambar foto 
+beberapa derajat sehingga diperoleh garis horizon yang lurus mendatar. 
+Setelah horizon terlihat datar, maka dilakukan proses cropping agar lebih 
+rapi bagian sekeliling gambar.
+3. Gelap Terang
+Gambar 2.43 Pengukuran Gelap Terang Gambar melalui Histogram
+Sumber: Reza Tasaufi (2022)
+Pada saat pemotretan, terjadi kesalahan perhitungan lightmeter atau 
+kompensasi cahaya yang kurang tepat. Hal ini berakibat warna pada 
+gambar terlihat menjadi kurang terang atau terlalu terang. Gelap terang 
+gambar bisa diperbaiki melalui beberapa teknik sebagai berikut.
+a. Tingkat kecerahan 
+Tingkat kecerahan gambar dapat kamu atur ulang melalui perintah 
+brightness-contrast pada pengolah foto.
+b. Tingkatan gelap terang
+Tingkatan gelap terang dapat kamu atur melalui pengaturan titik 
+ambang bayangan dan cahaya pada gambar histogram sehingga 
+terjadi keseimbangan warna gelap dan warna terang.
+c. Kurva gelap terang
+Pengaturan kurva gelap terang untuk mengatur gelap terang berda-
+sarkan titik kurva pada garis kurva linear gelap terang.
+<<<HAL 94>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 280
+4. Ketajaman Gambar (Sharpness)
+Sebelum Sesudah
+Gambar 2.44 Penajaman Garis Gambar Foto
+Sumber: Muhamad Isnaini (2022)
+Gambar foto yang kurang tajam warna dan garisnya dapat diolah melalui 
+perintah penajaman gambar (sharpening).
+5. Menghilangkan Efek Red Eye
+Sebelum Sesudah
+Gambar 2.45 Penghilangan Efek Warna Merah pada Mata
+Sumber: Muhamad Isnaini (2022)
+Efek red eye terjadi ketika pupil mata objek tidak siap menerima cahaya 
+flash kamera saat dipotret sehingga terlihat ada warna merah. Hal ini 
+dapat dilakukan dengan perintah penghilang red eye atau dengan alat 
+khusus penghilang red eye.
+<<<HAL 95>>>
+Bab 2   Fotograi  aiar 81
+6. Mengubah Warna Menjadi Hitam Putih
+Sebelum Sesudah
+Gambar 2.46 Pengubahan Foto Berwarna Menjadi Hitam Putih
+Sumber: Maylinda Ambarwati (2022)
+Hasil gambar foto dari kamera DSLR merupakan gambar yang berwarna. 
+Akan tetapi, bila kamu menghendaki hasil foto yang berwarna hitam 
+putih, perlu dilakukan pengolahan warna untuk mengubah gambar 
+berwarna menjadi hitam putih. Dengan demikian, komposisi area gelap 
+terang foto hitam putih tersebut sesuai dengan yang diinginkan.
+7. Mengurangi Noise
+Sebelum Sesudah
+Gambar 2.47 Pengurangan Efek Noise pada Gambar Foto
+Sumber: Muhamad Isnaini (2022)
+Noise gambar akibat penggunaan ISO yang tinggi dapat dikurangi dengan 
+perintah penghilang noise pada peranti penyunting gambar.
+<<<HAL 96>>>
+82                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+Rangkuman
+ ﷔ Fotografi merupakan salah satu cara dalam menggamba r 
+menggunakan proses menangkap bentuk dan warna suatu 
+objek gambar melalui pantulan cahaya yang direkam dalam 
+suatu media perekam cahaya.
+ ﷔ Jenis-jenis kamera berdasarkan ukuran kamera dan ukuran 
+gambar yang dihasilkan adalah:
+1. kamera digital saku,
+2. kamera smartphone,
+3. kamera bridge,
+4. kamera mirrorless,
+5. kamera mikro 4/3, dan
+6. kamera DSLR.
+ ﷔ Dalam fotografi dikenal istilah segitiga exposure. Segitiga 
+tersebut dapat menjadi panduan dan referensi pengaturan 
+exposure pada DSLR melalui aperture, ISO, dan kecepatan rana. 
+Dengan adanya panduan tersebut, maka foto yang dihasilkan 
+akan menjadi bagus sesuai dengan kondisi cukup cahaya atau 
+kurang cahaya sekalipun.
+ ﷔ Keunggulan kamera DSLR ialah tersedianya banyak pilihan 
+lensa, mulai dari lensa lebar, lensa tele, hingga lensa tetap 
+dengan berbagai fitur, seperti anti guncangan, fitur senyap, 
+dan lain-lain.
+ ﷔ Teknik pengambilan gambar merupakan salah satu hal 
+terpenting untuk dapat menghasilkan sebuah foto yang baik.
+ ﷔ Beberapa hal yang biasa dilakukan dalam proses penyuntingan 
+gambar foto, yaitu:
+1. pemotongan gambar ( cropping),
+2. meluruskan horizon,
+3. gelap terang,
+Rangkuman
+<<<HAL 97>>>
+Bab 2   Fotograi  aiar                  83
+4. ketajaman gambar ( sharpeness),
+5. menghilangkan efek red eye,
+6. mengubah warna hitam putih, dan
+7. mengurangi noise.
+Assesmen
+ 
+Kerjakan tugas mandiri dan tugas kelompok ini di dalam buku 
+tugas!
+1. Tugas Mandiri
+Buatlah tiga karya fotografi yang bertema 
+toleransi menggunakan kamera DSLR atau 
+smartphone yang kamu miliki dengan ketentuan 
+sebagai berikut. 
+a.  Gambar harus hasil sendiri.
+b.  Gambar diambil dengan teknik yang 
+berbeda-beda.
+c.  Hasil gambar harus mengandung unsur 
+estetika.
+d.  Pada setiap foto diberi keterangan:
+ judul foto, 
+ jenis fotografinya, 
+ teknik pengambilan gambarnya,
+ spesifikasi alat yang digunakan (merek dan 
+tipe kamera/smartphone), dan
+ alat bantu atau pendukung yang digunakan 
+(jika ada).
+Asesmen
+<<<HAL 98>>>
+84                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+2. Tugas Kelompok
+Buatlah kelompok yang terdiri atas 45 orang. 
+Kemudian lengkapilah tabel alat penunjang 
+fotografi digital, baik indoor maupun outdoor di 
+bawah ini dengan mencari foto atau gambar yang 
+sesuai di internet. Tuliskan juga fungsi/kegunaan 
+dari masing-masing alat tersebut. Awali kegiatan 
+kelompok ini dengan berdoa terlebih dahulu.
+No. Nama Alat Penunjang Foto/Tampilan 
+Gambar
+Fungsi/Kegunaan
+1. Background dan 
+Stand Background
+2. Tripod
+3. Monopod
+4. Stabilizer atau 
+Gimbal Kamera
+5. Slider 
+6. Payung Reflektor
+7. Tudung Lensa
+8. Filter
+<<<HAL 99>>>
+Bab 2   Fotograi  aiar                  85
+Penilaian Mandiri
+Jawablah pertanyaan di bawah ini dengan tepat dan kerjakan 
+di dalam buku tugas!
+1. Teknologi peralatan kamera fotografi sekarang ini sudah 
+banyak berkembang dalam teknologi digital. Tuliskan jenis-
+jenis kamera digital yang kamu ketahui!
+2. Perkembangan teknologi digital pada kamera fotografi lambat 
+laun meninggalkan peralatan fotografi analog. Jelaskan 
+perbedaan antara peralatan kamera digital dan kamera analog!
+3. Suatu teknologi pasti memiliki kelebihan dan kekurangan 
+dalam perkembangannya. Apa saja kelebihan dan kekurangan 
+kamera digital?
+4. Kelebihan kamera DSLR sebagai kamera digital pilihan bagi 
+banyak fotografer profesional salah satunya ialah tersedianya 
+pilihan lensa yang dapat dilepas pasang. Apa saja jenis-jenis 
+lensa kamera DSLR?
+5. Dalam suatu produksi fotografi menggunakan kamera DSLR, 
+fotografer harus memahami teknik-teknik pengambilan 
+gambar berdasarkan sudut pengambilan gambar. Jelaskan 
+tiga macam teknik pengambilan gambar berdasarkan sudut 
+pengambilan (angle)!
+6. Misalkan kamu melakukan pemotretan menggunakan kamera 
+DSLR, tetapi kondisinya berada di luar ruangan pada pukul 
+10.00 dan cahaya matahari cukup terang. Hal apa sajakah 
+yang perlu kamu atur pada kamera DSLR?
+7. Pemotretan di luar ruangan yang bagus biasanya dilakukan 
+pada jam-jam emas karena hasil pencahayaan dapat diperoleh 
+secara maksimal. Tuliskan jam-jam emas untuk pelaksanaan 
+fotografi saat di luar ruangan! Peralatan pendukung apa saja 
+yang dapat digunakan pada pemotretan luar ruangan?
+Uji Kompetensi
+<<<HAL 100>>>
+86                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+8. Dalam penggunaan kamera digital terdapat fitur AF pada 
+kamera. Apa yang dimaksud dengan AF pada kamera digital 
+dan terdiri atas apa saja macamnya?
+9. Salah satu keindahan fotografi dengan kamera DSLR ialah 
+adanya ruang tajam pada hasil gambar fotonya. Apa saja 
+yang mempengaruhi ruang tajam pada gambar foto?
+10. Penggunaan peralatan kamera DSLR perlu memperhatikan 
+beberapa hal agar kamera tersebut tidak ada kendala ketika 
+pe ma kaian nya. Hal-hal apa saja yang dapat merusak kamera 
+DSLR? Jelaskan bagaimana menghindari masing-masing hal 
+tersebut!
+Pengayaan
+Pindai kode QR di bawah ini menggunakan Scan QR pada 
+smartphone-mu, atau langsung ketikkan alamat tautan ke dalam 
+browser untuk menambah wawasan kamu tentang teknik fotografi 
+dasar dan penggunaan perangkat lunak pengolah gambar foto 
+dalam perancangan dan proses produksi DKV!
+Releksi
+Setelah mempelajari materi tentang teknik fotografi dasar, kamu 
+diharapkan dapat membuat karya fotografi dasar dan menerap-
+kan penggunaan perangkat lunak pengolah gambar foto dalam 
+perancangan dan proses produksi DKV.
+Pengayaan
+Refleksi
+https://youtu.be/ZvdjN_E5pJw https://youtu.be/HFQtoS8VbXI 
+<<<HAL 101>>>
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET , DAN TEKNOLOGI  
+REPUBLIK INDONESIA, 2022
+Dasar-Dasar Desain Komunikasi Visual 
+untuk SMK/MAK Kelas X Semester 2 
+Penulis :  Maylinda Ambarwati dan Dwi Kurnia Kuswahyuni 
+ISBN :  978-602-427-884-7 
+  978-623-388-032-9 (PDF)
+Bab 3 
+Komputer Grafis
+Bagaimana kamu dapat mengidentifikasi jenis perangkat lunak 
+berbasis bitmap dan vektor dalam perancangan  
+dan proses produksi dalam eksekusi kerja 
+Desain Komunikasi Visual?
+<<<HAL 102>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 288
+ Kata Kunci  
+bitmap, vektor, format gambar, desain, perangkat lunak
+Tujuan Pembelajaran
+Pada akhir pembelajaran ini, kamu diharapkan mema-
+hami pengoperasian perangkat lunak, jenis perangkat 
+lunak berbasis bitmap dan vektor, serta menggunakan-
+nya dalam perancangan dan proses produksi dalam 
+eksekusi kerja Desain Komunikasi Visual.
+Pengertian
+Bitmap dan
+Vektor
+Komputer
+Graﬁs
+Produk 
+Rancangan 
+Komputer Graﬁs
+Jenis-Jenis
+Perangkat Lunak
+Desain Graﬁs
+CorelDRAW
+Adobe Illustrator
+Adobe Photoshop
+A B
+1
+2
+3
+C
+Peta Konsep
+<<<HAL 103>>>
+Bab 3   Komputer Graii 89
+Apa yang kamu ketahui tentang perkembangan teknologi dalam bidang 
+desain grais? Aplikasi apa saja yang dapat digunakan untuk membuat 
+desain grais pada komputer ataupun smartphone?
+Dalam kehidupanmu sehari-hari tidak lepas dari yang namanya 
+teknologi. Dengan adanya perkembangan zaman modern saat ini, ke -
+majuan teknologi sudah semakin meningkat. Salah satunya pada bidang 
+komputer grais.
+Komputer grais menjadi salah satu hal yang sangat diperlukan. 
+Misalnya saja pada dunia perilman, desain grais, bahkan dunia game. Saat 
+ini komputer grais tidak hanya digunakan pada teknik informasi, tetapi 
+sudah banyak digunakan juga pada teknik perancangan, desain grais, 
+arsitektur, dan lain-lain. Perangkat lunak (software) yang digunakan pun 
+beragam macamnya, mulai dari untuk pemula sampai yang profesional.
+Gambar 3.1 Komputer Grafis
+<<<HAL 104>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 290
+Jika melihat persaingan dalam dunia kerja sekarang, kamu dituntut 
+untuk mempunyai keahlian khusus. Salah satu contohnya keahlian dalam 
+komputer grais. Kamu diharapkan mampu mendalami ilmu desain grais 
+dan dapat membuat desain grais dengan baik melalui pembelajaran 
+komputer grais. 
+Komputer grais sendiri merupakan bagian dari ilmu komputer yang 
+mempelajari cara membuat desain dan memanipulasi gambar secara 
+digital. Dalam komputer grais ada beberapa perangkat lunak yang biasa 
+digunakan disesuaikan dengan kebutuhannya. Misalnya untuk desain 
+grais menggunakan perangkat lunak berbasis vektor dan bitmap, untuk 
+modeling menggunakan perangkat lunak berbasis 3D, perangkat lunak 
+berbasis layout, perangkat lunak berbasis animasi, dan yang terakhir 
+video editing.
+Sebelum belajar membuat karya-karya desain grais menggunakan 
+perangkat lunak komputer grais, kamu terlebih dahulu harus memahami 
+apa itu gambar bitmap dan vektor.
+A. Pengertian Bitmap dan Vektor
+1. Bitmap
+Gambar bitmap adalah kumpulan titik berupa piksel (elemen gambar) 
+dalam suatu grid dan pada masing-masing piksel mempunyai lokasi serta 
+warna tersendiri sehingga secara keseluruhan membentuk sebuah tam-
+pilan gambar. Gambar bitmap dapat disebut juga dengan gambar raster.
+Anggawirya (2004) mengatakan bahwa kelemahan dari gambar bitmap 
+ini contohnya adalah berupa foto, gambar-gambar hasil scan, dan gambar 
+yang dihasilkan dari aplikasi perangkat lunak grais seperti Corel Photo 
+Paint dan Adobe Photoshop.
+Tingkat kehalusan dari gambar bitmap bergantung pada resolusi dan 
+banyaknya jumlah titik atau piksel atau biasa disebut dengan satuan dpi 
+(dots per inch) atau ppi (pixel per inch). Semakin besar resolusinya, maka 
+kualitas gambar semakin baik dan gambar yang dihasilkan semakin 
+lebih jelas dan detail.
+<<<HAL 105>>>
+Bab 3   Komputer Graii 91
+Kelebihan dari gambar bitmap adalah memiliki resolusi yang detail 
+dan warna yang tinggi. Selain itu, gambar bitmap mampu menampilkan 
+gambar secara nyata dan sempurna, misalnya saja foto-foto yang dihasilkan 
+dari kamera digital. Oleh karena itu, perangkat lunak berbasis bitmap 
+editor sangat cocok digunakan untuk pengolahan gambar digital seperti 
+penyesuaian warna, manipulasi gambar, atau untuk kegiatan digital 
+imaging. Format-format yang umum digunakan pada gambar bitmap 
+atau raster, antara lain sebagai berikut.
+a. JPEG
+Joint Photographic Experts Group (JPEG/JPG) adalah kompresi data gam-
+bar dengan mengurangi bagian-bagian dari gambar untuk memblok 
+piksel gambar tersebut. JPEG/JPG memiliki ukuran file yang lebih besar 
+dibandingan format gambar lainnya.
+b. PNG
+Portable Network Graphics (PNG) adalah format gambar yang merupakan 
+penggabungan dari format JPEG dan GIF. Berbeda dengan JPEG, PNG 
+memiliki background atau latar belakang transparan.
+c. GIF
+Graphic Interchange Format (GIF) adalah format gambar dengan delapan 
+bit warna. Selain itu, GIF memiliki ciri gambar yang dapat bergerak 
+sederhana, seperti grafis ikon dengan ukuran file lebih kecil.
+d. PDF
+Portable Document Format (PDF) adalah format dokumen yang diguna-
+kan untuk keperluan dokumen digital. Keunggulan dari PDF ini dapat 
+digunakan untuk membuka file dari perangkat lunak lain tanpa takut 
+data akan berubah.
+<<<HAL 106>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 292
+titik-titik (piksel) yang 
+menyusun sebuah 
+bentuk gambar
+Gambar 3.2 Gambar Bitmap
+2. Vektor
+Vektor adalah kumpulan dari sejumlah garis dan kurva. Gambar vektor 
+berbeda dengan gambar bitmap. Pada gambar vektor, garis-garis akan 
+membentuk suatu kurva atau bidang sehingga memiliki warna isian 
+((fill) dan outline atau stroke yang dapat diubah-ubah. Gambar vektor 
+tersusun dari kumpulan garis dan kurva, bukan titik. Apabila gambar 
+tersebut diperbesar, detail gambarnya tidak akan hilang sehingga kualitas 
+gambarnya terlihat baik.
+Pada saat ini setiap perangkat lunak pengolahan gambar berbasis 
+vektor telah mampu mengolah gambar bitmap layaknya perangkat lunak 
+berbasis bitmap, bahkan mampu mengubah gambar vektor menjadi 
+gambar bitmap. Contoh gambar bitmap adalah desain logo, desain teks 
+atau tipografi, dan desain web atau animasi. Perangkat lunak yang 
+digunakan contohnya CorelDRAW, FreeHand, Adobe Illustrator, Xara, 
+Serif DrawPlus, AutoCad, dan Harvard Draw. 
+Kelebihan gambar vektor adalah dapat menangkap bentuk dan warna 
+sehingga terlihat lebih natural (alami). Kamu dapat menambahkan efek-
+efek khusus sehingga hasil gambar sesuai dengan yang kamu inginkan 
+serta dapat menghasilkan gambar vektor dan juga bitmap dalam waktu 
+yang singkat. Kualitasnya pun dapat kamu tentukan sendiri.
+<<<HAL 107>>>
+Bab 3   Komputer Graii 93
+Format-format yang digunakan pada gambar vektor, antara lain 
+AI (Adobe Illustrator), CDR (CorelDRAW), CMX (Corel Exchange), CGM 
+(Computer Graphics Metafile), DRW (Micrografx Draw), DXF (AutoCAD), 
+dan WMF (Windows Metafile).
+Gambar 3.3 Gambar Vektor pada Kondisi Ukuran 
+Normal 
+Gambar 3.4 Detail Gambar pada Pembesaran 
+Gambar Vektor Masih Terlihat Utuh
+Setelah kamu mempelajari dan memahami materi mengenai gambar 
+bitmap dan vektor, carilah informasi di internet mengenai perbedaan 
+gambar bitmap dan vektor beserta ciri-cirinya. Isilah jawaban pada 
+tabel di bawah ini dan kerjakan di buku tugasmu.
+3.1   AYO BEREKSPLORASI!
+<<<HAL 108>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 294
+Tabel 3.1 Perbedaan Gambar Bitmap dan VektorR
+No. Bitmap Vektor
+1.
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+2.
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+3.
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+4.
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+5.
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+......................................................
+<<<HAL 109>>>
+Bab 3   Komputer Graii 95
+B. Jenis-Jenis Perangkat Lunak Desain Grais
+Gambar 3.5 Software Komputer Grafis
+Perangkat lunak (software) desain grafis merupakan suatu perangkat 
+yang digunakan untuk membuat desain grafis. Desain grafis merupakan 
+representasi visual dari sebuah ide dengan perangkat lunaknya, yaitu 
+berupa simbol, kata, dan gambar pada komputer. Jenis-jenis perangkat 
+lunak pada komputer yang digunakan untuk membuat desain grafis, 
+antara lain CorelDRAW, Adobe Illustrator, dan Adobe Photoshop. Adapun 
+perangkat lunak pada smartphone, antara lain Adobe Photoshop Express, 
+AutoCAD, PicsArt, 3DC.io, 3D Modeling, dan Canva. Berikut penjelasan 
+mengenai perangkat lunak yang digunakan untuk membuat karya desain 
+grafis.
+1. CorelDRAW
+CorelDRAW merupakan salah satu perangkat lunak desain vektor yang 
+paling banyak digunakan karena memudahkan para penggunanya. Selain 
+<<<HAL 110>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 296
+penggunaannya yang mudah, aplikasi CorelDRAW ini dapat membuat 
+desain gambar atau teks dengan cepat sehingga hasil akhirnya yang 
+maksimal dan memuaskan. Pada setiap dunia usaha dan kerja bidang 
+desain komunikasi visual, para desainer grafis masih menggunakan 
+aplikasi CorelDRAW. Perangkat lunak ini mempunyai fungsi dan kemu-
+dahan yang tidak dimiliki oleh perangkat lunak lain. 
+a. Membuka Perangkat Lunak CorelDRAW
+Membuka perangkat lunak CorelDRAW pada sistem operasi Windows 
+sama seperti membuka perangkat lunak jenis lain, yaitu dengan mengeklik 
+tombol menu Start pada taskbar Windows. Langkah-langkahnya sebagai 
+berikut.
+1) Klik tombol Start pada taskbar, yaitu dengan cara mengarahkan 
+mouse (tetikus) ke area tombol, kemudian tekan tombol klik kiri 
+pada mouse.
+2) Langkah selanjutnya arahkan mouse ke menu All Programs. Setelah 
+muncul submenu All Programs, geser pointer ke kanan, kemudian 
+pilih CorelDRAW. Setelah submenu CorelDRAW terbuka, geser pointer 
+ke shortcut CorelDRAW, kemudian tekan klik kiri pada mouse untuk 
+membuka jendela perangkat lunak CorelDR AW.
+3) Setelah muncul  welcome screen, kemudian pilih Create New Blank 
+Document untuk membuat dokumen baru. 
+4) Jika welcome screen tidak muncul, kamu dapat membuat dokumen 
+baru dengan mengeklik menu File → New. Pada layar monitor akan 
+muncul tampilan area kerja CorelDRAW yang masih kosong dan 
+siap untuk untuk membuat desain.
+b. Mengenal Area Kerja CorelDRAW
+Sebelum kamu memulai untuk membuat sebuah desain, alangkah baiknya 
+mengenal terlebih dahulu area kerja pada perangkat lunak pengolah grafis 
+CorelDRAW. Tujuannya agar memudahkan kamu dalam mengeksplorasi 
+kemampuan CorelDRAW secara maksimal.
+<<<HAL 111>>>
+Bab 3   Komputer Graii 97
+Standard Bar
+Ruler
+Color Palette
+Menu Bar
+Page Area
+Status Bar
+Toolbox
+Property Bar
+Gambar 3.6 Tampilan Area Kerja CorelDRAW
+1) Menu Bar
+Bagian ini berisi menu dengan perintah-perintah yang berhubungan 
+dengan pekerjaan kita dan masing-masing menu memiliki submenu.
+Gambar 3.7 Menu Bar
+2) Standard Bar
+Standard bar atau toolbar berisi tombol-tombol pintas untuk perin-
+tah-perintah yang dipakai dalam pekerjaanmu sehingga tidak perlu 
+membuka-buka menu ataupun submenu pada menu bar. Pekerjaanmu 
+akan jadi lebih efisien dan cepat selesai. Toolbar berisi ikon-ikon 
+standar yang memiliki fungsi tertentu yang mempermudah akses 
+sebuah perintah atau tool. Biasanya berisi perintah New, Save, Print, 
+Undo, Redo, Import, Export, Copy, Paste, dan sebagainya.
+<<<HAL 112>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 298
+Gambar 3.8 Standard Bar
+3) Property Bar
+Property bar adalah menu yang menampilkan isi tentang apa yang 
+sedang kamu kerjakan. Property bar biasa disebut juga dengan active 
+bar/tools. Contohnya jika kamu akan membuat desain teks, secara 
+otomatis pada property bar akan muncul menu yang berhubungan 
+dengan teks.
+Gambar 3.9 Property Bar
+4) Status Bar
+Status bar menampilkan status objek yang sedang aktif dan mengetahui 
+posisi kursor yang ada di jendela. Di sini kamu dapat melihat warna 
+yang digunakan pada objek tersebut. Bagian ini juga berisi tentang 
+informasi koordinat mouse, ukuran tinggi dan lebar, koordinat titik 
+pusat, nama objek, serta informasi tentang warna fill dan outline 
+objek yang kamu aktifkan.
+Gambar 3.10 Status Bar
+5) Page Area
+Page area adalah tampilan berupa lembar kerja desain yang kamu 
+kerjakan. Ukuran kertas yang digunakan sesuai dengan orientasi 
+kertas yang sudah direncanakan, dapat berupa portrait atau landscape. 
+Objek desain yang akan kamu cetak harus masuk ke dalam page area 
+<<<HAL 113>>>
+Bab 3   Komputer Graii 99
+ini. Page area secara keseluruhan hanya terdiri atas satu lembar saja. 
+Akan tetapi, kamu dapat menambahkan beberapa lembar halaman 
+dengan ukuran yang berbeda-beda untuk pengerjaan desain yang 
+membutuhkan banyak halaman (multipage document), seperti desain 
+katalog, majalah, koran, dan brosur.
+Gambar 3.11 Page Area
+Sumber: Subhan Yulianto (2021)
+6) Ruler
+Sesuai dengan namanya, alat ini berfungsi sebagai penggaris yang 
+digunakan untuk mengukur pekerjaan desain. Penggaris dibagi 
+menjadi dua, yaitu penggaris horizontal sebagai pengukur tinggi 
+dan penggaris vertikal sebagai pengukur lebar. Selain itu, penggaris 
+dapat digunakan sebagai bantuan untuk peletakan layout objek atau 
+komponen grafis lainnya dan menentukan titik pusat origin. 
+<<<HAL 114>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2100
+Gambar 3.12 Ruler
+7) Toolbox 
+Toolbox adalah kotak peralatan atau 
+perkakas yang berisi kumpulan 
+tools yang memiliki fungsi untuk 
+membuat dan memodifikasi objek 
+atau desain. Secara keseluruhan, 
+tools dapat terlihat pada toolbox . 
+Namun, ada beberapa tools juga yang 
+tidak terlihat. Untuk memunculkan 
+tools yang tersembunyi, kamu dapat 
+mengeklik panah kecil yang ada di 
+pojok kanan bawah tool yang tidak 
+tersembunyi. Flyout yang terbuka 
+akan menampilkan sekumpulan tools 
+yang berkaitan dengan toolbox yang 
+dibuka. Panah kecil di bagian pojok 
+kanan bawah toolbox menandakan 
+adanya flyout pada tombol tersebut.
+Gambar 3.13 Toolbox
+<<<HAL 115>>>
+Bab 3   Komputer Graii 101
+8) Color Palette
+Bagian ini berisi berbagai macam warna yang dapat digunakan untuk 
+mewarnai objek desain yang kamu buat. Untuk mengaktifkan mode 
+warna ini dapat dengan cara mengeklik menu Window lalu klik 
+Color Palette.
+Gambar 3.14 Color Palette
+9) Fitur Shaping CorelDR AW
+Ketika menggunakan CorelDRAW, kamu dapat menggunakan bentuk 
+atau shape yang telah disediakan, seperti lingkaran, poligon, dan 
+segi empat. Jika ingin membuat bentuk lainnya yang belum ada dan 
+<<<HAL 116>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2102
+merupakan gabungan, potongan, atau irisan dari beberapa shape 
+dasar, dapat dilakukan dengan bantuan fitur Shaping. Fitur ini sangat 
+penting dalam desain karena akan membantu menghasilkan bentuk 
+objek baru sesuai keinginan. 
+Gambar 3.15 Fitur Shaping CorelDRAW
+a) Combine 
+Combine adalah menggabungkan beberapa objek menjadi satu dan 
+menghilangkan irisan atau potongan antarobjek tersebut. Warna 
+akhir akan mengikuti warna objek yang pertama dipilih.
+Gambar 3.16 Combine
+b) Weld 
+Weld mempunyai fungsi yang hampir sama seperti Combine. Weld 
+menggabungkan dua atau lebih objek menjadi satu kesatuan utuh 
+tanpa irisan. Warna akhir akan mengikuti warna objek yang pertama 
+dipilih.
+<<<HAL 117>>>
+Bab 3   Komputer Graii 103
+Gambar 3.17 Weld
+c) Trim 
+Trim adalah memotong sebagian dari suatu objek dengan objek 
+lainnya. Irisan objek yang dipotong akan hilang, sedangkan objek 
+pemotong akan tetap.
+Gambar 3.18 Trim
+d) Intersect 
+Intersect adalah membuat objek baru hasil irisan dua objek atau 
+lebih yang bertumpang-tindih atau bersinggungan. Warna objek 
+hasil akan mengikuti warna objek pertama.
+Gambar 3.19 Intersect
+<<<HAL 118>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2104
+e) Simplify 
+Simplify mempunyai fungsi yang hampir sama seperti Trim, tetapi 
+Simplify tidak terpengaruh oleh objek mana yang lebih dahulu diseleksi. 
+Hal yang menjadi patokan pada Simplify adalah objek yang di depan 
+akan memotong objek bersinggungan yang ada di belakang. Objek 
+pemotong akan tetap ada, sedangkan objek yang terpotong akan hilang. 
+Gambar 3.20 Simplify
+f) Front Minus Back 
+Fitur ini membuat objek yang tumpang-tindih. Objek paling depan 
+akan terpotong oleh objek yang di belakang dan objek yang di belakang 
+tersebut akan hilang.
+Gambar 3.21 Front Minus Back 
+g) Back Minus Front 
+Fitur ini membuat objek yang tumpang-tindih juga. Objek paling 
+belakang akan tetap ada, tetapi terpotong oleh objek yang ada di 
+depan dan objek yang di depan tersebut akan hilang.
+<<<HAL 119>>>
+Bab 3   Komputer Graii 105
+Gambar 3.22 Back Minus Front
+h) Create Boundary 
+Fitur ini akan menghasilkan outline hasil gabungan semua objek 
+yang dapat dipisahkan dari objek gabungan awal.
+Gambar 3.23 Create Boundary
+2. Adobe Illustrator
+Adobe Illustrator merupakan perangkat lunak desain grafis yang berfungsi 
+untuk membuat gambar dan ilustrasi berbentuk vektor. Apabila kamu 
+pernah menggunakan Photoshop, perbedaan keduanya terletak pada 
+jenis gambar atau ilustrasi yang dihasilkan. Photoshop digunakan untuk 
+membuat gambar dan ilustrasi dengan jenis bitmap, sedangkan Illustrator 
+untuk objek gambar berjenis vektor.
+Adobe Illustrator dapat digunakan untuk membuat desain grafis, 
+melukis objek, melakukan tracking pada objek bitmap, membuat tipografi, 
+membuat desain website, dan sebagainya.
+Untuk membuka perangkat lunak Adobe Illustrator pada komputer, 
+bisa dengan cara menjalankan perintah klik Start → All Programs → 
+Adobe Illustrator.
+<<<HAL 120>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2106
+Gambar 3.24 Cara Membuka Perangkat Lunak Adobe Illustrator
+a. Mengenal Area Kerja Adobe Illustrator
+Gambar 3.25 Tampilan Area Kerja Adobe Illustrator
+Toolbox
+Color Palette
+Transparency Palette
+Layer Palette
+<<<HAL 121>>>
+Bab 3   Komputer Graii 107
+1) Toolbox
+Gambar 3.26 Toolbox
+Toolbox  merupakan menu yang paling sering digunakan pada 
+perangkat lunak Adobe Illustrator. Dalam menu toolbox terdapat 
+berbagai fungsi menu untuk membuat ragam objek di dokumen 
+Illustrator. Toolbox biasanya berisi Selection Tool, Direct-Select Tool, 
+Magic Wand Tool, Lasso Tool, Pen Tool, Type Tool, dan sebagainya.
+2) Menu Bar
+Gambar 3.27 Menu Bar
+Menu bar merupakan barisan yang berisi kontrol untuk berbagai 
+fungsi, seperti membuat, membuka, menyimpan file, dan ekspor 
+sesuai dengan menu yang ditampilkan pada Adobe Illustrator. Menu 
+bar biasanya berada pada bagian atas kotak dialog utama sistem. 
+<<<HAL 122>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2108
+3) Status Bar
+Gambar 3.28 Status Bar
+Status bar merupakan baris yang menampilkan informasi objek yang 
+sedang dikerjakan, seperti jumlah halaman atau slide.
+4) Artboards
+Artboards merupakan area segi empat tempat untuk membuat dan 
+mengerjakan objek atau desain. Artboards juga dapat diibaratkan 
+sebagai kertas gambar untuk membuat desain. Jika kamu ingin 
+mencetak desain, yang dapat kamu cetak hanya bagian desain yang 
+ada dalam artboards.
+Gambar 3.29 Artboards
+<<<HAL 123>>>
+Bab 3   Komputer Graii 109
+5) Color Palette
+Gambar 3.30 Color Palette
+Color palette berfungsi untuk membuat pewarnaan dengan menen-
+tukan isi warna ( fill) dan garis ( stroke). Di dalam  color palette  ini 
+akan ditampilkan beragam parameter warna dari tipe pewarnaan 
+RGB dan CMYK.
+6) Transparency Palette
+Gambar 3.31 Transparency Palette
+Transparency palette adalah alat yang digunakan untuk mengatur 
+tingkat opasitas pada objek atau desain yang dibuat. Transparency 
+palette pada fitur terbaru Adobe Illustrator semakin ditingkatkan, yaitu 
+dengan menyediakan penggeser objek atau lapisan. Pada palet ini 
+<<<HAL 124>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2110
+juga menyediakan kontrol Opacity Mask baru dengan nilai luminansi 
+warna isian objek untuk menutup objek dasarnya. Contohnya, warna 
+yang lebih gelap akan di-mask menjadi lebih buram daripada warna 
+yang lebih terang. Intinya, Opacity Mask  ini dapat membuat efek 
+transparansi dan masking lebih lengkap secara langsung.
+7) Layer Palette
+Gambar 3.32 Layer Palette
+Layer palette adalah palet dasar yang selalu dijumpai oleh desainer 
+grafis karena bagian layer ini selalu diterapkan pada perangkat lunak 
+pengolah gambar Adobe System, salah satunya Adobe Photoshop. 
+Pada Adobe Illustrator,  layer palette  juga memiliki peranan yang 
+penting dalam perancangan objek desain. Layer palette akan mengatur 
+informasi daftar atau tempat lapisan objek pada artboard (papan 
+lembar kerja).
+b. Path
+Sebuah garis atau bentuk yang bersinambung dalam Illustrator disebut 
+path. Ada dua jenis path, yaitu path terbuka dan path tertutup. Path 
+bagian dalamnya dapat diberi warna yang disebut dengan fill color dan 
+warna garis luarnya yang disebut stroke color.
+<<<HAL 125>>>
+Bab 3   Komputer Graii 111
+Gambar 3.34 Path Terbuka
+ 
+Stroke color
+Fill color
+Gambar 3.35 Path Tertutup
+ Jika sebuah objek lebih dari 
+satu path yang terpisah, maka 
+biasa disebut Compound Path . 
+Jika Group adalah kumpulan dari 
+beberapa objek, Compound Path  
+selalu hanya satu objek. Untuk me-
+misahkan Group, dapat dilakukan 
+dengan menggunakan Ungroup, 
+sedangkan untuk Compound Path 
+dapat dipisahkan dengan cara 
+Expand lalu Ungroup. 
+Untuk objek kompleks yang 
+terbentuk dari garis, bentuk, 
+warna, efek, dan lain-lain biasa 
+disebut artwork. Jadi, objek pada 
+Illustrator biasa disebut artwork.
+Gambar 3.33 Artwork Illustrator
+<<<HAL 126>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2112
+c. Pathfinder
+Fungsi Pathfinder di Illustrator hampir sama dengan fitur Shaping di 
+CorelDRAW, yaitu untuk membuat bentuk baru yang dihasilkan dari 
+dua atau lebih shape. 
+Unite
+Divide 
+Minus
+Front 
+Trim Crop
+Minus Back
+Option Menu
+Merge Outline
+Intersect
+Exclude
+Gambar 3.36 Pathfinder Illustrator
+1) Unite 
+Unite digunakan untuk menggabungkan beberapa objek menjadi 
+satu objek baru. 
+Gambar 3.37 Unite
+2) Minus Front 
+Objek yang di belakang dikurangi objek yang tertutupi oleh objek 
+yang di depan.
+<<<HAL 127>>>
+Bab 3   Komputer Graii 113
+Gambar 3.38 Minus Front
+3) Intersect 
+Objek baru terbentuk dari bagian yang saling beririsan antara objek 
+yang di belakang dan yang di depan.
+Gambar 3.39 Intersect
+4) Exclude 
+Objek baru terbentuk dari gabungan objek, tetapi dikurangi bagian 
+yang terjadi irisan.
+Gambar 3.40 Exclude
+<<<HAL 128>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2114
+5) Divide 
+Beberapa objek baru terbentuk berdasarkan garis perpotongan 
+antarobjek.
+Gambar 3.41 Divide
+6) Trim 
+Trim digunakan untuk memotong objek belakang dengan objek yang 
+di depan. 
+Gambar 3.42 Trim
+7) Merge 
+Merge digunakan untuk menggabungkan beberapa objek 
+menjadi satu kesatuan yang utuh.
+Gambar 3.43 Merge
+<<<HAL 129>>>
+Bab 3   Komputer Graii 115
+8) Crop 
+Objek baru terbentuk dari irisan objek belakang dan objek yang di 
+depan.
+Gambar 3.44 Crop
+9) Outline 
+Fitur ini menampilkan outline dari objek yang digabungkan. 
+Gambar 3.45 Outline
+10) Minus Back 
+Objek baru terbentuk dari potongan objek depan dikurangi objek 
+belakang.
+Gambar 3.46 Minus Back
+<<<HAL 130>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2116
+d. Point 
+Objek dibentuk dari titik-titik koordinat yang disebut anchor point. Di 
+antara dua anchor point  akan terbentuk garis (lengkung atau lurus) 
+yang disebut segment. Adapun pada garis lengkung atau kurva akan ada 
+garis dan titik untuk mengatur arah lanjutannya yang disebut dengan 
+direction point. 
+Direction
+Segment
+Anchor Point
+Gambar 3.47 Anchor Point, Direction Point, dan Segment
+Ketika suatu objek diseleksi, maka akan terlihat sebuah kotak yang 
+mengelilingi objek tersebut yang disebut dengan bounding box. Di dalamnya 
+terdiri atas delapan titik yang disebut handle. Titik handle ini dapat kamu 
+edit sesuai kebutuhan.
+Bounding box
+Handle
+Gambar 3.48 Bounding Box dan Handle  
+Masih banyak yang harus kamu kenali dan pahami dalam penggunaan 
+tools dan fitur-fitur yang ada di perangkat lunak berbasis vektor. Materi 
+yang telah dipaparkan di buku ini hanya sebagian kecil dari semua yang 
+dapat kamu pelajari tentang perangkat lunak berbasis vektor. Silakan 
+<<<HAL 131>>>
+Bab 3   Komputer Graii 117
+kamu pelajari lebih dalam lagi tentang perangkat lunak berbasis vektor 
+sebelum digunakan untuk membuat sebuah desain. 
+Setelah kamu mempelajari dan memahami materi mengenai jenis-jenis 
+perangkat lunak berbasis vektor pada komputer, carilah jenis aplikasi  
+pengolah gambar pada smartphone yang digunakan oleh seorang 
+desainer grafis. Jelaskan masing-masing kelebihan dan kekurangan 
+aplikasi tersebut. Sebelum bereksplorasi, awali dengan berdoa dan 
+mempersiapkan peralatan yang akan digunakan.
+3.2   AYO BEREKSPLORASI!
+3. Adobe Photoshop
+Adobe Photoshop adalah perangkat lunak yang khusus dirancang untuk 
+memanipulasi objek atau gambar. Biasanya perangkat lunak ini digunakan 
+oleh para fotografer untuk mengedit foto hasil jepretannya agar terlihat 
+lebih menarik lagi. Namun, Adobe Photoshop juga sering digunakan untuk 
+membuat desain grafis, seperti desain logo, tipografi, sampul majalah, 
+dan poster.
+Gambar 3.49 Tampilan Adobe Photoshop
+<<<HAL 132>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2118
+Untuk membuka perangkat lunak Adobe Photoshop pada komputer, 
+dapat dengan cara menjalankan perintah klik Start → All Programs → 
+Adobe Photoshop. Tampilan area kerja Adobe Photoshop sebagai berikut.
+Gambar 3.50 Tampilan Area Kerja Adobe Photoshop
+Sumber: Maylinda Ambarwati (2021)
+a. Mengenal Area Kerja Adobe Photoshop
+1) Menu Bar
+Gambar 3.51 Menu Bar
+Menu bar  merupakan bagian yang memiliki berbagai menu dan 
+berfungsi untuk melakukan berbagai perintah, seperti membuat 
+halaman kerja baru, membuka file gambar, menyalin ( Copy) dan 
+menempel (Paste). 
+Menu
+Option Bar
+Image
+Toolbox
+Palette
+Judul Dokumen Gambar
+<<<HAL 133>>>
+Bab 3   Komputer Graii 119
+2) Toolbox
+Toolbox  adalah elemen yang sangat 
+penting pada Photoshop. Semua proses 
+editing pada Photoshop selalu menggu-
+nakan toolbox. Namun, tidak semua tools 
+dapat ditampilkan. Sama seperti pada 
+CorelDRAW, untuk menampilkannya, 
+kamu dapat mengeklik kanan pada salah 
+satu tool untuk menemukan tools yang 
+lain. Toolbox sendiri terdapat di bagian 
+kiri area kerja Photoshop.
+3) Judul Dokumen Gambar
+Judul dokumen gambar adalah judul 
+dari semua dokumen yang akan dibuka. 
+Letaknya berada di atas jendela perang-
+kat lunak Adobe Photoshop atau pada 
+title bar Window.
+4) Palette
+Palette terdiri atas Navigator Panel, Color 
+Panel, History, dan Layer. Palette ini 
+berisi fungsi yang dapat membantumu 
+dalam memonitor dan memodifikasi 
+sebuah gambar.
+5) Option Bar
+Gambar 3.55 Option Bar
+Option bar berisi tentang pengaturan peralatan yang ada pada menu 
+toolbar. Setiap peralatan memiliki option bar yang berbeda-beda.
+Gambar 3.52 Toolbox
+Gambar 3.53 Judul Dokumen
+Gambar 3.54 Palette
+<<<HAL 134>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2120
+b. Layer pada Photoshop 
+Ketika bekerja menggunakan Photoshop, maka layer merupakan panel 
+yang penting dalam membuat atau menggabungkan gambar. Kamu tinggal 
+memasukkan gambar-gambar yang akan dibuat atau digabungkan dalam 
+layer yang berbeda. Tentukan gambar mana yang akan ditempatkan di 
+belakang atau di depan. Berikut adalah ilustrasi layer pada Photoshop.
+Gambar 3.56 Layer Photoshop
+c. Cara Menyeleksi Gambar pada Photoshop
+Menyeleksi gambar merupakan langkah awal yang biasanya dilakukan 
+jika kamu akan menggabungkan beberapa gambar dalam satu kanvas. 
+Ada beberapa cara yang dapat dilakukan untuk menyeleksi gambar.
+1) Elliptical Marquee 
+Tool yang memungkinkan kamu memilih bentuk seleksi sesuai bentuk 
+yang telah disediakan. 
+<<<HAL 135>>>
+Bab 3   Komputer Graii 121
+Gambar 3.57 Elliptical Marquee
+Sumber: Dwi Kurnia Kuswahyuni (2021)
+2) Lasso
+Tool yang memungkinkan menyeleksi berdasarkan kebutuhan dari 
+area yang dipilih di sekitar objek.
+Gambar 3.58 Lasso
+Sumber: Dwi Kurnia Kuswahyuni (2021)
+3) Magic Wand Tool
+Bekerja mirip dengan Lasso, tetapi lebih berlaku untuk area yang 
+menampilkan tepi yang terdefinisi dengan jelas atau menyeleksi 
+berdasarkan warna yang kontras.
+<<<HAL 136>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2122
+Gambar 3.59 Magic Wand Tool
+Sumber: Dwi Kurnia Kuswahyuni (2021)
+4) Pen Tool 
+Pen Tool adalah alat seleksi yang memilih objek sambil mengubah 
+jalur sesuai tepi gambar.
+Gambar 3.60 Pen Tool
+Sumber: Dwi Kurnia Kuswahyuni (2021)
+5) Color Range atau Rentang Warna 
+Jika objek memiliki warna yang kontras dengan latar belakangnya, 
+kamu dapat menggunakan metode Color Range untuk menyeleksi 
+objek yang rumit seperti percikan air dengan mudah. Untuk sampai ke 
+Color Range, pilih Select pada menu bar kemudian pilih Color Range.
+<<<HAL 137>>>
+Bab 3   Komputer Graii 123
+Gambar 3.61 Color Range
+Sumber: Dwi Kurnia Kuswahyuni (2021)
+6) Color Channels 
+Color Channels biasanya digunakan untuk seleksi yang lebih rumit, 
+misalnya rambut atau bulu. Kamu dapat menggunakannya dengan 
+mengaktifkan channel di sebelah panel layer. Kemudian membuat 
+duplikat salah satu warna, biasanya yang sering digunakan blue. 
+Setting agar warna menjadi hitam putih dan kontras antara hitam 
+dan putih. Jadikan bagian hitam sebagai areal seleksi gambar. 
+Gambar 3.62 Color Channels
+Sumber: Dwi Kurnia Kuswahyuni (2021)
+<<<HAL 138>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2124
+Masih banyak lagi yang dapat kamu pelajari dari perangkat lunak 
+Photoshop. Materi Photoshop yang dijabarkan di sini hanyalah sebagian 
+kecil dari ilmu Photoshop itu sendiri. Silakan kamu mengeksplorasi 
+lebih dalam lagi tentang Photoshop. Pasti akan sangat mengasyikkan 
+dan menarik. 
+C. Produk Rancangan Komputer Grais
+Berikut merupakan desain produk menggunakan perangkat lunak dalam 
+perancangan dan proses produksi dalam eksekusi kerja Desain Komunikasi 
+Visual.
+1. Mug
+Untuk membuat desain mug pada CorelDRAW, langkah-langkahnya 
+sebagai berikut.
+a. Buka perangkat lunak CorelDRAW X7 dengan cara double click ikon 
+CorelDRAW X7 pada dekstop.
+b. Kemudian klik File → New → atur kertas atau lembar kerja sesuai 
+ketentuan → klik OK.
+Gambar 3.63 Lembar Kerja Mug
+<<<HAL 139>>>
+Bab 3   Komputer Graii 125
+c. Buatlah persegi dengan ukuran yang sesuai dengan mug yang akan 
+dicetak. Ukuran standar mug adalah 8 cm x 20 cm.
+Gambar 3.64 Ukuran Mug pada Lembar Kerja
+d. Carilah background mug sesuai dengan keinginanmu dengan gambar 
+kualitas tinggi dan tidak buram saat diunduh.
+Gambar 3.65 Desain Mug
+<<<HAL 140>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2126
+e. Jika sudah selesai di- save. Jika ingin dicetak, jangan lupa ekspor 
+gambar menjadi format JPEG dengan cara tekan Ctrl+E lalu klik  
+Export. 
+Gambar 3.66 Desain Mug Akhir
+2. Logo 
+Untuk membuat desain logo pada CorelDRAW, langkah-langkahnya 
+sebagai berikut.
+a. Buka perangkat lunak CorelDRAW dan buatlah lembar kerja bar u 
+pada perangkat lunak tersebut. Pilih ukuran kertas A4 agar logo 
+yang dihasilkan nanti beresolusi HD.
+Gambar 3.67 Lembar Kerja A4
+<<<HAL 141>>>
+Bab 3   Komputer Graii 127
+b. Buatlah desain logo dengan menggunakan tema yang kamu inginkan.
+c. Ganti ukuran lembar kerja dengan ukuran piksel agar memudahkanmu. 
+Sesuaikan ukuran pada menu bar, yaitu 1920 x 1080 px.
+Gambar 3.68 Lembar Kerja Ukuran 1920 x 1080 px
+d. Buatlah pola persegi panjang dengan menggunakan Rectangel pada 
+menu toolbar. Beri ukuran persegi panjang 800 x 400 px.
+Gambar 3.69 Persegi Panjang dengan Rectangel
+e. Modifikasi dengan menggunakan shape tool, lalu di-drag sehingga 
+berbentuk seperti oval.
+<<<HAL 142>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2128
+Gambar 3.70 Penggunaan Shape Tool
+f. Kemudian gandakan dengan mengeklik geser ke kanan. Ubah ukuran 
+menjadi lebih kecil (400 x 400 px).
+Gambar 3.71 Menggandakan Objek
+g. Langkah berikutnya klik dua kali pada objek. Panel kemudian kita 
+geser posisinya ke tengah objek yang lebih kecil. Lalu klik o bjek 
+kembali, geser bersamaan dengan mengeklik tombol Ctrl. Rotate 
+objek, lalu klik kanan pada mouse.
+<<<HAL 143>>>
+Bab 3   Komputer Graii 129
+Gambar 3.72 Memutar (Rotate) Objek
+h. Setelah semua selesai, langkah selanjutnya klik Weld.
+Gambar 3.73 Menggabungkan Dua Objek (Weld)
+i. Kita pilih tool Bezier pada menu toolbox, lalu posisikan garis pada 
+titik tertentu seperti yang terlihat pada gambar.
+<<<HAL 144>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2130
+Gambar 3.74 Tool Bezier pada Objek
+j. Lalu seleksi semua objek, klik Back Minus Front,  kemudian klik 
+Break Apart atau klik Ctrl+K.
+Gambar 3.75 Back Minus Front dan Break Apart pada Objek
+k. Langkah yang terakhir, kamu dapat memberikan warna pada objek 
+dengan warna yang kamu inginkan menggunakan Interactive Fill 
+Tool.
+<<<HAL 145>>>
+Bab 3   Komputer Graii 131
+Gambar 3.76 Interactive Fill Tool pada Objek
+l. Pada desain logo dapat kamu tambahkan font atau kata di sisi sebelah 
+logo agar lebih menarik.
+Gambar 3.77 Penambahan Kata pada Desain Logo
+Setelah mempelajari dan memahami materi mengenai fitur-fitur 
+yang ada pada aplikasi software komputer, cobalah kamu ber-
+kreasi, yaitu membuat kolase dengan menyusun beberapa foto 
+menggunakan Selection Tool yang ada pada aplikasi Photoshop. 
+Kerjakan secara mandiri dan awali kegiatan dengan membaca 
+doa terlebih dahulu.
+3.3   AYO BERKREASI!
+<<<HAL 146>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2132
+3. Packaging (Kemasan)
+Untuk membuat desain packaging pada CorelDRAW, langkah-langkahnya 
+sebagai berikut.
+a. Pertama, aktifkan dulu perangkat lunak pengolahan vektor a tau 
+CorelDRAW dengan cara klik menu File, pilih New Blank Document, 
+lalu atur dulu jenis kertas dan ubah ke centimeters.
+Gambar 3.78 Lembar Kerja Packaging
+b. Buatlah bagian persegi dengan menggunakan Rectangle Tool dan 
+Polygon seperti gambar berikut.
+Gambar 3.79 Desain Pola Packaging
+<<<HAL 147>>>
+Bab 3   Komputer Graii 133
+c. Warnai dengan warna kesukaanmu. Pada gambar ini, kamu dap at 
+menggunakan gradient  w a r n a  c o k e l a t  m u d a  d a n  c o k e l a t  t u a .  
+Perhatikan gambar berikut.
+Gambar 3.80 Desain Pola Packaging yang Sudah Diwarnai
+d. Siapkan objek gambar pendukung untuk desain packaging makanan 
+yang kamu inginkan. Klik PowerClip Inside pada salah satu sisi pola 
+desain packaging.
+Gambar 3.81 Menyiapkan Gambar Pendukung
+<<<HAL 148>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2134
+Gambar 3.82 PowerClip Inside Objek atau Gambar Pendukung
+Gambar 3.83 Desain Packaging yang Sudah Diberi Gambar Pendukung
+e. Tambahkan tulisan pada desain packaging yang kamu buat. Pada kali 
+ini, tema packaging yang dibuat adalah packaging piza. Perhatikan 
+gambar berikut.
+<<<HAL 149>>>
+Bab 3   Komputer Graii 135
+Gambar 3.84 Menambahkan Keterangan pada Desain 
+Gambar 3.85 Desain Akhir Packaging 
+4. Kartu Nama
+Untuk membuat desain kartu nama pada CorelDRAW, langkah-langkahnya 
+sebagai berikut. 
+a. Pertama, buka perangkat lunak CorelDRAW. Setelah itu, akan 
+muncul halaman lembar kerja baru setelah kamu tekan tombol 
+Ctrl+N. Selanjutnya membuat kotak dengan ukuran yang disesuaikan, 
+yaitu 9 cm x 6 cm. Kotak dibuat menggunakan Rectangle Tool atau 
+tekan shortcut-nya di tombol F6.
+<<<HAL 150>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2136
+Gambar 3.86 Lembar Kerja Kartu Nama
+b. Langkah selanjutnya adalah memberikan warna pada kotak yang 
+sudah dibuat tadi dengan cara klik objeknya menggunakan Pick 
+Tool.
+Gambar 3.87 Memberikan Warna pada Desain Kartu Nama
+c. Tambahkan ikon sosial media dengan cara mendesain sendiri atau 
+unduh di situs penyedia template gratis, seperti Freepik, Vecteezy, 
+dan Flaticon.
+<<<HAL 151>>>
+Bab 3   Komputer Graii 137
+Gambar 3.88 Mendesain Ikon dan Identitas pada Kartu Nama
+d. Langkah selanjutnya memberikan logo perusahaan, organisasi, 
+atau logo yang kamu sendiri. 
+Gambar 3.89 Menambahkan Desain Logo
+e. Langkah terakhir adalah menyimpan file kartu nama yang sudah 
+kamu buat. Caranya klik menu File lalu Save atau shortcut-nya (Ctrl+S). 
+Simpan file dengan nama yang sudah kamu sesuaikan.
+<<<HAL 152>>>
+138                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+Rangkuman
+ ﷔ Komputer grafis merupakan bagian dari ilmu komputer yang 
+mempelajari cara membuat desain dan memanipulasi gambar 
+secara digital.
+ ﷔ Gambar bitmap adalah kumpulan titik berupa piksel (elemen 
+gambar) dalam suatu grid dan pada masing-masing piksel 
+mempunyai lokasi serta warna tersendiri sehingga secara 
+keseluruhan membentuk sebuah tampilan gambar.
+ ﷔ Vektor adalah kumpulan dari jumlah garis dan kurva. Gambar 
+vektor berbeda dengan gambar bitmap. Pada gambar vektor, 
+garis-garis akan membentuk suatu kurva atau bidang sehingga 
+memiliki warna isian (fill) dan outline atau stroke yang dapat 
+diubah-ubah.
+ ﷔ Jenis-jenis perangkat lunak komputer untuk membuat desain 
+grafis, antara lain:
+1. CorelDRAW,
+2. Adobe Illustrator, dan
+3. Adobe Photoshop.
+ ﷔ Jenis-jenis perangkat lunak smartphone untuk membuat desain 
+grafis, antara lain:
+1. Adobe Photoshop Express,
+2. AutoCAD,
+3. PicsArt,
+4. 3DC.io,
+5. 3D Modeling, dan
+6. Canva.
+ ﷔ Fitur Shaping CorelDRAW:
+1. Combine,
+2. Weld,
+Rangkuman
+<<<HAL 153>>>
+Bab 3   Komputer Graii                  139
+3. Trim,
+4. Intersect,
+5. Simplify,
+6. Front Minus Back,
+7. Back Minus Front, dan
+8. Create Boundary.
+Assesmen
+ 
+Kerjakan tugas mandiri dan tugas kelompok ini di dalam buku 
+tugas!
+1. Tugas Mandiri
+a. Perangkat Lunak Berbasis Vektor 
+Dengan menggunakan shape baku dan fitur 
+shaping  atau Pathfinder  yang terdapat pada 
+perangkat lunak berbasis vektor, silakan kamu 
+praktikkan membuat karakter seperti gambar 
+di bawah ini. Sebelum memulai, awali dengan 
+berdoa terlebih dahulu dan mempersiapkan 
+peralatan yang akan digunakan.
+Asesmen
+Gambar 3.90 Karakter Indonesia
+Sumber: Maylinda Ambarwati (2022)
+<<<HAL 154>>>
+140                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+b. Perangkat Lunak Berbasis Bitmap 
+Buatlah poster bertemakan “Gizi Seimbang” 
+dengan cara menggabungkan beberapa gambar/
+foto bitmap dengan ketentuan sebagai berikut.
+•  Cari referensi dari internet tentang gizi 
+seimbang.
+  Poster dibuat menggunakan Perangkat lunak 
+berbasis bitmap.
+  Ukuran poster A3.
+•  Jumlah gambar/foto yang digabungkan mi -
+nimum lima gambar/foto.
+•  Gambar/foto boleh mengambil dari internet.
+2. Tugas Kelompok
+Buatlah kelompok yang terdiri atas 4–5 orang. 
+Kemudian buatlah desain kemasan sebuah pro-
+duk pada aplikasi CorelDRAW sekreatif mungkin. 
+Cetaklah atau print desain tersebut pada kertas 
+art carton dengan tebal 260 gsm. Buatlah dumi 
+(cetak coba) kemasan tersebut.
+Alat dan Bahan:
+ Kertas art carton 260 gsm
+<<<HAL 155>>>
+Bab 3   Komputer Graii                  141
+Uji Kompetensi
+Jawablah pertanyaan di bawah ini dengan tepat dan kerjakan 
+di dalam buku tugas!
+1. Komputer grafis menjadi salah satu hal yang sangat diperlukan. 
+Misalnya saja pada dunia perfilman, desain grafis, bahkan 
+dunia game. Jelaskan pengertian dari komputer grafis!
+2. Bagaimanakah kualitas gambar agar tetap baik tanpa 
+bergantung pada vektor?
+3. Jelaskan perbedaan yang terdapat pada gambar vektor dan 
+bitmap!
+4. Format yang digunakan pada penyimpanan gambar vektor, 
+antara lain Ai (Adobe Illustrator), CDR (CorelDRAW), dan CMX 
+(Corel Exchange). Jelaskan kelebihan dari gambar vektor!
+5. Tuliskan karya yang dapat dihasilkan dari program 
+berbasis vektor!
+6. Jelaskan mengapa space penyimpanan vektor lebih kecil 
+dengan kualitas gambar tetap baik apabila dibandingkan 
+dengan gambar bitmap!
+7. Untuk memperhalus hasil pembuatan vektor atau bitmap 
+terdapat raster. Apa yang dimaksud dengan raster?
+8. Apakah objek gambar yang terdapat di program vektor dapat 
+diedit atau diolah kembali di program bitmap?
+9. Dalam desain grafis, ada yang disebut dengan sistem 
+pewarnaan CMYK dan RGB. Tuliskan hasil desain grafis yang 
+memanfaatkan sistem pewarnaan CMYK!
+10. Mengapa pada desain web dan desain media interaktif terjadi 
+perbedaan warna apabila dilakukan pencetakan menggunakan 
+inkjet printer?
+Uji Kompetensi
+<<<HAL 156>>>
+142                Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2
+Pengayaan
+Pindai kode QR di bawah ini menggunakan Scan QR pada smartp-
+hone-mu, atau langsung ketikkan alamat tautan ke dalam browser 
+untuk menambah wawasan kamu tentang komputer grafis dan 
+penggunaan perangkat lunak berbasis bitmap dan vektor dalam 
+perancangan dan proses produksi dalam eksekusi kerja Desain 
+Komunikasi Visual!         
+                                                            
+Releksi
+Setelah mempelajari materi tentang komputer grafis, kamu diha-
+rapkan dapat memahami jenis perangkat lunak berbasis bitmap 
+dan vektor serta dapat menggunakannya dalam perancangan dan 
+proses produksi dalam eksekusi kerja Desain Komunikasi Visual.
+Pengayaan
+Refleksi
+https://youtu.be/9TPmAKfJU54 https://youtu.be/V3jcLQZV31U 
+<<<HAL 157>>>
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET , DAN TEKNOLOGI  
+REPUBLIK INDONESIA, 2022
+Dasar-Dasar Desain Komunikasi Visual 
+untuk SMK/MAK Kelas X Semester 2 
+Penulis :  Maylinda Ambarwati dan Dwi Kurnia Kuswahyuni 
+ISBN :  978-602-427-884-7 
+  978-623-388-032-9 (PDF)
+Latihan Soal 
+Semester 2
+<<<HAL 158>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2144
+1. Seni yang digunakan untuk membuat desain, khususnya pada desain 
+publikasi dengan menggunakan huruf cetak disebut dengan ....
+A. gambar
+B. tipografi
+C. fotografi
+D. seni lukis
+E. sketsa
+2. Salah satu fungsi tipografi dalam perancangan dan proses produksi 
+DKV ialah kemudahan untuk membaca. Maksud dari kemudahan 
+membaca adalah ....
+A. memilih jenis font atau huruf yang baik
+B. memiliki kesan estetis
+C. adanya warna yang kontras
+D. adanya warna yang mencolok
+E. memilih jenis font yang rumit
+3. Garis maya yang mendatar (horizontal) sebagai garis dasar untuk 
+menempatkan huruf-huruf dalam posisi sejajar dan merupakan 
+batas dari bagian terbawah pada huruf besar dan badan huruf kecil 
+(tanpa ascender/descender) disebut dengan ....
+A. stem
+B. ascender
+C. descender
+D. baseline
+E. upper
+4. Jenis huruf ini terlihat lebih rapi dan tersusun, maka dapat menarik 
+perhatian (eye-catching) dan terkesan elegan. Namun, huruf ini tidak 
+pas apabila digunakan untuk penulisan isi teks karena terlihat sangat 
+menonjol. Jenis huruf tersebut adalah ....
+A. Modern Style
+B. Oldstyle
+C. Slab Serif
+D. Sans Serif
+E. Bodoni
+Soal-Soal
+<<<HAL 159>>>
+Latihan Soal Semester 2 145
+5. Pengaturan spasi baris memiliki dua tujuan, yaitu readability (mudah 
+dibaca) dan estetis (keindahan). Pengaturan spasi baris disebut dengan 
+....
+A. leading
+B. kerning
+C. tracking
+D. stem
+E. tipografi
+6. Prinsip tipografi  merupakan aturan dasar yang harus selalu diper -
+hatikan dalam membuat perancangan dan proses produksi dalam 
+eksekusi kerja DKV. Salah satunya adalah prinsip readability. Arti 
+dari readability adalah .
+A. kemudahaan dalam mengenali huruf
+B. ukuran atau tingkat keterbacaan suatu teks atau sebuah tulisan
+C. jarak pandang antara seorang pembaca dengan objek yang dibaca
+D. jenis huruf yang terlihat lebih rapi dan tersusun
+E. jarak mata antara seorang pembaca dengan objek yang dibaca
+7. Ilmu yang mempelajari tentang cara menghasilkan gambar dari 
+suatu objek dengan merekam pantulan cahaya yang mengenai objek 
+tersebut pada media yang peka cahaya adalah .
+A. tipografi
+B. ilustrasi
+C. fotografi
+D. kaligrafi
+E. videografi
+8. Dalam mempelajari ilmu fotografi, terdapat beberapa jenis fotografi, 
+antara lain fotografi alam dan fotografi olahraga. Jenis fotografi yang 
+memiliki kecenderungan untuk melihat-lihat pemandangan alam 
+yang indah disebut dengan .
+A. landscape photography
+B. aerial photography
+C. sport photography
+D. portrait photography
+E. wildlife photography
+<<<HAL 160>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2146
+9. Jenis fotografi yang menekankan pada objek wajah manusia, me -
+nitikberatkan pada mimik wajah seseorang merupakan salah satu 
+jenis fotografi yang disebut dengan .
+A. jurnalistik
+B. wildlife
+C. portrait
+D. food
+E. sport 
+10. Perkembangan teknologi berpengaruh pada kehidupan masyarakat. 
+Dengan semakin canggihnya teknologi, banyak menciptakan alat-
+alat yang dapat membantu mempermudah sistem kerja manusia.  
+Termasuk dengan perkembangan kamera digital. Kamera digital 
+diketahui mengalami beberapa kali perkembangan. Berikut meru -
+pakan jenis-jenis kamera digital, kecuali ....
+A. polaroid
+B. beautyplus
+C. DSLR
+D. mirrorless
+E. pocket camera
+11. Kamera digital diketahui mengalami beberapa kali perkembangan. 
+Jenis dan fungsi kamera pun semakin modern sesuai dengan kebu-
+tuhan manusia. Jenis kamera yang digunakan oleh kebanyakan anak 
+muda yang memiliki hobi jalan-jalan dan menikmati alam, serta 
+praktis digunakan dikarenakan ringan dan simpel, merupakan ciri 
+dari kamera ....
+A. polaroid
+B. beautyplus
+C. DSLR
+D. mirrorless
+E. pocket camera
+12. Perangkat tambahan pada kamera digital yang berfungsi untuk 
+menyimpan data hasil pemotretan yang berada dalam badan kamera 
+disebut dengan ....
+A. memori
+B. baterai
+C. strap
+D. trigger
+E. tripod
+<<<HAL 161>>>
+Latihan Soal Semester 2 147
+13. Food photography merupakan teknik fotografi dengan cara memper-
+cantik tampilan produk makanan agar menarik perhatian pembeli. 
+Berikut langkah-langkah dalam menunjang food photography, kecuali....
+A. menambah aksen pada produk
+B. memberi toping sesuai dengan produk
+C. mengatur pencahayaan
+D. mengatur tata letak produk
+E. menambahkan rasa pada produk
+14. Kamera dengan badan terpisah dengan lensa, memiliki ukuran lebih 
+besar dan berat, serta dapat dipasang lensa dengan zooming lebih 
+jauh disebut dengan .
+A. polaroid camera
+B. pocket camera
+C. smartphone camera
+D. action camera
+E. DSLR camera
+15. Sebuah foto bunga matahari yang difoto seluruh bagian mahkota 
+bunga, meletakkan objek dan membagi bidang foto sama rata kanan 
+dan kiri, disebut dengan fotografi menggunakan komposisi .
+A. rule of third
+B. simetris
+C. framing
+D. tekstur
+E. warna
+16. Dalam pembelajaran fotografi, kita mengenal perangkat yang berkaitan 
+dengan kamera dan alat penunjang lainnya. Berikut merupakan 
+perangkat yang terdapat pada kamera DSLR, kecuali ....
+A. tripod
+B. lensa
+C. on-off power
+D. menu
+E. viewer
+<<<HAL 162>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2148
+17. Suatu jenis image yang disusun piksel-piksel dan ketika diperbesar, 
+kualitas gambar akan rusak dan bersifat resolution dependent, me-
+rupakan grafis dengan basis .
+A. vektor
+B. tiff
+C. jpeg
+D. bitmap
+E. piksel
+18. Pengenalan menu dan tools yang ada di dalam kamera digital pen-
+ting agar memudahkan dalam penggunaan kamera. Dalam kamera 
+digital, terdapat tombol yang digunakan untuk pengaturan terang 
+dan gelapnya cahaya yang masuk. Tombol tersebut adalah ....
+A. tombol on-off
+B. tombol viewer
+C. tombol play
+D. tombol ISO
+E. tombol menu
+19. Dalam mempelajari fotografi, tidak terlepas dengan istilah ISO, speed, 
+dan aperture. Fungsi ISO pada kamera digital ialah mengatur ....
+A. cahaya yang terang
+B. temperatur warna
+C. tingkat sensitivitas cahaya
+D. keluar masuknya cahaya
+E. cahaya yang dihasilkan
+20. Pada kamera digital terdapat banyak perangkat dan bagian yang 
+wajib kita ketahui nama dan fungsinya. Bagian kamera yang tidak 
+boleh disentuh oleh tangan adalah .
+A. badan kamera
+B. lensa kamera
+C. baterai kamera
+D. memori kamera
+E. shutter 
+<<<HAL 163>>>
+Latihan Soal Semester 2 149
+21. Teknik pengambilan gambar pada fotografi ialah cara menggerakkan 
+kamera sesuai dengan kebutuhan. Efek yang dihasilkan dengan cara 
+mengatur jarak jauh dan dekat pada teknik pengambilan gambar 
+disebut ....
+A. titling
+B. zoom in/zoom out
+C. blur
+D. close up
+E. bokeh
+22. Dalam fotografi, fotografer diharapkan mampu mencari sudut pan-
+dang yang berbeda sama sekali dari cara orang biasanya melihat. 
+Jadi, fotografer harus mampu melihat sesuatu yang tidak dilihat 
+oleh orang lain. Hal tersebut disebut dengan .
+A. point of interest
+B. penekanan
+C. cahaya
+D. sudut pandang
+E. angle foto
+23. Perhatikan gambar di bawah ini!
+
+<<<HAL 164>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2150
+ Fotografer dalam mengambil gambar atau objek utama sedikit lebih 
+dekat lagi dari medium long shot. Sementara tampilan objek utama ma-
+sih terlihat sama, yaitu setengah badan sampai atas kepala. Penjelasan 
+tersebut termasuk dalam jenis medium shot. Nomor berapakah yang 
+sesuai dengan jenis medium shot?
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5
+24. Seperti arti dari fotografi itu sendiri, yaitu melukis dengan cahaya. 
+Cahaya dapat membentuk karakter pada sebuah foto. Dengan cahaya, 
+dapat menentukan apakah sebuah foto baik atau tidak. Proses pen-
+cahayaan yang terjadi dalam badan kamera disebut proses exposure. 
+Adapun proses yang terjadi di luar badan kamera disebut .
+A. aperture
+B. exposure
+C. light
+D. lighting
+E. prinsip fotografi
+25. Tombol ini digunakan untuk memutarkan gambar yang sudah di -
+tangkap. Dengan menekan tombol ini satu kali, akan menampilkan 
+gambar terakhir yang ditangkap atau ditunjukkan pada monitor 
+LCD. Tombol ini disebut dengan .
+A. ISO
+B. on/off
+C. viewer
+D. playback
+E. menu
+26. Usaha menyusun, menata, dan memadukan unsur-unsur komunikasi 
+grafis (teks, gambar, warna, dan lain-lain) menjadi media komuni -
+kasi yang komunikatif, estetis, persuasif, menarik, dan mendukung 
+pencapaian tujuan secara cepat dan tepat dikenal dengan istilah .
+A. desain
+B. layout
+C. gambar
+D. tata grafis
+E. komposisi
+<<<HAL 165>>>
+Latihan Soal Semester 2 151
+27. Layer merupakan salah satu bagian terpenting dalam photoshop yang 
+sangat membantu dalam pengolahan gambar. Fungsi layer adalah ....
+A. membuat dokumen baru
+B. tempat meletakkan objek tertentu
+C. menggabungkan beberapa gambar menjadi satu gambar
+D. tempat membuat proyek baru
+E. tempat menyimpan gambar
+28. Tool pada Adobe Photoshop yang digunakan untuk memotong atau 
+membuang bagian dari bingkai objek atau image canvas yang tidak 
+terpakai adalah ....
+A. Crop Tool
+B. Polygonal Lasso Tool
+C. Magnetic Lasso Tool
+D. Rectangular Marquee Tool
+E. Marquee Tool
+29. Pada aplikasi Photoshop, tool yang mengatur tingkat kecerahan warna 
+dapat dilakukan dari menu berikut, yaitu .
+A. Duotone
+B. Selective color
+C. Brightness/Contrast
+D. Replace color
+E. Brush
+30. Suatu jenis image yang disusun oleh piksel-piksel dan ketika diper-
+besar, kualitas gambar akan rusak dan bersifat resolution dependent, 
+merupakan grafis dengan basis .
+A. vektor
+B. tiff
+C. jpeg
+D. bitmap
+E. piksel
+<<<HAL 166>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2152
+31. Perhatikan gambar di bawah ini!
+Pada CorelDRAW, untuk memotong objek pertama (1) agar menjadi 
+seperti objek yang kedua (2), menggunakan fungsi .
+A. Cut
+B. Weld
+C. Boundary
+D. Minus
+E. Trim
+32. Perhatikan gambar di bawah ini!
+Fungsi ikon yang digunakan untuk menyatukan dua objek yang 
+berpotongan seperti contoh gambar di atas adalah .
+A. Screen shoot
+B. Capture
+C. Interest
+D. Weld
+E. Trim 
+33. Fungsi tombol Pick (selection tool) di bawah ini adalah . 
+
+<<<HAL 167>>>
+Latihan Soal Semester 2 153
+A. memilih atau menyeleksi dan mengatur ukuran serta memutar 
+objek 
+B. memperbesar objek
+C. memperkecil objek
+D. menghapus objek
+E. menggandakan objek
+34. Perhatikan gambar di bawah ini!
+ Tampilan berupa lembar kerja desain yang akan dikerjakan dengan 
+ukuran kertas yang sudah direncanakan ( portrait atau landscape) 
+disebut dengan .
+A. Ruler 
+B. Toolbox
+C. Page area
+D. Menu bar
+E. Status bar
+35. Berikut tool di Adobe Illustrator yang dapat membuat segitiga ataupun 
+shape dengan banyak sisi adalah .
+A. Polygon Tool
+B. Ellipse Tool
+C. Rounded Rectangle Tool
+D. Rectangle Tool 
+E. Status bar
+<<<HAL 168>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2154
+36. Tool pada Photoshop yang digunakan untuk memotong objek ber -
+bentuk elips seperti gambar yang ada di bawah ini adalah ....
+A. Lasso Tool
+B. Ellipse Tool
+C. Rounded Rectangle Tool
+D. Rectangle Tool 
+E. Status bar
+37. Perhatikan gambar di bawah ini!
+ Healing Brush Tool berfungsi untuk .
+A. menyeleksi dengan cepat sesuai bentuk objek
+B. menggambar objek dengan bentuk persegi empat atau kotak
+C. menghilangkan atau mengubah bagian tertentu pada objek 
+berdasarkan area sampel yang dipilih 
+D. menggambar objek dengan bentuk lingkaran atau oval
+E. memotong objek dengan bentuk persegi atau persegi panjang 
+yang ukurannya dapat diatur
+<<<HAL 169>>>
+Latihan Soal Semester 2 155
+38. Kotak peralatan yang berisi kumpulan tools yang memiliki fungsi 
+untuk membuat dan memodifikasi objek atau desain disebut .
+A. Lasso Tool
+B. Color Palette
+C. Toolbox
+D. Ruler 
+E. Status bar
+39. Perhatikan gambar di bawah ini!
+ Fitur ini menggabungkan beberapa objek menjadi satu dan menghi -
+langkan irisan atau potongan antarobjek tersebut. Warna akhir akan 
+mengikuti warna objek yang pertama yang dipilih. Fitur ini disebut 
+dengan .
+A. Combine
+B. Weld
+C. Trim
+D. Intersect
+E. Status bar
+<<<HAL 170>>>
+Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK Kelas X Semester 2156
+40. Perhatikan gambar di bawah ini!
+ Fitur ini membuat objek yang saling tumpang-tindih. Bagian bela -
+kangnya akan tetap ada, tetapi terpotong objek yang ada di depannya 
+dan objek yang di depannya akan hilang. Fitur ini disebut dengan .
+A. Combine
+B. Simplify 
+C. Create Boundary
+D. Intersect
+E. Back Minus Front
+<<<HAL 171>>>
+157
+bezier salah satu tool yang dapat digunakan untuk membuat 
+kurva.
+billboard papan reklame atau baliho, yaitu salah satu media 
+luar ruang yang memiliki tujuan menyampaikan 
+pesan mengenai suatu produk atau jasa, bahkan indi-
+vidu-individu yang ingin mendongkrak popularitas.  
+copy writing teknik penulisan yang tepat untuk mengajak orang 
+membeli produk.
+display type jenis huruf tampilan, yaitu jenis huruf dengan 
+ukuran besar yang digunakan pada judul, bukan 
+untuk bagian teks isi yang diperpanjang.
+dots per inch jumlah titik atau piksel yang membentuk gambar. 
+eye-catchy menarik perhatian
+font kumpulan lengkap berbagai macam huruf, angka, 
+simbol, dan tanda baca dengan ukuran dan karakter 
+tertentu.
+grid sistem yang mengatur tata letak gambar yang dapat 
+bermanfaat dalam pembuatan buku, majalah, dan 
+web.
+header teks yang dipisahkan dari teks isi dan muncul di 
+bagian atas halaman yang dicetak.
+headline judul besar dari suatu karya, baik itu iklan, berita, 
+maupun artikel.
+live view itur yang memungkinkan kalian memveriikasi 
+gambar yang diproyeksikan pada monitor LCD 
+belakang saat membidik objek gambar.
+mask objek yang menutupi objek lain atau gambar.
+Glosarium
+<<<HAL 172>>>
+158
+mouse alat/perangkat yang digunakan untuk mengatur 
+perpindahan kursor secara cepat atau digunakan 
+untuk memberikan perintah secara praktis dan cepat.
+nilai luminansi suatu ukuran dari cahaya yang jatuh pada sebuah 
+bidang permukaan.
+objek gambar benda, tumbuhan, pemandangan alam, atau yang 
+lainnya yang akan direkam dan diubah menjadi 
+bentuk foto.
+opacity berfungsi untuk memberikan efek transparan pada 
+sebagian atau keseluruhan objek.
+pointer sebuah variabel khusus berisi alamat memori, yang 
+nantinya dapat mengakses data yang ada di suatu 
+alamat memori.
+rana tirai pada kamera yang menutupi permukaan atau 
+sensor foto.
+software perangkat atau peranti lunak, istilah khusus untuk 
+data yang diformat dan disimpan secara digital, 
+termasuk program komputer, dokumentasinya, serta 
+berbagai informasi yang dapat dibaca dan ditulis 
+oleh komputer. 
+subheadline lanjutan keterangan dari headline yang menjelaskan 
+makna atau arti dari headline.
+subjek gambar manusia atau hewan yang akan direkam dan diubah 
+menjadi bentuk foto.
+text-heavy huruf tebal dan terkesan besar, seperti untuk membuat 
+teks headline dan subheadline.
+vertical grip aksesori berbentuk genggaman yang menyimpan 
+beberapa baterai, menambah jumlah baterai yang 
+dapat digunakan dalam kamera.
+x-height salah satu faktor penting bagi legibility (keterbacaan), 
+yaitu kemudahan suatu huruf dikenali secara visual.
+<<<HAL 173>>>
+159
+Daftar Pustaka
+Anggawirya, Erhans.  Desain Grais dengan CorelDraw 12 . Jakarta: Ercontara 
+Rajawali, 2004.
+Handoko, Priyo. Produk Kreatif dan Kewirausahaan SMK/MAK Kelas XI. Jakarta: 
+Bumi Aksara, 2019.
+Kolari, Jukka, dan Peter Forsgard. Foto yang Lebih Baik dengan Canon EOS DSLR. 
+Disunting oleh Efortium. Singapura: Habakuk Books Oy, 2013.
+Kusmana, Dody. Produk Kreatif dan Kewirausahaan SMK/MAK Kelas XI Cetakan 
+ke-2. Bogor: Yudhistira, 2019.
+Kusrianto, Adi. Pengantar Desain Komunikasi Visua l. Yogyakarta: Andi Ofset, 
+2007.
+Mulyanta, Edi S. Teknik Modern Fotograi Digital. Yogyakarta: Andi, 2007.
+Patria, Asidigistianti Surya, dan Nova Kristiana. Tipograi. Klaten: Lakeisha, 2022.
+Supriyono, Rakhmat. Desain Komunikasi Visual Teori dan Aplikasinya. Yogyakarta: 
+Andi Ofset, 2010.
+Yulianto. Buku Sakti Kuasai Desain Grais. Yogyakarta: Start Up, 2018. 
+<<<HAL 174>>>
+160
+Indeks
+A
+Adobe
+Illustrator  x, 86, 88, 98, 99, 
+100, 102, 103, 130, 133, 
+145
+Photoshop  x, 70, 84, 88, 103, 
+110, 111, 112, 130, 143
+AIDA  5, 24, 27
+aperture  36, 47, 48, 49, 51, 76, 140, 
+142
+ascender  8, 9, 20, 136
+B
+baliho  4, 149
+Baskerville, John  13
+billboard  4, 149
+bitmap  82, 84, 85, 86, 87, 98, 130, 
+133, 134, 140, 143
+C
+Caslon, William  15, 27
+Color Palette  147
+CorelDRAW  ix , x, 86, 88, 89, 90 , 
+94, 95, 105, 111, 116, 118, 124, 
+127, 130, 132, 133, 144
+cropping  ix
+D
+desain  1, 3, 4, 5, 7, 8, 16, 23, 24, 25, 
+26, 29, 81, 82, 83, 84, 85, 88, 
+89, 91, 92, 93, 94, 95, 98, 101, 
+102, 103, 110, 116, 118, 119, 
+123, 124, 125, 126, 127, 130, 
+132, 133, 136, 142, 145, 147, 
+151, 157
+grais  1 , 16, 83, 84, 88, 98 , 
+110, 130, 133
+Desain Komunikasi Visual  155
+descender  8, 9, 20, 136
+Didot  14
+digital  5, 30, 32, 33, 34, 70, 76, 78, 
+79, 84, 85, 130, 138, 140, 150, 
+157
+DKV  155
+F
+fotograi  xiii, 29, 30, 31, 32, 36, 37, 
+47, 50, 53, 54, 56, 57, 58, 60, 61, 
+69, 76, 77, 78, 79, 80, 81, 136, 
+137, 138, 139, 140, 141, 142
+G
+Grotesque  15, 27
+<<<HAL 175>>>
+161
+H
+histogram  72
+I
+ilustrasi  v, xiii, 43, 44, 98, 112, 137
+ISO  45, 47, 49, 50, 75, 76, 140, 142
+K
+kamera
+bridge  34, 76
+digital saku  76
+DSLR  34 , 35, 36, 37, 38, 40, 
+47, 48, 49, 50, 51, 52, 69, 
+74, 76, 77, 79, 80, 139
+mikro  76
+mirrorless  76
+smartphone  33, 36, 69, 76
+kartu nama  127, 129
+kerning  2, 11, 20, 22, 23, 28, 137
+komputer grais  xiii , 83, 84, 133, 
+134
+kreatif  5, 42
+L
+leading  vi, 20, 28, 137
+legibility  11, 12, 13, 24, 27
+lightmeter  51, 52, 72
+Live View  36, 44, 45, 51
+logo  22, 23, 85, 110, 118, 119, 123, 
+129
+M
+Manutius, Aldus  13
+MFT  35
+Modern Style  viii, 14, 136
+mug  116, 117
+N
+noise  ix, 49, 75, 77
+O
+Oldstyle  viii, 13, 15, 136
+Opacity Mask  103
+outline  85, 91, 98, 108, 130
+P
+packaging  xi, 5, 26, 124, 125, 126
+piksel  84, 119, 130, 140, 143, 149
+R
+rana  39, 40, 47, 48, 49, 51, 52, 76, 
+150
+readability  12, 13, 20, 24, 26, 137
+red-eye  39
+S
+Sala, Angelo  32
+Sans Serif  15, 24, 27, 136
+segitiga exposure  47, 49, 76
+Slab Serif  viii, 14, 15, 136
+stroke  14, 16, 85, 102, 103, 130
+<<<HAL 176>>>
+162
+T
+teknologi  iii, 32, 34, 35, 79, 83, 138
+tipograi  xiii , 2, 3, 5, 7, 8, 11, 13, 
+22, 24, 25, 26, 27, 28, 85, 98, 
+110, 136, 137
+toolbar  90, 112, 119
+toolbox  93, 100, 111, 121
+tracking  2, 23, 28, 98, 137
+V
+vektor  ix, 82, 84, 85, 86, 87, 88, 98, 
+109, 110, 124, 130, 131, 133, 
+134, 140, 143
+vertical grip  36, 150
+viewinder  34, 35, 36, 40, 43, 44, 51
+visibility  12, 13, 24
+visual  v, 3, 5, 8, 10, 21, 24, 29, 81, 
+88, 89, 151
+<<<HAL 177>>>
+163
+Profil Pelaku Perbukuan
+Proil Penulis
+Nama Lengkap  : Maylinda Ambarwati, S.Pd.
+Email : maylindaa26@gmail.com
+Instansi : SMK Batik 1 Surakarta
+Alamat Instansi : Jl. Slamet Riyadi, Kleco, Surakarta
+Bidang Keahlian : Desain Komunikasi Visual
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+1. Guru DKV SMK Batik 1 Surakarta (2015sekarang)
+2. Guru Seni Budaya SMA Negeri 8 Surakarta (20172018)
+3. Guru Seni Budaya SMA Keperawatan Avista Surakarta (20152016)
+4. Guru Ekstra Gambar SD Karangasem I Surakarta (20142019)
+5. Guru Ekstra Gambar SD Mangkubumen Lor Surakarta (20132016)
+6. Guru Ekstra Gambar SD Sabranglor Surakarta (20132015)
+Riwayat Pendidikan dan Tahun Belajar
+1. S-1 Pendidikan Seni Rupa FKIP Universitas Sebelas Maret Surakarta (2013)
+Judul Buku dan Tahun Terbit (10 Tahun Terakhir)
+1. Dasar-Dasar Desain Komunikasi Visual untuk SMK/
+MAK Kelas X Semester 1, Kemdikbudristek (2022)
+2. Videograi Jilid I SMK DKV (2019)
+3. Seni Kriya SD Kelas III (2016)
+<<<HAL 178>>>
+164
+Proil Penulis 
+Nama Lengkap  : Dwi Kurnia Kuswahyuni, S.T., M.Kom.
+Email  :  dwi.kurnia.k@gmail.com
+Instansi  :  SMKN 1 Cibinong 
+Alamat Instansi   : Jl. Karadenan No. 7, Karadenan, 
+  Cibinong, Bogor, Jawa Barat 16111 
+Bidang Keahlian   : Multimedia
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+1. Guru SMKN 1 Cibinong (2000sekaran g)
+2. Guru SMAN Kawalu Tasikmalaya ( 19952000) 
+3. Guru SMAN Manonjaya (19961999) 
+4. Pengajar Bimbel Primagama Cabang Tasikmalaya (19951997) 
+Riwayat Pendidikan dan Tahun Belajar 
+1. S-2 Magister Komputer, Program Studi Teknik Informatika, STIMIK ERESHA (2014)
+2. Akta IV Fakultas  Keguruan dan Ilmu Pendidikan Universitas Terbuka (1999)
+3. S-1 Teknik Informatika Fakultas Teknik UNINUS Bandung (1998) 
+Judul Buku dan Tahun Terbit (10 Tahun Terakhir)
+1. Teknik Pengolahan Audio dan Video pada Pembuatan Video Promosi 
+Pariwisata, Direktorat Pembinaan SMK Kemdikbud (2019)
+2. Desain Grais Percetakan Kelas XI Semester 3, Dinas 
+Pendidikan Provinsi Jawa Barat (2018) 
+Informasi Lain
+1. 3D Animation dan Digital Video Fundamental di 
+Digital Studio Workshop Jakarta (2005)
+2. Pernah mengikuti Training Multimedia Contents 
+Development di Korea Selatan (2003)
+
+<<<HAL 179>>>
+165
+Proil Penelaah
+Nama Lengkap  : Abi Senoprabowo, S.Sn., M.Ds.
+Email  :  abiseno.p@dsn.dinus.ac.id
+Instansi  :  Universitas Dian Nuswantoro Semarang 
+Alamat Instansi   : Jl. Imam Bonjol No. 207 Semarang
+Bidang Keahlian   : Desain Komunikasi Visual
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+1. Reviewer Jurnal Mavib
+2. Redaksi & Editor Jurnal Andharupa 
+3. Founder CV Glugu Creative Media 
+4. Dosen Program Studi DKV Universitas Dian Nuswantoro Semarang
+Riwayat Pendidikan dan Tahun Belajar 
+1. Prodi Magister Desain, Institut Teknologi Bandung (20112013)
+2. Prodi Desain Komunikasi Visual, Universitas Dian 
+Nuswantoro Semarang (20072011)
+Judul Penelitian dan Tahun Terbit (10 Tahun Terakhir)
+1. Perancangan Desain Motif Batik Kontemporer Pekalongan guna 
+Memperkaya Motif Batik Berdasarkan Ornamen Logo Kota Pekalongan- 
+Vol.4/No.2/2021  Aksa: Jurnal Desain Komunikasi Visual
+2. Analisis Perubahan Trend Iklan Gojek Versi Video Animasi dalam Sudut 
+Pandang Media Dependency - Vol.2/No.1/2021 - Jurnal Amarasi
+3. Pengembangan Desain Karakter Komik Warak Ngendog Berbasis Nilai-
+Nilai Kearifan Lokal - Vol.4/No.2/2021 - Jurnal Bahasa Rupa
+4. Rekomendasi Desain User Interface pada Website Lapor Hendi untuk 
+Meningkatkan User Experience Pengguna - Vol.5/No.2/2020 - Jurnal Demandia
+5. Inovasi Ornamen Masjid Agung Demak untuk Motif Batik Kontemporer 
+Khas Demak - Vol. 23/No.2/2020 - Ars: Jurnal Seni Rupa dan Desain
+6. Desain Grais untuk Meningkatkan Nilai Kaligrai pada Santri dan  
+Pengurus Pondok Pesantren Al-Hadi Kabupaten Demak - Vol.3/No.4/2019 -  
+International Journal of Community Service Learning (IJCSL)
+7. Perancangan Ruang Pamer Digital dalam Media Virtual Reality sebagai Upaya 
+Menyediakan Ruang Pamer Interaktif - Vol.1/No.1/2019 - Jurnal Gestalt
+8. Model Tranformasi Mainan Warak Ngendog sebagai Upaya Pelestarian Budaya 
+Mainan Tradisional Kota Semarang - Vol.4/No.2/2018 - Jurnal Andharupa
+9. Visualisasi Lirik Lagu lir-Ilir untuk Anak-Anak Berbasis Metode 
+Double Diamond - Vol.2/No.2/2021 - Jurnal Sendikraf
+10. Pengembangan Custom Made Signage sebagai Sarana Informasi dalam Struktur 
+Desain Sistem Tanda di Pasar Jrakah Semarang - Vol.7/No.2/2014 - Jurnal Dekave 
+
+<<<HAL 180>>>
+166
+Proil Penelaah 
+Nama Lengkap  : Muh Ariffudin Islam, S.Sn., M.Sn.
+Email : muhariffudin@unesa.ac.id
+Instansi : Program Studi Desain Komunikasi Visual 
+(DKV) Universitas Negeri Surabaya
+Alamat Instansi : Prodi DKV, Gedung T14 lantai 2, FBS 
+Kampus Unesa Lidah Wetan, 
+Universitas Negeri Surabaya, 60213
+Bidang Keahlian : Desain Identitas Visual, Visual Branding, Promosi 
+Digital, Kajian Budaya, dan Sosiologi Desain
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+1. Dosen Jurusan Desain, Prodi DKV, Universitas Negeri Surabaya (2015sekarang) 
+2. Dosen Prodi DKV, Universitas Dian Nuswantoro (20072015)
+Riwayat Pendidikan dan Tahun Belajar:
+1. S-2 Penciptaan dan Pengkajian Seni, Insititut Seni 
+Indonesia (ISI) Surakarta (20102013)
+2. S-1 Desain Komunikasi Visual, Universitas Negeri Malang (UM) (20012007)
+Judul Buku dan Tahun Terbit (10 Tahun Terakhir)
+1. Animasi 2D & 3D untuk Mahasiswa Desain Grais (2017)
+Judul Penelitian dan Tahun Terbit (10 Tahun Terakhir)
+1. Batik Ciprat  Branding Development by Rumah Kinasih Difable, No.618//2021, 
+International Joint Conference on Arts and Humanities (IJCAH 2021), Atlantis Press
+2. Budaya Media Sosial, Edukasi Masyarakat, dan Pandemi 
+COVID-19, Vol.7, No.5 (2020), pp. 394-407, SALAM; Jurnal Sosial 
+& Budaya Syar-i, FSH UIN Syarif Hidayatullah Jakarta
+3. Konsistensi Identitas Visual: Kajian Visual Branding Media 
+Publikasi Borobudur, Vol. 2, No.2, Tahun 2018, JESKOVSIA 
+(Jurnal Desain Komunikasi Visual Asia) STMIK ASIA
+4. Pengembangan  Custom Made Signage sebagai Sarana Informasi 
+dalam Struktur Desain Sistem Tanda di Pasar Jrakah Semarang, Vol.7 
+No.2, Juli-Desember 2015, Jurnal DEKAVE, ISI Yogyakarta.
+Informasi Lain
+1. Sebagai anggota aktif Asosiasi Pendidik Seni Indonesia (APSI) (2019sekarang)
+2. Alamat Google Scholar: https://scholar.google.com/citations?user=lSvyqr8AAAAJ
+3. Sebagai reviewer dan editor di beberapa Jurnal Nasional 
+terakreditasi Sinta, aktif dalam menulis artikel penelitian dan 
+pengabdian pada masyarakat, serta memiliki beberapa HKI.
+
+<<<HAL 181>>>
+167
+Proil Editor 
+Nama Lengkap  : Rudi Norman Permana
+Email  :  permana.rudi@gmail.com   
+Bidang Keahlian   : Penyuntingan Naskah
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+1. Editor Lepas Pusat Perbukuan Kemdikbudristek (2021sekarang)
+2. Editor Penerbit B Media (20152021)
+3. Editor Penerbit C Media (20122015)
+Riwayat Pendidikan dan Tahun Belajar 
+S-1 Pendidikan Biologi FPMIPA UPI (20002004)
+Judul Buku yang Pernah Disunting dan Tahun Terbit (10 Tahun Terakhir)
+1. Dasar-Dasar Desain Komunikasi Visual untuk SMK/
+MAK Kelas X Semester 1, Kemdikbudristek (2022)
+2. Buku Panduan Guru Pendidikan Khusus bagi Peserta Didik Disabilitas 
+Rungu disertai Hambatan Intelektual, Kemdikbudristek (2022)
+3. RPAL SD/MI Kelas 4, 5, & 6 (2017)
+4. RPUL SD/MI Kelas 4, 5, & 6 (2017)
+5. Kamus Bergambar 3 Bahasa: Inggris-Indonesia-Arab (2016)
+6. Superpintar Pelajaran SD/MI Kelas 4, 5, & 6 (2016)
+7. Bank Soal Superlengkap Biologi SMA Kelas 1, 2, & 3 (2014)
+8. Mega Bank Soal Biologi & Kimia SMA Kelas 1, 2, & 3 (2013)
+9. Pocket Book Biologi SMA Kelas 1, 2, & 3 (2013)
+<<<HAL 182>>>
+168
+Proil Editor
+Nama Lengkap  : Meylina
+Email : mey2lina@gmail.com
+Instansi :  Pusat Perbukuan, Kemdikbudristek
+Alamat Instansi : Jl. RS Fatmawati Gedung D
+  Komplek Kemdibudristek, Cipete, Jakarta
+Bidang Keahlian :  Pendidikan Anak Usia Dini
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+1. Staf Pusat Perbukuan, Kemdikbudristek, Jakarta (2021sekarang)
+2. Staf Direktorat Pendidikan Anak Usia Dini, Kemdikbudristek, Jakarta (20102021)
+Riwayat Pendidikan dan Tahun Belajar 
+1. S-2 Fakultas Psikologi, Universitas Gadjah Mada, Yogyakarta (20162018)
+2. S-1 PG PAUD, Universitas Negeri Jakarta, Jakarta (20042010)
+3. D-3 Administrasi Niaga, Politeknik Negeri Jakarta, Depok (20002003)
+Judul Buku yang Pernah Diedit dan Tahun Terbit (10 Tahun Terakhir):
+1. Dasar-Dasar Kuliner Semeseter 1 SMK/MAK Kelas X, Kemdikbudristek (2022)
+2. Panduan Penyelenggaraan PAUD Berkualitas, Seri 6Lingkungan Belajar  
+Aman, Kemdikbudristek (2022)
+3. Dasar-Dasar Seni Rupa Semeseter 1 SMK/MAK Kelas X, Kemdikbudristek (2022)
+4. Dasar-Dasar Desain Komunikasi Visual Semester 1 SMK/MAK Kelas X, 
+Kemdikbudristek (2022)
+5. Informatika Semester 1 SMK/MAK Kelas X, Kemdikbudristek (2022)
+6. Buku Panduan Guru Pendidikan Khusus bagi Peserta Didik Disabilitas 
+Netra Disertai Hambatan Intelektual, Kemdikbudristek (2022)
+7. Sosiologi SMA Kelas XI, Kemdikbudristek (2021)
+8. Buku Panduan Guru Sosiologi SMA Kelas XI, Kemdikbudristek (2021)
+<<<HAL 183>>>
+169
+Proil Ilustrator 
+Nama Lengkap  : Arief Firdaus
+Email  : aipirdoz@gmail.com
+Bidang Keahlian   : Art Director, Graphic Designer, Visualizer
+Portofolio : Instagram : aipirdoz
+  Behance : Arief Al Firdausy
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+1. Visualizer & Graphic Designer Freelance (2017sekarang) 
+2. Art Director, AMP TGF Lemonade (20152017)
+3. Art Director, DDB Jakarta (2014)
+4. Jr. Art Director, PT Dwisapta Pratama (20122014)
+Riwayat Pendidikan dan Tahun Belajar 
+Jurusan Desain Komunikasi Visual, Universitas Persada Indonesia YAI (2004)
+Judul Buku yang Pernah Dibuat Ilustrasi dan Tahun Terbit (10 Tahun Terakhir)
+1. Buku Antologi Praktik Baik PAUD From Home, HIMPAUDI (2022)
+2. Buku Siswa & Buku Guru Bahasa Indonesia Tingkat Lanjut 
+Kelas XI dan XII, Pusbuk, Kemdikbudristek (2022)
+3. Buku Panduan Guru Pendidikan Khusus Bagi Peserta Didik dengan 
+Hambatan Intelektual, Pusbuk, Kemdikbudristek (2022)
+4. Komik Rabies, Subdit Zoonosis, Kemenkes (2020)
+5. Komik Jagoan Sungai, Juara Lomba GLN Komik 
+Pembelajaran SD, Kemdikbud (2019)
+6. Buku Aku Anak Indonesia, Aku Suka Makan Ikan, HIMPAUDI (2019)
+7. Buku Bimbim Tidak Mau Mandi, Juara Lomba Konten Kanal PAUD (2019)
+<<<HAL 184>>>
+170
+Proil Desainer 
+Nama Lengkap  : Muhamad Isnaini
+Email  : surat159@gmail.com
+Bidang Keahlian   : Desain Grais dan Web
+Riwayat Pekerjaan/Profesi (10 Tahun Terakhir)
+Freelance
+Riwayat Pendidikan dan Tahun Belajar 
+S-1 Perbankan Islam UIN Syarif Hidayatullah Jakarta
+Judul Buku yang Pernah Didesain dan Tahun Terbit (10 Tahun Terakhir)
+1. Buku Panduan Perempuan Berdaya Mengawasi, Bawaslu RI (2022)
+2. Buku Siswa Dasar-Dasar Desain Komunikasi Visual untuk SMK/MAK  
+Kelas X Semester 1, Kemdikbudristek (2022)
+3. Buku Panduan Guru PPKn Kelas X, XI, dan XII, Puskurbuk (20212022)
+4. Buku PPKn untuk SMA/SMK Kelas X, XI, dan XII, Puskurbuk (20212022)
+5. Buku Panduan Bantuan Hukum Struktural, YLBHI (2022)
+6. Buku Pemiskinan, Perubahan Iklim, dan Pelanggaran 
+Hak Asasi Manusia, YLBHI (2022)
+7. Buku K.H. Ghazali Ahmadi (1945–2021); Biograi Sosial-Intelektual &  
+Kesaksian Sejarah, Islamina (2021) 
+8. Buku Analisa Undang-Undang Cipta Kerja terhadap Perlindungan 
+Masyarakat Adat dan Perempuan di Indonesia, YLBHI (2020)
+9. Buku Islam dan Upaya Desa Membangun, P3M (2019)

@@ -1,0 +1,157 @@
+{
+  "waktu": "2026-10-13T14:47:23.799Z",
+  "basis": "http://localhost:8080",
+  "ringkas": "AUDIT UI/PERAMBAN: 15/15 LULUS",
+  "hasil": [
+    {
+      "no": 1,
+      "area": "A. Login & sesi (peramban)",
+      "fitur": "Login peserta didik: validasi isian, kredensial salah, dan masuk berhasil",
+      "langkah": "Form kosong → kirim; password salah → kirim; kredensial benar → kirim; periksa menu yang tampak",
+      "harapan": "pesan 'Username dan password wajib diisi.'; pesan 'Username atau password salah.'; masuk ke dashboard; menu siswa tampil & menu admin tidak",
+      "aktual": "kosong: pesan validasi=true; salah: pesan=true; masuk=dashboard tampil; menu 'Materi 36 Minggu'=ada; link Administrasi=tidak ada",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 2,
+      "area": "B. Navigasi & hak akses (peramban)",
+      "fitur": "Sembilan menu peserta didik terbuka & halaman guru/admin tertutup bagi siswa",
+      "langkah": "Klik kesembilan menu navigasi siswa satu per satu; lalu buka langsung /admin dan /guru/rekap",
+      "harapan": "semua menu membuka halaman (bukan /login); /admin dan /guru dialihkan ke beranda siswa tanpa isi menu guru/admin",
+      "aktual": "menu: Dashboard=/, Materi 36 Minggu=/materi, Pertemuan (72)=/pertemuan, Laboratorium Simulasi=/simulasi, LKPD & Tugas=/tugas, Asesmen & Penilaian=/asesmen, Rencana Asesmen 36 Minggu=/asesmen/rencana, Rekap Hasil Asesmen=/asesmen/rekap, Portofolio Digital=/portofolio; /admin→/ (ada UI admin=false); /guru/rekap→/ (ada UI guru=false)",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 3,
+      "area": "C. Navigasi guru & tab asesmen",
+      "fitur": "Sepuluh menu guru terbuka dan empat tab 'Asesmen 36 Minggu' menampilkan isi",
+      "langkah": "Klik kesepuluh menu guru; lalu buka /guru/asesmen dan klik tiap tab",
+      "harapan": "tidak ada menu yang kembali ke /login atau beranda siswa; setiap tab menampilkan tabel/daftar",
+      "aktual": "menu: 10/10 terbuka; tab: Rencana & rubrik=terisi (2268 char), Penilaian rubrik=terisi (3566 char), Rekap hasil belajar=terisi (1198 char), Remedial & pengayaan=terisi (763 char)",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 4,
+      "area": "D. Asesmen di layar (siswa)",
+      "fitur": "Kuis dikerjakan lewat antarmuka, dinilai otomatis, pembahasan terbuka, tidak bisa dikirim dua kali",
+      "langkah": "Buka /asesmen/rencana → pilih kuis yang belum dikerjakan → pilih semua opsi → 'Kirim jawaban kuis' → periksa hasil",
+      "harapan": "nilai otomatis tampil, pembahasan terbuka setelah dikirim, dan tombol kirim tidak tersedia lagi",
+      "aktual": "opsi terjawab=6; status dinilai otomatis=true; pembahasan terbuka=true; tombol kirim ulang=hilang (benar); \"Kuis dinilai otomatis: 0/100 (0 dari 2 butir benar). Pembaha\"",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 5,
+      "area": "E. Asesmen di layar (guru)",
+      "fitur": "Guru menilai karya siswa memakai rubrik di layar (slider + konfirmasi + simpan)",
+      "langkah": "Siswa mengumpulkan pekerjaan praktik lewat antarmuka → guru buka tab 'Penilaian rubrik' → pilih minggu 1 & jenis praktik → isi semua skor rubrik → centang konfirmasi → 'Simpan nilai'",
+      "harapan": "nilai tersimpan (pesan sukses) dan baris siswa menampilkan 'dinilai pada …'",
+      "aktual": "minggu uji=2; pengumpulan praktik=Pekerjaan terkumpul. Nilai akan diisi guru memakai rubrik — tidak ada nilai otomatis untuk proses/karya.✕; kartu=\"🛠️ minggu dinilai 0/6 Penilaian praktik minggu 2 — Technopr\"; baris siswa yang dinilai=\"Aditya Pratama terkumpul revisi 0/1 Audi\"; tombol skor rubrik diklik=4; konfirmasi dicentang=true; pesan=Nilai Aditya Pratama tersimpan (rubrik + komentar).✕; baris 'dinilai pada'=1",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 6,
+      "area": "E2. Asesmen di layar (guru)",
+      "fitur": "Tombol 'Minta revisi' dan 'Buka ulang (remedial)' memberi respons nyata",
+      "langkah": "Klik 'Minta revisi' lalu 'Buka ulang (remedial)' pada siswa di tab 'Penilaian rubrik'",
+      "harapan": "kedua tombol menampilkan pesan hasil (berhasil atau penjelasan batas kesempatan revisi) — bukan tombol mati",
+      "aktual": "minta revisi → Permintaan revisi untuk Aditya Pratama dikirim (sisa kesempatan: 1).✕; buka ulang → Aditya Pratama: Pekerjaan dibuka ulang. Siswa dapat mengerjakan ulang; nilai lama diganti setelah penilaian baru. Nilai sebelumnya 100 (tercatat di log sebagai buka_ulang_asesmen).✕",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 7,
+      "area": "F. Validasi form (peramban)",
+      "fitur": "Form tugas & portofolio memberi pesan jelas saat isian belum lengkap",
+      "langkah": "Klik tombol kumpul pada LKPD tanpa mengisi; lalu klik simpan portofolio tanpa judul",
+      "harapan": "muncul pesan kesalahan/penjelasan isian wajib (bukan diam tanpa reaksi)",
+      "aktual": "LKPD: Kerjakan lembar kerja dan kuis; jawaban tersimpan walau menu dikunci guru; portofolio: Judul karya wajib diisi.✕",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 8,
+      "area": "G. Laboratorium simulasi (peramban)",
+      "fitur": "Tujuh laboratorium dapat dioperasikan dan hasilnya tersimpan lewat klik nyata",
+      "langkah": "Untuk tiap lab: buka halaman, selesaikan kriteria tiap tingkat dengan mengubah pengaturan/pilihan, lalu klik 'Kumpulkan hasil tingkat n'",
+      "harapan": "kriteria terpenuhi penuh (n/n) dan server menyimpan hasil ('Hasil tingkat n disimpan')",
+      "aktual": "Tipografi: t1=3/3, t2=4/4, t3 ukuran isi 12px + kontras opsi#1; kriteria terpenuhi 5/5; simpan=\"Hasil tingkat 3 disimpan (5/5). Guru dapat melihatnya di menu Penilaian → Hasil laboratorium.\" | Fotografi: t1=3/4, t2=4/4, t3=4/4; kriteria terpenuhi 4/4; simpan=\"Hasil tingkat 3 disimpan (4/4). Guru dapat melihatnya di menu Penilaian → Hasil laboratorium.\" | Bitmap & Vektor: t1=2/2, t2=2/2, t3=2/2; kriteria terpenuhi 2/2; simpan=\"Hasil tingkat 3 disimpan (2/2). Guru dapat melihatnya di menu Penilaian → Hasil laboratorium.\" | Alur Produksi: t1=3/3, t2=3/3, t3=3/3; kriteria terpenuhi 3/3; simpan=\"Hasil tingkat 3 disimpan (3/3). Guru dapat melihatnya di menu Penilaian → Hasil laboratorium.\" | K3 & Ergonomi: t1=2/2, t2=4/4, t3=2/2; kriteria terpenuhi 2/2; simpan=\"Hasil tingkat 3 disimpan (2/2). Guru dapat melihatnya di menu Penilaian → Hasil laboratorium.\" | Sketsa & Ilustrasi: t1=2/2, t2=3/3, t3=3/3; kriteria terpenuhi 3/3; simpan=\"Hasil tingkat 3 disimpan (3/3). Guru dapat melihatnya di menu Penilaian → Hasil laboratorium.\" | Studio DKV: t1=5/5 (5 tahap proyek); kriteria terpenuhi 5/5; simpan=\"Hasil tingkat 1 disimpan (5/5). Guru dapat melihatnya di menu Penilaian → Hasil laboratorium.\"",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 9,
+      "area": "G2. Laboratorium simulasi (peramban)",
+      "fitur": "Simulasi yang belum selesai ditandai jujur di antarmuka",
+      "langkah": "Buka /simulasi/sim-technopreneur",
+      "harapan": "halaman menampilkan label 'dalam pengembangan'/'belum tersedia' — bukan tombol palsu",
+      "aktual": "label pengembangan tampil=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 10,
+      "area": "H. Responsivitas (peramban)",
+      "fitur": "Tidak ada halaman meluber horizontal di desktop & ponsel; navigasi ponsel berfungsi",
+      "langkah": "Ukur scrollWidth vs lebar jendela pada 4 halaman di 1366×768 dan 390×844; lalu klik tombol ☰ Menu di ponsel",
+      "harapan": "scrollWidth ≤ lebar jendela + 2 px; menu ponsel terbuka dan memindahkan halaman",
+      "aktual": "desktop 1366×768 Materi minggu 1: pas | desktop 1366×768 Lab tipografi: pas | desktop 1366×768 Rencana asesmen: pas | desktop 1366×768 Pertemuan minggu 5: pas | ponsel 390×844 Materi minggu 1: pas | ponsel 390×844 Lab tipografi: pas | ponsel 390×844 Rencana asesmen: pas | ponsel 390×844 Pertemuan minggu 5: pas | ponsel: tombol ☰ Menu membuka navigasi=true; berpindah ke /simulasi=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 11,
+      "area": "I. Halaman cetak (peramban)",
+      "fitur": "Halaman cetak rekap, dokumentasi, dan supervisi tampil lengkap (kop sekolah, tanda tangan, tombol cetak)",
+      "langkah": "Buka halaman cetak → periksa kop + blok tanda tangan + tombol cetak → tekan tombolnya",
+      "harapan": "setiap halaman memuat kop sekolah & blok tanda tangan; tombol cetak memberi respons (pesan pratinjau bila dialog cetak tidak muncul)",
+      "aktual": "Rekap nilai kelas: kop=true, tanda tangan=true, tombol cetak=true | Rekap nilai kelas: tombol cetak ditekan → pesan pratinjau=true | Dokumentasi minggu 2 Senin: kop=true, tanda tangan=true, tombol cetak=true | Dokumentasi minggu 2 Senin: tombol cetak ditekan → pesan pratinjau=true | supervisi: halaman=/guru/supervisi/cetak/1; kop=true; isi indikator=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 12,
+      "area": "J. Supervisi & dokumentasi (peramban)",
+      "fitur": "Halaman dokumentasi pertemuan terbuka dengan kontrol pengisian",
+      "langkah": "Buka /guru/dokumentasi; hitung entri minggu dan kontrol pilihan di layar",
+      "harapan": "daftar memuat banyak entri minggu dan minimal satu kontrol pilihan (mis. prinsip pembelajaran) tersedia",
+      "aktual": "entri minggu terlihat=38; jumlah kontrol select=1",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 13,
+      "area": "J2. Administrasi (peramban)",
+      "fitur": "Admin dapat membuka tab Indikator Supervisi (butir instrumen dokumen sekolah)",
+      "langkah": "Masuk sebagai admin → /admin → klik tab '🪪 Indikator Supervisi'",
+      "harapan": "daftar butir indikator C.1.x–C.4.x tampil sehingga sekolah dapat menyuntingnya",
+      "aktual": "url=/admin; tab terbuka; baris indikator=18; memuat kolom aspek C.1–C.4=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 14,
+      "area": "K. Sapuan seluruh halaman (peramban)",
+      "fitur": "Semua halaman utama per peran dirender tanpa galat React dan tidak kosong",
+      "langkah": "Kunjungi 13 halaman siswa, 12 halaman guru, dan /admin dengan peramban; catat galat konsol/peramban dan panjang isi halaman",
+      "harapan": "0 galat JavaScript dan tidak ada halaman kosong (isi > 120 karakter; halaman pengaturan memang ringkas)",
+      "aktual": "siswa 13 halaman, kosong=0 (terpendek /pengaturan: 147 char); guru 12 halaman, kosong=0 (terpendek /guru/penilaian: 474 char); admin 1 halaman, kosong=0 (terpendek /admin: 2504 char); 0 galat",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 15,
+      "area": "K. Galat peramban",
+      "fitur": "Tidak ada galat JavaScript/console selama seluruh penelusuran audit",
+      "langkah": "Kumpulkan pageerror & console error di semua halaman yang dibuka (login, menu siswa/guru, 7 lab, asesmen, halaman cetak, admin)",
+      "harapan": "0 galat (kegagalan pemuatan sumber daya jaringan tidak dihitung)",
+      "aktual": "0 galat",
+      "status": "LULUS",
+      "perbaikan": ""
+    }
+  ]
+}

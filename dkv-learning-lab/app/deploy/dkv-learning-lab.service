@@ -1,0 +1,32 @@
+# Unit systemd — menjalankan DKV Learning Lab otomatis saat komputer Linux menyala.
+#
+# 1. Sunting tiga baris di bawah (User, WorkingDirectory, ExecStart) sesuai lokasi pemasangan.
+# 2. Simpan sebagai /etc/systemd/system/dkv-learning-lab.service
+# 3. Jalankan:
+#      sudo systemctl daemon-reload
+#      sudo systemctl enable --now dkv-learning-lab
+#      systemctl status dkv-learning-lab
+#      journalctl -u dkv-learning-lab -f      (lihat log)
+#
+# CATATAN: berkas ini belum diuji di lingkungan pembuatan aplikasi (sandbox Linux tanpa systemd).
+#          Periksa dengan `systemctl status` setelah dipasang.
+
+[Unit]
+Description=DKV Learning Lab — aplikasi pembelajaran Dasar-Dasar DKV (SMK Negeri 3 Kuningan)
+After=network.target
+
+[Service]
+Type=simple
+User=dkv
+WorkingDirectory=/opt/dkv-learning-lab/app
+Environment=PORT=8080
+Environment=NODE_ENV=production
+ExecStart=/usr/bin/node server/index.js
+Restart=always
+RestartSec=5
+# Pengerasan dasar:
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

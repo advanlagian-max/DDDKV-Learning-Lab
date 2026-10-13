@@ -1,0 +1,4185 @@
+{
+ "meta": {
+  "semester": 2,
+  "judul": "Modul Pertemuan Minggu 19–36 — Dasar-Dasar DKV Kelas X",
+  "catatan": "Penjelasan disusun orisinal dan setia pada konsep buku siswa; bukan salinan verbatim. Setiap pertemuan memuat tujuan, pemantik, materi, contoh visual, aktivitas memahami/mengaplikasi/merefleksi, LKPD, asesmen formatif, tugas, rubrik, dan tindak lanjut.",
+  "sumber": [
+   "B1: Buku Sem 1 (Kemendikbudristek 2022)",
+   "B2: Buku Sem 2 (Kemendikbudristek 2022)"
+  ]
+ },
+ "minggu": [
+  {
+   "minggu": 19,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan pengertian tipografi dan perannya dalam karya DKV.",
+     "Menyusun garis waktu perkembangan tipografi dari era pracetak hingga digital."
+    ],
+    "pemantik": [
+     "Bagaimana manusia menuliskan pesan sebelum ada huruf cetak?",
+     "Mengapa bentuk huruf berbeda-beda di setiap zaman?"
+    ],
+    "materi": {
+     "pengantar": "Tipografi adalah seni dan teknik memilih serta menata huruf agar pesan tersampaikan. Perjalanannya dimulai dari gambar di dinding gua, berkembang menjadi tulisan berbasis bunyi, lalu menjadi huruf cetak yang dapat diperbanyak.",
+     "poin": [
+      "Era pracetak: pesan disampaikan melalui gambar dan simbol, kemudian berkembang menjadi tulisan berbasis bunyi.",
+      "Era cetak: penemuan mesin cetak memungkinkan huruf diproduksi berulang dengan bentuk yang sama.",
+      "Era digital: huruf dibuat dan diatur di komputer sehingga variasi dan pengaturannya jauh lebih luas.",
+      "Istilah kunci tipografi: piktograf, ideografi, fonograf, dan huruf berbasis alfabet."
+     ],
+     "istilah": [
+      {
+       "t": "tipografi",
+       "a": "Seni dan teknik memilih serta menata huruf agar pesan mudah dipahami."
+      },
+      {
+       "t": "piktograf",
+       "a": "Tulisan berupa gambar yang mewakili objek atau peristiwa."
+      },
+      {
+       "t": "fonograf",
+       "a": "Tanda atau huruf yang menandakan bunyi."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Sejarah dan pengertian tipografi",
+      "keterangan": "Perhatikan contoh piktograf, ideografi, dan perkembangan huruf pada Buku Sem 2 Bab 1 subbab A dan B (halaman 4–6)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Papan nama di sekolah",
+      "keterangan": "Amati lima tulisan di sekitar sekolah, catat bentuk hurufnya dan kesan yang ditimbulkan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian sejarah tipografi",
+      "Membedakan piktograf, ideografi, dan fonograf"
+     ],
+     "mengaplikasi": [
+      "Menyusun garis waktu tiga era tipografi",
+      "Menjalankan simulasi tipografi untuk merasakan perubahan bentuk huruf",
+      "Menulis asal usul bentuk huruf pada satu papan nama"
+     ],
+     "merefleksi": [
+      "Menulis alasan mengapa bentuk huruf memengaruhi kesan pesan"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 37 — Garis Waktu Perkembangan Tipografi",
+     "langkah": [
+      "Susun garis waktu tiga era.",
+      "Beri satu contoh nyata tiap era.",
+      "Tulis kesimpulan perubahan fungsi huruf."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan garis waktu",
+       "skor4": "Tiga era tepat dengan contoh dan ciri",
+       "skor3": "Tiga era tepat",
+       "skor2": "Dua era",
+       "skor1": "Satu era"
+      },
+      {
+       "kriteria": "Mutu kesimpulan",
+       "skor4": "Kesimpulan mengaitkan perkembangan dengan kebutuhan zaman",
+       "skor3": "Kesimpulan jelas",
+       "skor2": "Kesimpulan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Tulisan berupa gambar yang mewakili objek disebut",
+       "opsi": [
+        "Piktograf",
+        "Fonograf",
+        "Alfabet"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Era ketika huruf dapat diperbanyak dengan bentuk sama disebut era",
+       "opsi": [
+        "Cetak",
+        "Pracetak",
+        "Digital"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Catatan bentuk huruf lima papan nama sekolah",
+     "bentuk": "individu",
+     "luaran": "Tabel bentuk huruf + kesan yang ditimbulkan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyusun garis waktu bersama.",
+     "pengayaan": "Menelusuri satu jenis huruf dan sejarah pembuatnya."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menjelaskan peran tipografi dalam menyampaikan pesan DKV.",
+     "Menilai keterbacaan tulisan pada karya nyata."
+    ],
+    "pemantik": [
+     "Apa yang terjadi jika poster memakai huruf yang sulit dibaca?",
+     "Kapan huruf berhias justru tidak tepat dipakai?"
+    ],
+    "materi": {
+     "pengantar": "Tipografi bekerja bersama gambar untuk mengarahkan mata pengguna. Pilihan huruf, ukuran, dan susunan menentukan apakah pesan cepat dipahami atau justru membingungkan.",
+     "poin": [
+      "Huruf menyampaikan suasana: bentuk tegas memberi kesan kuat, bentuk lembut memberi kesan ramah.",
+      "Ukuran dan ketebalan huruf menentukan apa yang dibaca lebih dahulu.",
+      "Jumlah huruf yang banyak menuntut susunan yang lebih sederhana agar tetap mudah dibaca.",
+      "Pesan penting diletakkan pada bagian karya yang paling mudah dijangkau mata."
+     ],
+     "istilah": [
+      {
+       "t": "keterbacaan",
+       "a": "Kemudahan teks dikenali dan dibaca."
+      },
+      {
+       "t": "hierarki teks",
+       "a": "Urutan kepentingan teks yang terlihat dari ukuran dan posisinya."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Peran huruf pada karya",
+      "keterangan": "Perhatikan contoh penerapan huruf pada karya pada Buku Sem 2 Bab 1 (halaman 5–8)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Tiga tulisan, tiga kesan",
+      "keterangan": "Amati tiga contoh tulisan dengan bentuk berbeda dan tuliskan kesan yang muncul."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah hubungan bentuk huruf dan kesan pesan",
+      "Mengidentifikasi masalah keterbacaan"
+     ],
+     "mengaplikasi": [
+      "Menilai lima tulisan memakai daftar periksa keterbacaan",
+      "Menjalankan simulasi tipografi untuk menguji ukuran dan jarak",
+      "Memperbaiki satu judul agar lebih mudah dibaca"
+     ],
+     "merefleksi": [
+      "Menulis pilihan huruf yang paling cocok untuk karya saya dan alasannya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 38 — Menilai Keterbacaan Tulisan",
+     "langkah": [
+      "Pilih lima tulisan dari karya nyata.",
+      "Nilai dengan daftar periksa.",
+      "Usulkan perbaikan satu tulisan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketelitian penilaian",
+       "skor4": "Lima tulisan dinilai rinci dan beralasan",
+       "skor3": "Lima tulisan dinilai",
+       "skor2": "Tiga tulisan",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Mutu usulan perbaikan",
+       "skor4": "Perbaikan tepat dan menjawab masalah",
+       "skor3": "Perbaikan masuk akal",
+       "skor2": "Perbaikan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Teks penting sebaiknya diletakkan pada",
+       "opsi": [
+        "Bagian yang paling mudah dijangkau mata",
+        "Sudut paling bawah",
+        "Tepi karya"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Bentuk huruf yang tegas memberi kesan",
+       "opsi": [
+        "Kuat dan serius",
+        "Lucu dan santai",
+        "Tidak ada kesan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Perbaikan satu judul karya",
+     "bentuk": "individu",
+     "luaran": "Judul sebelum dan sesudah diperbaiki + alasan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengukur ukuran huruf minimal.",
+     "pengayaan": "Merancang judul untuk tiga jenis kegiatan berbeda."
+    }
+   }
+  },
+  {
+   "minggu": 20,
+   "senin": {
+    "tujuan": [
+     "Mengelompokkan jenis huruf berdasarkan klasifikasi tipografi.",
+     "Menjelaskan ciri bentuk tiap kelompok huruf."
+    ],
+    "pemantik": [
+     "Mengapa huruf untuk kartu undangan dan spanduk berbeda?",
+     "Bisakah kamu menebak suasana hanya dari bentuk huruf?"
+    ],
+    "materi": {
+     "pengantar": "Huruf dikelompokkan berdasarkan bentuk dasarnya. Mengenal kelompok ini membantu memilih huruf sesuai kebutuhan, bukan berdasarkan selera sesaat.",
+     "poin": [
+      "Huruf berkait (serif) memiliki ujung berkait dan memberi kesan klasik serta formal.",
+      "Huruf tanpa kait (sans serif) bersih dan tegas sehingga cocok untuk tampilan digital dan judul modern.",
+      "Huruf hias dan huruf tulis (script) berkesan dekoratif dan paling cocok untuk aksen, bukan teks panjang.",
+      "Kelompok huruf bertipografi tebal dan berjarak lebar sering dipakai untuk poster kegiatan."
+     ],
+     "istilah": [
+      {
+       "t": "huruf berkait",
+       "a": "Huruf dengan ujung goresan berkait; cocok untuk bacaan formal."
+      },
+      {
+       "t": "huruf tanpa kait",
+       "a": "Huruf tanpa kait; bersih dan mudah dibaca pada layar."
+      },
+      {
+       "t": "huruf hias",
+       "a": "Huruf dengan bentuk dekoratif untuk aksen singkat."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Jenis atau klasifikasi tipografi",
+      "keterangan": "Perhatikan contoh klasifikasi huruf pada Buku Sem 2 Bab 1 subbab C (halaman 7–8), termasuk gambar contoh klasifikasi huruf."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Kumpulkan lima jenis huruf",
+      "keterangan": "Kumpulkan contoh huruf dari kemasan, buku, dan papan nama, lalu kelompokkan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca klasifikasi huruf",
+      "Membandingkan ciri bentuk antar kelompok"
+     ],
+     "mengaplikasi": [
+      "Mengelompokkan lima contoh huruf",
+      "Mengganti jenis huruf pada satu judul memakai simulasi tipografi",
+      "Menulis alasan pemilihan huruf"
+     ],
+     "merefleksi": [
+      "Menulis jenis huruf yang paling cocok untuk karya saya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 39 — Klasifikasi Huruf",
+     "langkah": [
+      "Kumpulkan lima contoh huruf.",
+      "Kelompokkan tiap contoh.",
+      "Tulis ciri pembeda yang kamu gunakan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pengelompokan",
+       "skor4": "Lima contoh tepat dengan ciri beralasan",
+       "skor3": "Lima contoh tepat",
+       "skor2": "Tiga contoh tepat",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Mutu penjelasan ciri",
+       "skor4": "Ciri dijelaskan dengan istilah tepat",
+       "skor3": "Ciri dijelaskan",
+       "skor2": "Ciri umum",
+       "skor1": "Tidak dijelaskan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Huruf serif memiliki ciri",
+       "opsi": [
+        "Ujung goresan berkait",
+        "Tanpa kait sama sekali",
+        "Selalu berwarna"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Huruf script paling tepat dipakai untuk",
+       "opsi": [
+        "Aksen atau judul pendek",
+        "Teks berita panjang",
+        "Daftar angka"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Lembar klasifikasi huruf kelas",
+     "bentuk": "kelompok",
+     "luaran": "Poster tempel berisi empat kelompok huruf dan contohnya"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengenali ciri serif dan sans serif.",
+     "pengayaan": "Mencampur dua jenis huruf pada satu karya dan menilai hasilnya."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Memilih jenis huruf sesuai karakter pesan dan sasaran.",
+     "Menjelaskan alasan pemilihan huruf dengan bukti visual."
+    ],
+    "pemantik": [
+     "Huruf seperti apa yang cocok untuk acara resmi sekolah?",
+     "Apa akibatnya memakai terlalu banyak jenis huruf dalam satu karya?"
+    ],
+    "materi": {
+     "pengantar": "Memilih huruf adalah keputusan komunikasi. Satu karya biasanya cukup memakai satu hingga dua jenis huruf: satu untuk bagian utama, satu untuk keterangan.",
+     "poin": [
+      "Jumlah jenis huruf yang sedikit menjaga karya tetap rapi dan mudah dibaca.",
+      "Huruf untuk judul boleh lebih ekspresif, sedangkan teks penjelas sebaiknya sederhana.",
+      "Karakter huruf dipadankan dengan sasaran: anak-anak, remaja, atau kalangan formal.",
+      "Uji cepat dilakukan dengan membaca karya dari jarak jauh sebelum memutuskan."
+     ],
+     "istilah": [
+      {
+       "t": "pemasangan huruf",
+       "a": "Menggabungkan dua jenis huruf agar tetap selaras."
+      },
+      {
+       "t": "sasaran pembaca",
+       "a": "Kelompok orang yang menjadi tujuan pesan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Satu pesan tiga huruf",
+      "keterangan": "Amati satu judul yang dicetak dengan tiga jenis huruf berbeda; catat mana yang paling tepat."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-hierarki-tipografi",
+      "judul": "Judul dan teks penjelas",
+      "keterangan": "Diagram orisinal: susunan hierarki huruf pada satu karya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah pedoman jumlah jenis huruf",
+      "Mengaitkan karakter huruf dengan sasaran"
+     ],
+     "mengaplikasi": [
+      "Merancang satu judul dan teks penjelas",
+      "Menguji keterbacaan dari tiga jarak berbeda",
+      "Menjalankan simulasi tipografi untuk membandingkan pilihan"
+     ],
+     "merefleksi": [
+      "Menulis kesalahan pemilihan huruf yang biasa saya lakukan"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 40 — Memilih Huruf untuk Sebuah Pesan",
+     "langkah": [
+      "Tetapkan pesan dan sasaran.",
+      "Pilih dua jenis huruf (judul dan penjelas).",
+      "Uji keterbacaan dan catat hasilnya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kesesuaian huruf dan pesan",
+       "skor4": "Pilihan huruf tepat, beralasan, dan teruji",
+       "skor3": "Pilihan tepat dan beralasan",
+       "skor2": "Pilihan kurang tepat",
+       "skor1": "Tanpa pertimbangan"
+      },
+      {
+       "kriteria": "Pelaksanaan uji keterbacaan",
+       "skor4": "Diuji dari tiga jarak dengan catatan",
+       "skor3": "Diuji dari dua jarak",
+       "skor2": "Diuji sekilas",
+       "skor1": "Tidak diuji"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Jumlah jenis huruf yang disarankan dalam satu karya adalah",
+       "opsi": [
+        "Satu sampai dua jenis",
+        "Empat sampai lima jenis",
+        "Sebanyak mungkin"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Uji keterbacaan dilakukan dengan cara",
+       "opsi": [
+        "Membaca karya dari beberapa jarak",
+        "Melihat karya sambil berdiri",
+        "Menanyakan warna favorit teman"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Rancangan judul + teks penjelas dua jenis huruf",
+     "bentuk": "individu",
+     "luaran": "Satu halaman rancangan + catatan hasil uji"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memilih huruf dengan contoh yang sudah jadi.",
+     "pengayaan": "Menyusun panduan sederhana pemilihan huruf untuk kelas."
+    }
+   }
+  },
+  {
+   "minggu": 21,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan fungsi tipografi dalam karya komunikasi.",
+     "Menyebutkan bagian-bagian anatomi huruf."
+    ],
+    "pemantik": [
+     "Bagian mana dari huruf yang membuatnya mudah dikenali?",
+     "Mengapa huruf dan angka punya aturan lebar yang berbeda?"
+    ],
+    "materi": {
+     "pengantar": "Setiap huruf tersusun atas bagian-bagian yang punya nama. Mengenal anatomi huruf membantu ketika harus mengatur jarak, memilih huruf, atau menjelaskan alasan desain.",
+     "poin": [
+      "Fungsi tipografi: menyampaikan pesan, menarik perhatian, membangun suasana, dan menjaga keterbacaan.",
+      "Bagian huruf meliputi batang tegak, garis lengkung, garis dasar, garis tinggi huruf kecil, dan ekor pada huruf tertentu.",
+      "Perbedaan tinggi dan lebar bagian huruf memengaruhi kerapatan dan keterbacaan dalam susunan kalimat.",
+      "Istilah penting: ascender, descender, x-height, dan baseline."
+     ],
+     "istilah": [
+      {
+       "t": "baseline",
+       "a": "Garis dasar tempat huruf berdiri."
+      },
+      {
+       "t": "x-height",
+       "a": "Tinggi huruf kecil tanpa bagian naik atau turun."
+      },
+      {
+       "t": "descender",
+       "a": "Bagian huruf yang turun di bawah garis dasar."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Fungsi tipografi dan anatomi huruf",
+      "keterangan": "Perhatikan uraian dan diagram anatomi pada Buku Sem 2 Bab 1 subbab D (halaman 9–13)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-anatomi-huruf",
+      "judul": "Anatomi huruf",
+      "keterangan": "Diagram orisinal: baseline, x-height, ascender, dan descender pada satu huruf."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian fungsi dan anatomi huruf",
+      "Menandai bagian huruf pada contoh"
+     ],
+     "mengaplikasi": [
+      "Menandai anatomi pada dua jenis huruf berbeda",
+      "Mengukur tinggi huruf kecil dan tinggi total",
+      "Menjalankan simulasi tipografi untuk mengamati x-height"
+     ],
+     "merefleksi": [
+      "Menulis bagian anatomi yang paling berpengaruh pada keterbacaan menurut saya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 41 — Bedah Anatomi Huruf",
+     "langkah": [
+      "Pilih dua jenis huruf.",
+      "Tandai baseline, x-height, ascender, descender.",
+      "Bandingkan hasilnya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan penandaan",
+       "skor4": "Semua bagian ditandai tepat pada dua huruf",
+       "skor3": "Bagian ditandai tepat",
+       "skor2": "Ada penandaan keliru",
+       "skor1": "Belum tepat"
+      },
+      {
+       "kriteria": "Mutu perbandingan",
+       "skor4": "Perbandingan menyebut pengaruh ke keterbacaan",
+       "skor3": "Perbandingan jelas",
+       "skor2": "Perbandingan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Garis tempat huruf berdiri disebut",
+       "opsi": [
+        "Baseline",
+        "Ascender",
+        "Kerning"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Bagian huruf yang turun di bawah garis dasar disebut",
+       "opsi": [
+        "Descender",
+        "x-height",
+        "Leading"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Kartu anatomi huruf (satu jenis huruf)",
+     "bentuk": "individu",
+     "luaran": "Gambar huruf besar dengan tanda bagian dan keterangannya"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menandai bagian huruf bersama.",
+     "pengayaan": "Membandingkan anatomi huruf pada dua bahasa/tulisan berbeda."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Membaca anatomi huruf pada karya nyata.",
+     "Menjelaskan pengaruh bentuk huruf terhadap kesan karya."
+    ],
+    "pemantik": [
+     "Mengapa tulisan pada kemasan makanan sering memakai huruf bulat?",
+     "Apa yang membuat sebuah tulisan terasa mewah?"
+    ],
+    "materi": {
+     "pengantar": "Pada karya nyata, pilihan huruf bekerja bersama warna dan gambar. Mengamati anatomi pada karya membantu memahami mengapa suatu desain terasa tepat atau justru mengganggu.",
+     "poin": [
+      "Huruf dengan tinggi huruf kecil besar umumnya lebih mudah dibaca pada ukuran kecil.",
+      "Huruf dengan banyak lekuk dan hiasan sulit dibaca pada ukuran sangat kecil atau jarak jauh.",
+      "Perbedaan ketebalan goresan menimbulkan kesan ringan atau berat.",
+      "Kombinasi huruf yang berbeda asal dapat dipakai selama salah satu menjadi penanda utama."
+     ],
+     "istilah": [
+      {
+       "t": "ketebalan goresan",
+       "a": "Tebal tipisnya garis pembentuk huruf."
+      },
+      {
+       "t": "huruf penanda",
+       "a": "Huruf utama yang menjadi ciri tampilan karya."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Anatomi pada kemasan",
+      "keterangan": "Amati dua kemasan: tandai pemakaian anatomi huruf dan jelaskan kesannya."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-anatomi-huruf",
+      "judul": "Perbandingan tebal tipis",
+      "keterangan": "Diagram orisinal: pengaruh ketebalan goresan terhadap kesan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Mengamati anatomi pada karya nyata",
+      "Mengaitkan bentuk huruf dengan kesan"
+     ],
+     "mengaplikasi": [
+      "Menganalisis dua kemasan lalu menulis hasil temuan",
+      "Mengatur ketebalan huruf pada judul memakai simulasi tipografi",
+      "Menyusun rekomendasi perbaikan"
+     ],
+     "merefleksi": [
+      "Menulis pengaruh bentuk huruf yang paling saya rasakan pada karya sehari-hari"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 42 — Membaca Anatomi Huruf pada Karya",
+     "langkah": [
+      "Pilih dua karya nyata.",
+      "Tandai bagian anatomi yang menonjol.",
+      "Tulis pengaruhnya pada keterbacaan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketajaman pengamatan",
+       "skor4": "Temuan rinci dan beralasan pada dua karya",
+       "skor3": "Temuan jelas",
+       "skor2": "Temuan umum",
+       "skor1": "Tidak menemukan"
+      },
+      {
+       "kriteria": "Relevansi kesimpulan",
+       "skor4": "Kesimpulan mengaitkan anatomi dan keterbacaan",
+       "skor3": "Kesimpulan relevan",
+       "skor2": "Kesimpulan lemah",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Huruf dengan tinggi huruf kecil besar umumnya",
+       "opsi": [
+        "Lebih mudah dibaca pada ukuran kecil",
+        "Sulit dibaca",
+        "Tidak dapat dicetak"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Huruf berhias berlebihan sebaiknya dihindari pada",
+       "opsi": [
+        "Teks ukuran kecil",
+        "Judul besar",
+        "Poster jarak jauh"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Laporan pengamatan anatomi huruf",
+     "bentuk": "individu",
+     "luaran": "Satu halaman berisi dua karya, tanda anatomi, dan kesimpulan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membaca anatomi pada satu karya.",
+     "pengayaan": "Merancang ulang tulisan kemasan sederhana."
+    }
+   }
+  },
+  {
+   "minggu": 22,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan keterbacaan (legibility, readability, visibility) dalam tipografi.",
+     "Menerapkan prinsip hierarki teks pada susunan judul dan isi."
+    ],
+    "pemantik": [
+     "Apa bedanya huruf yang mudah dikenali dan tulisan yang mudah dibaca?",
+     "Bagaimana menentukan mana yang harus paling besar dalam sebuah poster?"
+    ],
+    "materi": {
+     "pengantar": "Keterbacaan memiliki tiga sisi: kejelasan bentuk huruf, kenyamanan membaca rangkaian teks, dan keterlihatan dari jarak atau kondisi tertentu. Ketiganya memengaruhi keputusan desain.",
+     "poin": [
+      "Legibility berkaitan dengan kejelasan bentuk huruf sehingga setiap karakter mudah dikenali.",
+      "Readability berkaitan dengan kenyamanan membaca keseluruhan teks, dipengaruhi jarak baris dan panjang baris.",
+      "Visibility berkaitan dengan keterlihatan dari jarak jauh, dipengaruhi ukuran, kontras, dan penempatan.",
+      "Hierarki teks menyusun urutan: judul utama, subjudul, keterangan, dan rincian."
+     ],
+     "istilah": [
+      {
+       "t": "legibility",
+       "a": "Kemudahan setiap huruf dikenali."
+      },
+      {
+       "t": "readability",
+       "a": "Kemudahan teks secara keseluruhan dibaca."
+      },
+      {
+       "t": "visibility",
+       "a": "Kemudahan teks terlihat dari jarak atau kondisi tertentu."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Prinsip tipografi dan tata letak",
+      "keterangan": "Perhatikan uraian prinsip serta contoh tata letaknya pada Buku Sem 2 Bab 1 subbab D (halaman 13–21)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-hierarki-tipografi",
+      "judul": "Empat tingkat hierarki teks",
+      "keterangan": "Diagram orisinal: judul, subjudul, keterangan, rincian."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membedakan legibility, readability, dan visibility",
+      "Mengidentifikasi tingkat hierarki teks"
+     ],
+     "mengaplikasi": [
+      "Menyusun hierarki teks pada satu rancangan poster",
+      "Menjalankan simulasi tipografi untuk menguji ukuran dan jarak",
+      "Menilai keterbacaan judul teman"
+     ],
+     "merefleksi": [
+      "Menulis satu kebiasaan baru saat menyusun teks pada karya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 43 — Hierarki Teks & Keterbacaan",
+     "langkah": [
+      "Tentukan judul, subjudul, dan keterangan.",
+      "Atur ukuran sesuai tingkat kepentingan.",
+      "Uji keterbacaan dan perbaiki."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan hierarki",
+       "skor4": "Empat tingkat terlihat jelas dan konsisten",
+       "skor3": "Tiga tingkat jelas",
+       "skor2": "Hierarki kabur",
+       "skor1": "Semua teks sama besar"
+      },
+      {
+       "kriteria": "Hasil uji keterbacaan",
+       "skor4": "Perbaikan berdasarkan hasil uji tercatat",
+       "skor3": "Uji dilakukan",
+       "skor2": "Uji sekilas",
+       "skor1": "Tidak diuji"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Kenyamanan membaca keseluruhan teks disebut",
+       "opsi": [
+        "Readability",
+        "Legibility",
+        "Visibility"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Faktor utama keterlihatan dari jarak jauh adalah",
+       "opsi": [
+        "Ukuran, kontras, dan penempatan",
+        "Jumlah gambar",
+        "Warna meja"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Rancangan poster bertingkat teks",
+     "bentuk": "individu",
+     "luaran": "Satu rancangan dengan hierarki teks dan catatan uji"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menentukan teks utama.",
+     "pengayaan": "Membandingkan dua versi poster dengan hierarki berbeda."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menpraktikkan tata letak teks yang mudah dibaca.",
+     "Menjelaskan pengaruh panjang baris dan jarak tepi pada kenyamanan membaca."
+    ],
+    "pemantik": [
+     "Mengapa baris yang terlalu panjang cepat membuat mata lelah?",
+     "Apa gunanya ruang kosong pada susunan teks?"
+    ],
+    "materi": {
+     "pengantar": "Tata letak teks mengatur lebar kolom, jarak baris, dan ruang kosong. Susunan yang baik membuat mata bergerak nyaman tanpa tersesat.",
+     "poin": [
+      "Panjang baris yang nyaman umumnya menampung sekitar 45–75 karakter.",
+      "Jarak baris yang terlalu rapat membuat teks terasa padat; terlalu renggang membuat teks sulit diikuti.",
+      "Ruang kosong (white space) memberi nafas dan menandai bagian penting.",
+      "Perataan teks dilakukan sesuai kebutuhan: rata kiri nyaman untuk bacaan, rata tengah cocok untuk judul pendek."
+     ],
+     "istilah": [
+      {
+       "t": "lebar kolom",
+       "a": "Panjang baris teks dalam satu susunan."
+      },
+      {
+       "t": "ruang kosong",
+       "a": "Area tanpa isi yang membantu mata beristirahat."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Dua versi satu paragraf",
+      "keterangan": "Bandingkan paragraf dengan perataan berbeda lalu pilih yang paling nyaman dibaca."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-hierarki-tipografi",
+      "judul": "Jarak dan ruang",
+      "keterangan": "Diagram orisinal: pengaruh jarak baris dan ruang kosong."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah panjang baris dan jarak baris",
+      "Mengidentifikasi fungsi ruang kosong"
+     ],
+     "mengaplikasi": [
+      "Menata ulang satu paragraf teks",
+      "Membandingkan tiga variasi jarak baris",
+      "Menjalankan simulasi tipografi untuk menguji jarak"
+     ],
+     "merefleksi": [
+      "Menulis pengaturan teks yang paling nyaman bagi saya saat membaca"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 44 — Praktik Tata Letak Teks",
+     "langkah": [
+      "Susun satu paragraf pada kolom sempit dan lebar.",
+      "Uji tiga jarak baris.",
+      "Pilih yang terbaik dengan alasan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kelengkapan uji",
+       "skor4": "Tiga variasi diuji dan dicatat hasilnya",
+       "skor3": "Dua variasi diuji",
+       "skor2": "Satu variasi",
+       "skor1": "Tidak diuji"
+      },
+      {
+       "kriteria": "Mutu pilihan akhir",
+       "skor4": "Pilihan beralasan kenyamanan dan keterbacaan",
+       "skor3": "Pilihan beralasan",
+       "skor2": "Alasan lemah",
+       "skor1": "Tanpa alasan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Panjang baris yang nyaman umumnya memuat sekitar",
+       "opsi": [
+        "45–75 karakter",
+        "150–200 karakter",
+        "1–10 karakter"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Fungsi ruang kosong dalam tata letak adalah",
+       "opsi": [
+        "Memberi nafas dan menandai bagian penting",
+        "Mengisi halaman kosong",
+        "Menambah jumlah teks"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Lembar uji tata letak teks",
+     "bentuk": "individu",
+     "luaran": "Tiga variasi tata letak + kesimpulan pilihan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengukur panjang baris.",
+     "pengayaan": "Menyusun halaman buklet sederhana dengan tata letak rapi."
+    }
+   }
+  },
+  {
+   "minggu": 23,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan pengertian leading, kerning, dan tracking.",
+     "Membedakan ketiga pengatur spasi dan kegunaannya."
+    ],
+    "pemantik": [
+     "Mengapa tulisan yang hurufnya berdesakan sulit dibaca?",
+     "Kapan jarak huruf perlu dilebarkan?"
+    ],
+    "materi": {
+     "pengantar": "Tiga istilah spasi sering membingungkan: leading mengatur jarak antarbaris, kerning mengatur jarak antardua huruf, dan tracking mengatur jarak seluruh huruf dalam satu bagian teks.",
+     "poin": [
+      "Leading yang tepat menjaga mata berpindah baris tanpa tersesat.",
+      "Kerning dipakai untuk memperbaiki pasangan huruf yang tampak berdesakan atau terlalu renggang.",
+      "Tracking melebarkan atau merapatkan jarak seluruh huruf, sering dipakai pada judul pendek atau teks berukuran kecil berwarna terang.",
+      "Ketiganya diatur setelah jenis huruf dan ukuran dipilih, bukan sebelumnya."
+     ],
+     "istilah": [
+      {
+       "t": "leading",
+       "a": "Jarak antarbaris dalam satu blok teks."
+      },
+      {
+       "t": "kerning",
+       "a": "Pengaturan jarak antardua huruf tertentu."
+      },
+      {
+       "t": "tracking",
+       "a": "Pengaturan jarak seluruh huruf pada satu bagian teks."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Leading, kerning, dan tracking",
+      "keterangan": "Perhatikan contoh pengaturan dan penjelasannya pada Buku Sem 2 Bab 1 subbab E (halaman 22–25)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-spasi",
+      "judul": "Tiga pengatur spasi",
+      "keterangan": "Diagram orisinal: leading, kerning, dan tracking pada satu contoh teks."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian tiga istilah spasi",
+      "Mengidentifikasi masalah spasi pada contoh teks"
+     ],
+     "mengaplikasi": [
+      "Mengubah leading, tracking, dan jarak huruf pada simulasi tipografi",
+      "Memperbaiki satu judul yang spasi antarhurufnya buruk",
+      "Mencatat pengaruh tiap perubahan"
+     ],
+     "merefleksi": [
+      "Menulis pengaturan spasi yang paling sering saya lewatkan"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 45 — Tiga Pengatur Spasi",
+     "langkah": [
+      "Salin satu judul ke dalam simulasi.",
+      "Ubah leading, tracking, dan jarak huruf.",
+      "Tulis pengaruh tiap perubahan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Pemahaman istilah",
+       "skor4": "Tiga istilah dijelaskan tepat dan dibedakan",
+       "skor3": "Tiga istilah dijelaskan",
+       "skor2": "Sebagian tertukar",
+       "skor1": "Belum memahami"
+      },
+      {
+       "kriteria": "Mutu catatan pengamatan",
+       "skor4": "Pengaruh tiap perubahan dijelaskan dengan contoh",
+       "skor3": "Pengaruh dijelaskan",
+       "skor2": "Catatan singkat",
+       "skor1": "Tidak mencatat"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Jarak antarbaris dalam blok teks disebut",
+       "opsi": [
+        "Leading",
+        "Kerning",
+        "Tracking"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Pengaturan jarak antardua huruf tertentu disebut",
+       "opsi": [
+        "Kerning",
+        "Leading",
+        "Baseline"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Catatan pengamatan tiga pengatur spasi",
+     "bentuk": "individu",
+     "luaran": "Tangkapan hasil simulasi + catatan pengaruh"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membedakan istilah dengan contoh langsung.",
+     "pengayaan": "Menata spasi judul untuk tiga ukuran berbeda."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mengatur spasi pada karya nyata agar mudah dibaca.",
+     "Menjelaskan pengaruh keterbacaan dan keterlihatan pada hasil akhir karya."
+    ],
+    "pemantik": [
+     "Mengapa teks putih di latar gelap sering perlu jarak huruf lebih lebar?",
+     "Apa akibatnya jarak baris terlalu rapat pada paragraf panjang?"
+    ],
+    "materi": {
+     "pengantar": "Pengaturan spasi diuji pada karya nyata: poster, kartu, dan tampilan digital. Hasil akhir dinilai dari kemudahan membaca, bukan dari seberapa banyak pengaturan yang diubah.",
+     "poin": [
+      "Teks terang di latar gelap tampak menyatu sehingga perlu jarak huruf lebih longgar dan ketebalan memadai.",
+      "Paragraf panjang memerlukan jarak baris lebih longgar daripada judul.",
+      "Judul pendek dapat memakai jarak huruf lebih lebar agar terlihat megah, sepanjang tidak mengganggu keterbacaan.",
+      "Kesalahan spasi paling mudah ditemukan dengan mencetak karya dan membacanya dari jarak baca nyata."
+     ],
+     "istilah": [
+      {
+       "t": "uji cetak",
+       "a": "Mencetak karya untuk memeriksa hasil sebelum diproduksi banyak."
+      },
+      {
+       "t": "jarak baca nyata",
+       "a": "Jarak yang biasa dipakai pengguna saat membaca karya."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Sebelum dan sesudah diatur spasinya",
+      "keterangan": "Amati satu poster dengan spasi keliru dan versi perbaikannya."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-spasi",
+      "judul": "Perbaikan spasi bertahap",
+      "keterangan": "Diagram orisinal: urutan perbaikan judul, subjudul, lalu paragraf."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah kebutuhan spasi pada berbagai jenis teks",
+      "Mengidentifikasi kesalahan spasi"
+     ],
+     "mengaplikasi": [
+      "Memperbaiki spasi pada satu karya sendiri",
+      "Menguji hasil cetak dari jarak baca nyata",
+      "Menjalankan simulasi tipografi untuk membandingkan hasil"
+     ],
+     "merefleksi": [
+      "Menulis perbaikan spasi yang paling berpengaruh pada karya saya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 46 — Praktik Pengaturan Spasi",
+     "langkah": [
+      "Perbaiki judul, subjudul, dan paragraf.",
+      "Cetak uji.",
+      "Bandingkan versi sebelum dan sesudah."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan perbaikan",
+       "skor4": "Perbaikan tepat pada tiga bagian teks",
+       "skor3": "Perbaikan pada dua bagian",
+       "skor2": "Perbaikan pada satu bagian",
+       "skor1": "Tidak diperbaiki"
+      },
+      {
+       "kriteria": "Dokumentasi hasil",
+       "skor4": "Perbandingan lengkap dengan catatan alasan",
+       "skor3": "Ada perbandingan",
+       "skor2": "Hanya versi akhir",
+       "skor1": "Tidak ada bukti"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Teks terang di latar gelap umumnya memerlukan",
+       "opsi": [
+        "Jarak huruf lebih longgar",
+        "Jarak huruf sangat rapat",
+        "Ukuran sangat kecil"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Cara paling andal menemukan kesalahan spasi adalah",
+       "opsi": [
+        "Mencetak dan membaca dari jarak baca nyata",
+        "Melihat sebentar di layar",
+        "Menanyakan warna favorit"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Karya sebelum & sesudah pengaturan spasi",
+     "bentuk": "individu",
+     "luaran": "Dua versi karya + catatan perbaikan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memperbaiki satu bagian teks.",
+     "pengayaan": "Menyusun pedoman spasi sederhana untuk karya kelas."
+    }
+   }
+  },
+  {
+   "minggu": 24,
+   "senin": {
+    "tujuan": [
+     "Merancang karya desain berbasis tipografi.",
+     "Menyusun lembar pertanggungjawaban desain."
+    ],
+    "pemantik": [
+     "Karya jenis apa yang paling menonjolkan huruf?",
+     "Bagaimana menjelaskan alasan pemilihan huruf kepada orang lain?"
+    ],
+    "materi": {
+     "pengantar": "Karya berbasis tipografi menempatkan huruf sebagai unsur utama: poster tipografis, kartu undangan, dan penanda kegiatan. Perancangan dimulai dari pesan, bukan dari pilihan huruf.",
+     "poin": [
+      "Langkah perancangan: tetapkan pesan dan sasaran, pilih huruf, atur hierarki, atur spasi, lalu uji keterbacaan.",
+      "Lembar pertanggungjawaban memuat pesan, sasaran, pilihan huruf, pengaturan spasi, dan alasan tiap keputusan.",
+      "Umpan balik teman dipakai untuk memastikan pesan terbaca oleh orang yang tidak tahu konsep awal.",
+      "Berkas akhir disimpan dalam versi siap cetak beserta versi kerjanya."
+     ],
+     "istilah": [
+      {
+       "t": "pertanggungjawaban desain",
+       "a": "Penjelasan tertulis atas keputusan desain yang diambil."
+      },
+      {
+       "t": "versi siap cetak",
+       "a": "Berkas akhir yang sudah diperiksa untuk diproduksi."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Contoh karya tipografi",
+      "keterangan": "Perhatikan contoh karya dan uraian prinsipnya pada Buku Sem 2 Bab 1 (halaman 13–25)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Bedah poster tipografis",
+      "keterangan": "Amati satu poster tipografis: bagaimana huruf menjadi gambar utama?"
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah langkah perancangan karya tipografi",
+      "Menyusun kerangka lembar pertanggungjawaban"
+     ],
+     "mengaplikasi": [
+      "Merancang karya tipografi berdasarkan pesan yang dipilih",
+      "Menjalankan simulasi tipografi untuk menguji rancangan",
+      "Meminta umpan balik teman dan mencatatnya"
+     ],
+     "merefleksi": [
+      "Menulis keputusan desain yang paling sulit saya ambil"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 47 — Perancangan Karya Tipografi",
+     "langkah": [
+      "Tetapkan pesan dan sasaran.",
+      "Rancang tiga alternatif.",
+      "Pilih satu dan uji keterbacaan.",
+      "Isi lembar pertanggungjawaban."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Mutu rancangan",
+       "skor4": "Rancangan kuat, sesuai pesan, dan teruji",
+       "skor3": "Rancangan sesuai pesan",
+       "skor2": "Rancangan lemah",
+       "skor1": "Belum ada rancangan"
+      },
+      {
+       "kriteria": "Kelengkapan pertanggungjawaban",
+       "skor4": "Semua keputusan dijelaskan dengan alasan",
+       "skor3": "Sebagian besar dijelaskan",
+       "skor2": "Penjelasan singkat",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Perancangan karya tipografi dimulai dari",
+       "opsi": [
+        "Penetapan pesan dan sasaran",
+        "Pemilihan jenis huruf",
+        "Pemilihan warna kertas"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Lembar pertanggungjawaban desain memuat",
+       "opsi": [
+        "Alasan keputusan desain",
+        "Daftar nilai teman",
+        "Riwayat belanja bahan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Karya tipografi tahap rancangan",
+     "bentuk": "individu",
+     "luaran": "Rancangan terpilih + lembar pertanggungjawaban"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyusun kerangka pertanggungjawaban.",
+     "pengayaan": "Merancang varian karya untuk sasaran berbeda."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menyelesaikan dan mempresentasikan karya tipografi.",
+     "Menyelesaikan uji kompetensi Bab 1 Tipografi dan merefleksi capaian."
+    ],
+    "pemantik": [
+     "Apa yang kamu ubah dari rancangan awal setelah presentasi?",
+     "Apa satu hal baru yang kamu kuasai tentang huruf?"
+    ],
+    "materi": {
+     "pengantar": "Karya akhir dinilai dari keterpaduan pesan, pilihan huruf, dan ketelitian teknis. Uji kompetensi mengukur pemahaman istilah dan kemampuan menerapkan prinsip.",
+     "poin": [
+      "Presentasi memuat pesan, proses, keputusan, dan pelajaran yang didapat.",
+      "Perbaikan akhir didasarkan pada umpan balik, bukan sekadar selera.",
+      "Uji Kompetensi Bab 1 mencakup istilah tipografi, anatomi huruf, prinsip keterbacaan, dan pengaturan spasi.",
+      "Portofolio karya tipografi disimpan bersama catatan prosesnya."
+     ],
+     "istilah": [
+      {
+       "t": "uji kompetensi",
+       "a": "Penilaian akhir untuk mengukur penguasaan satu bab."
+      },
+      {
+       "t": "penilaian sejawat",
+       "a": "Penilaian antar siswa memakai rubrik yang disepakati."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Rangkuman dan uji kompetensi Bab 1",
+      "keterangan": "Pelajari rangkuman dan contoh soal pada Buku Sem 2 Bab 1 bagian akhir (halaman 26–30)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-spasi",
+      "judul": "Ceklis sebelum menyerahkan karya",
+      "keterangan": "Diagram orisinal: pesan, huruf, hierarki, spasi, keterbacaan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah rangkuman Bab 1",
+      "Menyusun kerangka presentasi karya"
+     ],
+     "mengaplikasi": [
+      "Menyelesaikan karya tipografi",
+      "Mempresentasikan dan menerima pertanyaan",
+      "Mengerjakan uji kompetensi Bab 1"
+     ],
+     "merefleksi": [
+      "Menulis capaian dan rencana perbaikan pada bab berikutnya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 48 — Penyelesaian Karya & Presentasi Tipografi",
+     "langkah": [
+      "Selesaikan karya berdasarkan umpan balik.",
+      "Presentasikan tiga menit.",
+      "Kerjakan uji kompetensi Bab 1."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kualitas karya akhir",
+       "skor4": "Pesan kuat, huruf tepat, spasi rapi, mudah dibaca",
+       "skor3": "Karya baik dan mudah dibaca",
+       "skor2": "Karya cukup",
+       "skor1": "Belum selesai"
+      },
+      {
+       "kriteria": "Mutu presentasi",
+       "skor4": "Menjelaskan keputusan desain dengan alasan dan menjawab pertanyaan",
+       "skor3": "Menjelaskan dengan alasan",
+       "skor2": "Menjelaskan singkat",
+       "skor1": "Tidak siap"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "uji-kompetensi-ebab-buku",
+     "butir": [
+      {
+       "soal": "Istilah untuk jarak antarbaris adalah",
+       "opsi": [
+        "Leading",
+        "Kerning",
+        "Tracking"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Kemudahan teks terlihat dari jarak jauh disebut",
+       "opsi": [
+        "Visibility",
+        "Readability",
+        "Legibility"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Langkah akhir sebelum karya dicetak banyak adalah",
+       "opsi": [
+        "Uji cetak dan pemeriksaan keterbacaan",
+        "Menambah jenis huruf",
+        "Memperkecil ukuran teks"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Karya tipografi akhir + uji kompetensi Bab 1",
+     "bentuk": "individu",
+     "luaran": "Karya siap cetak, lembar pertanggungjawaban, dan lembar jawaban uji kompetensi"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengulang materi spasi dan hierarki.",
+     "pengayaan": "Membuat karya tipografi untuk acara nyata di sekolah."
+    }
+   }
+  },
+  {
+   "minggu": 25,
+   "senin": {
+    "tujuan": [
+     "Menyebutkan jenis kamera dan kegunaannya.",
+     "Menjelaskan fungsi bagian-bagian kamera DSLR."
+    ],
+    "pemantik": [
+     "Mengapa kamera profesional punya lensa yang bisa diganti?",
+     "Bagian kamera mana yang menentukan banyaknya cahaya masuk?"
+    ],
+    "materi": {
+     "pengantar": "Fotografi dimulai dari mengenal alat. Kamera bekerja dengan menangkap cahaya melalui lensa dan mengubahnya menjadi gambar. Memahami bagian kamera membuat pengaturan terasa masuk akal, bukan sekadar mengikuti perintah.",
+     "poin": [
+      "Jenis kamera yang umum dijumpai: kamera ponsel, kamera saku, kamera DSLR/mirrorless dengan lensa yang dapat ditukar, dan kamera aksi.",
+      "Bagian utama DSLR: lensa, diafragma dalam lensa, tombol pelepas rana, pengukur cahaya, sensor, dan layar pengatur.",
+      "Lensa memiliki angka jarak fokus dan bukaan; lensa tetap maupun lensa zoom memberi keleluasaan berbeda.",
+      "Perawatan dasar: pasang penutup lensa, bersihkan dengan kain khusus, dan hindari paparan air serta pasir."
+     ],
+     "istilah": [
+      {
+       "t": "diafragma",
+       "a": "Bagian lensa yang mengatur banyaknya cahaya yang masuk."
+      },
+      {
+       "t": "sensor",
+       "a": "Bagian kamera yang mengubah cahaya menjadi data gambar."
+      },
+      {
+       "t": "rana",
+       "a": "Tirai pembuka yang menentukan lama cahaya masuk."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Peralatan kamera dan bagian DSLR",
+      "keterangan": "Perhatikan uraian dan gambar bagian kamera pada Buku Sem 2 Bab 2 subbab A dan B (halaman 34–48)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Menamai bagian kamera",
+      "keterangan": "Amati satu kamera (nyata atau gambar) dan tunjuk bagian-bagiannya beserta fungsinya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian jenis dan bagian kamera",
+      "Membedakan fungsi lensa, diafragma, dan sensor"
+     ],
+     "mengaplikasi": [
+      "Menandai bagian kamera pada lembar kerja",
+      "Menyalakan dan memeriksa pengaturan kamera sekolah",
+      "Menuliskan satu jenis kamera untuk kebutuhan tertentu"
+     ],
+     "merefleksi": [
+      "Menulis bagian kamera yang paling perlu saya kuasai"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 49 — Mengenal Bagian Kamera",
+     "langkah": [
+      "Tandai enam bagian kamera.",
+      "Tulis fungsi tiap bagian.",
+      "Sebutkan satu alat perawatan yang diperlukan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan penamaan bagian",
+       "skor4": "Enam bagian tepat dengan fungsi",
+       "skor3": "Enam bagian tepat",
+       "skor2": "Empat bagian",
+       "skor1": "Kurang dari empat"
+      },
+      {
+       "kriteria": "Pemahaman fungsi",
+       "skor4": "Fungsi dijelaskan dengan kaitannya pada cahaya/gambar",
+       "skor3": "Fungsi dijelaskan",
+       "skor2": "Fungsi umum",
+       "skor1": "Tidak dijelaskan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Bagian lensa yang mengatur banyaknya cahaya masuk adalah",
+       "opsi": [
+        "Diafragma",
+        "Sensor",
+        "Layar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Bagian kamera yang mengubah cahaya menjadi data gambar adalah",
+       "opsi": [
+        "Sensor",
+        "Rana",
+        "Tombol pelepas"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Uji fungsi bagian kamera",
+     "bentuk": "kelompok",
+     "luaran": "Catatan pengamatan saat mencoba mengubah pengaturan kamera"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menamai bagian kamera satu per satu.",
+     "pengayaan": "Membandingkan dua jenis kamera dan kegunaannya."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menjalankan operasi dasar kamera DSLR: menyalakan, mengatur mode, membidik, memfokuskan, dan memotret.",
+     "Menerapkan perawatan dan penyimpanan peralatan fotografi."
+    ],
+    "pemantik": [
+     "Mengapa foto bisa terlihat kabur meskipun objeknya terang?",
+     "Mengapa lensa perlu dipasang dan dilepas dengan hati-hati?"
+    ],
+    "materi": {
+     "pengantar": "Menguasai kamera berarti dapat mengulang hasil yang sama. Latihan rutin pada mode yang paling sederhana membuat tangan terbiasa sebelum masuk ke pengaturan yang lebih rumit.",
+     "poin": [
+      "Urutan dasar: nyalakan kamera, pilih mode, atur ukuran gambar, pilih titik fokus, bidik, lalu tekan pelepas rana setengah jalan untuk mengunci fokus.",
+      "Cara memegang kamera menentukan ketajaman: siku menempel tubuh dan tarik napas sebelum menekan tombol.",
+      "Lensa dilepas dengan kamera dimatikan, tubuh lensa ditahan, dan penutup dipasang kembali setelah digunakan.",
+      "Penyimpanan: masukkan kamera ke tas dengan silica gel, jauhkan dari panas, dan keluarkan baterai bila lama tidak dipakai."
+     ],
+     "istilah": [
+      {
+       "t": "memfokuskan",
+       "a": "Mengatur kamera agar objek utama tampak tajam."
+      },
+      {
+       "t": "mode kamera",
+       "a": "Pilihan pengaturan otomatis atau manual pada kamera."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Cara memegang kamera",
+      "keterangan": "Bandingkan dua cara memegang kamera dan tentukan mana yang menghasilkan gambar lebih tajam."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-kamera",
+      "judul": "Urutan dasar memotret",
+      "keterangan": "Diagram orisinal: nyalakan → atur → bidik → kunci fokus → potret."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menyimak urutan operasi dasar kamera",
+      "Mengenali tanda fokus pada layar"
+     ],
+     "mengaplikasi": [
+      "Melakukan latihan memotret satu objek dengan tiga titik fokus",
+      "Merawat lensa dan menyimpan kamera sesuai prosedur",
+      "Membandingkan tingkat ketajaman hasil"
+     ],
+     "merefleksi": [
+      "Menulis kebiasaan memegang kamera yang perlu saya perbaiki"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 50 — Operasi Dasar & Perawatan Kamera",
+     "langkah": [
+      "Lakukan urutan dasar memotret.",
+      "Simpan tiga hasil foto.",
+      "Isi ceklis perawatan setelah penggunaan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan operasi",
+       "skor4": "Seluruh langkah dilakukan mandiri dan benar",
+       "skor3": "Langkah dilakukan benar",
+       "skor2": "Perlu bimbingan",
+       "skor1": "Belum dapat"
+      },
+      {
+       "kriteria": "Kedisiplinan perawatan",
+       "skor4": "Ceklis lengkap dan alat dikembalikan sesuai tempat",
+       "skor3": "Ceklis diisi",
+       "skor2": "Ceklis sebagian",
+       "skor1": "Tidak melakukan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Cara memegang kamera agar hasil tajam adalah",
+       "opsi": [
+        "Siku menempel tubuh dan tahan napas saat menekan",
+        "Kamera dipegang satu tangan jauh dari tubuh",
+        "Kamera diletakkan di atas pagar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Lensa sebaiknya dilepas saat kamera",
+       "opsi": [
+        "Dimatikan",
+        "Menyala",
+        "Sedang merekam video"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Tiga hasil foto latihan fokus",
+     "bentuk": "individu",
+     "luaran": "Tiga berkas foto + catatan titik fokus yang dipakai"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan latihan memegang dan membidik.",
+     "pengayaan": "Melatih pemotretan objek bergerak perlahan."
+    }
+   }
+  },
+  {
+   "minggu": 26,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan pengertian segitiga eksposur.",
+     "Membedakan pengaruh aperture, shutter speed, dan ISO terhadap hasil foto."
+    ],
+    "pemantik": [
+     "Mengapa foto bisa terlalu gelap meskipun matahari terang?",
+     "Apa yang membuat latar belakang foto tampak kabur?"
+    ],
+    "materi": {
+     "pengantar": "Eksposur adalah jumlah cahaya yang diterima sensor. Tiga pengatur saling memengaruhi: besar bukaan lensa (aperture), lama cahaya masuk (shutter speed), dan kepekaan sensor (ISO). Mengubah satu pengatur menuntut penyesuaian pengatur lain agar kecerahan tetap seimbang.",
+     "poin": [
+      "Aperture besar (angka kecil) memasukkan banyak cahaya dan membuat ruang tajam menjadi dangkal sehingga latar mudah kabur.",
+      "Aperture kecil (angka besar) memasukkan sedikit cahaya namun ruang tajam menjadi luas.",
+      "Shutter lambat memasukkan lebih banyak cahaya tetapi berisiko gambar kabur jika objek bergerak.",
+      "ISO tinggi mencerahkan gambar pada cahaya minim namun menimbulkan bintik (noise) pada hasil."
+     ],
+     "istilah": [
+      {
+       "t": "eksposur",
+       "a": "Jumlah cahaya yang diterima sensor saat memotret."
+      },
+      {
+       "t": "ruang tajam",
+       "a": "Wilayah pada foto yang tampak tajam."
+      },
+      {
+       "t": "noise",
+       "a": "Bintik pada foto akibat kepekaan sensor terlalu tinggi."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Segitiga exposure kamera",
+      "keterangan": "Perhatikan uraian dan contoh pengaruh pengaturan pada Buku Sem 2 Bab 2 subbab C (halaman 49–52)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-segitiga-eksposur",
+      "judul": "Segitiga eksposur",
+      "keterangan": "Diagram orisinal: aperture, shutter speed, dan ISO beserta akibatnya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian tiga pengatur eksposur",
+      "Mengaitkan tiap pengatur dengan akibat visualnya"
+     ],
+     "mengaplikasi": [
+      "Menjalankan simulasi fotografi untuk menguji aperture, shutter, dan ISO",
+      "Mencatat pengaruh tiap perubahan",
+      "Menentukan pengaturan untuk kondisi terang dan redup"
+     ],
+     "merefleksi": [
+      "Menulis pengatur yang paling sulit saya pahami beserta alasannya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 51 — Mengenal Segitiga Eksposur",
+     "langkah": [
+      "Uji tiga nilai aperture pada simulasi.",
+      "Uji tiga nilai shutter.",
+      "Uji tiga nilai ISO.",
+      "Tulis akibat tiap perubahan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pengamatan",
+       "skor4": "Sembilan uji dilakukan dan dicatat tepat",
+       "skor3": "Uji dilakukan dengan catatan",
+       "skor2": "Sebagian uji dilakukan",
+       "skor1": "Tidak melakukan uji"
+      },
+      {
+       "kriteria": "Pemahaman hubungan antar pengatur",
+       "skor4": "Menjelaskan saling pengaruh dengan contoh",
+       "skor3": "Menjelaskan saling pengaruh",
+       "skor2": "Menjelaskan satu arah saja",
+       "skor1": "Belum memahami"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Angka aperture kecil berarti",
+       "opsi": [
+        "Bukaan lebar, latar mudah kabur",
+        "Bukaan sempit, semua tajam",
+        "Cahaya tidak masuk"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "ISO tinggi pada cahaya minim menyebabkan",
+       "opsi": [
+        "Bintik (noise) bertambah",
+        "Warna menjadi biru",
+        "Foto menjadi lebih tajam"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Catatan uji tiga pengatur eksposur",
+     "bentuk": "individu",
+     "luaran": "Tabel hasil uji simulasi + kesimpulan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengulang uji satu pengatur saja.",
+     "pengayaan": "Menyusun rekomendasi pengaturan untuk situasi tertentu."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menerapkan pengaturan eksposur pada latihan pemotretan nyata.",
+     "Menyesuaikan pengaturan sesuai kondisi cahaya di lokasi."
+    ],
+    "pemantik": [
+     "Bagaimana memotret di ruang kelas yang lampunya redup?",
+     "Apa yang perlu diubah jika foto terlalu terang?"
+    ],
+    "materi": {
+     "pengantar": "Pengaturan eksposur diuji di lokasi nyata. Setiap ruang punya masalah cahaya sendiri, sehingga fotografer perlu menyesuaikan dengan cepat dan memeriksa hasil sebelum meninggalkan lokasi.",
+     "poin": [
+      "Di luar ruangan pada siang hari, bukaan sedang dan ISO rendah sudah cukup.",
+      "Di dalam ruangan, memperlambat shutter membantu namun kamera perlu bertumpu untuk menghindari kabur.",
+      "Menyeimbangkan tiga pengatur dilakukan bertahap: mulai dari kebutuhan ruang tajam, lalu kecepatan, terakhir kepekaan.",
+      "Memeriksa hasil di layar kamera sambil memperhatikan kecerahan diperlukan sebelum penyerahan."
+     ],
+     "istilah": [
+      {
+       "t": "semua-sesuai (manual)",
+       "a": "Mode memotret dengan seluruh pengaturan diatur sendiri."
+      },
+      {
+       "t": "mengunci fokus",
+       "a": "Menyimpan titik fokus pada objek utama sebelum memotret."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Foto terang, normal, gelap",
+      "keterangan": "Amati tiga contoh foto dari kondisi yang sama dan tentukan pengaturan yang paling seimbang."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-segitiga-eksposur",
+      "judul": "Langkah menyeimbangkan eksposur",
+      "keterangan": "Diagram orisinal: ruang tajam → kecepatan → kepekaan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah masalah pencahayaan ruang kelas",
+      "Mempelajari urutan penyeimbangan"
+     ],
+     "mengaplikasi": [
+      "Memotret objek di dalam dan luar ruangan",
+      "Membandingkan hasil dua pengaturan berbeda",
+      "Menjalankan simulasi fotografi untuk menguji ulang"
+     ],
+     "merefleksi": [
+      "Menulis pengaturan terbaik yang saya temukan dan alasannya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 52 — Praktik Eksposur Indoor & Outdoor",
+     "langkah": [
+      "Ambil lima foto di dalam ruangan.",
+      "Ambil lima foto di luar ruangan.",
+      "Pilih pengaturan terbaik dan catat alasannya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kesesuaian pengaturan",
+       "skor4": "Sepuluh foto dengan pengaturan sesuai kondisi",
+       "skor3": "Delapan foto sesuai",
+       "skor2": "Lima foto sesuai",
+       "skor1": "Kurang dari lima"
+      },
+      {
+       "kriteria": "Kualitas dokumentasi",
+       "skor4": "Catatan pengaturan lengkap tiap foto",
+       "skor3": "Catatan sebagian besar foto",
+       "skor2": "Catatan singkat",
+       "skor1": "Tidak ada catatan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Pada siang hari di luar ruangan, pengaturan yang tepat umumnya",
+       "opsi": [
+        "Bukaan sedang dan ISO rendah",
+        "Bukaan sangat lebar dan ISO tinggi",
+        "Shutter sangat lambat"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Memotret di ruangan redup dengan shutter lambat sebaiknya",
+       "opsi": [
+        "Kamera ditumpu agar tidak kabur",
+        "Kamera digerakkan cepat",
+        "Lensa ditutup sebagian"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Sepuluh foto latihan eksposur + catatan",
+     "bentuk": "individu",
+     "luaran": "Sepuluh berkas foto dan tabel pengaturan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memotret dengan mode otomatis lalu membaca hasilnya.",
+     "pengayaan": "Latihan memotret objek bergerak dengan kecepatan berbeda."
+    }
+   }
+  },
+  {
+   "minggu": 27,
+   "senin": {
+    "tujuan": [
+     "Menggunakan kamera DSLR sesuai langkah penggunaan yang benar.",
+     "Menjelaskan fungsi alat penunjang fotografi indoor dan outdoor."
+    ],
+    "pemantik": [
+     "Alat apa yang membuat foto di ruangan gelap tetap terang?",
+     "Mengapa reflektor berguna meski matahari bersinar terang?"
+    ],
+    "materi": {
+     "pengantar": "Alat penunjang membantu fotografer mengendalikan cahaya. Dengan alat sederhana seperti reflektor dan lampu, hasil foto dapat dibuat lebih rapi tanpa harus mengganti kamera.",
+     "poin": [
+      "Langkah penggunaan kamera: siapkan kamera, periksa daya, atur ukuran gambar, atur eksposur, tentukan titik fokus, potret, lalu tinjau hasil.",
+      "Alat penunjang dalam ruangan: lampu belajar atau lampu meja, reflektor dari kertas putih, dan alas/meja foto sederhana.",
+      "Alat penunjang luar ruangan: tripod, penutup lensa, tas tahan air, dan pelindung dari terik berlebih.",
+      "Penggunaan tripod memungkinkan shutter lambat tanpa risiko kabur."
+     ],
+     "istilah": [
+      {
+       "t": "reflektor",
+       "a": "Bidang pemantul cahaya yang mengisi bagian bayangan objek."
+      },
+      {
+       "t": "tripod",
+       "a": "Penyangga tiga kaki untuk menjaga kamera tetap stabil."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Penggunaan kamera dan alat penunjang",
+      "keterangan": "Perhatikan uraian pada Buku Sem 2 Bab 2 subbab D dan E (halaman 53–57)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-kamera",
+      "judul": "Peran alat penunjang",
+      "keterangan": "Diagram orisinal: sumber cahaya, reflektor, objek, dan kamera."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah fungsi alat penunjang",
+      "Mempelajari langkah penggunaan kamera"
+     ],
+     "mengaplikasi": [
+      "Menyiapkan meja foto sederhana dengan reflektor",
+      "Memotret satu objek memakai dan tanpa reflektor",
+      "Membandingkan hasil kedua foto"
+     ],
+     "merefleksi": [
+      "Menulis alat penunjang yang paling membantu di kondisi kelas"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 53 — Alat Penunjang & Latihan Meja Foto",
+     "langkah": [
+      "Susun meja foto dengan latar sederhana.",
+      "Potret objek tanpa reflektor.",
+      "Potret objek dengan reflektor.",
+      "Bandingkan hasilnya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pemasangan alat",
+       "skor4": "Susunan alat tepat dan aman",
+       "skor3": "Susunan tepat",
+       "skor2": "Perlu dibantu",
+       "skor1": "Belum tepat"
+      },
+      {
+       "kriteria": "Mutu perbandingan hasil",
+       "skor4": "Perbedaan dijelaskan dengan bukti foto",
+       "skor3": "Perbandingan dijelaskan",
+       "skor2": "Perbandingan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Alat yang menjaga kamera stabil saat shutter lambat adalah",
+       "opsi": [
+        "Tripod",
+        "Reflektor",
+        "Layar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Fungsi reflektor adalah",
+       "opsi": [
+        "Mengisi bagian bayangan agar objek tidak terlalu gelap",
+        "Menambah noise",
+        "Memperkecil ukuran berkas"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Dua foto objek (tanpa & dengan reflektor)",
+     "bentuk": "individu",
+     "luaran": "Dua berkas foto + catatan perbedaan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyusun meja foto.",
+     "pengayaan": "Merancang alat penunjang dari bahan sederhana."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menyebutkan jenis-jenis fotografi dan kegunaannya.",
+     "Menjalankan latihan pembidikan sesuai jenis fotografi yang dipilih."
+    ],
+    "pemantik": [
+     "Apa perbedaan kebutuhan foto produk dan foto jurnalistik?",
+     "Jenis foto apa yang paling cocok untuk promosi usaha kecil?"
+    ],
+    "materi": {
+     "pengantar": "Jenis fotografi berkembang sesuai kebutuhan pemesan. Mengenal jenisnya membantu menentukan pendekatan: apakah foto harus sangat rinci seperti produk, atau menangkap momen seperti jurnalistik.",
+     "poin": [
+      "Fotografi produk mementingkan ketajaman, latar bersih, dan pencahayaan rata.",
+      "Fotografi potret menonjolkan wajah dan ekspresi, biasanya memakai ruang tajam dangkal.",
+      "Fotografi jurnalistik dan dokumentasi menangkap kejadian secara apa adanya dengan cepat.",
+      "Fotografi lanskap dan arsitektur membutuhkan ruang tajam luas serta komposisi yang tertata."
+     ],
+     "istilah": [
+      {
+       "t": "fotografi produk",
+       "a": "Pemotretan barang untuk keperluan promosi atau penjualan."
+      },
+      {
+       "t": "fotografi jurnalistik",
+       "a": "Pemotretan peristiwa untuk menyampaikan informasi atau berita."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Jenis-jenis fotografi",
+      "keterangan": "Perhatikan contoh pada Buku Sem 2 Bab 2 subbab F (halaman 58–64)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Tiga foto, tiga keperluan",
+      "keterangan": "Amati tiga foto: produk, potret, dan peristiwa; tentukan perbedaan pendekatannya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian jenis fotografi",
+      "Mengaitkan jenis foto dengan kebutuhan pemesan"
+     ],
+     "mengaplikasi": [
+      "Memilih satu jenis fotografi untuk dilatih",
+      "Melakukan latihan pembidikan dan pengambilan gambar",
+      "Menilai kelayakan hasil untuk kebutuhan nyata"
+     ],
+     "merefleksi": [
+      "Menulis jenis fotografi yang paling ingin saya tekuni"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 54 — Jenis Fotografi & Latihan Pembidikan",
+     "langkah": [
+      "Pilih satu jenis fotografi.",
+      "Tentukan kebutuhan fotonya.",
+      "Ambil lima foto sesuai kebutuhan.",
+      "Tulis penilaian hasil."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kesesuaian hasil dengan jenis",
+       "skor4": "Lima foto sesuai kebutuhan jenis",
+       "skor3": "Empat foto sesuai",
+       "skor2": "Dua-tiga foto sesuai",
+       "skor1": "Tidak sesuai"
+      },
+      {
+       "kriteria": "Mutu penilaian diri",
+       "skor4": "Menilai kekurangan dengan alasan teknis",
+       "skor3": "Menilai kekurangan",
+       "skor2": "Penilaian umum",
+       "skor1": "Tidak menilai"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Fotografi produk memerlukan",
+       "opsi": [
+        "Ketajaman dan latar bersih",
+        "Gambar kabur",
+        "Banyak noise"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Fotografi jurnalistik menekankan",
+       "opsi": [
+        "Kecepatan menangkap peristiwa apa adanya",
+        "Kerapian latar studio",
+        "Warna pucat"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Lima foto sesuai jenis fotografi pilihan",
+     "bentuk": "individu",
+     "luaran": "Lima berkas foto + catatan kebutuhan dan penilaian"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memilih jenis foto yang paling mudah dilakukan.",
+     "pengayaan": "Memotret kebutuhan promosi nyata di sekolah."
+    }
+   }
+  },
+  {
+   "minggu": 28,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan ukuran gambar (shot size) dalam fotografi.",
+     "Menjelaskan pengaruh sudut pengambilan gambar terhadap kesan foto."
+    ],
+    "pemantik": [
+     "Mengapa foto dari bawah membuat orang tampak berwibawa?",
+     "Apa bedanya foto seluruh badan dan foto wajah dari sisi cerita?"
+    ],
+    "materi": {
+     "pengantar": "Ukuran gambar menentukan seberapa dekat penonton dengan objek, sedangkan sudut pengambilan menentukan posisi penonton terhadap objek. Keduanya menyampaikan kesan yang berbeda.",
+     "poin": [
+      "Ukuran gambar umum: sangat jauh, jauh, sedang, dekat, dan sangat dekat; makin dekat, makin kuat perhatian pada objek.",
+      "Sudut pengambilan umum: sejajar mata, dari bawah (rendah), dari atas (tinggi), dan dari sisi samping.",
+      "Sudut rendah membuat objek tampak berwibawa atau besar; sudut tinggi membuat objek tampak kecil atau lemah.",
+      "Ukuran gambar dan sudut dipilih menurut pesan yang ingin disampaikan, bukan sekadar variasi."
+     ],
+     "istilah": [
+      {
+       "t": "ukuran gambar",
+       "a": "Sejauh mana objek tampak dalam bingkai foto."
+      },
+      {
+       "t": "sudut pengambilan",
+       "a": "Posisi kamera terhadap objek saat memotret."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Ukuran gambar dan sudut pengambilan",
+      "keterangan": "Perhatikan uraian dan contoh pada Buku Sem 2 Bab 2 subbab G (halaman 65–73)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-shot-size",
+      "judul": "Lima ukuran gambar",
+      "keterangan": "Diagram orisinal: perbandingan bingkai sangat jauh sampai sangat dekat."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian ukuran gambar dan sudut",
+      "Mengaitkan ukuran/sudut dengan kesan yang ditimbulkan"
+     ],
+     "mengaplikasi": [
+      "Memotret satu objek dengan tiga ukuran gambar",
+      "Memotret objek sama dari tiga sudut",
+      "Menjalankan simulasi fotografi untuk menguji perbedaan"
+     ],
+     "merefleksi": [
+      "Menulis ukuran dan sudut yang paling cocok untuk pesan tertentu"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 55 — Ukuran Gambar & Sudut Pengambilan",
+     "langkah": [
+      "Ambil tiga ukuran gambar.",
+      "Ambil tiga sudut berbeda.",
+      "Beri keterangan kesan tiap foto."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kelengkapan variasi",
+       "skor4": "Enam foto dengan variasi jelas dan rapi",
+       "skor3": "Enam foto ada",
+       "skor2": "Empat foto",
+       "skor1": "Kurang dari empat"
+      },
+      {
+       "kriteria": "Ketepatan keterangan kesan",
+       "skor4": "Kesan dijelaskan sesuai ukuran/sudut",
+       "skor3": "Kesan dijelaskan",
+       "skor2": "Kesan umum",
+       "skor1": "Tidak dijelaskan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Foto dari sudut rendah terhadap objek membuat objek tampak",
+       "opsi": [
+        "Berwibawa dan besar",
+        "Kecil dan lemah",
+        "Sama saja"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Ukuran gambar yang paling dekat berfungsi untuk",
+       "opsi": [
+        "Memusatkan perhatian pada rincian objek",
+        "Menunjukkan seluruh pemandangan",
+        "Menampilkan latar seluas mungkin"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Enam foto variasi ukuran & sudut",
+     "bentuk": "individu",
+     "luaran": "Enam berkas foto + keterangan kesan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan latihan satu ukuran gambar saja.",
+     "pengayaan": "Menyusun cerita foto lima bingkai tentang satu kegiatan."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menerapkan komposisi dan aturan penempatan objek dalam bingkai.",
+     "Melakukan pengambilan gambar objek bergerak dengan teknik mengikuti objek."
+    ],
+    "pemantik": [
+     "Mengapa objek tidak selalu diletakkan di tengah bingkai?",
+     "Bagaimana memotret teman yang sedang berlari agar tetap tajam?"
+    ],
+    "materi": {
+     "pengantar": "Komposisi mengatur letak objek sehingga foto nyaman dilihat. Salah satu pedoman yang sering dipakai adalah menempatkan objek pada sepertiga bidang dan memberi ruang gerak di depan objek.",
+     "poin": [
+      "Pedoman sepertiga: bingkai dibayangkan dibagi tiga secara mendatar dan tegak, lalu objek utama diletakkan dekat garis pembagi.",
+      "Memberi ruang di arah gerak atau arah pandang membuat foto terasa lebih hidup.",
+      "Latar yang terlalu ramai mengganggu objek utama sehingga perlu disederhanakan atau diberi ruang tajam dangkal.",
+      "Teknik mengikuti objek bergerak dilakukan dengan menggerakkan kamera seiring gerak objek pada kecepatan rana sedang."
+     ],
+     "istilah": [
+      {
+       "t": "komposisi",
+       "a": "Susunan objek dalam bidang foto."
+      },
+      {
+       "t": "pedoman sepertiga",
+       "a": "Pedoman penempatan objek pada sepertiga bidang foto."
+      },
+      {
+       "t": "mengikuti objek",
+       "a": "Teknik menggerakkan kamera searah gerak objek (panning)."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Objek di tengah vs sepertiga",
+      "keterangan": "Bandingkan dua foto dengan penempatan berbeda dan tentukan mana yang lebih nyaman dilihat."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-komposisi",
+      "judul": "Garis sepertiga",
+      "keterangan": "Diagram orisinal: penempatan objek dan arah gerak pada bingkai."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah pedoman komposisi",
+      "Menganalisis penyebab foto terasa ramai"
+     ],
+     "mengaplikasi": [
+      "Memotret objek dengan pedoman sepertiga",
+      "Berlatih teknik mengikuti objek bergerak",
+      "Memilih lima hasil terbaik beserta alasannya"
+     ],
+     "merefleksi": [
+      "Menulis kebiasaan komposisi yang perlu saya perbaiki"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 56 — Praktik Komposisi & Mengikuti Objek",
+     "langkah": [
+      "Ambil tiga foto memakai pedoman sepertiga.",
+      "Ambil tiga foto objek bergerak.",
+      "Pilih hasil terbaik dan jelaskan alasannya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Penerapan komposisi",
+       "skor4": "Tiga foto tertata rapi sesuai pedoman",
+       "skor3": "Dua foto tertata baik",
+       "skor2": "Satu foto tertata",
+       "skor1": "Belum tertata"
+      },
+      {
+       "kriteria": "Ketajaman objek bergerak",
+       "skor4": "Objek relatif tajam dengan latar bergerak",
+       "skor3": "Objek cukup tajam",
+       "skor2": "Objek agak kabur",
+       "skor1": "Seluruh foto kabur"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Pedoman sepertiga menempatkan objek utama pada",
+       "opsi": [
+        "Sekitar garis pembagi bidang",
+        "Tepat di tengah selalu",
+        "Tepi paling luar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Teknik mengikuti objek bergerak dilakukan dengan",
+       "opsi": [
+        "Menggerakkan kamera searah gerak objek",
+        "Menggoyangkan kamera acak",
+        "Menutup lensa"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Enam foto komposisi & objek bergerak",
+     "bentuk": "individu",
+     "luaran": "Enam berkas foto + pilihan terbaik dengan alasan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan latihan penempatan objek.",
+     "pengayaan": "Memotret kegiatan sekolah untuk kebutuhan publikasi."
+    }
+   }
+  },
+  {
+   "minggu": 29,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan karakter arah cahaya dalam fotografi.",
+     "Memilih arah cahaya yang sesuai dengan pesan foto."
+    ],
+    "pemantik": [
+     "Mengapa wajah bisa tampak rata saat cahaya datang dari depan?",
+     "Arah cahaya mana yang paling menonjolkan tekstur?"
+    ],
+    "materi": {
+     "pengantar": "Arah datangnya cahaya membentuk bayangan, dan bayanganlah yang membuat objek terlihat berdimensi. Memindahkan satu langkah posisi lampu bisa mengubah keseluruhan kesan foto.",
+     "poin": [
+      "Cahaya dari depan meratakan bayangan sehingga objek terkesan datar namun aman untuk foto produk.",
+      "Cahaya dari samping menonjolkan tekstur dan bentuk sehingga cocok untuk foto barang bertekstur.",
+      "Cahaya dari belakang menciptakan siluet atau garis cahaya di tepi objek, memberi kesan dramatis.",
+      "Cahaya dari atas membuat bayangan di bawah objek dan sering kurang menyenangkan untuk wajah."
+     ],
+     "istilah": [
+      {
+       "t": "arah cahaya",
+       "a": "Datangnya cahaya terhadap posisi objek dan kamera."
+      },
+      {
+       "t": "siluet",
+       "a": "Bentuk objek gelap tanpa rincian karena cahaya berasal dari belakang."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Pencahayaan pada fotografi",
+      "keterangan": "Perhatikan uraian dan contoh arah cahaya pada Buku Sem 2 Bab 2 subbab H (halaman 74–76)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-cahaya",
+      "judul": "Empat arah cahaya",
+      "keterangan": "Diagram orisinal: depan, samping, belakang, dan atas beserta kesan yang muncul."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian arah cahaya",
+      "Membandingkan kesan tiap arah"
+     ],
+     "mengaplikasi": [
+      "Memotret satu objek dengan empat arah cahaya",
+      "Menjalankan simulasi pencahayaan untuk menguji perbedaan",
+      "Memilih arah terbaik sesuai pesan"
+     ],
+     "merefleksi": [
+      "Menulis arah cahaya yang paling cocok untuk kebutuhan fotografi saya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 57 — Empat Arah Cahaya",
+     "langkah": [
+      "Siapkan satu objek dan satu sumber cahaya.",
+      "Potret dari empat arah.",
+      "Tulis kesan tiap foto."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kelengkapan variasi cahaya",
+       "skor4": "Empat arah terdokumentasi jelas",
+       "skor3": "Empat arah ada",
+       "skor2": "Dua-tiga arah",
+       "skor1": "Kurang dari dua"
+      },
+      {
+       "kriteria": "Analisis kesan",
+       "skor4": "Kesan dijelaskan dengan kaitannya pada bayangan",
+       "skor3": "Kesan dijelaskan",
+       "skor2": "Kesan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Cahaya dari samping paling cocok untuk",
+       "opsi": [
+        "Menonjolkan tekstur objek",
+        "Membuat siluet",
+        "Menghilangkan bayangan"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Foto siluet terjadi bila cahaya datang dari",
+       "opsi": [
+        "Belakang objek",
+        "Depan objek",
+        "Samping objek"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Empat foto arah cahaya satu objek",
+     "bentuk": "individu",
+     "luaran": "Empat berkas foto + catatan kesan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memindahkan sumber cahaya secara bertahap.",
+     "pengayaan": "Membuat foto produk dengan tiga arah cahaya berbeda lalu memilih terbaik."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menerapkan pencahayaan pada pemotretan di dalam dan luar ruangan.",
+     "Mengatasi masalah pencahayaan umum dengan alat sederhana."
+    ],
+    "pemantik": [
+     "Bagaimana menghindari bayangan gelap di bawah mata saat foto di luar?",
+     "Apa yang bisa dipakai sebagai reflektor darurat?"
+    ],
+    "materi": {
+     "pengantar": "Di lapangan, cahaya tidak selalu ideal. Fotografer mengatasinya dengan memindahkan objek, memantulkan cahaya, atau mengubah posisi kamera.",
+     "poin": [
+      "Pada siang terik, memotret di area teduh dengan pantulan cahaya memberi hasil lebih rata pada wajah.",
+      "Memotret menghadap arah cahaya menghindari wajah gelap; memotret membelakangi cahaya menghasilkan siluet.",
+      "Kertas putih atau dinding terang dapat dipakai sebagai reflektor darurat.",
+      "Di dalam ruangan, menyalakan lampu tambahan dan menjauhkan objek dari dinding menghasilkan bayangan lebih rapi."
+     ],
+     "istilah": [
+      {
+       "t": "cahaya tidak langsung",
+       "a": "Cahaya yang dipantulkan lebih dahulu sehingga lebih lembut."
+      },
+      {
+       "t": "bayangan keras",
+       "a": "Bayangan dengan tepi tajam akibat sumber cahaya kecil dan dekat."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Siang terik vs area teduh",
+      "keterangan": "Bandingkan foto di bawah matahari langsung dan di area teduh dengan pantulan."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-cahaya",
+      "judul": "Solusi cahaya lapangan",
+      "keterangan": "Diagram orisinal: memindah objek, memantul, mengubah posisi kamera."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menganalisis masalah pencahayaan lapangan",
+      "Menelaah penggunaan reflektor darurat"
+     ],
+     "mengaplikasi": [
+      "Memotret di dalam dan luar ruangan dengan pencahayaan buatan seadanya",
+      "Mengatasi satu masalah bayangan keras",
+      "Menjalankan simulasi pencahayaan"
+     ],
+     "merefleksi": [
+      "Menulis solusi yang paling berhasil saya terapkan hari ini"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 58 — Praktik Foto Indoor & Outdoor",
+     "langkah": [
+      "Ambil tiga foto di dalam ruangan.",
+      "Ambil tiga foto di luar ruangan.",
+      "Catat masalah cahaya dan solusinya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Mutu hasil foto",
+       "skor4": "Enam foto terang seimbang dan tajam",
+       "skor3": "Empat-lima foto baik",
+       "skor2": "Dua-tiga foto baik",
+       "skor1": "Sebagian besar belum baik"
+      },
+      {
+       "kriteria": "Catatan solusi",
+       "skor4": "Masalah dan solusi dijelaskan tepat",
+       "skor3": "Catatan jelas",
+       "skor2": "Catatan singkat",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Untuk menghindari wajah gelap saat foto di luar, sebaiknya",
+       "opsi": [
+        "Memotret menghadap arah cahaya",
+        "Memotret membelakangi cahaya",
+        "Menutup sebagian lensa"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Reflektor darurat dapat dibuat dari",
+       "opsi": [
+        "Kertas putih atau dinding terang",
+        "Kain hitam",
+        "Kaca gelap"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Enam foto indoor & outdoor + catatan solusi",
+     "bentuk": "individu",
+     "luaran": "Enam berkas foto dan tabel masalah-solusi"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memilih lokasi dengan cahaya lebih baik.",
+     "pengayaan": "Membuat panduan pencahayaan sederhana untuk kelas."
+    }
+   }
+  },
+  {
+   "minggu": 30,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan langkah dasar penyuntingan foto digital.",
+     "Menerapkan penyesuaian dasar tanpa berlebihan."
+    ],
+    "pemantik": [
+     "Seberapa jauh foto boleh diubah sebelum dianggap tidak jujur?",
+     "Mengapa foto yang terlalu banyak disunting terlihat aneh?"
+    ],
+    "materi": {
+     "pengantar": "Penyuntingan memperbaiki foto agar tampil sesuai maksud, bukan menjadikannya berbeda dari kenyataan. Penyesuaian dasar mencakup memotong bingkai, kecerahan, kontras, dan warna.",
+     "poin": [
+      "Pemotongan bingkai (crop) memperbaiki komposisi dan membuang bagian yang mengganggu.",
+      "Kecerahan dan kontras disesuaikan agar rincian gelap dan terang tetap terlihat.",
+      "Penyesuaian warna menjaga kesan asli objek; pergantian warna berlebihan membuat foto terasa tidak wajar.",
+      "Aturan penting: foto untuk keperluan dokumentasi dan berita tidak boleh diubah isinya."
+     ],
+     "istilah": [
+      {
+       "t": "penyuntingan",
+       "a": "Pengolahan berkas foto setelah pengambilan gambar."
+      },
+      {
+       "t": "pemotongan bingkai",
+       "a": "Memotong sebagian bidang foto untuk memperbaiki susunan (crop)."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Penyuntingan fotografi digital",
+      "keterangan": "Perhatikan uraian langkah penyuntingan pada Buku Sem 2 Bab 2 subbab I (halaman 77–81)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-sunting",
+      "judul": "Langkah sunting dasar",
+      "keterangan": "Diagram orisinal: potong → kecerahan → kontras → warna → simpan versi."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian langkah penyuntingan",
+      "Membedakan penyesuaian wajar dan berlebihan"
+     ],
+     "mengaplikasi": [
+      "Menyunting satu foto memakai penyesuaian dasar",
+      "Menyimpan versi sebelum dan sesudah",
+      "Memeriksa hasil pada dua ukuran tampilan"
+     ],
+     "merefleksi": [
+      "Menulis batas penyuntingan yang menurut saya pantas"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 59 — Penyuntingan Dasar Foto",
+     "langkah": [
+      "Pilih satu foto hasil praktik.",
+      "Potong dan sesuaikan kecerahan.",
+      "Sesuaikan kontras dan warna.",
+      "Simpan dua versi."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan penyesuaian",
+       "skor4": "Hasil lebih baik tanpa kehilangan rincian",
+       "skor3": "Hasil membaik",
+       "skor2": "Penyesuaian berlebihan",
+       "skor1": "Tidak disunting"
+      },
+      {
+       "kriteria": "Penyimpanan versi",
+       "skor4": "Dua versi tersimpan rapi dengan catatan",
+       "skor3": "Dua versi tersimpan",
+       "skor2": "Hanya satu versi",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Pemotongan bingkai berfungsi untuk",
+       "opsi": [
+        "Memperbaiki komposisi dan membuang bagian pengganggu",
+        "Menambah rincian yang hilang",
+        "Mengubah isi foto"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Foto dokumentasi tidak boleh disunting dengan cara",
+       "opsi": [
+        "Menghilangkan atau mengubah isi peristiwa",
+        "Menyesuaikan kecerahan",
+        "Memotong bingkai"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Foto sebelum & sesudah disunting",
+     "bentuk": "individu",
+     "luaran": "Dua berkas foto + catatan langkah penyuntingan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyunting satu langkah saja.",
+     "pengayaan": "Menyunting tiga foto dengan gaya konsisten."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mengevaluasi hasil foto memakai kriteria yang jelas.",
+     "Menyelesaikan uji kompetensi Bab 2 dan merefleksi capaian."
+    ],
+    "pemantik": [
+     "Kriteria apa yang kamu pakai untuk memilih foto terbaik?",
+     "Apa yang membedakan foto sekadar jadi dan foto yang berhasil?"
+    ],
+    "materi": {
+     "pengantar": "Menilai foto memerlukan kriteria agar penilaian tidak sekadar selera. Kriteria umum meliputi ketajaman, eksposur, komposisi, dan kesesuaian dengan keperluan.",
+     "poin": [
+      "Ketajaman: bagian utama foto harus tajam dan tanpa guncangan.",
+      "Eksposur: kecerahan tidak membuat bagian penting kehilangan rincian.",
+      "Komposisi: susunan objek, latar, dan ruang gerak mendukung pesan.",
+      "Kesesuaian keperluan: foto produk harus bersih, foto kegiatan harus menangkap momen."
+     ],
+     "istilah": [
+      {
+       "t": "evaluasi hasil",
+       "a": "Penilaian karya berdasarkan kriteria yang telah ditetapkan."
+      },
+      {
+       "t": "seleksi foto",
+       "a": "Memilih foto terbaik dari sekumpulan hasil pemotretan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Rangkuman dan uji kompetensi Bab 2",
+      "keterangan": "Pelajari rangkuman dan contoh soal pada Buku Sem 2 Bab 2 bagian akhir (halaman 82–86)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-sunting",
+      "judul": "Empat kriteria penilaian foto",
+      "keterangan": "Diagram orisinal: ketajaman, eksposur, komposisi, kesesuaian keperluan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah kriteria penilaian foto",
+      "Membandingkan penilaian dua pengamat"
+     ],
+     "mengaplikasi": [
+      "Menyeleksi sepuluh foto menjadi tiga terbaik",
+      "Menulis alasan pemilihan dengan kriteria",
+      "Mengerjakan uji kompetensi Bab 2"
+     ],
+     "merefleksi": [
+      "Menulis kemampuan fotografi yang sudah berkembang dan yang masih lemah"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 60 — Evaluasi Foto & Uji Kompetensi Bab 2",
+     "langkah": [
+      "Susun sepuluh foto hasil latihan.",
+      "Seleksi tiga terbaik dengan kriteria.",
+      "Kerjakan uji kompetensi Bab 2."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan seleksi",
+       "skor4": "Tiga foto terbaik dipilih dengan alasan kriteria",
+       "skor3": "Tiga foto dipilih dengan alasan",
+       "skor2": "Alasan umum",
+       "skor1": "Tanpa alasan"
+      },
+      {
+       "kriteria": "Ketepatan uji kompetensi",
+       "skor4": "Sebagian besar jawaban tepat",
+       "skor3": "Separuh tepat",
+       "skor2": "Sebagian kecil tepat",
+       "skor1": "Belum tepat"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Kriteria yang memastikan bagian utama foto tajam disebut",
+       "opsi": [
+        "Ketajaman",
+        "Kesesuaian keperluan",
+        "Nada warna"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Foto produk yang baik memiliki",
+       "opsi": [
+        "Latar bersih dan objek tajam",
+        "Latar ramai",
+        "Bayangan keras menutupi objek"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Langkah pertama penyuntingan yang disarankan adalah",
+       "opsi": [
+        "Memotong bingkai untuk memperbaiki komposisi",
+        "Mengganti seluruh warna",
+        "Menambah teks"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Tiga foto terbaik + uji kompetensi Bab 2",
+     "bentuk": "individu",
+     "luaran": "Tiga berkas foto, catatan alasan, lembar jawaban uji kompetensi"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menilai foto dengan daftar kriteria.",
+     "pengayaan": "Menyusun portofolio foto bertema untuk kelas."
+    }
+   }
+  },
+  {
+   "minggu": 31,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan perbedaan gambar bitmap dan vektor.",
+     "Menunjukkan akibat perbesaran pada kedua jenis gambar."
+    ],
+    "pemantik": [
+     "Mengapa logo tetap tajam meskipun diperbesar sepuluh kali?",
+     "Apa yang terjadi pada foto ketika diperbesar terlalu banyak?"
+    ],
+    "materi": {
+     "pengantar": "Gambar digital disimpan dengan dua cara. Bitmap tersusun dari titik-titik kecil (piksel), sedangkan vektor dibentuk oleh rumus matematis berupa garis dan bidang. Perbedaan cara penyimpanan inilah yang menentukan perilakunya saat diperbesar.",
+     "poin": [
+      "Bitmap tersusun dari piksel sehingga jumlah piksel menentukan mutu; memperbesar berlebihan membuat tepi gambar bertingkat.",
+      "Vektor tersusun dari bentuk matematis sehingga tetap tajam pada ukuran berapa pun.",
+      "Foto selalu berupa bitmap karena berasal dari tangkapan cahaya, sedangkan logo, ikon, dan teks lebih cocok dibuat vektor.",
+      "Ukuran berkas bitmap umumnya besar dan bergantung resolusi, sementara vektor biasanya lebih kecil untuk bentuk yang sama."
+     ],
+     "istilah": [
+      {
+       "t": "bitmap",
+       "a": "Gambar yang tersusun dari titik-titik piksel."
+      },
+      {
+       "t": "vektor",
+       "a": "Gambar yang tersusun dari bentuk matematis berupa garis dan bidang."
+      },
+      {
+       "t": "piksel",
+       "a": "Titik terkecil pembentuk gambar bitmap."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Pengertian bitmap dan vektor",
+      "keterangan": "Perhatikan uraian dan contoh perbandingan pada Buku Sem 2 Bab 3 subbab A (halaman 90–94)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-bitmap-vektor",
+      "judul": "Bitmap vs vektor saat diperbesar",
+      "keterangan": "Diagram orisinal: pembesaran 100%–1600% pada dua jenis gambar."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian perbedaan bitmap dan vektor",
+      "Mengaitkan jenis gambar dengan keperluan karya"
+     ],
+     "mengaplikasi": [
+      "Menjalankan simulasi bitmap vs vektor pada pembesaran berbeda",
+      "Memeriksa jenis berkas pada lima berkas latihan",
+      "Menulis kesimpulan pemakaian"
+     ],
+     "merefleksi": [
+      "Menulis jenis gambar yang paling sering saya salah pilih selama ini"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 61 — Eksperimen Bitmap vs Vektor",
+     "langkah": [
+      "Uji pembesaran pada satu gambar bitmap.",
+      "Uji pembesaran pada satu gambar vektor.",
+      "Catat hasil pada tiap tingkat pembesaran."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pengamatan",
+       "skor4": "Hasil catatan rinci pada tiap tingkat pembesaran",
+       "skor3": "Catatan lengkap",
+       "skor2": "Catatan sebagian",
+       "skor1": "Tidak mencatat"
+      },
+      {
+       "kriteria": "Mutu kesimpulan",
+       "skor4": "Kesimpulan memuat aturan pemakaian kedua jenis gambar",
+       "skor3": "Kesimpulan jelas",
+       "skor2": "Kesimpulan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Gambar yang tetap tajam saat diperbesar adalah",
+       "opsi": [
+        "Vektor",
+        "Bitmap",
+        "Tangkapan layar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Foto digital pada dasarnya berjenis",
+       "opsi": [
+        "Bitmap",
+        "Vektor",
+        "Campuran teks"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Catatan eksperimen pembesaran dua jenis gambar",
+     "bentuk": "individu",
+     "luaran": "Tangkapan hasil simulasi + tabel pengamatan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memeriksa jenis berkas satu per satu.",
+     "pengayaan": "Membandingkan ukuran berkas bitmap dan vektor untuk bentuk yang sama."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Memilih jenis grafis yang tepat untuk kebutuhan karya nyata.",
+     "Menentukan keluaran karya berdasarkan jenis gambar dan ukuran akhir."
+    ],
+    "pemantik": [
+     "Apa jenis gambar yang tepat untuk spanduk besar?",
+     "Kapan foto bitmap tetap menjadi pilihan terbaik?"
+    ],
+    "materi": {
+     "pengantar": "Memilih jenis grafis bergantung pada keluaran. Karya yang akan diperbesar atau dicetak berulang sebaiknya vektor, sedangkan karya yang membutuhkan rincian nyata seperti foto tetap bitmap.",
+     "poin": [
+      "Logo, ikon, huruf, dan bentuk sederhana: gunakan vektor agar tetap tajam dan mudah diubah warna.",
+      "Foto produk, potret, dan tekstur: gunakan bitmap karena menyimpan rincian nyata.",
+      "Karya gabungan memerlukan keduanya: latar foto bitmap dengan teks dan bentuk vektor di atasnya.",
+      "Rencana keluaran (cetak besar, layar, atau keduanya) ditetapkan sebelum mulai merancang."
+     ],
+     "istilah": [
+      {
+       "t": "keluaran karya",
+       "a": "Bentuk akhir karya: cetak, layar, atau keduanya."
+      },
+      {
+       "t": "karya gabungan",
+       "a": "Karya yang memadukan gambar bitmap dan unsur vektor."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Tiga karya, tiga jenis gambar",
+      "keterangan": "Amati poster, label produk, dan spanduk; tentukan bagian yang vektor dan bagian yang bitmap."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-bitmap-vektor",
+      "judul": "Pedoman pemilihan",
+      "keterangan": "Diagram orisinal: jenis gambar ↔ kebutuhan keluaran."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membandingkan kebutuhan keluaran karya",
+      "Mengelompokkan jenis gambar sesuai keperluan"
+     ],
+     "mengaplikasi": [
+      "Menentukan jenis gambar untuk lima kebutuhan nyata",
+      "Menyusun rancangan karya gabungan sederhana",
+      "Menjalankan simulasi bitmap vs vektor"
+     ],
+     "merefleksi": [
+      "Menulis satu keputusan pemilihan jenis gambar yang akan saya ubah"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 62 — Memilih Jenis Grafis untuk Kebutuhan Nyata",
+     "langkah": [
+      "Tulis lima kebutuhan karya.",
+      "Tentukan jenis gambar untuk tiap kebutuhan.",
+      "Jelaskan alasan dengan ukuran keluaran."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pemilihan",
+       "skor4": "Lima pilihan tepat dengan alasan teknis",
+       "skor3": "Lima pilihan tepat",
+       "skor2": "Tiga pilihan tepat",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Kelengkapan alasan",
+       "skor4": "Alasan mengaitkan jenis gambar, ukuran, dan keluaran",
+       "skor3": "Alasan jelas",
+       "skor2": "Alasan umum",
+       "skor1": "Tanpa alasan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Spanduk berukuran sangat besar sebaiknya memakai unsur",
+       "opsi": [
+        "Vektor untuk teks dan bentuk",
+        "Bitmap beresolusi rendah",
+        "Tangkapan layar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Karya gabungan berarti",
+       "opsi": [
+        "Memadukan gambar bitmap dan unsur vektor",
+        "Hanya memakai foto",
+        "Hanya memakai bentuk"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Rancangan karya gabungan sederhana",
+     "bentuk": "individu",
+     "luaran": "Sketsa rancangan + keterangan jenis gambar tiap bagian"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memilih satu kebutuhan paling sederhana.",
+     "pengayaan": "Membuat versi vektor untuk logo latihan."
+    }
+   }
+  },
+  {
+   "minggu": 32,
+   "senin": {
+    "tujuan": [
+     "Mengenal perangkat lunak desain grafis dan kegunaannya.",
+     "Membandingkan kegunaan perangkat pengolah vektor dan bitmap."
+    ],
+    "pemantik": [
+     "Mengapa membuat logo dan menyunting foto memerlukan perangkat berbeda?",
+     "Apa yang membuat aplikasi terasa berat dipakai di komputer sekolah?"
+    ],
+    "materi": {
+     "pengantar": "Perangkat lunak desain dibedakan menurut jenis gambar yang diolah. Perangkat pengolah vektor dipakai untuk bentuk, logo, dan tata letak, sedangkan perangkat pengolah bitmap dipakai untuk menyunting foto.",
+     "poin": [
+      "Perangkat vektor: mengolah garis, bentuk, dan teks tanpa kehilangan ketajaman saat diperbesar.",
+      "Perangkat bitmap: menyunting foto melalui seleksi, lapisan, dan penyesuaian warna.",
+      "Perangkat tata letak: mengatur susunan halaman, teks panjang, dan siap cetak.",
+      "Pemilihan perangkat mempertimbangkan kebutuhan, kemampuan komputer, dan ketersediaan lisensi di sekolah."
+     ],
+     "istilah": [
+      {
+       "t": "perangkat vektor",
+       "a": "Aplikasi pengolah gambar berbasis bentuk matematis."
+      },
+      {
+       "t": "lapisan (layer)",
+       "a": "Susunan bidang kerja bertingkat yang memudahkan penyuntingan."
+      },
+      {
+       "t": "lisensi",
+       "a": "Izin penggunaan resmi sebuah perangkat lunak."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Jenis-jenis perangkat lunak desain grafis",
+      "keterangan": "Perhatikan uraian dan daftar perangkat pada Buku Sem 2 Bab 3 subbab B (halaman 95–104). Buku menyebut perangkat berlisensi; di laboratorium sekolah dapat dipakai padanan bebas seperti Inkscape untuk vektor dan GIMP untuk bitmap (perlu penyesuaian guru)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Rambu-rambu antarmuka",
+      "keterangan": "Amati antarmuka satu aplikasi: cari bagian kanvas, daftar alat, panel lapisan, dan menu simpan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian perangkat lunak dan kegunaannya",
+      "Membedakan perangkat vektor, bitmap, dan tata letak"
+     ],
+     "mengaplikasi": [
+      "Menjalankan aplikasi desain yang tersedia di laboratorium",
+      "Mengenali bagian antarmuka dan menyimpan berkas",
+      "Mencatat padanan perangkat berlisensi dan perangkat bebas"
+     ],
+     "merefleksi": [
+      "Menulis perangkat yang paling ingin saya kuasai dan alasannya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 63 — Mengenal Tiga Perangkat Lunak Grafis",
+     "langkah": [
+      "Isi tabel: nama perangkat, jenisnya, kegunaan utama.",
+      "Buka satu aplikasi dan kenali bagian antarmuka.",
+      "Simpan satu berkas latihan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan tabel perangkat",
+       "skor4": "Tiga perangkat tepat dengan kegunaannya",
+       "skor3": "Tiga perangkat tepat",
+       "skor2": "Dua perangkat",
+       "skor1": "Satu perangkat"
+      },
+      {
+       "kriteria": "Keterampilan dasar aplikasi",
+       "skor4": "Membuka, mengenali antarmuka, dan menyimpan mandiri",
+       "skor3": "Dapat membuka dan menyimpan",
+       "skor2": "Perlu dibantu",
+       "skor1": "Belum dapat"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Perangkat yang tepat untuk menyunting foto adalah",
+       "opsi": [
+        "Pengolah bitmap (mis. GIMP)",
+        "Pengolah vektor saja",
+        "Perangkat tata letak"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Hal yang perlu dipertimbangkan dalam memilih perangkat lunak sekolah adalah",
+       "opsi": [
+        "Kebutuhan, kemampuan komputer, dan ketersediaan lisensi",
+        "Popularitas merek saja",
+        "Warna lambang aplikasi"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Tabel perangkat lunak + catatan padanan bebas",
+     "bentuk": "individu",
+     "luaran": "Tabel tiga perangkat, kegunaan, dan padanan yang tersedia di sekolah (perlu verifikasi guru)"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membuka aplikasi satu per satu.",
+     "pengayaan": "Membandingkan dua aplikasi untuk pekerjaan yang sama."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Memilih aplikasi yang sesuai untuk kebutuhan nyata.",
+     "Menyusun rencana kerja sederhana dengan aplikasi yang dipilih."
+    ],
+    "pemantik": [
+     "Apa risikonya memakai aplikasi berat untuk pekerjaan yang sederhana?",
+     "Bagaimana merencanakan pekerjaan agar tidak berhenti di tengah jalan?"
+    ],
+    "materi": {
+     "pengantar": "Aplikasi yang dipilih menentukan kelancaran kerja. Untuk tugas sekolah, kemampuan menyelesaikan karya tepat waktu lebih penting daripada memakai perangkat paling canggih.",
+     "poin": [
+      "Pekerjaan berbasis bentuk dan teks: gunakan perangkat vektor.",
+      "Pekerjaan berbasis foto: gunakan perangkat bitmap.",
+      "Pekerjaan halaman, buklet, dan label: gunakan perangkat tata letak atau fitur tata letak pada perangkat vektor.",
+      "Rencana kerja memuat ukuran kanvas, isi karya, pemilihan huruf, dan tempat penyimpanan berkas."
+     ],
+     "istilah": [
+      {
+       "t": "ukuran kanvas",
+       "a": "Bidang kerja tempat karya dirancang."
+      },
+      {
+       "t": "rencana kerja aplikasi",
+       "a": "Catatan langkah dan pengaturan sebelum mulai merancang."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Aplikasi untuk tiga pekerjaan",
+      "keterangan": "Amati tiga pekerjaan nyata (kartu nama, poster foto, buklet) dan tentukan aplikasi yang paling sesuai."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Rencana sebelum merancang",
+      "keterangan": "Diagram orisinal: ukuran → isi → huruf → penyimpanan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah kesesuaian aplikasi dengan pekerjaan",
+      "Menyusun rencana kerja aplikasi"
+     ],
+     "mengaplikasi": [
+      "Menetapkan aplikasi untuk tiga pekerjaan nyata",
+      "Membuat berkas baru dengan ukuran kanvas yang tepat",
+      "Menyimpan berkas dengan penamaan yang benar"
+     ],
+     "merefleksi": [
+      "Menulis kendala perangkat di sekolah dan cara menyiasatinya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 64 — Memilih Aplikasi & Menyiapkan Berkas",
+     "langkah": [
+      "Tentukan tiga pekerjaan.",
+      "Pilih aplikasi untuk tiap pekerjaan.",
+      "Buat berkas baru dan simpan dengan penamaan benar."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pilihan aplikasi",
+       "skor4": "Tiga pilihan tepat dengan alasan",
+       "skor3": "Tiga pilihan tepat",
+       "skor2": "Dua pilihan tepat",
+       "skor1": "Kurang dari dua"
+      },
+      {
+       "kriteria": "Kerapian penyiapan berkas",
+       "skor4": "Ukuran, nama, dan folder tertib",
+       "skor3": "Berkas tersimpan",
+       "skor2": "Berkas berantakan",
+       "skor1": "Belum menyimpan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Pekerjaan kartu nama sebaiknya dikerjakan dengan perangkat",
+       "opsi": [
+        "Vektor/tata letak",
+        "Bitmap saja",
+        "Pemutar musik"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Hal yang ditetapkan sebelum merancang adalah",
+       "opsi": [
+        "Ukuran kanvas dan isi karya",
+        "Warna kursi",
+        "Nama teman sekelas"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Tiga berkas latihan tersimpan rapi",
+     "bentuk": "individu",
+     "luaran": "Tiga berkas dengan ukuran kanvas dan penamaan yang benar"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membuat berkas baru.",
+     "pengayaan": "Membuat templat berkas untuk pekerjaan kelas."
+    }
+   }
+  },
+  {
+   "minggu": 33,
+   "senin": {
+    "tujuan": [
+     "Mengenal objek vektor dan cara memakainya.",
+     "Menjelaskan fungsi warna pada karya vektor."
+    ],
+    "pemantik": [
+     "Mengapa warna pada karya cetak bisa berbeda dari tampilan layar?",
+     "Apa gunanya menyimpan warna dengan nama sendiri?"
+    ],
+    "materi": {
+     "pengantar": "Pada aplikasi vektor, semua yang tampak di kanvas adalah objek: garis, bentuk, dan teks. Setiap objek dapat diubah ukuran, warna, dan susunannya tanpa memengaruhi objek lain.",
+     "poin": [
+      "Objek dasar vektor: garis, persegi, elips, dan bentuk bebas.",
+      "Warna pada karya digital dibedakan antara warna untuk layar dan warna untuk cetak; hasil cetak bisa berbeda dari tampilan.",
+      "Menyimpan warna dengan nama sendiri menjaga keseragaman warna pada seluruh karya.",
+      "Warna perlu dipilih dengan pertimbangan keterbacaan, kesan pesan, dan sasaran pengguna, bukan hanya keindahan."
+     ],
+     "istilah": [
+      {
+       "t": "objek vektor",
+       "a": "Bentuk pada aplikasi vektor yang dapat diubah terpisah."
+      },
+      {
+       "t": "mode warna",
+       "a": "Sistem penyusunan warna untuk keperluan layar atau cetak."
+      },
+      {
+       "t": "palet warna",
+       "a": "Kumpulan warna yang dipakai pada satu karya."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Objek dan warna pada komputer grafis",
+      "keterangan": "Perhatikan uraian dan langkah praktik pada Buku Sem 2 Bab 3 subbab B (halaman 105–114). Latihan di buku memakai perangkat tertentu; di sekolah dapat memakai padanan bebas dengan langkah yang setara."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-warna",
+      "judul": "Palet warna karya",
+      "keterangan": "Diagram orisinal: warna utama, warna pendukung, dan warna latar."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian objek dan warna",
+      "Mengenali perbedaan warna layar dan cetak"
+     ],
+     "mengaplikasi": [
+      "Membuat tiga objek dasar dan mengubah ukurannya",
+      "Menyusun palet empat warna untuk satu karya",
+      "Menyimpan palet agar dapat dipakai ulang"
+     ],
+     "merefleksi": [
+      "Menulis kesalahan warna yang pernah saya buat dan cara memperbaikinya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 65 — Objek Vektor & Palet Warna",
+     "langkah": [
+      "Buat tiga objek dasar.",
+      "Ubah ukuran dan warna tiap objek.",
+      "Susun palet empat warna dan simpan.",
+      "Uji keterbacaan teks di atas warna."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Keterampilan membuat objek",
+       "skor4": "Tiga objek dibuat rapi dengan pengaturan tepat",
+       "skor3": "Tiga objek dibuat",
+       "skor2": "Satu-dua objek",
+       "skor1": "Belum dapat"
+      },
+      {
+       "kriteria": "Mutu palet warna",
+       "skor4": "Palet selaras, terbaca, dan tersimpan",
+       "skor3": "Palet selaras",
+       "skor2": "Palet kurang selaras",
+       "skor1": "Tidak menyusun palet"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Semua yang tampak pada kanvas aplikasi vektor berupa",
+       "opsi": [
+        "Objek yang dapat diubah terpisah",
+        "Piksel yang menyatu",
+        "Teks yang tidak dapat diubah"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Menyimpan warna dengan nama sendiri berguna untuk",
+       "opsi": [
+        "Menjaga keseragaman warna karya",
+        "Menambah ukuran berkas",
+        "Menyulitkan pencarian"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Latihan objek & palet warna",
+     "bentuk": "individu",
+     "luaran": "Berkas berisi tiga objek dan palet empat warna"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membuat objek satu per satu.",
+     "pengayaan": "Merancang ikon sederhana dua warna."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menggunakan pengaturan garis dan pembentukan objek pada karya vektor.",
+     "Membentuk objek baru dari gabungan atau pemotongan bentuk."
+    ],
+    "pemantik": [
+     "Bagaimana membuat bentuk bulan sabit dari dua lingkaran?",
+     "Apa kegunaan pengaturan ketebalan garis?"
+    ],
+    "materi": {
+     "pengantar": "Bentuk rumit biasanya dibangun dari bentuk sederhana. Dengan menggabungkan, memotong, atau menumpuk bentuk dasar, kita dapat membuat bentuk baru yang rapi dan mudah diubah.",
+     "poin": [
+      "Pengaturan garis meliputi ketebalan, jenis ujung garis, dan jenis sudut pertemuan.",
+      "Bentuk baru dibuat dengan menggabungkan dua bentuk, memotong bagian yang bertumpuk, atau mengambil bagian tengahnya.",
+      "Menyusun objek bertingkat (di depan atau di belakang) menentukan bagian mana yang terlihat.",
+      "Menyimpan hasil pembentukan sebagai objek baru memudahkan pengubahan berikutnya."
+     ],
+     "istilah": [
+      {
+       "t": "pembentukan objek",
+       "a": "Membuat bentuk baru dengan menggabung atau memotong bentuk dasar."
+      },
+      {
+       "t": "urutan tumpukan",
+       "a": "Susunan depan-belakang antar objek pada kanvas."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Bedah ikon sederhana",
+      "keterangan": "Amati satu ikon dan tebak bentuk dasar apa saja yang menyusunnya."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-path",
+      "judul": "Gabung, potong, tengah",
+      "keterangan": "Diagram orisinal: tiga cara pembentukan objek dari dua bentuk."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah cara membentuk objek baru",
+      "Mengenali pengaturan garis"
+     ],
+     "mengaplikasi": [
+      "Membuat satu ikon sederhana dari bentuk dasar",
+      "Mengatur ketebalan garis dan tumpukan objek",
+      "Menyimpan hasil sebagai objek baru"
+     ],
+     "merefleksi": [
+      "Menulis langkah pembentukan yang paling sulit saya kerjakan"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 66 — Path & Pembentukan Objek",
+     "langkah": [
+      "Susun ikon dari dua-tiga bentuk dasar.",
+      "Gunakan penggabungan atau pemotongan.",
+      "Atur ketebalan dan tumpukan.",
+      "Simpan hasil."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan hasil pembentukan",
+       "skor4": "Ikon tersusun rapi dan bentuk akhir bersih",
+       "skor3": "Ikon tersusun",
+       "skor2": "Bentuk belum rapi",
+       "skor1": "Belum membentuk"
+      },
+      {
+       "kriteria": "Keterampilan pengaturan",
+       "skor4": "Garis dan urutan tumpukan diatur tepat",
+       "skor3": "Diatur sebagian",
+       "skor2": "Diatur asal",
+       "skor1": "Tidak diatur"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Bentuk baru dapat dibuat dengan cara",
+       "opsi": [
+        "Menggabung atau memotong bentuk dasar",
+        "Menambah banyak warna",
+        "Memperbesar kanvas"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Fungsi pengaturan ketebalan garis adalah",
+       "opsi": [
+        "Menentukan tampilan garis dari tipis sampai tebal",
+        "Mengubah ukuran kanvas",
+        "Menghapus objek"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Ikon sederhana hasil pembentukan objek",
+     "bentuk": "individu",
+     "luaran": "Satu berkas ikon + catatan langkah"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengikuti langkah bersama guru.",
+     "pengayaan": "Membuat satu set tiga ikon dengan gaya sama."
+    }
+   }
+  },
+  {
+   "minggu": 34,
+   "senin": {
+    "tujuan": [
+     "Mengenal teknik seleksi pada gambar bitmap.",
+     "Memilih teknik seleksi sesuai bentuk objek."
+    ],
+    "pemantik": [
+     "Bagaimana memisahkan objek dari latarnya jika tepinya berambut?",
+     "Mengapa seleksi kasar membuat hasil tampak tidak rapi?"
+    ],
+    "materi": {
+     "pengantar": "Seleksi adalah dasar penyuntingan bitmap: sebelum mengubah sebagian gambar, bagian itu harus dipilih dengan tepat. Ketepatan seleksi menentukan kerapian hasil akhir.",
+     "poin": [
+      "Teknik seleksi bentuk sederhana: memilih persegi, elips, atau bentuk bebas.",
+      "Teknik seleksi berbasis warna memilih area dengan warna serupa sehingga berguna untuk latar yang rata.",
+      "Objek berambut atau tepi rinci memerlukan teknik seleksi halus atau pemotongan bertahap.",
+      "Hasil seleksi dapat dipindahkan, disalin, atau diubah warnanya tanpa mengganggu bagian lain."
+     ],
+     "istilah": [
+      {
+       "t": "seleksi",
+       "a": "Penandaan sebagian area gambar untuk diolah."
+      },
+      {
+       "t": "seleksi berbasis warna",
+       "a": "Pemilihan area berdasarkan kesamaan warna."
+      },
+      {
+       "t": "tepi halus",
+       "a": "Tepi seleksi yang dibuat bertahap agar hasil menyatu."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Praktik penyuntingan bitmap",
+      "keterangan": "Perhatikan langkah seleksi dan penyuntingan pada Buku Sem 2 Bab 3 subbab B (halaman 115–123). Langkah dapat dijalankan dengan padanan bebas di laboratorium sekolah."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Hasil seleksi rapi vs kasar",
+      "keterangan": "Bandingkan dua hasil pemisahan objek: mana yang tepinya lebih bersih?"
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian teknik seleksi",
+      "Membandingkan hasil seleksi kasar dan halus"
+     ],
+     "mengaplikasi": [
+      "Memotong satu objek dari latarnya memakai dua teknik",
+      "Membandingkan kerapian hasil",
+      "Menyimpan hasil sebagai berkas baru"
+     ],
+     "merefleksi": [
+      "Menulis teknik seleksi yang paling cocok untuk objek foto saya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 67 — Teknik Seleksi Bitmap",
+     "langkah": [
+      "Ambil satu foto objek dengan latar sederhana.",
+      "Pisahkan objek memakai seleksi dasar.",
+      "Ulangi dengan seleksi halus.",
+      "Bandingkan hasilnya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan seleksi",
+       "skor4": "Tepi objek bersih pada kedua teknik",
+       "skor3": "Tepi cukup bersih",
+       "skor2": "Tepi bergerigi",
+       "skor1": "Gagal memisahkan"
+      },
+      {
+       "kriteria": "Mutu perbandingan",
+       "skor4": "Perbedaan kedua teknik dijelaskan beralasan",
+       "skor3": "Perbandingan dijelaskan",
+       "skor2": "Perbandingan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Teknik seleksi berbasis warna cocok untuk",
+       "opsi": [
+        "Latar dengan warna seragam",
+        "Foto dengan banyak tekstur rumit",
+        "Teks panjang"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Tujuan seleksi halus adalah",
+       "opsi": [
+        "Membuat tepi hasil menyatu dan rapi",
+        "Memperbesar berkas",
+        "Menambah warna"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Foto objek terpisah dari latar (dua teknik)",
+     "bentuk": "individu",
+     "luaran": "Dua berkas hasil + catatan perbandingan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memakai foto dengan latar sangat sederhana.",
+     "pengayaan": "Membuat gambar produk latar putih untuk keperluan promosi."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menggunakan lapisan (layer) untuk menyusun karya bitmap.",
+     "Menggabungkan beberapa gambar menjadi satu komposisi yang rapi."
+    ],
+    "pemantik": [
+     "Mengapa bekerja dengan lapisan lebih aman daripada menyunting langsung?",
+     "Bagaimana menyusun bingkai foto bergaya kolase?"
+    ],
+    "materi": {
+     "pengantar": "Lapisan membuat pekerjaan rapi dan dapat dibatalkan. Setiap unsur diletakkan pada lapisannya sendiri sehingga perubahan pada satu unsur tidak merusak unsur lain.",
+     "poin": [
+      "Lapisan diberi nama sesuai isinya agar mudah dicari saat karya menjadi rumit.",
+      "Urutan lapisan menentukan bagian mana yang tampak di depan.",
+      "Penggabungan gambar memerlukan penyesuaian ukuran dan pencahayaan agar terlihat menyatu.",
+      "Perubahan besar sebaiknya disimpan sebagai versi baru agar dapat dibandingkan."
+     ],
+     "istilah": [
+      {
+       "t": "lapisan (layer)",
+       "a": "Bidang terpisah pada berkas gambar yang dapat diolah sendiri."
+      },
+      {
+       "t": "komposisi bitmap",
+       "a": "Susunan beberapa gambar menjadi satu karya."
+      },
+      {
+       "t": "penyesuaian menyatu",
+       "a": "Penyesuaian warna dan terang agar gabungan gambar tidak terlihat menempel."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Buka lapisan sebuah kolase",
+      "keterangan": "Amati susunan lapisan pada contoh kolase sederhana dan tentukan fungsi tiap lapisan."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-layer",
+      "judul": "Susunan lapisan",
+      "keterangan": "Diagram orisinal: latar, objek, tulisan, dan lapisan penyesuaian."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian penggunaan lapisan",
+      "Mengenali urutan lapisan pada contoh karya"
+     ],
+     "mengaplikasi": [
+      "Membuat kolase dua gambar dengan lapisan terpisah",
+      "Menyusun urutan lapisan dan memberi nama",
+      "Menyimpan versi kerja dan versi akhir"
+     ],
+     "merefleksi": [
+      "Menulis manfaat bekerja memakai lapisan berdasarkan pengalaman saya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 68 — Layer & Komposisi Bitmap",
+     "langkah": [
+      "Siapkan dua gambar.",
+      "Susun pada lapisan terpisah dan beri nama.",
+      "Atur urutan dan pencahayaan.",
+      "Simpan versi akhir."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kerapian penggunaan lapisan",
+       "skor4": "Semua unsur pada lapisan bernama dan urutannya tepat",
+       "skor3": "Lapisan dipakai dan dinamai",
+       "skor2": "Lapisan dipakai tanpa nama",
+       "skor1": "Bekerja pada satu lapisan saja"
+      },
+      {
+       "kriteria": "Mutu komposisi",
+       "skor4": "Gabungan terlihat menyatu dan seimbang",
+       "skor3": "Komposisi cukup rapi",
+       "skor2": "Terlihat menempel",
+       "skor1": "Belum tersusun"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Manfaat bekerja dengan lapisan adalah",
+       "opsi": [
+        "Perubahan pada satu unsur tidak merusak unsur lain",
+        "Menambah jumlah berkas",
+        "Membuat gambar gelap"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Urutan lapisan menentukan",
+       "opsi": [
+        "Bagian yang tampak di depan",
+        "Ukuran berkas",
+        "Nama berkas"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Kolase dua gambar dengan lapisan",
+     "bentuk": "individu",
+     "luaran": "Satu berkas kolase + daftar lapisan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membuat dua lapisan saja.",
+     "pengayaan": "Membuat kolase tiga gambar dengan penyesuaian warna."
+    }
+   }
+  },
+  {
+   "minggu": 35,
+   "senin": {
+    "tujuan": [
+     "Mengikuti langkah pembuatan produk grafis: mug, logo, packaging, dan kartu nama.",
+     "Menerapkan pengaturan ukuran dan warna pada produk."
+    ],
+    "pemantik": [
+     "Ukuran berapa yang tepat untuk cetak pada mug?",
+     "Apa yang harus diperhatikan saat membuat gambar untuk kemasan?"
+    ],
+    "materi": {
+     "pengantar": "Produk grafis dibuat untuk dipakai, sehingga ukuran dan bahan menentukan cara menyiapkan berkas. Buku contoh memuat empat produk: gambar pada mug berukuran 8 × 20 cm, logo, kemasan (packaging), dan kartu nama.",
+     "poin": [
+      "Mug: bidang cetak berbentuk memanjang 8 × 20 cm, sehingga susunan gambar sebaiknya mendatar dan tidak penting di bagian tepi.",
+      "Logo: dibuat vektor, sederhana, tetap jelas pada ukuran kecil, dan mudah dikenali dalam satu warna.",
+      "Kemasan: memuat informasi produk, gambar, dan susunan yang rapi; perlu mempertimbangkan bentuk lipatan.",
+      "Kartu nama: ukuran kecil menuntut pemilihan huruf yang sederhana dan penempatan informasi yang jelas."
+     ],
+     "istilah": [
+      {
+       "t": "bidang cetak",
+       "a": "Area pada produk yang dapat menerima gambar atau tulisan."
+      },
+      {
+       "t": "die-line",
+       "a": "Garis panduan bentuk potongan dan lipatan pada kemasan."
+      },
+      {
+       "t": "keterbacaan produk",
+       "a": "Kemudahan informasi pada produk dibaca oleh pengguna."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Produk rancangan komputer grafis",
+      "keterangan": "Perhatikan langkah pembuatan produk pada Buku Sem 2 Bab 3 subbab C (halaman 124–137), termasuk produk 1 (mug), 2 (logo), 3 (packaging), dan 4 (kartu nama)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Ukur produk nyata",
+      "keterangan": "Ukur mug dan kartu nama nyata, lalu bandingkan dengan ukuran bidang cetak pada buku."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca langkah pembuatan empat produk",
+      "Mencatat kebutuhan ukuran tiap produk"
+     ],
+     "mengaplikasi": [
+      "Menyiapkan berkas untuk satu produk pilihan",
+      "Menerapkan ukuran bidang cetak sesuai contoh buku",
+      "Memeriksa hasil dengan mencetak uji"
+     ],
+     "merefleksi": [
+      "Menulis produk yang paling menantang bagi saya dan alasannya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 69 — Menyiapkan Berkas Produk Grafis",
+     "langkah": [
+      "Pilih satu produk (mug/logo/packaging/kartu nama).",
+      "Siapkan berkas dengan ukuran yang tepat.",
+      "Susun isi karya dan simpan versi siap cetak."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan ukuran dan penyiapan berkas",
+       "skor4": "Ukuran tepat, susunan sesuai bidang cetak",
+       "skor3": "Ukuran tepat",
+       "skor2": "Ukuran kurang tepat",
+       "skor1": "Belum menyiapkan"
+      },
+      {
+       "kriteria": "Kesesuaian isi karya",
+       "skor4": "Isi karya jelas dan mudah dibaca pada produk",
+       "skor3": "Isi karya jelas",
+       "skor2": "Isi karya kurang jelas",
+       "skor1": "Belum ada isi"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Ukuran bidang gambar pada mug menurut buku contoh adalah",
+       "opsi": [
+        "8 × 20 cm",
+        "20 × 30 cm",
+        "3 × 4 cm"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Logo yang baik tetap jelas saat",
+       "opsi": [
+        "Dicetak kecil dan satu warna",
+        "Diperbesar tanpa batas dengan piksel",
+        "Diberi banyak gradasi"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Berkas produk grafis tahap penyiapan",
+     "bentuk": "individu",
+     "luaran": "Satu berkas produk dengan ukuran bidang cetak tepat"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengikuti langkah buku untuk produk termudah.",
+     "pengayaan": "Menghitung kebutuhan bahan untuk produksi lima benda."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menyelesaikan dan menyajikan produk grafis.",
+     "Menjelaskan pertimbangan produksi produk yang dibuat."
+    ],
+    "pemantik": [
+     "Apa yang perlu dicek sebelum berkas dikirim ke percetakan?",
+     "Bagaimana memastikan warna tidak berbeda jauh saat dicetak?"
+    ],
+    "materi": {
+     "pengantar": "Produk selesai bukan berarti pekerjaan berakhir. Pemeriksaan akhir memastikan berkas siap dicetak, dan penyajian menjelaskan mengapa produk dirancang demikian.",
+     "poin": [
+      "Pemeriksaan akhir: ukuran, ketajaman, huruf, warna, dan posisi gambar pada bidang cetak.",
+      "Penyimpanan berkas disertai versi siap cetak dan versi kerja agar dapat diperbaiki kemudian.",
+      "Penyajian produk memuat alasan pemilihan bentuk, warna, dan huruf.",
+      "Biaya bahan dan waktu pengerjaan perlu dicatat sebagai bahan belajar menetapkan harga."
+     ],
+     "istilah": [
+      {
+       "t": "versi siap cetak",
+       "a": "Berkas akhir yang sudah diperiksa dan siap diproduksi."
+      },
+      {
+       "t": "pemeriksaan akhir",
+       "a": "Pengecekan seluruh bagian karya sebelum diserahkan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Ceklis sebelum cetak",
+      "keterangan": "Amati satu berkas produk dan periksa memakai daftar periksa sebelum cetak."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Alur penyelesaian produk",
+      "keterangan": "Diagram orisinal: periksa → simpan versi → sajikan → hitung biaya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah daftar pemeriksaan akhir",
+      "Menyusun kerangka penyajian produk"
+     ],
+     "mengaplikasi": [
+      "Menyelesaikan produk dan memeriksa berkas",
+      "Menyajikan produk dan menjelaskan pertimbangannya",
+      "Mencatat kebutuhan bahan dan waktu"
+     ],
+     "merefleksi": [
+      "Menilai kesiapan produk saya untuk dicetak nyata"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 70 — Penyelesaian & Penyajian Produk Grafis",
+     "langkah": [
+      "Periksa berkas dengan daftar periksa.",
+      "Simpan versi siap cetak.",
+      "Sajikan produk tiga menit.",
+      "Catat bahan dan waktu."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kualitas produk akhir",
+       "skor4": "Berkas bersih, ukuran tepat, mudah dibaca",
+       "skor3": "Produk baik",
+       "skor2": "Produk cukup",
+       "skor1": "Belum selesai"
+      },
+      {
+       "kriteria": "Mutu penyajian",
+       "skor4": "Menjelaskan pertimbangan desain dan produksi dengan alasan",
+       "skor3": "Menjelaskan dengan alasan",
+       "skor2": "Menjelaskan singkat",
+       "skor1": "Tidak siap"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Yang diperiksa pada pemeriksaan akhir produk adalah",
+       "opsi": [
+        "Ukuran, ketajaman, huruf, warna, dan posisi",
+        "Jumlah pengunjung",
+        "Warna kursi"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Menyimpan versi kerja selain versi siap cetak berguna untuk",
+       "opsi": [
+        "Memudahkan perbaikan di kemudian hari",
+        "Menambah jumlah folder",
+        "Menghilangkan berkas asli"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Produk grafis siap cetak + laporan pertimbangan",
+     "bentuk": "individu",
+     "luaran": "Berkas produk, catatan pemeriksaan, dan laporan singkat"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memeriksa berkas bersama.",
+     "pengayaan": "Menawarkan produk latihan untuk keperluan nyata di sekolah."
+    }
+   }
+  },
+  {
+   "minggu": 36,
+   "senin": {
+    "tujuan": [
+     "Menyelesaikan proyek terpadu yang menggabungkan kemampuan satu tahun.",
+     "Menyusun portofolio karya bernarasi."
+    ],
+    "pemantik": [
+     "Kemampuan mana dari tiga bab semester ini yang paling sering kamu pakai?",
+     "Bagaimana memilih sepuluh karya terbaik dari seluruh hasil belajar?"
+    ],
+    "materi": {
+     "pengantar": "Proyek terpadu menggabungkan kemampuan tipografi, fotografi, dan komputer grafis dalam satu karya komunikasi visual yang utuh, lengkap dengan proses dan penjelasannya.",
+     "poin": [
+      "Tahap proyek terpadu: tetapkan pesan dan sasaran, riset kecil, susun rancangan, kerjakan, uji, perbaiki, dan siapkan presentasi.",
+      "Portofolio bernarasi memuat karya, catatan proses, dan pelajaran yang didapat sehingga terlihat perkembangan pemikiran.",
+      "Pemilihan karya mempertimbangkan keragaman jenis, mutu, dan waktu pengerjaan.",
+      "Berkas proyek disusun rapi agar mudah ditelusuri oleh guru dan penguji."
+     ],
+     "istilah": [
+      {
+       "t": "proyek terpadu",
+       "a": "Karya akhir yang memadukan beberapa kemampuan sekaligus."
+      },
+      {
+       "t": "portofolio bernarasi",
+       "a": "Kumpulan karya yang disertai cerita proses dan pelajaran."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Rangkuman dan asesmen Bab 3 serta latihan soal semester 2",
+      "keterangan": "Perhatikan rangkuman, asesmen, dan uji kompetensi Bab 3 pada Buku Sem 2 (halaman 138–142) serta latihan soal semester 2 (halaman 143–156)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Tahap proyek terpadu",
+      "keterangan": "Diagram orisinal: pesan → riset → rancangan → produksi → uji → presentasi."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca rangkuman dan menelaah kriteria proyek",
+      "Menyusun rencana proyek terpadu"
+     ],
+     "mengaplikasi": [
+      "Mengerjakan proyek terpadu sesuai rencana",
+      "Menyeleksi karya untuk portofolio",
+      "Menulis catatan proses tiap karya"
+     ],
+     "merefleksi": [
+      "Menulis kemampuan yang paling berkembang sepanjang satu tahun"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 71 — Proyek Terpadu & Penyusunan Portofolio",
+     "langkah": [
+      "Tetapkan pesan, sasaran, dan media proyek.",
+      "Kerjakan proyek sesuai rencana.",
+      "Seleksi 8–10 karya untuk portofolio.",
+      "Tulis catatan proses."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Mutu proyek terpadu",
+       "skor4": "Karya utuh, sesuai pesan, dan menunjukkan penguasaan tiga bidang",
+       "skor3": "Karya baik dan sesuai pesan",
+       "skor2": "Karya cukup",
+       "skor1": "Belum selesai"
+      },
+      {
+       "kriteria": "Kelengkapan portofolio",
+       "skor4": "8–10 karya dengan catatan proses dan pelajaran",
+       "skor3": "8–10 karya dengan catatan",
+       "skor2": "Kurang dari 8 karya",
+       "skor1": "Belum menyusun"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Tahap proyek terpadu setelah perancangan adalah",
+       "opsi": [
+        "Pengerjaan dan pengujian karya",
+        "Langsung presentasi",
+        "Menghapus berkas"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Portofolio bernarasi memuat",
+       "opsi": [
+        "Karya beserta catatan proses dan pelajaran",
+        "Daftar nilai saja",
+        "Tangkapan layar aplikasi"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Proyek terpadu + portofolio 8–10 karya",
+     "bentuk": "individu",
+     "luaran": "Berkas proyek dan dokumen portofolio bernarasi"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memilih proyek yang paling sederhana.",
+     "pengayaan": "Menyiapkan karya untuk pameran akhir tahun."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mempresentasikan proyek dan portofolio tahunan.",
+     "Menyelesaikan asesmen akhir tahun serta merefleksi capaian satu tahun belajar."
+    ],
+    "pemantik": [
+     "Apa keputusan desain yang paling kamu banggakan?",
+     "Apa rencana belajarmu setelah kelas X?"
+    ],
+    "materi": {
+     "pengantar": "Presentasi akhir menunjukkan kemampuan menjelaskan karya, menerima pertanyaan, dan mengakui bagian yang masih perlu diperbaiki. Refleksi tahunan menjadi titik tolak belajar pada tingkat berikutnya.",
+     "poin": [
+      "Presentasi memuat pesan, proses, keputusan desain, kendala, dan pelajaran yang didapat.",
+      "Penilaian akhir mempertimbangkan proses, hasil, sikap kerja, dan kemampuan menjelaskan karya.",
+      "Refleksi tahunan memuat capaian, hambatan, dan rencana pengembangan diri.",
+      "Portofolio tahunan diserahkan dalam bentuk berkas digital dan salinan cetak ringkas."
+     ],
+     "istilah": [
+      {
+       "t": "asesmen akhir tahun",
+       "a": "Penilaian menyeluruh atas capaian belajar satu tahun."
+      },
+      {
+       "t": "refleksi tahunan",
+       "a": "Penilaian diri atas perjalanan belajar satu tahun."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Susunan presentasi lima menit",
+      "keterangan": "Amati contoh susunan lima slide: pesan, proses, karya, kendala, pelajaran."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Alur presentasi akhir",
+      "keterangan": "Diagram orisinal: konteks → karya → keputusan → pelajaran → rencana."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah kriteria penilaian akhir",
+      "Menyusun kerangka presentasi"
+     ],
+     "mengaplikasi": [
+      "Mempresentasikan proyek dan portofolio",
+      "Menjawab pertanyaan penguji",
+      "Mengerjakan asesmen akhir semester 2"
+     ],
+     "merefleksi": [
+      "Menulis refleksi tahunan dan rencana belajar berikutnya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 72 — Presentasi Akhir & Refleksi Tahunan",
+     "langkah": [
+      "Susun bahan presentasi.",
+      "Presentasikan proyek dan portofolio.",
+      "Kerjakan asesmen akhir semester 2.",
+      "Isi lembar refleksi tahunan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Mutu presentasi",
+       "skor4": "Jelas, beralasan, dan meyakinkan saat menjawab",
+       "skor3": "Jelas dan beralasan",
+       "skor2": "Kurang jelas",
+       "skor1": "Tidak siap"
+      },
+      {
+       "kriteria": "Kedalaman refleksi",
+       "skor4": "Capaian, hambatan, dan rencana belajar ditulis rinci",
+       "skor3": "Refleksi jelas",
+       "skor2": "Refleksi singkat",
+       "skor1": "Belum mengisi"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "asesmen-sumatif-akhir-semester",
+     "butir": [
+      {
+       "soal": "Penilaian akhir tahun mempertimbangkan",
+       "opsi": [
+        "Proses, hasil, sikap kerja, dan kemampuan menjelaskan",
+        "Nilai satu tugas saja",
+        "Kehadiran tanpa karya"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Refleksi tahunan sebaiknya memuat",
+       "opsi": [
+        "Capaian, hambatan, dan rencana belajar",
+        "Daftar nama teman",
+        "Keluhan tanpa solusi"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Portofolio tahunan sebaiknya disampaikan sebagai",
+       "opsi": [
+        "Berkas digital dan salinan cetak ringkas",
+        "Foto layar saja",
+        "Cerita lisan saja"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Presentasi akhir, asesmen akhir semester 2, refleksi tahunan",
+     "bentuk": "individu",
+     "luaran": "Bahan presentasi, lembar jawaban, dan lembar refleksi"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyiapkan bahan presentasi.",
+     "pengayaan": "Mengikuti kegiatan pameran atau lomba karya desain."
+    }
+   }
+  }
+ ]
+}

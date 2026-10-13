@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root { color-scheme: light; }
+html, body, #root { height: 100%; }
+body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+
+/* ---------- Gaya cetak (laporan supervisi, dokumentasi pertemuan, rekap nilai) ---------- */
+.dkv-cetak { color: #0f172a; }
+.dkv-cetak table { page-break-inside: auto; }
+.dkv-cetak tr { page-break-inside: avoid; }
+.dkv-cetak li { page-break-inside: avoid; }
+
+@media print {
+  .dkv-no-print { display: none !important; }
+  main { overflow: visible !important; padding: 0 !important; }
+  body { background: #fff !important; }
+  .dkv-cetak { box-shadow: none !important; border-radius: 0 !important; padding: 0 !important; }
+  .dkv-cetak table { font-size: 10pt; }
+  .dkv-cetak h2 { font-size: 11pt; }
+  a[href]:after { content: ""; }
+  @page { size: A4 portrait; margin: 14mm 12mm; }
+}

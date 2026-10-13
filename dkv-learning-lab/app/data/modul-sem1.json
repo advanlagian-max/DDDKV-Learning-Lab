@@ -1,0 +1,4057 @@
+{
+ "meta": {
+  "semester": 1,
+  "judul": "Modul Pertemuan Minggu 1–18 — Dasar-Dasar DKV Kelas X",
+  "catatan": "Penjelasan disusun orisinal dan setia pada konsep buku siswa; bukan salinan verbatim. Setiap pertemuan memuat tujuan, pemantik, materi, contoh visual, aktivitas memahami/mengaplikasi/merefleksi, LKPD, asesmen formatif, tugas, rubrik, dan tindak lanjut.",
+  "sumber": [
+   "B1: Buku Sem 1 (Kemendikbudristek 2022)",
+   "B2: Buku Sem 2 (Kemendikbudristek 2022)"
+  ]
+ },
+ "minggu": [
+  {
+   "minggu": 1,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan cakupan dan tujuan mata pelajaran Dasar-Dasar DKV.",
+     "Mengisi asesmen diagnostik untuk memetakan pengetahuan awal."
+    ],
+    "pemantik": [
+     "Apa yang kamu bayangkan saat mendengar kata desain komunikasi visual?",
+     "Karya visual apa yang terakhir membuatmu berhenti dan memperhatikan? Mengapa?"
+    ],
+    "materi": {
+     "pengantar": "Mata pelajaran DD DKV membekali keterampilan dasar bekerja di bidang komunikasi visual: memahami pesan, memilih media, menyiapkan bahan, hingga menghasilkan karya. Pembelajaran menekankan praktik, bukan hafalan.",
+     "poin": [
+      "Peta materi satu tahun: lima bab semester 1 (technopreneur, K3, teknologi industri, proses produksi, sketsa dan ilustrasi) dan tiga bab semester 2 (tipografi, fotografi, komputer grafis).",
+      "Setiap bab diakhiri rangkuman, refleksi, asesmen, dan pengayaan sebagai alat mengecek kemajuan.",
+      "Pembelajaran memakai alur memahami, mengaplikasi, dan merefleksi pada setiap pertemuan."
+     ],
+     "istilah": [
+      {
+       "t": "DKV",
+       "a": "Desain komunikasi visual: bidang yang menyampaikan pesan melalui elemen visual."
+      },
+      {
+       "t": "asesmen diagnostik",
+       "a": "Tes awal untuk mengetahui titik berangkat belajar siswa."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Dinding sekitar kita",
+      "keterangan": "Amati lima foto/grafis di sekitar kelas dan tuliskan pesan yang ingin disampaikan tiap karya."
+     },
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Petunjuk penggunaan buku",
+      "keterangan": "Perhatikan cara buku menyusun aktivitas dan asesmen (Buku Sem 1, halaman xii–xiv)."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menyimak peta materi 36 minggu",
+      "Membedakan tiga jenis aktivitas belajar"
+     ],
+     "mengaplikasi": [
+      "Menelusuri aplikasi DKV Learning Lab",
+      "Mencatat satu karya visual favorit dan alasannya"
+     ],
+     "merefleksi": [
+      "Menulis kebiasaan belajar yang ingin diperbaiki",
+      "Menetapkan satu target belajar pekan ini"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 01 — Peta Diri & Kesiapan Belajar DKV",
+     "langkah": [
+      "Isi kolom pengalaman menggambar/memotret/desain.",
+      "Tuliskan alat yang pernah kamu pakai.",
+      "Rumuskan tiga hal yang ingin kamu kuasai semester ini."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kelengkapan isian",
+       "skor4": "Semua kolom terisi rinci dengan contoh",
+       "skor3": "Semua kolom terisi",
+       "skor2": "Sebagian kolom kosong",
+       "skor1": "Hanya beberapa baris"
+      },
+      {
+       "kriteria": "Kejelasan target",
+       "skor4": "Target spesifik, terukur, dan beralasan",
+       "skor3": "Target jelas",
+       "skor2": "Target umum",
+       "skor1": "Belum ada target"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Tujuan utama mata pelajaran DD DKV adalah",
+       "opsi": [
+        "Menguasai keterampilan dasar bidang DKV",
+        "Menghafal istilah desain",
+        "Menggantikan pelajaran seni"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Asesmen diagnostik dilakukan untuk",
+       "opsi": [
+        "Mengetahui pengetahuan awal siswa",
+        "Menentukan nilai akhir semester",
+        "Memilih ketua kelas"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Menulis cita-cita bidang DKV (satu paragraf)",
+     "bentuk": "individu",
+     "luaran": "Paragraf 5–7 baris pada LKPD"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membaca peta materi bersama guru.",
+     "pengayaan": "Membuat peta minat DKV sendiri (fotografi, tipografi, atau ilustrasi)."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menyebutkan kesepakatan belajar dan aturan keselamatan dasar di kelas praktik.",
+     "Menjalankan aplikasi DKV Learning Lab: masuk, membuka materi, mengunggah karya pertama."
+    ],
+    "pemantik": [
+     "Aturan apa yang membuat kerja kelompok jadi nyaman?",
+     "Apa perbedaan menyerahkan karya lewat pesan pribadi dan lewat portofolio kelas?"
+    ],
+    "materi": {
+     "pengantar": "Kontrak belajar menjaga kelas praktik tetap aman, tertib, dan adil. Aplikasi kelas menjadi tempat karya dan kemajuan dicatat sehingga kamu bisa melihat perkembangannya.",
+     "poin": [
+      "Kesepakatan umum: menjaga kebersihan studio, tidak memakai peralatan tanpa izin, menulis nama pada hasil kerja.",
+      "Alur aplikasi: dashboard, materi 36 minggu, pertemuan, simulasi, LKPD, asesmen, portofolio.",
+      "Setiap karya yang diunggah wajib disertai deskripsi singkat: pesan, proses, dan pelajaran yang didapat."
+     ],
+     "istilah": [
+      {
+       "t": "kontrak belajar",
+       "a": "Kesepakatan aturan kelas yang disusun dan dipatuhi bersama."
+      },
+      {
+       "t": "portofolio",
+       "a": "Kumpulan karya dan catatan proses yang menunjukkan kemajuan siswa."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Denah studio",
+      "keterangan": "Tandai letak meja, aliran orang, dan titik penyimpanan alat pada denah sederhana."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-kelas",
+      "judul": "Alur belajar satu pekan",
+      "keterangan": "Diagram orisinal: Senin konsep → Rabu praktik → portofolio."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menyimak penjelasan kontrak belajar",
+      "Mengidentifikasi risiko tersandung dan kabel di studio"
+     ],
+     "mengaplikasi": [
+      "Masuk aplikasi dan membuka materi minggu 1",
+      "Mengunggah satu karya atau catatan sebagai uji coba"
+     ],
+     "merefleksi": [
+      "Menulis satu kebiasaan kerja yang akan dijaga",
+      "Memberi masukan pada kontrak kelas"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 02 — Kontrak Belajar & Uji Coba Aplikasi",
+     "langkah": [
+      "Baca draf kontrak belajar.",
+      "Tambahkan satu pasal usulan kelompokmu.",
+      "Buktikan sudah mengunggah satu entri portofolio."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Pemahaman aturan",
+       "skor4": "Menjelaskan alasan tiap aturan",
+       "skor3": "Menyebut aturan dengan benar",
+       "skor2": "Menyebut sebagian",
+       "skor1": "Belum memahami"
+      },
+      {
+       "kriteria": "Keterampilan aplikasi",
+       "skor4": "Mandiri, cepat, membantu teman",
+       "skor3": "Mandiri",
+       "skor2": "Perlu dibantu",
+       "skor1": "Belum bisa"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Karya pada portofolio sebaiknya disertai",
+       "opsi": [
+        "Deskripsi pesan dan proses",
+        "Nilai teman",
+        "Riwayat chat"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Salah satu aturan penting di studio DKV adalah",
+       "opsi": [
+        "Menjaga kebersihan dan keamanan alat",
+        "Memakai alat orang lain tanpa izin",
+        "Meninggalkan kabel di jalan orang"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Unggah karya/catatan pertama ke portofolio",
+     "bentuk": "individu",
+     "luaran": "Satu entri portofolio dengan deskripsi"
+    },
+    "tindakLanjut": {
+     "remedial": "Bimbingan membuka aplikasi satu per satu.",
+     "pengayaan": "Menjadi pendamping teman (peer tutor) saat uji coba aplikasi."
+    }
+   }
+  },
+  {
+   "minggu": 2,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan pengertian technopreneur dan technopreneurship pada bidang DKV.",
+     "Menyebutkan tujuan dan karakter wirausaha yang perlu dimiliki desainer."
+    ],
+    "pemantik": [
+     "Kalau kamu punya keahlian desain, bagaimana keahlian itu bisa menghasilkan?",
+     "Apa bedanya pekerja lepas desain dengan pengusaha di bidang desain?"
+    ],
+    "materi": {
+     "pengantar": "Technopreneur adalah wirausaha yang memanfaatkan teknologi untuk menciptakan nilai dan peluang usaha. Pada bidang DKV, keahlian desain menjadi modal membuat jasa, produk grafis, atau media komunikasi yang dibutuhkan orang lain.",
+     "poin": [
+      "Technopreneur berbeda dari wirausaha biasa karena bertumpu pada penguasaan teknologi dan pembaruan cara kerja.",
+      "Tujuan berwirausaha meliputi memperoleh keuntungan, membuka lapangan kerja, menghasilkan pembaruan, dan memperkuat kemandirian.",
+      "Karakter yang dibangun: melihat peluang, berani mengambil risiko terukur, disiplin, mampu bekerja sama, dan mau belajar dari kegagalan.",
+      "Pada DKV, peluang technopreneur muncul dari kebutuhan klien terhadap identitas, promosi, dan konten visual."
+     ],
+     "istilah": [
+      {
+       "t": "technopreneur",
+       "a": "Wirausaha yang memanfaatkan teknologi sebagai dasar usahanya."
+      },
+      {
+       "t": "risiko terukur",
+       "a": "Mengambil keputusan berani setelah memperhitungkan untung dan ruginya."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Pengertian dan karakter wirausaha",
+      "keterangan": "Perhatikan uraian dan ilustrasi pada Buku Sem 1 BAB 1 subbab A (halaman 3–5)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Dua contoh usaha desain di sekitar",
+      "keterangan": "Bandingkan usaha percetakan digital dan penyedia jasa konten: apa yang mereka jual?"
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menyusun definisi technopreneur dengan bahasa sendiri",
+      "Memetakan tujuan berwirausaha"
+     ],
+     "mengaplikasi": [
+      "Menuliskan tiga keahlian DKV yang bisa dijual",
+      "Mencari satu contoh jasa desain di lingkungan sekitar"
+     ],
+     "merefleksi": [
+      "Menilai karakter wirausaha mana yang sudah kuat pada diri sendiri"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 03 — Kamus Mini Technopreneur DKV",
+     "langkah": [
+      "Cuplik tiga istilah penting dari subbab A.",
+      "Tulis arti dengan bahasa sendiri.",
+      "Tambahkan satu contoh nyata untuk setiap istilah."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan makna istilah",
+       "skor4": "Semua istilah tepat dan diberi contoh",
+       "skor3": "Istilah tepat",
+       "skor2": "Ada kekeliruan makna",
+       "skor1": "Sekadar menyalin tanpa makna"
+      },
+      {
+       "kriteria": "Kemandirian bahasa",
+       "skor4": "Seluruh penjelasan memakai bahasa sendiri",
+       "skor3": "Sebagian besar bahasa sendiri",
+       "skor2": "Masih menyalin",
+       "skor1": "Menyalin utuh"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Ciri khas technopreneur adalah",
+       "opsi": [
+        "Memanfaatkan teknologi dalam berwirausaha",
+        "Menghindari perubahan",
+        "Menjual barang milik orang lain"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Berikut yang bukan tujuan berwirausaha adalah",
+       "opsi": [
+        "Menambah jumlah pengangguran",
+        "Memperoleh keuntungan",
+        "Membuka lapangan kerja"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Profil singkat technopreneur DKV idaman",
+     "bentuk": "individu",
+     "luaran": "Setengah halaman: bidang jasa, calon pelanggan, keahlian yang dibutuhkan"
+    },
+    "tindakLanjut": {
+     "remedial": "Membaca ulang subbab A dengan panduan pertanyaan.",
+     "pengayaan": "Mewawancarai pelaku usaha desain lokal."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mengidentifikasi peluang usaha DKV yang tumbuh di sekitar tempat tinggal.",
+     "Menyusun dugaan awal peluang usaha berdasarkan kebutuhan nyata."
+    ],
+    "pemantik": [
+     "Kebutuhan visual apa yang sering muncul di lingkunganmu?",
+     "Usaha kecil di daerahmu butuh bantuan apa: logo, konten, atau kemasan?"
+    ],
+    "materi": {
+     "pengantar": "Peluang usaha yang baik lahir dari masalah nyata di sekitar. Pelaku usaha kecil, kegiatan sekolah, hingga acara kampung sering memerlukan bantuan visual yang belum tersedia.",
+     "poin": [
+      "Contoh pemanfaatan teknologi oleh technopreneur DKV: membuat kemasan bernilai jual, mengelola toko daring, dan memproduksi konten promosi.",
+      "Peluang dapat dinilai memakai tiga pertanyaan: siapa yang butuh, seberapa sering, dan seberapa siap kita mengerjakannya.",
+      "Pengamatan lapangan menjadi bahan mentah ide sebelum menyusun usaha."
+     ],
+     "istilah": [
+      {
+       "t": "peluang usaha",
+       "a": "Kesempatan menghasilkan nilai dari kebutuhan yang belum terpenuhi."
+      },
+      {
+       "t": "pengamatan lapangan",
+       "a": "Kegiatan mengamati kebutuhan nyata di lingkungan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Potret kemasan dan konten sekitar",
+      "keterangan": "Foto tiga kemasan/iklan lokal, lalu beri catatan kekuatan dan kelemahannya."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-peluang",
+      "judul": "Tiga saringan peluang",
+      "keterangan": "Diagram orisinal: kebutuhan → kemampuan → kelayakan waktu."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membedakan kebutuhan visual yang mendesak dan tidak",
+      "Membandingkan dua peluang usaha"
+     ],
+     "mengaplikasi": [
+      "Melakukan pengamatan di sekitar rumah/sekolah",
+      "Mencatat tiga kebutuhan visual yang teramati"
+     ],
+     "merefleksi": [
+      "Memilih satu peluang yang paling mungkin dikerjakan sekarang"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 04 — Pemetaan Peluang DKV di Sekitar Kita",
+     "langkah": [
+      "Daftar lima kebutuhan visual di lingkunganmu.",
+      "Beri tanda mendesak atau tidak.",
+      "Pilih satu sebagai calon bahan usaha dengan alasan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kekayaan data",
+       "skor4": "Lima data disertai bukti pengamatan",
+       "skor3": "Lima data",
+       "skor2": "Tiga data",
+       "skor1": "Satu data tanpa bukti"
+      },
+      {
+       "kriteria": "Kualitas alasan pemilihan",
+       "skor4": "Menyebut kebutuhan, kemampuan, dan peluang",
+       "skor3": "Menyebut dua hal",
+       "skor2": "Menyebut satu hal",
+       "skor1": "Tanpa alasan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Langkah pertama mengenali peluang usaha DKV adalah",
+       "opsi": [
+        "Mengamati kebutuhan nyata di sekitar",
+        "Membeli alat mahal",
+        "Meniru karya orang lain"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Peluang usaha dinilai layak jika",
+       "opsi": [
+        "Ada kebutuhan dan kita mampu mengerjakannya",
+        "Karyanya paling rumit",
+        "Alatnya paling lengkap"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Satu halaman: peluang DKV yang saya temukan",
+     "bentuk": "individu",
+     "luaran": "Catatan pengamatan + satu foto/ilustrasi pendukung"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyusun daftar kebutuhan bersama guru.",
+     "pengayaan": "Menghubungi pemilik usaha kecil untuk bertanya kebutuhan promosi."
+    }
+   }
+  },
+  {
+   "minggu": 3,
+   "senin": {
+    "tujuan": [
+     "Menyebutkan profesi dan bidang kerja yang termasuk lingkup DKV.",
+     "Menjelaskan tugas utama beberapa profesi DKV."
+    ],
+    "pemantik": [
+     "Profesi apa yang menurutmu bekerja di balik sebuah iklan?",
+     "Apa perbedaan pekerjaan desainer grafis dan ilustrator?"
+    ],
+    "materi": {
+     "pengantar": "Bidang DKV tidak hanya berisi satu pekerjaan. Ada perancang grafis, ilustrator, fotografer, videografer, penata huruf, hingga pengelola konten digital dengan tugas yang saling melengkapi.",
+     "poin": [
+      "Setiap profesi menuntut keterampilan khusus, namun semua membutuhkan kemampuan menyampaikan pesan secara visual.",
+      "Dalam sebuah proyek biasanya ada kerja berjenjang: konsep, perancangan, produksi, hingga penyelesaian akhir.",
+      "Perkembangan media digital membuka profesi baru seperti perancang antarmuka, pengelola media sosial, dan pembuat aset digital."
+     ],
+     "istilah": [
+      {
+       "t": "ilustrator",
+       "a": "Pekerja visual yang membuat gambar untuk menjelaskan atau memperkuat pesan."
+      },
+      {
+       "t": "penata huruf",
+       "a": "Perancang yang mengatur pemilihan dan susunan huruf pada karya."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Prospek profesi desainer komunikasi visual",
+      "keterangan": "Perhatikan ragam profesi dan tugasnya pada Buku Sem 1 BAB 1 subbab B (halaman 6–10)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Dari iklan ke tim kerja",
+      "keterangan": "Pilih satu iklan lalu tebak siapa saja yang terlibat dan apa tugas masing-masing."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Mengelompokkan profesi berdasarkan keluaran karya",
+      "Membaca uraian profesi pada buku"
+     ],
+     "mengaplikasi": [
+      "Membuat tabel profesi, tugas, alat, dan hasil karya",
+      "Memasangkan profesi dengan contoh karyanya"
+     ],
+     "merefleksi": [
+      "Menulis profesi yang paling menarik bagi saya beserta alasannya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 05 — Peta Profesi DKV",
+     "langkah": [
+      "Pilih lima profesi dari subbab B.",
+      "Isi tugas utama, alat kerja, dan contoh hasil.",
+      "Beri tanda profesi yang ingin dicoba."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan isi",
+       "skor4": "Uraian tepat dengan contoh karya",
+       "skor3": "Uraian tepat",
+       "skor2": "Sebagian keliru",
+       "skor1": "Tidak sesuai"
+      },
+      {
+       "kriteria": "Kelengkapan tabel",
+       "skor4": "Lima profesi lengkap empat kolom",
+       "skor3": "Lima profesi, kolom kurang lengkap",
+       "skor2": "Tiga profesi",
+       "skor1": "Kurang dari tiga"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Pekerjaan yang membuat gambar penjelas disebut",
+       "opsi": [
+        "Ilustrator",
+        "Fotografer",
+        "Penyunting audio"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Salah satu profesi baru akibat media digital adalah",
+       "opsi": [
+        "Perancang antarmuka",
+        "Pencetak manual",
+        "Penyabit rumput"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Kartu profesi DKV",
+     "bentuk": "individu",
+     "luaran": "Satu kartu berisi nama profesi, tugas, alat, dan contoh karya"
+    },
+    "tindakLanjut": {
+     "remedial": "Menyimak ulang penjelasan guru dengan daftar pertanyaan.",
+     "pengayaan": "Membuat wawancara singkat dengan alumni atau praktisi DKV."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menjelaskan cara melihat peluang usaha dari kebutuhan profesinya.",
+     "Menyusun rencana usaha sederhana bidang DKV."
+    ],
+    "pemantik": [
+     "Usaha apa yang bisa dijalankan siswa kelas X dengan alat sederhana?",
+     "Bagaimana memastikan jasa kita dipakai orang?"
+    ],
+    "materi": {
+     "pengantar": "Setelah mengenal profesi, langkah berikutnya adalah mengaitkannya dengan usaha yang bisa dimulai dari kemampuan sekarang. Rencana usaha sederhana memuat jasa yang ditawarkan, pelanggan sasaran, dan tarif awal.",
+     "poin": [
+      "Rencana sederhana cukup memuat empat hal: apa yang dijual, untuk siapa, berapa harganya, dan bagaimana cara mengerjakannya.",
+      "Keunggulan bisa dibangun dari kedekatan dengan pelanggan, kecepatan layanan, atau gaya karya yang khas.",
+      "Menetapkan batas kemampuan penting agar kualitas tetap terjaga saat pesanan bertambah."
+     ],
+     "istilah": [
+      {
+       "t": "pelanggan sasaran",
+       "a": "Kelompok orang yang paling mungkin membeli jasa atau karya kita."
+      },
+      {
+       "t": "tarif awal",
+       "a": "Harga pembuka yang ditetapkan sambil menimbang waktu dan bahan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "diagram",
+      "id": "diagram-rencana-usaha",
+      "judul": "Empat kunci rencana usaha",
+      "keterangan": "Diagram orisinal: produk → pelanggan → harga → cara kerja."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Harga di sekitar",
+      "keterangan": "Cari tiga penawaran jasa desain/cetak dan catat kisaran harganya sebagai pembanding."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah unsur rencana usaha",
+      "Membandingkan dua model penawaran jasa"
+     ],
+     "mengaplikasi": [
+      "Menyusun draf rencana usaha satu halaman",
+      "Menetapkan tarif sementara untuk satu jasa"
+     ],
+     "merefleksi": [
+      "Menilai kesiapan diri menjalankan rencana tersebut"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 06 — Rencana Usaha DKV Sederhana",
+     "langkah": [
+      "Tulis jasa yang ditawarkan.",
+      "Tentukan pelanggan sasaran.",
+      "Hitung perkiraan waktu dan tarif.",
+      "Sebutkan risiko dan cara mengatasinya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kelengkapan rencana",
+       "skor4": "Empat unsur lengkap dan saling terkait",
+       "skor3": "Empat unsur lengkap",
+       "skor2": "Tiga unsur",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Kewajaran tarif",
+       "skor4": "Tarif disertai perhitungan waktu dan bahan",
+       "skor3": "Tarif disertai alasan",
+       "skor2": "Tarif tanpa alasan",
+       "skor1": "Tidak mengisi"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Unsur wajib rencana usaha sederhana adalah",
+       "opsi": [
+        "Produk, pelanggan, harga, cara kerja",
+        "Warna, ukuran, bentuk, bahan",
+        "Nama, alamat, nomor telepon"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Menetapkan tarif sebaiknya mempertimbangkan",
+       "opsi": [
+        "Waktu, bahan, dan kemampuan pelanggan",
+        "Keinginan sendiri saja",
+        "Harga termahal di pasar"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Poster mini penawaran jasa kelompok",
+     "bentuk": "kelompok (3 orang)",
+     "luaran": "Gambar tangan atau digital berisi jasa, sasaran, dan kontak"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengisi kerangka rencana usaha.",
+     "pengayaan": "Menyusun simulasi penawaran kepada pelanggan nyata."
+    }
+   }
+  },
+  {
+   "minggu": 4,
+   "senin": {
+    "tujuan": [
+     "Mengenali potensi diri yang mendukung pekerjaan DKV.",
+     "Menjelaskan cara memunculkan ide kreatif dari pengalaman pribadi."
+    ],
+    "pemantik": [
+     "Kegiatan apa yang membuatmu lupa waktu?",
+     "Bisakah hobi menjadi bahan karya desain?"
+    ],
+    "materi": {
+     "pengantar": "Potensi diri adalah gabungan minat, keterampilan, dan pengalaman. Pada DKV, pengalaman sehari-hari menjadi bahan ide yang tidak dimiliki orang lain, sehingga karya terasa khas.",
+     "poin": [
+      "Mengenali potensi membantu memilih bidang yang ingin diperdalam: gambar, foto, huruf, atau susunan tata letak.",
+      "Ide kreatif dapat dilatih dengan mencatat pengamatan harian dan menghubungkan hal yang tidak berhubungan.",
+      "Potensi yang sudah ada perlu diuji melalui karya kecil sebelum dipakai untuk usaha."
+     ],
+     "istilah": [
+      {
+       "t": "potensi diri",
+       "a": "Kemampuan dan minat yang sudah ada pada diri seseorang."
+      },
+      {
+       "t": "ide kreatif",
+       "a": "Gagasan baru yang lahir dari pengamatan dan pengalaman."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Mengenal potensi desainer sejak dini",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 1 subbab C (halaman 11–12)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Buku catatan ide",
+      "keterangan": "Amati contoh catatan ide: gambar cepat, potongan kata, dan tanda panah penghubung."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Mengidentifikasi minat dan keterampilan diri",
+      "Membaca uraian potensi desainer"
+     ],
+     "mengaplikasi": [
+      "Membuat daftar sepuluh pengalaman pribadi yang bisa jadi ide",
+      "Menyketsa dua ide dari daftar tersebut"
+     ],
+     "merefleksi": [
+      "Menulis satu kekuatan diri yang akan dipakai pada projek berikutnya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 07 — Inventaris Potensi & Bank Ide",
+     "langkah": [
+      "Daftar lima minat dan tiga keterampilan.",
+      "Susun sepuluh bahan ide dari pengalaman.",
+      "Lingkari tiga ide yang paling kuat."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kejujuran pemetaan diri",
+       "skor4": "Rinci disertai bukti pengalaman",
+       "skor3": "Rinci",
+       "skor2": "Umum",
+       "skor1": "Sekadar mengisi"
+      },
+      {
+       "kriteria": "Jumlah & mutu ide",
+       "skor4": "Sepuluh ide orisinal dan beralasan",
+       "skor3": "Sepuluh ide",
+       "skor2": "Lima ide",
+       "skor1": "Kurang dari lima"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Sumber ide kreatif yang paling dekat adalah",
+       "opsi": [
+        "Pengalaman dan pengamatan harian",
+        "Karya orang lain",
+        "Keinginan guru"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Potensi diri sebaiknya diuji melalui",
+       "opsi": [
+        "Karya kecil yang dikerjakan langsung",
+        "Rencana besar tanpa praktik",
+        "Nilai teman"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Bank ide pribadi (10 butir)",
+     "bentuk": "individu",
+     "luaran": "Daftar ide + sketsa cepat dua ide"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menemukan pengalaman yang bisa dijadikan ide.",
+     "pengayaan": "Mengubah satu ide menjadi konsep karya nyata."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menyusun rencana usaha sederhana berbasis potensi diri.",
+     "Menjelaskan manfaat perencanaan sebelum berkarya."
+    ],
+    "pemantik": [
+     "Mengapa rencana tertulis membantu pekerjaan desain?",
+     "Apa akibatnya jika bahan dan waktu tidak dihitung?"
+    ],
+    "materi": {
+     "pengantar": "Rencana membuat pekerjaan terarah. Untuk pemula, rencana sederhana berisi tujuan karya, bahan, langkah, waktu, dan ukuran keberhasilan sudah cukup untuk menjaga pekerjaan tetap selesai.",
+     "poin": [
+      "Rencana mengurangi pekerjaan ulang karena bahan dan urutan langkah sudah dipikirkan.",
+      "Ukuran keberhasilan harus dapat diamati, misalnya jumlah halaman, ukuran cetak, atau jumlah pesanan.",
+      "Rencana yang sudah dibuat perlu dievaluasi setelah dikerjakan agar menjadi lebih baik."
+     ],
+     "istilah": [
+      {
+       "t": "perencanaan",
+       "a": "Kegiatan menyusun langkah sebelum bekerja agar hasil terarah."
+      },
+      {
+       "t": "ukuran keberhasilan",
+       "a": "Penanda yang dapat diamati untuk menilai hasil kerja."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "diagram",
+      "id": "diagram-rencana-usaha",
+      "judul": "Alur rencana ke karya",
+      "keterangan": "Diagram orisinal: rencana → bahan → langkah → penilaian."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Contoh rencana kerja desain",
+      "keterangan": "Pelajari contoh rencana satu halaman beserta kolom cek selesai."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah bagian-bagian rencana usaha",
+      "Membandingkan rencana milik dua kelompok"
+     ],
+     "mengaplikasi": [
+      "Menyusun rencana usaha berbasis potensi diri",
+      "Mengisi kolom waktu dan bahan"
+     ],
+     "merefleksi": [
+      "Menilai kesesuaian rencana dengan kemampuan diri"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 08 — Perencanaan Usaha & Karya Pertama",
+     "langkah": [
+      "Tulis tujuan karya dan sasarannya.",
+      "Daftar bahan dan alat.",
+      "Susun langkah kerja berurutan.",
+      "Tetapkan ukuran keberhasilan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kejelasan langkah",
+       "skor4": "Berurutan, masuk akal, dapat dieksekusi",
+       "skor3": "Berurutan",
+       "skor2": "Ada langkah melompat",
+       "skor1": "Belum tersusun"
+      },
+      {
+       "kriteria": "Kelengkapan penilaian diri",
+       "skor4": "Ukuran keberhasilan terukur dan dicatat",
+       "skor3": "Ada ukuran keberhasilan",
+       "skor2": "Ukuran terlalu umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Manfaat utama perencanaan karya adalah",
+       "opsi": [
+        "Mengurangi pekerjaan ulang",
+        "Menambah biaya",
+        "Memperlambat kerja"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Ukuran keberhasilan karya sebaiknya",
+       "opsi": [
+        "Dapat diamati dan dihitung",
+        "Tergantung suasana hati",
+        "Hanya diketahui guru"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Rancangan karya pertama + ceklis bahan",
+     "bentuk": "individu",
+     "luaran": "Lembar rencana yang disetujui guru"
+    },
+    "tindakLanjut": {
+     "remedial": "Bimbingan menyusun urutan langkah satu per satu.",
+     "pengayaan": "Membuat jadwal mingguan produksi karya."
+    }
+   }
+  },
+  {
+   "minggu": 5,
+   "senin": {
+    "tujuan": [
+     "Menerapkan prinsip ergonomi saat duduk bekerja di depan komputer.",
+     "Menjelaskan risiko postur kerja yang keliru."
+    ],
+    "pemantik": [
+     "Berapa lama kamu bisa duduk tanpa beranjak? Apa keluhan yang muncul?",
+     "Posisi kursi seperti apa yang membuat pundak cepat pegal?"
+    ],
+    "materi": {
+     "pengantar": "Keselamatan dan kesehatan kerja dimulai dari diri sendiri. Bekerja lama di depan layar dengan posisi yang salah menimbulkan keluhan pada leher, punggung, dan pergelangan tangan.",
+     "poin": [
+      "Ergonomi mengatur hubungan antara tubuh, alat, dan lingkungan kerja agar pekerjaan aman dan nyaman.",
+      "Posisi duduk yang baik: kaki menapak, punggung tersandar, siku menekuk tegak lurus meja, layar sejajar mata.",
+      "Jarak pandang yang terlalu dekat dan pencahayaan kurang membuat mata cepat lelah, sehingga perlu jeda berkala.",
+      "Istirahat pendek tiap sekitar 30 menit disertai peregangan sederhana mengurangi kelelahan otot."
+     ],
+     "istilah": [
+      {
+       "t": "ergonomi",
+       "a": "Ilmu penyesuaian kerja dengan tubuh manusia agar aman dan nyaman."
+      },
+      {
+       "t": "postur kerja",
+       "a": "Posisi tubuh saat melakukan pekerjaan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Posisi kerja duduk dan berdiri",
+      "keterangan": "Perhatikan contoh posisi kerja yang disarankan dan yang tidak disarankan pada Buku Sem 1 BAB 2 subbab A (halaman 19–31)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-postur",
+      "judul": "Titik tumpu kerja",
+      "keterangan": "Diagram orisinal: siku tegak lurus, kaki menapak, layar sejajar mata."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah aturan ergonomi duduk",
+      "Mengidentifikasi risiko dari posisi yang keliru"
+     ],
+     "mengaplikasi": [
+      "Memeriksa posisi kerja sendiri dengan ceklis",
+      "Mengatur ulang kursi dan layar"
+     ],
+     "merefleksi": [
+      "Menetapkan satu kebiasaan kerja yang akan diperbaiki"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 09 — Ceklis Ergonomi Stasiun Kerja",
+     "langkah": [
+      "Isi sepuluh butir ceklis pada stasiun kerjamu.",
+      "Beri tanda butir yang belum sesuai.",
+      "Tuliskan perbaikan yang sudah dilakukan hari ini."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketelitian observasi",
+       "skor4": "Menemukan temuan halus dan beralasan",
+       "skor3": "Temuan tepat",
+       "skor2": "Temuan umum",
+       "skor1": "Tidak teliti"
+      },
+      {
+       "kriteria": "Konsistensi perbaikan",
+       "skor4": "Perbaikan dilakukan dan dijelaskan",
+       "skor3": "Perbaikan dilakukan",
+       "skor2": "Direncanakan saja",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Posisi siku yang disarankan saat mengetik adalah",
+       "opsi": [
+        "Menekuk tegak lurus terhadap meja",
+        "Menekuk sangat tajam",
+        "Lurus ke bawah"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Tujuan utama jeda berkala saat bekerja di layar adalah",
+       "opsi": [
+        "Mengurangi kelelahan mata dan otot",
+        "Menambah waktu istirahat tanpa batas",
+        "Memperlambat pekerjaan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Poster mini K3 ergonomi untuk laboratorium",
+     "bentuk": "individu",
+     "luaran": "Satu poster berisi tiga kiat postur kerja aman"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengatur stasiun kerja satu per satu.",
+     "pengayaan": "Menyusun jadwal jeda dan peregangan kelas."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mempraktikkan posisi tubuh aman saat memotret dan mengangkat beban.",
+     "Menerapkan langkah pencegahan cedera pada pekerjaan lapangan."
+    ],
+    "pemantik": [
+     "Posisi seperti apa yang berbahaya saat memotret dari sudut rendah?",
+     "Bagaimana aman mengangkat kotak peralatan yang berat?"
+    ],
+    "materi": {
+     "pengantar": "Pekerjaan DKV sering dilakukan di lapangan: membungkuk untuk sudut rendah, mengikuti gerakan subjek, dan mengangkat tas peralatan. Semua itu perlu posisi tubuh yang benar agar tidak cedera.",
+     "poin": [
+      "Saat memotret, tekuk lutut alih-alih membungkukkan punggung, dan pastikan pijakan kaki stabil.",
+      "Gerakan memutar mengikuti subjek (pivot) dilakukan dengan memutar kaki, bukan memelintir pinggang.",
+      "Mengangkat beban berat dimulai dari lutut, beban dekat tubuh, dan minta bantuan bila melebihi kemampuan.",
+      "Penerangan cukup dan permukaan tidak licin mengurangi risiko terjatuh saat bekerja."
+     ],
+     "istilah": [
+      {
+       "t": "low angle",
+       "a": "Pengambilan gambar dari posisi rendah ke arah objek."
+      },
+      {
+       "t": "pivot",
+       "a": "Gerakan memutar tubuh mengikuti objek dengan tumpuan kaki."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Posisi memotret dan mengangkat beban",
+      "keterangan": "Perhatikan urutan contoh posisi pada Buku Sem 1 BAB 2 subbab A (halaman 19–31), termasuk pijakan tambahan dan gerakan pivot."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Rekam posisi teman",
+      "keterangan": "Foto dua posisi memotret teman, lalu tandai mana yang paling aman beserta alasannya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membandingkan posisi memotret aman dan berisiko",
+      "Menyimak langkah mengangkat beban"
+     ],
+     "mengaplikasi": [
+      "Mempraktikkan posisi memotret tiga sudut berbeda",
+      "Berlatih pivot mengikuti objek bergerak"
+     ],
+     "merefleksi": [
+      "Menulis satu risiko yang paling mungkin terjadi pada dirimu dan cara mencegahnya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 10 — Praktik Aman di Lapangan",
+     "langkah": [
+      "Ambil tiga posisi memotret berbeda secara aman.",
+      "Isi kartu penilaian pengamat.",
+      "Catat satu perbaikan untuk pengambilan berikutnya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan posisi",
+       "skor4": "Semua posisi aman dan efisien",
+       "skor3": "Posisi aman",
+       "skor2": "Satu posisi berisiko",
+       "skor1": "Banyak posisi berisiko"
+      },
+      {
+       "kriteria": "Kedisiplinan keselamatan",
+       "skor4": "Konsisten aman dan mengingatkan teman",
+       "skor3": "Aman",
+       "skor2": "Perlu diingatkan",
+       "skor1": "Mengabaikan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Saat memotret dari posisi rendah sebaiknya",
+       "opsi": [
+        "Menekuk lutut, punggung tetap tegak",
+        "Membungkukkan punggung dalam waktu lama",
+        "Berdiri sambil memiringkan tubuh"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Cara aman mengangkat kotak peralatan berat adalah",
+       "opsi": [
+        "Menekuk lutut dan memeluk beban dekat tubuh",
+        "Membungkuk dan mengangkat cepat",
+        "Mengangkat dengan satu tangan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Kartu keselamatan lapangan",
+     "bentuk": "kelompok",
+     "luaran": "Satu kartu berisi lima aturan aman saat bertugas di luar kelas"
+    },
+    "tindakLanjut": {
+     "remedial": "Demonstrasi ulang posisi aman bersama guru.",
+     "pengayaan": "Menyusun prosedur keselamatan untuk kegiatan foto kelas."
+    }
+   }
+  },
+  {
+   "minggu": 6,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan prosedur perawatan peralatan kerja DKV.",
+     "Mengidentifikasi risiko kerusakan akibat perlakuan yang salah."
+    ],
+    "pemantik": [
+     "Mengapa lensa kamera tidak boleh dibersihkan dengan sembarang kain?",
+     "Apa yang terjadi jika komputer dimatikan mendadak saat menyimpan berkas?"
+    ],
+    "materi": {
+     "pengantar": "Peralatan yang terawat bekerja lebih lama dan hasilnya lebih baik. Perawatan bukan pekerjaan teknisi saja, tetapi kebiasaan pemakai setiap hari.",
+     "poin": [
+      "Peralatan dikelompokkan menjadi alat digital (komputer, kamera, penyimpan) dan alat manual (pinset, cutter, meja cetak).",
+      "Perawatan rutin meliputi pembersihan debu, pengecekan kabel, penyimpanan tertutup, dan pemeriksaan daya baterai.",
+      "Alat berbahaya seperti cutter dan gunting wajib disimpan dengan pelindung dan dipakai dengan alas potong.",
+      "Kerusakan segera dicatat dan dilaporkan daripada dibiarkan, agar tidak menimbulkan kecelakaan."
+     ],
+     "istilah": [
+      {
+       "t": "perawatan preventif",
+       "a": "Perawatan sebelum kerusakan terjadi agar alat tetap berfungsi."
+      },
+      {
+       "t": "kartu peralatan",
+       "a": "Catatan riwayat pemakaian dan kondisi alat."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Keselamatan pada peralatan kerja",
+      "keterangan": "Perhatikan uraian dan contoh pada Buku Sem 1 BAB 2 subbab B (halaman 32–38)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Audit satu peralatan",
+      "keterangan": "Pilih satu alat kelas, catat kondisinya, dan tentukan langkah perawatan pekan ini."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Mengelompokkan alat digital dan manual",
+      "Menelaah langkah perawatan dasar"
+     ],
+     "mengaplikasi": [
+      "Membuat kartu perawatan untuk satu alat",
+      "Melakukan pemeriksaan kabel dan kebersihan alat"
+     ],
+     "merefleksi": [
+      "Menulis kebiasaan pemakaian alat yang perlu diperbaiki"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 11 — Kartu Perawatan Peralatan Kerja",
+     "langkah": [
+      "Pilih dua alat kelas.",
+      "Isi kondisi awal dan langkah perawatan.",
+      "Tetapkan jadwal perawatan pekanan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan langkah perawatan",
+       "skor4": "Langkah tepat dan berurutan",
+       "skor3": "Langkah tepat",
+       "skor2": "Kurang tepat",
+       "skor1": "Tidak sesuai"
+      },
+      {
+       "kriteria": "Kelengkapan kartu",
+       "skor4": "Dua alat lengkap dengan jadwal",
+       "skor3": "Dua alat",
+       "skor2": "Satu alat",
+       "skor1": "Tidak mengisi"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Membersihkan lensa kamera sebaiknya memakai",
+       "opsi": [
+        "Kain khusus lensa",
+        "Tisu makan",
+        "Ujung baju"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Alat potong seperti cutter disimpan dengan cara",
+       "opsi": [
+        "Diberi pelindung dan disimpan tertutup",
+        "Diletakkan terbuka di meja",
+        "Diselipkan di saku"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Jadwal perawatan kelas satu pekan",
+     "bentuk": "kelompok",
+     "luaran": "Tabel jadwal perawatan yang ditempel di studio"
+    },
+    "tindakLanjut": {
+     "remedial": "Bimbingan mengenali nama dan fungsi alat.",
+     "pengayaan": "Menyusun panduan bergambar perawatan alat."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menerapkan kebiasaan penyimpanan dan penyalinan data yang aman.",
+     "Menyusun jadwal pemeriksaan peralatan kelas."
+    ],
+    "pemantik": [
+     "Pernahkah pekerjaanmu hilang karena berkas rusak?",
+     "Berapa salinan aman untuk satu berkas penting?"
+    ],
+    "materi": {
+     "pengantar": "Kehilangan data sama merugikan dengan kehilangan alat. Kebiasaan menamai berkas dengan rapi dan menyimpan salinan di dua tempat menyelamatkan hasil kerja berhari-hari.",
+     "poin": [
+      "Pola penamaan berkas: tanggal, nama pekerjaan, versi. Contoh: 2026-08-12-poster-dkv-v2.",
+      "Aturan salinan minimal dua tempat: penyimpanan komputer dan penyimpanan awan atau cakram lepas.",
+      "Menyimpan berkas secara berkala saat bekerja mencegah kehilangan karena pemadaman listrik.",
+      "Data hasil karya siswa harus dijaga kerahasiaannya: tidak dibagikan tanpa izin pemiliknya."
+     ],
+     "istilah": [
+      {
+       "t": "cadangan data",
+       "a": "Salinan berkas yang disimpan di tempat lain untuk berjaga-jaga."
+      },
+      {
+       "t": "penamaan berkas",
+       "a": "Kebiasaan memberi nama yang memuat tanggal, pekerjaan, dan versi."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Rapikan satu folder",
+      "keterangan": "Amati contoh struktur folder proyek: berkas kerja, bahan, dan hasil akhir."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-kelas",
+      "judul": "Alur simpan kerja",
+      "keterangan": "Diagram orisinal: kerja → simpan berkala → salin → periksa."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah pola penamaan dan struktur folder",
+      "Menjelaskan risiko kehilangan data"
+     ],
+     "mengaplikasi": [
+      "Merapikan folder kerja pribadi",
+      "Membuat satu salinan cadangan karya"
+     ],
+     "merefleksi": [
+      "Menulis satu kebiasaan penyimpanan yang akan dibiasakan mulai sekarang"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 12 — Manajemen Berkas & Jadwal Perawatan",
+     "langkah": [
+      "Susun struktur folder proyek.",
+      "Ganti nama tiga berkas sesuai pola.",
+      "Unggah bukti cadangan data."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kerapian struktur",
+       "skor4": "Struktur logis dan konsisten",
+       "skor3": "Struktur cukup rapi",
+       "skor2": "Masih bercampur",
+       "skor1": "Tidak tersusun"
+      },
+      {
+       "kriteria": "Kepatuhan penamaan",
+       "skor4": "Seluruh berkas mengikuti pola",
+       "skor3": "Sebagian besar mengikuti pola",
+       "skor2": "Sebagian kecil",
+       "skor1": "Tidak mengikuti"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Contoh nama berkas yang baik adalah",
+       "opsi": [
+        "2026-08-12-poster-dkv-v2",
+        "asdfg",
+        "baru lagi final fix"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Jumlah lokasi penyimpanan salinan yang disarankan adalah",
+       "opsi": [
+        "Minimal dua tempat berbeda",
+        "Satu tempat saja",
+        "Tidak perlu salinan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Bukti cadangan data karya",
+     "bentuk": "individu",
+     "luaran": "Tangkapan layar/daftar berkas pada dua lokasi penyimpanan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menata folder bersama guru.",
+     "pengayaan": "Membuat panduan singkat manajemen berkas untuk kelas."
+    }
+   }
+  },
+  {
+   "minggu": 7,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan ciri lingkungan kerja yang aman dan nyaman.",
+     "Mengidentifikasi sumber bahaya di ruang kerja DKV."
+    ],
+    "pemantik": [
+     "Apa yang membuat sebuah ruang terasa aman untuk bekerja lama?",
+     "Bahaya apa yang sering tidak disadari di studio?"
+    ],
+    "materi": {
+     "pengantar": "Lingkungan kerja memengaruhi mutu dan keselamatan. Ruang yang tertata, bercahaya cukup, dan berventilasi baik menurunkan risiko kecelakaan serta menjaga hasil karya tetap bersih.",
+     "poin": [
+      "Penataan ruang memperhatikan aliran gerak orang, letak meja, dan jalur kabel agar tidak menjadi penghalang.",
+      "Pencahayaan campuran antara cahaya alami dan lampu kerja mengurangi bayangan yang mengganggu saat menggambar atau menyunting foto.",
+      "Peralatan berbahaya dan bahan mudah terbakar disimpan pada tempat khusus dengan penanda jelas.",
+      "Kebersihan rutin termasuk membuang sisa bahan dan menyimpan karya agar tidak rusak."
+     ],
+     "istilah": [
+      {
+       "t": "sumber bahaya",
+       "a": "Hal di lingkungan kerja yang berpotensi menimbulkan cedera atau kerusakan."
+      },
+      {
+       "t": "ventilasi",
+       "a": "Pengaturan aliran udara agar ruang kerja sehat."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Keselamatan pada lingkungan kerja",
+      "keterangan": "Perhatikan contoh penataan dan penanganan lingkungan kerja pada Buku Sem 1 BAB 2 subbab C (halaman 39–40)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Peta bahaya studio",
+      "keterangan": "Tandai lima titik rawan pada denah studio: kabel melintang, sudut meja, tempat menyimpan cairan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah ciri lingkungan kerja aman",
+      "Mengelompokkan sumber bahaya"
+     ],
+     "mengaplikasi": [
+      "Membuat peta bahaya studio",
+      "Melakukan perbaikan kecil: merapikan kabel dan alat"
+     ],
+     "merefleksi": [
+      "Menulis satu kebiasaan yang membuat studio lebih aman"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 13 — Audit Keselamatan Ruang Kerja",
+     "langkah": [
+      "Gambar denah sederhana studio.",
+      "Tandai sumber bahaya.",
+      "Usulkan perbaikan dengan alasan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan temuan bahaya",
+       "skor4": "Lima temuan tepat dan beralasan",
+       "skor3": "Lima temuan",
+       "skor2": "Tiga temuan",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Mutu usulan perbaikan",
+       "skor4": "Perbaikan mungkin dijalankan dan lengkap",
+       "skor3": "Perbaikan masuk akal",
+       "skor2": "Perbaikan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Tujuan utama penataan ruang kerja adalah",
+       "opsi": [
+        "Mencegah kecelakaan dan menjaga mutu pekerjaan",
+        "Membuat ruangan terlihat ramai",
+        "Mempercepat pemakaian alat"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Bahan mudah terbakar sebaiknya disimpan",
+       "opsi": [
+        "Di tempat khusus dengan penanda",
+        "Di dekat sumber panas",
+        "Di lantai jalur orang"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Usulan perbaikan studio satu halaman",
+     "bentuk": "kelompok",
+     "luaran": "Sketsa denah + daftar perbaikan prioritas"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengenali sumber bahaya bersama guru.",
+     "pengayaan": "Menyusun jadwal piket kebersihan studio dengan pembagian tugas."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menjelaskan cara penanganan hasil karya agar tidak rusak.",
+     "Menyelesaikan asesmen BAB 2 dan menilai penguasaan materi K3."
+    ],
+    "pemantik": [
+     "Bagaimana karya cetak sebaiknya disimpan agar warnanya tetap?",
+     "Apa akibatnya jika karya basah ditumpuk?"
+    ],
+    "materi": {
+     "pengantar": "Karya yang selesai belum berakhir ceritanya: penanganan setelah produksi menentukan apakah karya tetap utuh saat diserahkan atau dipamerkan.",
+     "poin": [
+      "Hasil cetak dikeringkan pada suhu ruang dan dijauhkan dari air langsung agar tinta tidak luntur.",
+      "Penyimpanan memakai pelindung: map keras, selubung plastik, atau gulungan untuk lembar besar.",
+      "Karya yang diserahkan kepada pemesan diberi label nama, tanggal, dan keterangan bahan.",
+      "Menangani karya dengan tangan bersih dan tidak memegang permukaan gambar secara langsung."
+     ],
+     "istilah": [
+      {
+       "t": "penanganan hasil kerja",
+       "a": "Cara memperlakukan karya setelah selesai agar tetap bermutu."
+      },
+      {
+       "t": "selubung pelindung",
+       "a": "Lapisan pembungkus yang melindungi karya dari kotoran dan lembap."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Keselamatan pada hasil kerja",
+      "keterangan": "Perhatikan uraian penanganan dan pengemasan hasil kerja pada Buku Sem 1 BAB 2 subbab D (halaman 41–44)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Uji simpan karya",
+      "keterangan": "Bandingkan dua lembar latihan yang disimpan berbeda: satu dengan pelindung, satu tanpa pelindung."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah langkah penanganan hasil karya",
+      "Melihat contoh pengemasan karya"
+     ],
+     "mengaplikasi": [
+      "Mengemas satu karya latihan dengan pelindung",
+      "Memberi label karya",
+      "Mengerjakan asesmen BAB 2"
+     ],
+     "merefleksi": [
+      "Menulis bagian K3 yang masih perlu dipelajari lagi"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 14 — Penanganan & Pengemasan Karya + Asesmen BAB 2",
+     "langkah": [
+      "Keringkan dan bersihkan karya.",
+      "Beri label nama, tanggal, bahan.",
+      "Bungkus dengan pelindung.",
+      "Kerjakan asesmen BAB 2."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan penanganan",
+       "skor4": "Seluruh langkah tepat dan rapi",
+       "skor3": "Langkah tepat",
+       "skor2": "Ada langkah terlewat",
+       "skor1": "Tidak sesuai prosedur"
+      },
+      {
+       "kriteria": "Kelengkapan label",
+       "skor4": "Label lengkap dan mudah dibaca",
+       "skor3": "Label lengkap",
+       "skor2": "Label kurang lengkap",
+       "skor1": "Tidak berlabel"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Hasil cetak sebaiknya dikeringkan dengan cara",
+       "opsi": [
+        "Dibiarkan pada suhu ruang",
+        "Dijemur di bawah matahari langsung",
+        "Ditumpuk ketika masih basah"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Tujuan pemberian label pada karya adalah",
+       "opsi": [
+        "Mengenali karya dan bahan pembuatnya",
+        "Menambah berat karya",
+        "Menutupi kesalahan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Asesmen BAB 2 (K3) — buku halaman 46–49",
+     "bentuk": "individu",
+     "luaran": "Lembar jawaban asesmen + satu karya terkemas"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengulang bagian K3 yang salah.",
+     "pengayaan": "Menyusun prosedur pengemasan karya untuk pameran kelas."
+    }
+   }
+  },
+  {
+   "minggu": 8,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan perkembangan proses produksi pada industri kreatif.",
+     "Menunjukkan posisi DKV dalam rantai industri kreatif."
+    ],
+    "pemantik": [
+     "Bagaimana sebuah poster dibuat pada masa sebelum komputer?",
+     "Siapa saja yang terlibat sebelum karya sampai ke tangan penonton?"
+    ],
+    "materi": {
+     "pengantar": "Industri kreatif mengubah gagasan menjadi barang dan pengalaman yang bernilai. Proses produksinya berubah dari kerja manual menjadi kerja berbantuan mesin dan komputer, tetapi pekerjaan desainnya tetap ada di hulu.",
+     "poin": [
+      "Tahap umum industri kreatif: penciptaan gagasan, perancangan, produksi, distribusi, hingga pemasaran.",
+      "Peralihan dari susun huruf manual ke percetakan digital mempersingkat waktu produksi namun menuntut ketelitian berkas.",
+      "Posisi DKV berada di hilir dan hulu sekaligus: menyiapkan rancangan gambar sekaligus mengemas informasi agar mudah diterima.",
+      "Industri kreatif menyerap tenaga kerja dengan keterampilan campuran: menggambar, mengolah foto, mengatur huruf, dan menyunting digital."
+     ],
+     "istilah": [
+      {
+       "t": "industri kreatif",
+       "a": "Industri yang bertumpu pada gagasan dan keterampilan kreatif sebagai nilai utama."
+      },
+      {
+       "t": "rantai produksi",
+       "a": "Urutan tahap dari gagasan sampai hasil diterima pengguna."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Perkembangan proses produksi industri kreatif",
+      "keterangan": "Perhatikan uraian dan contoh pada Buku Sem 1 BAB 3 subbab A (halaman 53)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Rantai produksi karya visual",
+      "keterangan": "Diagram orisinal: gagasan → rancangan → produksi → distribusi → pemasaran."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah tahap rantai produksi",
+      "Membandingkan produksi manual dan digital"
+     ],
+     "mengaplikasi": [
+      "Memetakan satu karya nyata ke dalam rantai produksi",
+      "Mencatat pekerjaan DKV pada tiap tahap"
+     ],
+     "merefleksi": [
+      "Menulis tahap produksi yang paling ingin saya kuasai"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 15 — Peta Rantai Produksi Industri Kreatif",
+     "langkah": [
+      "Pilih satu produk kreatif.",
+      "Tulis pekerjaan tiap tahap.",
+      "Tandai bagian yang memerlukan keahlian DKV."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pemetaan tahap",
+       "skor4": "Lima tahap tepat dengan contoh",
+       "skor3": "Lima tahap tepat",
+       "skor2": "Tiga tahap",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Penanda peran DKV",
+       "skor4": "Peran DKV jelas pada setiap tahap",
+       "skor3": "Peran DKV pada sebagian tahap",
+       "skor2": "Peran DKV umum",
+       "skor1": "Tidak ditandai"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Urutan tahap industri kreatif diawali dengan",
+       "opsi": [
+        "Penciptaan gagasan",
+        "Pemasaran",
+        "Produksi massal"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Dampak peralihan ke percetakan digital adalah",
+       "opsi": [
+        "Produksi lebih cepat namun menuntut ketelitian berkas",
+        "Produksi lebih lambat dan mahal",
+        "Keahlian desain tidak diperlukan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Catatan penyesuaian: tabel rujukan buku vs kemampuan lab",
+     "bentuk": "kelas",
+     "luaran": "Daftar alat lab sekolah dan padanannya dengan alat di buku (perlu verifikasi guru)"
+    },
+    "tindakLanjut": {
+     "remedial": "Menyimak ulang penjelasan rantai produksi dengan peta kosong.",
+     "pengayaan": "Mengunjungi usaha kreatif/percetakan untuk melihat tahap nyata."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menelusuri langkah proses produksi sebuah karya DKV dari rancangan hingga hasil.",
+     "Menjelaskan peran pemeriksaan mutu pada tiap tahap."
+    ],
+    "pemantik": [
+     "Mengapa perlu pemeriksaan sebelum dicetak banyak?",
+     "Apa akibat salah ukuran pada tahap percetakan?"
+    ],
+    "materi": {
+     "pengantar": "Menelusuri proses membantu kita bekerja lebih tertib. Setiap tahap memiliki hasil antara yang harus diperiksa agar kesalahan tidak meneruskan ke tahap berikutnya.",
+     "poin": [
+      "Hasil antara berupa berkas rancangan, cetak uji, dan contoh warna; semuanya diperiksa sebelum produksi banyak.",
+      "Pemeriksaan mutu memeriksa kesesuaian ukuran, ketajaman gambar, keterbacaan huruf, dan kesesuaian warna.",
+      "Catatan revisi dibuat singkat dan jelas agar mudah dijalankan oleh perancang.",
+      "Berkas akhir disimpan dalam versi siap cetak beserta salinan bahan mentahnya."
+     ],
+     "istilah": [
+      {
+       "t": "cetak uji",
+       "a": "Contoh cetak dalam jumlah kecil untuk memeriksa mutu sebelum produksi besar."
+      },
+      {
+       "t": "pemeriksaan mutu",
+       "a": "Pengecekan hasil kerja terhadap standar yang ditetapkan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Bandingkan cetak uji dan hasil akhir",
+      "keterangan": "Amati perbedaan warna dan ketajaman pada dua contoh cetak yang tersedia."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Titik periksa mutu",
+      "keterangan": "Diagram orisinal: tiga titik pemeriksaan pada alur produksi."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah jenis pemeriksaan pada tiap tahap",
+      "Mengidentifikasi kesalahan umum berkas"
+     ],
+     "mengaplikasi": [
+      "Memeriksa satu berkas latihan memakai daftar periksa",
+      "Menulis catatan revisi untuk teman"
+     ],
+     "merefleksi": [
+      "Menulis satu kebiasaan pemeriksaan yang akan dipakai sebelum menyerahkan karya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 16 — Daftar Periksa Mutu Karya",
+     "langkah": [
+      "Isi daftar periksa: ukuran, ketajaman, huruf, warna.",
+      "Temukan minimal dua kekurangan.",
+      "Beri usulan perbaikan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketelitian pemeriksaan",
+       "skor4": "Menemukan kekurangan halus dan beralasan",
+       "skor3": "Menemukan dua kekurangan",
+       "skor2": "Menemukan satu",
+       "skor1": "Tidak menemukan"
+      },
+      {
+       "kriteria": "Mutu catatan revisi",
+       "skor4": "Jelas, singkat, dapat dijalankan",
+       "skor3": "Jelas",
+       "skor2": "Kurang jelas",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Cetak uji dilakukan untuk",
+       "opsi": [
+        "Memeriksa mutu sebelum produksi banyak",
+        "Menambah biaya produksi",
+        "Menghias ruangan"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Salah satu hal yang diperiksa pada tahap mutu adalah",
+       "opsi": [
+        "Keterbacaan huruf dan ketajaman gambar",
+        "Jumlah pengunjung",
+        "Warna kursi"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Simulasi alur produksi (aplikasi) + laporan langkah",
+     "bentuk": "individu",
+     "luaran": "Tangkapan hasil simulasi alur produksi + catatan urutan tahap"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengurutkan tahap produksi.",
+     "pengayaan": "Menyusun alur produksi untuk proyek karya kelas."
+    }
+   }
+  },
+  {
+   "minggu": 9,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan perubahan industri dari revolusi awal hingga Industri 4.0.",
+     "Menyebutkan ciri Industri 4.0 yang memengaruhi pekerjaan DKV."
+    ],
+    "pemantik": [
+     "Apa yang berubah ketika mesin bisa berbicara dengan mesin lain?",
+     "Pekerjaan desain apa yang mungkin dibantu otomatis?"
+    ],
+    "materi": {
+     "pengantar": "Revolusi industri bergerak dari tenaga otot, tenaga uap dan listrik, otomatisasi, sampai sistem yang saling terhubung. Bagi pekerja DKV, perubahan ini mengubah cara berkarya dan berkomunikasi dengan pemesan.",
+     "poin": [
+      "Ciri Industri 4.0 meliputi keterhubungan data, otomatisasi pekerjaan berulang, dan pengambilan keputusan berbasis data.",
+      "Pekerjaan DKV bergeser: bagian teknis berulang dapat dibantu perangkat, sementara kemampuan mengarahkan gagasan semakin penting.",
+      "Kolaborasi jarak jauh menjadi kebiasaan sehingga berkas, penamaan, dan catatan revisi harus tertib.",
+      "Keterampilan belajar terus-menerus menjadi syarat karena perkakas kerja cepat berubah."
+     ],
+     "istilah": [
+      {
+       "t": "Industri 4.0",
+       "a": "Tahap industri dengan sistem produksi terhubung dan berbantuan data."
+      },
+      {
+       "t": "otomatisasi",
+       "a": "Penggunaan mesin/perangkat untuk menjalankan pekerjaan berulang."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "DKV dalam Industri 4.0",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 3 subbab B (halaman 54–56)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Perkakas yang menyimpan jejak",
+      "keterangan": "Amati fitur riwayat perubahan pada satu aplikasi desain: apa gunanya bagi tim?"
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membandingkan tahap revolusi industri",
+      "Membedakan pekerjaan yang terotomatisasi dan tidak"
+     ],
+     "mengaplikasi": [
+      "Mendata perkakas digital yang dipakai kelas",
+      "Menuliskan satu pekerjaan desain yang dapat dipercepat perangkat"
+     ],
+     "merefleksi": [
+      "Menulis keterampilan yang perlu saya kuasai agar tidak tersaingi otomatisasi"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 17 — Garis Waktu Revolusi Industri & Dampaknya",
+     "langkah": [
+      "Susun garis waktu empat tahap industri.",
+      "Beri contoh perubahan cara kerja desain.",
+      "Tulis dua dampak bagi pelajar DKV."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan garis waktu",
+       "skor4": "Urutan dan ciri tiap tahap tepat",
+       "skor3": "Urutan tepat",
+       "skor2": "Ada kekeliruan",
+       "skor1": "Tidak tepat"
+      },
+      {
+       "kriteria": "Kedalaman analisis dampak",
+       "skor4": "Dampak disertai contoh pekerjaan nyata",
+       "skor3": "Dampak dijelaskan",
+       "skor2": "Dampak disebut sepintas",
+       "skor1": "Tidak dibahas"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Ciri utama Industri 4.0 adalah",
+       "opsi": [
+        "Sistem produksi saling terhubung dan berbasis data",
+        "Kerja serba manual",
+        "Produksi tanpa listrik"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Dampak otomatisasi bagi pekerja DKV adalah",
+       "opsi": [
+        "Pekerjaan teknis berulang makin dibantu perangkat",
+        "Keahlian desain tidak diperlukan",
+        "Semua pekerjaan hilang"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Ringkasan infografis sederhana tentang Industri 4.0",
+     "bentuk": "individu",
+     "luaran": "Satu halaman gambar tangan/digital"
+    },
+    "tindakLanjut": {
+     "remedial": "Bimbingan membaca garis waktu bersama.",
+     "pengayaan": "Membandingkan dua profesi DKV lama dan baru."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menganalisis peluang dan tantangan kerja DKV di era Industri 4.0.",
+     "Menyusun rencana pengembangan keterampilan pribadi menghadapi perubahan."
+    ],
+    "pemantik": [
+     "Pekerjaan mana yang makin dibutuhkan ketika semua serba digital?",
+     "Keterampilan apa yang membuat karya kita sulit digantikan mesin?"
+    ],
+    "materi": {
+     "pengantar": "Perubahan teknologi membawa peluang kerja baru sekaligus menuntut cara belajar yang berbeda. Yang bertahan bukan hanya yang menguasai alat, tetapi yang mampu memahami kebutuhan orang lain.",
+     "poin": [
+      "Peluang baru muncul pada pengelolaan konten digital, penyiapan aset untuk berbagai media, dan perancangan pengalaman pengguna.",
+      "Tantangan utama adalah persaingan terbuka dan tuntutan kecepatan; mutu dan keunikan gagasan menjadi pembeda.",
+      "Belajar berkelanjutan dijalankan dengan mengikuti karya baru, mencoba perkakas baru, dan meminta umpan balik.",
+      "Kolaborasi lintas bidang memperluas pekerjaan: bekerja bersama pemrogram, pemasar, dan pemilik usaha."
+     ],
+     "istilah": [
+      {
+       "t": "peluang kerja digital",
+       "a": "Pekerjaan baru yang tumbuh karena penggunaan teknologi."
+      },
+      {
+       "t": "belajar berkelanjutan",
+       "a": "Kebiasaan memperbarui keterampilan terus-menerus."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Bursa kerja kreatif",
+      "keterangan": "Amati tiga iklan lowongan bidang DKV: keterampilan apa yang paling sering diminta?"
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-peluang",
+      "judul": "Peta peluang & tuntutan",
+      "keterangan": "Diagram orisinal: peluang baru ↔ keterampilan pendukung."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Mengelompokkan peluang dan tantangan",
+      "Menelaah tuntutan keterampilan pada iklan kerja"
+     ],
+     "mengaplikasi": [
+      "Menyusun rencana belajar pribadi tiga bulan",
+      "Menetapkan satu keterampilan prioritas"
+     ],
+     "merefleksi": [
+      "Menilai kesiapan diri menghadapi perubahan pekerjaan"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 18 — Rencana Belajar Menghadapi Industri 4.0",
+     "langkah": [
+      "Tulis tiga peluang kerja yang menarik.",
+      "Daftar keterampilan pendukungnya.",
+      "Susun rencana latihan harian/mingguan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kewajaran rencana",
+       "skor4": "Rencana rinci, terjadwal, dan dapat dijalankan",
+       "skor3": "Rencana jelas",
+       "skor2": "Rencana umum",
+       "skor1": "Belum ada rencana"
+      },
+      {
+       "kriteria": "Kesesuaian peluang dan keterampilan",
+       "skor4": "Setiap peluang dipasangkan keterampilan yang tepat",
+       "skor3": "Sebagian besar sesuai",
+       "skor2": "Sesuai sebagian kecil",
+       "skor1": "Tidak sesuai"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Keterampilan yang makin penting di era digital adalah",
+       "opsi": [
+        "Memahami kebutuhan pengguna dan mengarahkan gagasan",
+        "Menghafal nama alat",
+        "Menunggu perintah"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Cara menghadapi persaingan kerja yang terbuka adalah",
+       "opsi": [
+        "Menjaga mutu dan keunikan karya sambil terus belajar",
+        "Menurunkan mutu agar cepat",
+        "Menyalin karya orang lain"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Poster peluang karier DKV era digital",
+     "bentuk": "kelompok",
+     "luaran": "Poster berisi lima profesi dan keterampilan pendukung"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyusun rencana belajar sederhana.",
+     "pengayaan": "Mengikuti kelas singkat daring bidang desain dan menuliskan hasilnya."
+    }
+   }
+  },
+  {
+   "minggu": 10,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan peralihan teknologi analog ke digital dalam pekerjaan DKV.",
+     "Membandingkan kelebihan dan keterbatasan kedua teknologi."
+    ],
+    "pemantik": [
+     "Apa yang hilang dan apa yang muncul saat foto pindah dari film ke berkas digital?",
+     "Mengapa berkas digital lebih mudah diperbanyak?"
+    ],
+    "materi": {
+     "pengantar": "Teknologi adalah cara manusia mengerjakan sesuatu. Peralihan dari analog (pita, film, plat cetak) ke digital (berkas, piksel) mengubah kecepatan, biaya, dan cara penyimpanan hasil kerja.",
+     "poin": [
+      "Pada teknologi analog hasil disimpan pada bahan fisik sehingga memperbanyak karya membutuhkan proses panjang.",
+      "Pada teknologi digital karya disimpan sebagai data sehingga mudah digandakan, dikirim, dan disunting berkali-kali.",
+      "Keterbatasan digital adalah ketergantungan pada perangkat, listrik, dan mutu penyimpanan.",
+      "Pengetahuan analog tetap berguna: pemahaman cahaya, komposisi, dan tipografi manual menjadi dasar pengambilan keputusan digital."
+     ],
+     "istilah": [
+      {
+       "t": "analog",
+       "a": "Teknologi yang menyimpan dan mengolah informasi dalam bentuk fisik berkelanjutan."
+      },
+      {
+       "t": "digital",
+       "a": "Teknologi yang menyimpan informasi sebagai data angka (berkas)."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Teknologi digital DKV dalam industri",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 3 subbab C (halaman 57–61)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Alat satu fungsi vs banyak fungsi",
+      "keterangan": "Bandingkan satu alat analog (mis. peruncing pensil) dan satu perangkat digital yang menangani banyak pekerjaan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membandingkan analog dan digital",
+      "Menelaah perubahan cara menyimpan hasil kerja"
+     ],
+     "mengaplikasi": [
+      "Mendata pekerjaan di kelas yang memakai teknologi digital",
+      "Menuliskan padanan analog dan digital pada satu pekerjaan"
+     ],
+     "merefleksi": [
+      "Menulis cara saya memanfaatkan kelebihan kerja digital tanpa kehilangan ketelitian"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 19 — Tabel Banding Analog dan Digital",
+     "langkah": [
+      "Pilih lima jenis pekerjaan DKV.",
+      "Bandingkan cara analog dan digitalnya.",
+      "Tulis kesimpulan singkat."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan perbandingan",
+       "skor4": "Lima pekerjaan dibandingkan tepat dan beralasan",
+       "skor3": "Lima pekerjaan tepat",
+       "skor2": "Tiga pekerjaan",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Mutu kesimpulan",
+       "skor4": "Kesimpulan mempertimbangkan kelebihan dan keterbatasan",
+       "skor3": "Kesimpulan jelas",
+       "skor2": "Kesimpulan umum",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Keunggulan utama teknologi digital adalah",
+       "opsi": [
+        "Mudah digandakan, dikirim, dan disunting",
+        "Tidak butuh listrik",
+        "Tidak butuh keterampilan"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Pengetahuan kerja analog tetap berguna karena",
+       "opsi": [
+        "Menjadi dasar pengambilan keputusan saat bekerja digital",
+        "Menggantikan semua pekerjaan digital",
+        "Lebih murah untuk semua pekerjaan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Wawancara singkat pengguna alat digital",
+     "bentuk": "kelompok",
+     "luaran": "Catatan wawancara + tiga temuan penggunaan teknologi"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengenali contoh teknologi digital sehari-hari.",
+     "pengayaan": "Menelusuri riwayat alat foto dari film ke digital."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Memilih alat digital yang sesuai dengan kebutuhan karya.",
+     "Menjelaskan alasan pemilihan alat berdasarkan ukuran keluaran dan mutu."
+    ],
+    "pemantik": [
+     "Untuk poster ukuran besar, apa yang harus diperhatikan pada gambar?",
+     "Kapan foto ponsel sudah cukup dan kapan perlu kamera lain?"
+    ],
+    "materi": {
+     "pengantar": "Alat yang tepat bergantung pada keluaran yang diinginkan. Memilih alat bukan soal harga termahal, tetapi soal kesesuaian antara kebutuhan, kemampuan, dan waktu.",
+     "poin": [
+      "Karya cetak besar membutuhkan gambar beresolusi memadai, sedangkan tampilan layar cukup dengan resolusi lebih kecil.",
+      "Karya berbasis bentuk dan logo lebih aman dibuat sebagai gambar vektor karena tetap tajam saat diperbesar.",
+      "Foto yang menggunakan cahaya redup membutuhkan perangkat dengan mutu sensor lebih baik atau pencahayaan tambahan.",
+      "Rencana kerja memuat daftar alat yang dipakai agar tidak menghambat proses di tengah jalan."
+     ],
+     "istilah": [
+      {
+       "t": "resolusi",
+       "a": "Jumlah titik gambar pada berkas; menentukan ketajaman saat diperbesar atau dicetak."
+      },
+      {
+       "t": "gambar vektor",
+       "a": "Gambar berbasis bentuk matematis yang tetap tajam saat diperbesar."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "diagram",
+      "id": "diagram-bitmap-vektor",
+      "judul": "Bitmap vs vektor",
+      "keterangan": "Diagram orisinal: perbandingan ketajaman dua jenis gambar saat diperbesar."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Pilih alat untuk tiga pekerjaan",
+      "keterangan": "Amati tiga contoh pekerjaan (logo, foto produk, spanduk) dan tentukan alat yang paling sesuai."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Mengaitkan kebutuhan keluaran dengan jenis gambar",
+      "Membandingkan keterbatasan alat"
+     ],
+     "mengaplikasi": [
+      "Menentukan alat untuk tiga pekerjaan nyata",
+      "Menjalankan uji pembesaran bitmap vs vektor",
+      "Menyusun daftar alat proyek"
+     ],
+     "merefleksi": [
+      "Menulis satu kesalahan pemilihan alat yang pernah saya alami dan pelajarannya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 20 — Memilih Alat Sesuai Kebutuhan Karya",
+     "langkah": [
+      "Tulis tiga pekerjaan yang akan dibuat.",
+      "Tentukan jenis gambar dan alatnya.",
+      "Jelaskan alasan dengan ukuran keluaran."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan pemilihan alat",
+       "skor4": "Tiga pilihan tepat dan beralasan kuat",
+       "skor3": "Tiga pilihan tepat",
+       "skor2": "Sebagian tepat",
+       "skor1": "Tidak tepat"
+      },
+      {
+       "kriteria": "Penggunaan alasan teknis",
+       "skor4": "Menyebut resolusi/vektor secara tepat",
+       "skor3": "Menyebut satu istilah teknis tepat",
+       "skor2": "Istilah umum",
+       "skor1": "Tanpa alasan teknis"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Logo sebaiknya dibuat sebagai gambar",
+       "opsi": [
+        "Vektor",
+        "Bitmap beresolusi rendah",
+        "Tangkapan layar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Karya cetak berukuran besar memerlukan gambar dengan",
+       "opsi": [
+        "Resolusi memadai",
+        "Warna gelap semua",
+        "Ukuran berkas kecil"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Hasil uji simulasi bitmap vs vektor",
+     "bentuk": "individu",
+     "luaran": "Catatan pengamatan pembesaran 100–1600% + kesimpulan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengaitkan keluaran dan jenis gambar.",
+     "pengayaan": "Menguji mutu cetak kecil dari berkas vektor dan bitmap."
+    }
+   }
+  },
+  {
+   "minggu": 11,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan siklus industri kreatif dan peran teknologi di dalamnya.",
+     "Menjelaskan konsep industri hijau pada pekerjaan DKV."
+    ],
+    "pemantik": [
+     "Apa yang bisa dikurangi dari limbah pekerjaan desain?",
+     "Bisakah bekerja hemat bahan sekaligus hemat biaya?"
+    ],
+    "materi": {
+     "pengantar": "Industri hijau berusaha menekan dampak lingkungan pada setiap tahap kerja. Pada DKV, langkah kecil seperti pencetakan uji hemat kertas dan pemakaian berkas digital mengurangi limbah tanpa menurunkan mutu.",
+     "poin": [
+      "Siklus industri terdiri atas pralproduksi, produksi, dan pascaproduksi; pada tiap tahap ada peluang menekan pemborosan.",
+      "Contoh kebiasaan hijau: cetak uji seminimal mungkin dengan pengaturan hemat, memakai ulang kertas sisi kosong, dan memilih bahan bersertifikat.",
+      "Berkas digital yang tertib mengurangi kebutuhan cetak ulang karena kesalahan.",
+      "Sisa bahan dapat dimanfaatkan ulang menjadi bahan latihan sketsa atau maket."
+     ],
+     "istilah": [
+      {
+       "t": "industri hijau",
+       "a": "Cara kerja industri yang memperhatikan pengurangan dampak lingkungan."
+      },
+      {
+       "t": "pascaproduksi",
+       "a": "Tahap setelah karya diproduksi, mencakup distribusi dan penanganan limbah."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "DKV di era kemajuan teknologi dan konsep industri hijau",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 3 subbab D dan E (halaman 62–68)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Audit kertas kelas",
+      "keterangan": "Hitung lembar kertas terbuang selama satu pekan latihan dan usulkan pengurangannya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian industri hijau",
+      "Mengaitkan tiap tahap siklus dengan peluang penghematan"
+     ],
+     "mengaplikasi": [
+      "Menjalankan simulasi alur produksi",
+      "Membuat daftar kebiasaan hemat bahan untuk kelas"
+     ],
+     "merefleksi": [
+      "Memilih satu kebiasaan hijau yang akan saya jalankan konsisten"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 21 — Kebijakan Studio Hijau Kelas",
+     "langkah": [
+      "Catat penggunaan bahan selama sepekan.",
+      "Usulkan lima aturan penghematan.",
+      "Tetapkan cara memantau pelaksanaannya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan usulan",
+       "skor4": "Usulan berdampak nyata dan dapat diukur",
+       "skor3": "Usulan masuk akal",
+       "skor2": "Usulan umum",
+       "skor1": "Tidak ada usulan"
+      },
+      {
+       "kriteria": "Cara pemantauan",
+       "skor4": "Ada penanggung jawab dan jadwal",
+       "skor3": "Ada cara pemantauan",
+       "skor2": "Pemantauan samar",
+       "skor1": "Tidak ada"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Tahap siklus industri setelah produksi disebut",
+       "opsi": [
+        "Pascaproduksi",
+        "Praproduksi",
+        "Distribusi awal"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Contoh kebiasaan kerja hijau di kelas DKV adalah",
+       "opsi": [
+        "Mencetak uji seminimal mungkin",
+        "Mencetak setiap revisi",
+        "Membuang sisa bahan berlebih"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Poster ajakan studio hijau",
+     "bentuk": "kelompok",
+     "luaran": "Poster berisi tiga ajakan hemat bahan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengaitkan pekerjaan kelas dengan dampak lingkungan.",
+     "pengayaan": "Menghitung penghematan biaya dari kebiasaan hijau kelas."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mempraktikkan kerja ramah lingkungan pada produksi karya sederhana.",
+     "Menyelesaikan asesmen BAB 3 dan merefleksi penguasaan materi teknologi industri."
+    ],
+    "pemantik": [
+     "Bagaimana mengatur cetak agar tidak ada lembar terbuang?",
+     "Apa yang bisa dilakukan dengan sisa potongan kertas?"
+    ],
+    "materi": {
+     "pengantar": "Praktik hijau diuji pada pekerjaan nyata: menata letak cetak agar tidak ada ruang terbuang, memakai bahan secukupnya, dan menangani sisa bahan dengan bijak.",
+     "poin": [
+      "Mengatur beberapa karya kecil dalam satu lembar (tata letak berkelompok) menekan jumlah cetakan.",
+      "Memakai mode hemat memakai lebih sedikit bahan tanpa mengubah ukuran akhir aslinya.",
+      "Menyortir sisa bahan: yang masih layak untuk latihan, yang tidak layak diserahkan ke pengelolaan sampah.",
+      "Mencatat penggunaan bahan membantu menilai apakah kebiasaan hijau sudah berjalan."
+     ],
+     "istilah": [
+      {
+       "t": "tata letak berkelompok",
+       "a": "Mengatur banyak karya kecil pada satu lembar agar hemat bahan."
+      },
+      {
+       "t": "sisa bahan",
+       "a": "Bagian bahan yang tidak terpakai setelah produksi."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Dua cara menata satu lembar",
+      "keterangan": "Bandingkan tata letak boros dan hemat pada satu lembar kertas berukuran sama."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Titik penghematan",
+      "keterangan": "Diagram orisinal: tiga titik yang paling banyak menekan pemborosan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah cara menata lembar secara hemat",
+      "Mengidentifikasi pemborosan pada pekerjaan sendiri"
+     ],
+     "mengaplikasi": [
+      "Mencetak satu lembar berisi beberapa karya kecil",
+      "Menjalankan pemilahan sisa bahan",
+      "Mengerjakan asesmen BAB 3"
+     ],
+     "merefleksi": [
+      "Menulis hasil penghematan yang saya capai pekan ini"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 22 — Praktik Produksi Hemat + Asesmen BAB 3",
+     "langkah": [
+      "Rancang lembar hemat berisi karya kecil.",
+      "Cetak dan hitung bahan terpakai.",
+      "Isi lembar asesmen BAB 3."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Efisiensi tata letak",
+       "skor4": "Ruang terbuang minimal dan rapi",
+       "skor3": "Cukup efisien",
+       "skor2": "Masih banyak ruang terbuang",
+       "skor1": "Tidak efisien"
+      },
+      {
+       "kriteria": "Kelengkapan asesmen",
+       "skor4": "Seluruh butir dijawab tepat",
+       "skor3": "Sebagian besar tepat",
+       "skor2": "Setengah tepat",
+       "skor1": "Sebagian kecil"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Cara menghemat bahan saat mencetak karya kecil adalah",
+       "opsi": [
+        "Menata beberapa karya dalam satu lembar",
+        "Mencetak satu karya per lembar",
+        "Mencetak tiga kali untuk cadangan"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Sisa bahan yang masih layak sebaiknya",
+       "opsi": [
+        "Dipakai untuk latihan",
+        "Dibuang seluruhnya",
+        "Dibakar"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Lembar hemat produksi + lembar asesmen BAB 3",
+     "bentuk": "individu",
+     "luaran": "Hasil cetak hemat + lembar jawaban"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menata ulang lembar cetak.",
+     "pengayaan": "Merancang template hemat untuk kebutuhan kelas."
+    }
+   }
+  },
+  {
+   "minggu": 12,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan pengertian kreativitas dalam pekerjaan desain.",
+     "Mengubah masalah nyata menjadi gagasan awal karya."
+    ],
+    "pemantik": [
+     "Apakah kreativitas bakat atau keterampilan yang bisa dilatih?",
+     "Apa masalah kecil di kelas yang bisa diselesaikan dengan desain?"
+    ],
+    "materi": {
+     "pengantar": "Kreativitas adalah kemampuan menghasilkan gagasan baru yang berguna. Dalam DKV, kreativitas dimulai dari kepekaan terhadap masalah di sekitar, bukan dari menunggu ilham.",
+     "poin": [
+      "Kreativitas dapat dilatih melalui pengamatan, pencatatan, dan penggabungan gagasan yang sudah ada.",
+      "Masalah nyata menjadi sumber gagasan: kemasan yang sulit dibaca, jadwal kelas yang tidak jelas, atau papan informasi yang membingungkan.",
+      "Proses kreatif yang tertib: pahami masalah, kumpulkan bahan, gagas banyak pilihan, pilih, lalu uji.",
+      "Menilai gagasan memakai kriteria sederhana: menjawab masalah, dapat dikerjakan, dan cocok dengan pengguna."
+     ],
+     "istilah": [
+      {
+       "t": "kreativitas",
+       "a": "Kemampuan menyusun gagasan baru yang bermanfaat."
+      },
+      {
+       "t": "proses kreatif",
+       "a": "Tahapan kerja dari memahami masalah sampai menguji gagasan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Konsep kreativitas",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab A (halaman 77–79)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Sebelum dan sesudah diperbaiki",
+      "keterangan": "Amati satu poster sederhana sebelum dan sesudah diperbaiki tata letaknya."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membaca uraian konsep kreativitas",
+      "Membedakan gagasan yang berguna dan tidak"
+     ],
+     "mengaplikasi": [
+      "Menemukan tiga masalah visual di sekolah",
+      "Menuliskan gagasan awal penyelesaiannya"
+     ],
+     "merefleksi": [
+      "Menulis cara saya biasa menemukan gagasan dan apa yang bisa diperbaiki"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 23 — Dari Masalah ke Gagasan",
+     "langkah": [
+      "Catat tiga masalah visual.",
+      "Tulis gagasan penyelesaian.",
+      "Beri skor kelayakan tiap gagasan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kejelasan masalah",
+       "skor4": "Masalah nyata, spesifik, disertai bukti",
+       "skor3": "Masalah jelas",
+       "skor2": "Masalah samar",
+       "skor1": "Bukan masalah nyata"
+      },
+      {
+       "kriteria": "Mutu gagasan",
+       "skor4": "Gagasan orisinal, layak, dan menjawab masalah",
+       "skor3": "Gagasan layak",
+       "skor2": "Gagasan umum",
+       "skor1": "Tidak menjawab masalah"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Sumber utama gagasan kreatif dalam DKV adalah",
+       "opsi": [
+        "Masalah nyata yang diamati di sekitar",
+        "Kebetulan semata",
+        "Karya yang disalin"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Langkah pertama proses kreatif adalah",
+       "opsi": [
+        "Memahami masalah",
+        "Mencetak karya",
+        "Memilih warna"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Catatan ide harian (lima hari)",
+     "bentuk": "individu",
+     "luaran": "Buku catatan berisi minimal lima gagasan dengan sketsa cepat"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menemukan masalah visual di kelas.",
+     "pengayaan": "Menjalankan teknik penggalian gagasan bersama kelompok."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mengasah kelancaran menghasilkan pilihan gagasan.",
+     "Menguji gagasan dengan kriteria sederhana."
+    ],
+    "pemantik": [
+     "Berapa banyak gagasan bisa kamu hasilkan dalam 10 menit?",
+     "Apa gunanya membuat banyak gagasan sebelum memilih?"
+    ],
+    "materi": {
+     "pengantar": "Gagasan pertama jarang yang terbaik. Menghasilkan banyak pilihan lalu menyaringnya membuat keputusan desain lebih kuat dan beralasan.",
+     "poin": [
+      "Latihan kuantitas: tulis banyak gagasan cepat tanpa menghakimi, baru kemudian menilai.",
+      "Latihan variasi: ubah satu unsur (ukuran, susunan, warna, sudut pandang) untuk menghasilkan pilihan berbeda.",
+      "Penyaringan memakai kriteria yang ditetapkan sebelum memilih agar penilaian tidak sekadar selera.",
+      "Umpan balik teman membantu melihat kelemahan yang tidak kita sadari."
+     ],
+     "istilah": [
+      {
+       "t": "kelancaran gagasan",
+       "a": "Kemampuan menghasilkan banyak gagasan dalam waktu singkat."
+      },
+      {
+       "t": "kriteria penyaringan",
+       "a": "Dasar penilaian yang disepakati sebelum memilih gagasan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "diagram",
+      "id": "diagram-peluang",
+      "judul": "Kipas gagasan",
+      "keterangan": "Diagram orisinal: satu masalah → lima variasi → satu pilihan."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Sketsa cepat 30 detik",
+      "keterangan": "Amati contoh lembar berisi sepuluh sketsa mini dari satu tugas yang sama."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah cara membuat variasi gagasan",
+      "Menyusun kriteria penilaian"
+     ],
+     "mengaplikasi": [
+      "Membuat sepuluh sketsa cepat satu tema",
+      "Menyaring gagasan memakai kriteria",
+      "Memberi umpan balik pada karya teman"
+     ],
+     "merefleksi": [
+      "Menulis gagasan mana yang akhirnya dipilih dan mengapa"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 24 — Kipas Gagasan & Penyaringan",
+     "langkah": [
+      "Buat sepuluh sketsa cepat.",
+      "Tetapkan tiga kriteria.",
+      "Pilih dua gagasan terbaik dengan alasan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kelancaran gagasan",
+       "skor4": "Sepuluh gagasan beragam dan berbeda",
+       "skor3": "Sepuluh gagasan",
+       "skor2": "Lima gagasan",
+       "skor1": "Kurang dari lima"
+      },
+      {
+       "kriteria": "Kualitas penyaringan",
+       "skor4": "Kriteria jelas dan diterapkan konsisten",
+       "skor3": "Kriteria jelas",
+       "skor2": "Kriteria kabur",
+       "skor1": "Memilih tanpa kriteria"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Manfaat menghasilkan banyak gagasan adalah",
+       "opsi": [
+        "Memperbesar peluang menemukan pilihan terbaik",
+        "Memperlambat pekerjaan tanpa hasil",
+        "Membuat karya seragam"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Kriteria penyaringan gagasan sebaiknya ditetapkan",
+       "opsi": [
+        "Sebelum memilih",
+        "Setelah karya dicetak",
+        "Setelah dinilai guru"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Sepuluh sketsa gagasan satu tema",
+     "bentuk": "individu",
+     "luaran": "Lembar sketsa + dua gagasan terpilih dengan alasan"
+    },
+    "tindakLanjut": {
+     "remedial": "Latihan tambahan membuat variasi sederhana.",
+     "pengayaan": "Menguji gagasan terpilih melalui tanya jawab singkat dengan calon pengguna."
+    }
+   }
+  },
+  {
+   "minggu": 13,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan cara berpikir dari sudut pandang yang berbeda dalam memecahkan masalah desain.",
+     "Menggunakan pertanyaan pengubah sudut pandang untuk membuka gagasan."
+    ],
+    "pemantik": [
+     "Bagaimana kemasan ini akan terlihat jika penggunanya anak-anak?",
+     "Apa yang berubah jika biaya produksi dibatasi separuh?"
+    ],
+    "materi": {
+     "pengantar": "Berpikir kreatif berarti bersedia meninjau masalah dari beberapa sudut. Desainer yang baik tidak berhenti pada gagasan pertama, melainkan menguji kemungkinan lain sebelum memutuskan.",
+     "poin": [
+      "Mengubah sudut pandang dapat dilakukan dengan bertanya: siapa penggunanya, kapan dipakai, di mana, dan apa kendalanya.",
+      "Membalik anggapan membantu menemukan gagasan baru, misalnya membuat tampilan yang sengaja sederhana padahal biasanya ramai.",
+      "Menggabungkan dua kebutuhan menjadi satu karya sering menghasilkan gagasan yang berguna.",
+      "Membandingkan beberapa pilihan secara berdampingan memudahkan penilaian."
+     ],
+     "istilah": [
+      {
+       "t": "berpikir kreatif",
+       "a": "Cara berpikir yang mencari beberapa kemungkinan jawaban sebelum memilih."
+      },
+      {
+       "t": "sudut pandang pengguna",
+       "a": "Cara melihat karya dari sisi orang yang akan menggunakannya."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Berpikir kreatif",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab B (halaman 80–81)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Satu masalah, tiga sudut",
+      "keterangan": "Amati satu karya yang sama dari sudut pandang siswa, guru, dan pengunjung sekolah."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah cara meninjau masalah dari beberapa sudut",
+      "Mengidentifikasi anggapan yang perlu diuji"
+     ],
+     "mengaplikasi": [
+      "Menerapkan lima pertanyaan pengubah sudut pada satu masalah",
+      "Membuat tiga alternatif solusi"
+     ],
+     "merefleksi": [
+      "Menulis sudut pandang yang biasanya saya lupakan ketika merancang"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 25 — Lima Sudut Pandang Satu Masalah",
+     "langkah": [
+      "Pilih satu masalah desain di sekolah.",
+      "Terapkan lima pertanyaan sudut pandang.",
+      "Tulis tiga alternatif solusi."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kedalaman peninjauan",
+       "skor4": "Lima sudut dibahas dengan bukti pengamatan",
+       "skor3": "Lima sudut dibahas",
+       "skor2": "Tiga sudut",
+       "skor1": "Kurang dari tiga"
+      },
+      {
+       "kriteria": "Keberagaman solusi",
+       "skor4": "Tiga solusi benar-benar berbeda dan layak",
+       "skor3": "Tiga solusi berbeda",
+       "skor2": "Solusi mirip",
+       "skor1": "Hanya satu solusi"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Mengubah sudut pandang berguna untuk",
+       "opsi": [
+        "Memperluas pilihan gagasan",
+        "Memperkecil usaha",
+        "Menghindari umpan balik"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Pertanyaan yang paling membantu memahami pengguna adalah",
+       "opsi": [
+        "Siapa yang akan memakai karya ini dan kapan",
+        "Warna apa yang paling saya suka",
+        "Alat apa yang paling mahal"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Catatan tiga alternatif solusi satu masalah",
+     "bentuk": "individu",
+     "luaran": "Sketsa tiga alternatif + penjelasan singkat"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan meninjau satu masalah dengan pertanyaan pemandu.",
+     "pengayaan": "Menguji solusi terpilih kepada lima responden."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Memecahkan masalah desain nyata secara berkelompok.",
+     "Menyajikan dan menerima umpan balik atas solusi desain."
+    ],
+    "pemantik": [
+     "Apa yang membuat sebuah usulan desain diterima orang lain?",
+     "Bagaimana menerima kritik tanpa merasa diserang?"
+    ],
+    "materi": {
+     "pengantar": "Pemecahan masalah desain berjalan paling baik ketika dikerjakan berkelompok: satu mengamati, satu menggambar, satu menguji. Umpan balik membuat solusi lebih matang.",
+     "poin": [
+      "Kelompok membagi peran: pencatat masalah, perancang gagasan, dan penguji hasil.",
+      "Solusi diuji dengan pertanyaan sederhana: apakah masalahnya terjawab, apakah mudah dipakai, apakah dapat dikerjakan dengan bahan yang ada.",
+      "Umpan balik disampaikan dengan menyebut hal yang sudah baik, hal yang perlu diperbaiki, dan usulan perbaikan.",
+      "Keputusan akhir dicatat bersama agar dapat dipertanggungjawabkan."
+     ],
+     "istilah": [
+      {
+       "t": "umpan balik",
+       "a": "Masukan terhadap karya yang berguna untuk perbaikan."
+      },
+      {
+       "t": "pembagian peran",
+       "a": "Penetapan tugas tiap anggota kelompok agar pekerjaan berjalan lancar."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Uji pakai cepat",
+      "keterangan": "Amati cara menguji satu desain papan informasi kepada tiga teman yang bukan perancangnya."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-peluang",
+      "judul": "Alur kerja kelompok",
+      "keterangan": "Diagram orisinal: amati → gagas → uji → perbaiki."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah kriteria pengujian solusi",
+      "Menyimak tata cara memberi umpan balik"
+     ],
+     "mengaplikasi": [
+      "Mengerjakan pemecahan masalah secara berkelompok",
+      "Menguji solusi kepada teman",
+      "Mencatat keputusan akhir kelompok"
+     ],
+     "merefleksi": [
+      "Menulis peran yang saya ambil dan pelajaran dari umpan balik teman"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 26 — Kerja Kelompok Memecahkan Masalah Desain",
+     "langkah": [
+      "Tetapkan masalah dan pembagian peran.",
+      "Susun solusi kelompok.",
+      "Uji ke tiga responden.",
+      "Perbaiki dan sajikan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kerja sama",
+       "skor4": "Semua anggota berkontribusi dan saling membantu",
+       "skor3": "Semua berkontribusi",
+       "skor2": "Sebagian mendominasi",
+       "skor1": "Tidak bekerja sama"
+      },
+      {
+       "kriteria": "Mutu solusi",
+       "skor4": "Menjawab masalah, teruji, dan layak",
+       "skor3": "Menjawab masalah",
+       "skor2": "Menjawab sebagian",
+       "skor1": "Tidak menjawab"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Umpan balik yang baik disampaikan dengan cara",
+       "opsi": [
+        "Menyebut kebaikan, kekurangan, dan usulan perbaikan",
+        "Menyebut kekurangan saja",
+        "Tanpa alasan"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Solusi desain diuji agar",
+       "opsi": [
+        "Mengetahui apakah masalah benar-benar terjawab",
+        "Menambah jumlah gambar",
+        "Memperlambat presentasi"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Laporan kelompok: solusi masalah desain",
+     "bentuk": "kelompok",
+     "luaran": "Satu halaman berisi masalah, solusi, hasil uji, dan perbaikan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan pembagian peran kelompok.",
+     "pengayaan": "Menerapkan solusi pada papan informasi/poster nyata di sekolah."
+    }
+   }
+  },
+  {
+   "minggu": 14,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan mengapa kreativitas menjadi nilai jual karya dan jasa DKV.",
+     "Membedakan karya yang serupa pasaran dan karya yang punya ciri."
+    ],
+    "pemantik": [
+     "Mengapa dua poster dengan isi sama bisa bernilai berbeda?",
+     "Apa yang membuat karya seseorang mudah dikenali?"
+    ],
+    "materi": {
+     "pengantar": "Di pasar yang penuh pilihan, karya yang punya ciri lebih mudah diingat. Ciri tidak berarti aneh, tetapi ada pilihan gagasan yang khas dan sesuai dengan penggunanya.",
+     "poin": [
+      "Nilai tambah karya muncul dari gagasan, bukan hanya dari kerapian teknis.",
+      "Ciri karya dapat dibangun dari gaya gambar, pilihan warna, cara menyusun huruf, atau sudut pengambilan foto yang khas.",
+      "Kreativitas membantu menyelesaikan masalah klien: pesan yang biasanya rumit dapat disampaikan lebih sederhana.",
+      "Menjaga ciri tidak berarti mengulang bentuk yang sama; variasi tetap diperlukan agar karya tidak membosankan."
+     ],
+     "istilah": [
+      {
+       "t": "nilai jual",
+       "a": "Alasan mengapa karya dianggap berharga oleh pengguna atau pemesan."
+      },
+      {
+       "t": "ciri karya",
+       "a": "Penanda khas yang membuat karya mudah dikenali."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Kreativitas dalam industri kreatif",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab C (halaman 82–83)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Kenali ciri karya",
+      "keterangan": "Amati tiga poster berbeda lalu tuliskan ciri yang membuat tiap karya khas."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah hubungan kreativitas dan nilai jual",
+      "Mengidentifikasi ciri karya"
+     ],
+     "mengaplikasi": [
+      "Menganalisis satu karya nyata: gagasan, ciri, dan sasarannya",
+      "Menuliskan ciri yang ingin dibangun pada karya sendiri"
+     ],
+     "merefleksi": [
+      "Menilai apakah karya saya selama ini punya ciri atau hanya meniru"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 27 — Analisis Ciri & Nilai Jual Karya",
+     "langkah": [
+      "Pilih dua karya sejenis.",
+      "Bandingkan gagasan, ciri, dan sasarannya.",
+      "Tulis kesimpulan tentang nilai jual."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketajaman analisis",
+       "skor4": "Menemukan perbedaan halus dan beralasan",
+       "skor3": "Menemukan perbedaan utama",
+       "skor2": "Analisis umum",
+       "skor1": "Hanya mendeskripsikan"
+      },
+      {
+       "kriteria": "Relevansi kesimpulan",
+       "skor4": "Kesimpulan mengaitkan ciri dengan nilai jual",
+       "skor3": "Kesimpulan relevan",
+       "skor2": "Kesimpulan lemah",
+       "skor1": "Tidak relevan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Nilai jual karya DKV terutama dibangun oleh",
+       "opsi": [
+        "Gagasan yang khas dan menjawab kebutuhan",
+        "Banyaknya revisi tanpa arah",
+        "Ukuran berkas terbesar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Ciri karya dapat dibangun melalui",
+       "opsi": [
+        "Gaya gambar, warna, susunan huruf, atau sudut foto",
+        "Mengikuti semua tren yang ada",
+        "Menyalin karya populer"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Rumusan ciri karya pribadi",
+     "bentuk": "individu",
+     "luaran": "Setengah halaman: tiga ciri yang ingin dibangun + contoh karyanya"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan membandingkan dua karya sederhana.",
+     "pengayaan": "Membuat dua variasi karya mempertahankan ciri yang sama."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Meningkatkan nilai karya dengan menerapkan gagasan kreatif pada karya sendiri.",
+     "Menerima dan menindaklanjuti kritik karya."
+    ],
+    "pemantik": [
+     "Apa satu perubahan kecil yang membuat karya jauh lebih menarik?",
+     "Bagaimana mengukur bahwa perbaikan benar-benar berhasil?"
+    ],
+    "materi": {
+     "pengantar": "Perbaikan karya dilakukan bertahap: tentukan satu hal yang paling mengganggu, ubah hanya bagian itu, lalu bandingkan sebelum dan sesudah.",
+     "poin": [
+      "Mengubah satu unsur pada satu waktu memudahkan kita mengetahui perubahan mana yang berpengaruh.",
+      "Perbandingan sebelum–sesudah menjadi bukti bahwa perbaikan berhasil.",
+      "Kritik dari pengguna berbeda dengan selera perancang; keduanya perlu dicatat terpisah.",
+      "Karya yang sudah diperbaiki wajib disimpan sebagai versi baru agar riwayat kerja tetap terlacak."
+     ],
+     "istilah": [
+      {
+       "t": "versi karya",
+       "a": "Bentuk karya pada tahap tertentu yang disimpan terpisah."
+      },
+      {
+       "t": "perbandingan sebelum–sesudah",
+       "a": "Cara menilai perbaikan dengan menyandingkan dua versi."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Bedah satu perbaikan",
+      "keterangan": "Amati satu karya dengan dua versi dan tentukan perubahan yang paling berpengaruh."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Siklus perbaikan",
+      "keterangan": "Diagram orisinal: uji → catat kritik → ubah satu unsur → bandingkan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah cara memperbaiki karya secara bertahap",
+      "Membedakan kritik pengguna dan selera pribadi"
+     ],
+     "mengaplikasi": [
+      "Memperbaiki karya sendiri satu unsur",
+      "Menyusun perbandingan sebelum–sesudah",
+      "Menulis catatan versi"
+     ],
+     "merefleksi": [
+      "Menulis satu kebiasaan yang akan saya ubah saat menerima kritik"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 28 — Naikkan Nilai Karya: Sebelum & Sesudah",
+     "langkah": [
+      "Pilih satu karya sebelumnya.",
+      "Ubah satu unsur berdasarkan kritik.",
+      "Sajikan perbandingan dan alasannya."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan perbaikan",
+       "skor4": "Perbaikan menjawab kritik dan terlihat jelas",
+       "skor3": "Perbaikan terlihat",
+       "skor2": "Perubahan kecil tanpa arah",
+       "skor1": "Tidak diperbaiki"
+      },
+      {
+       "kriteria": "Dokumentasi versi",
+       "skor4": "Kedua versi tersimpan rapi dengan catatan",
+       "skor3": "Kedua versi tersimpan",
+       "skor2": "Hanya versi akhir",
+       "skor1": "Tidak ada bukti"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Sebaiknya mengubah karya dengan cara",
+       "opsi": [
+        "Satu unsur pada satu waktu lalu membandingkan",
+        "Semua unsur sekaligus",
+        "Menyalin karya orang lain"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Menyimpan versi karya berguna untuk",
+       "opsi": [
+        "Melacak riwayat perbaikan",
+        "Menambah ukuran berkas",
+        "Menyembunyikan kesalahan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Karya sebelum & sesudah diperbaiki",
+     "bentuk": "individu",
+     "luaran": "Dua versi karya + catatan alasan perbaikan"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memilih unsur yang perlu diubah.",
+     "pengayaan": "Membuat tiga variasi mempertahankan ciri karya."
+    }
+   }
+  },
+  {
+   "minggu": 15,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan pengaruh kreativitas terhadap proses produksi dan teknologi.",
+     "Membandingkan cara kerja lama dan baru pada proses produksi."
+    ],
+    "pemantik": [
+     "Apakah alat baru selalu membuat karya lebih baik?",
+     "Bagian mana dari proses produksi yang paling terbantu teknologi?"
+    ],
+    "materi": {
+     "pengantar": "Teknologi mengubah cara kerja, tetapi gagasan tetap menentukan mutu. Kreativitas muncul saat pekerja memilih cara paling tepat memakai alat yang tersedia.",
+     "poin": [
+      "Teknologi mempercepat pekerjaan berulang seperti penyusunan ukuran, pemotongan, dan penggandaan berkas.",
+      "Kreativitas diarahkan pada hal yang belum dapat dibantu mesin: memahami pesan, memilih gagasan, dan menilai hasil.",
+      "Penggabungan cara lama dan baru sering menyelesaikan masalah. Contoh: sketsa tangan dahulu, baru digambar digital.",
+      "Pemilihan teknologi mempertimbangkan waktu, biaya, dan mutu hasil yang dibutuhkan."
+     ],
+     "istilah": [
+      {
+       "t": "proses produksi",
+       "a": "Rangkaian kegiatan mengubah rancangan menjadi karya nyata."
+      },
+      {
+       "t": "efisiensi kerja",
+       "a": "Cara mencapai hasil dengan waktu dan bahan seminimal mungkin."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Kreativitas proses produksi dan teknologi",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab D (halaman 84)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Sketsa tangan vs langsung digital",
+      "keterangan": "Amati kelebihan dan kekurangan dua cara memulai perancangan logo."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah perubahan cara kerja karena teknologi",
+      "Mengidentifikasi pekerjaan yang tidak bisa digantikan alat"
+     ],
+     "mengaplikasi": [
+      "Menjalankan simulasi alur produksi",
+      "Merancang satu proses kerja memakai campuran cara lama dan baru"
+     ],
+     "merefleksi": [
+      "Menulis alat yang paling membantu saya bekerja dan mengapa"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 29 — Proses Produksi Baru dan Lama",
+     "langkah": [
+      "Pilih satu jenis karya.",
+      "Tulis proses lama dan proses baru.",
+      "Tulis proses gabungan yang kamu pilih."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan perbandingan proses",
+       "skor4": "Perbandingan rinci pada tiap tahap",
+       "skor3": "Perbandingan jelas",
+       "skor2": "Perbandingan umum",
+       "skor1": "Tidak membandingkan"
+      },
+      {
+       "kriteria": "Kewajaran pilihan gabungan",
+       "skor4": "Pilihan beralasan waktu, biaya, dan mutu",
+       "skor3": "Pilihan beralasan",
+       "skor2": "Alasan lemah",
+       "skor1": "Tanpa alasan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Pekerjaan yang paling sulit digantikan teknologi adalah",
+       "opsi": [
+        "Memahami pesan dan memilih gagasan",
+        "Memotong gambar",
+        "Memperbesar ukuran"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Memilih teknologi kerja sebaiknya mempertimbangkan",
+       "opsi": [
+        "Waktu, biaya, dan mutu hasil",
+        "Merek paling baru",
+        "Keinginan teman"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Usulan proses kerja gabungan satu halaman",
+     "bentuk": "individu",
+     "luaran": "Diagram alur + alasan pemilihan cara kerja"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan mengurutkan tahap kerja.",
+     "pengayaan": "Menguji efisiensi waktu dua cara kerja pada tugas yang sama."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menjelaskan budaya kerja desainer komunikasi visual.",
+     "Menyelesaikan asesmen BAB 4 dan menilai penguasaan materi proses produksi."
+    ],
+    "pemantik": [
+     "Apa yang membedakan pekerja profesional dan amatir?",
+     "Bagaimana kebiasaan tepat waktu memengaruhi hasil karya?"
+    ],
+    "materi": {
+     "pengantar": "Budaya kerja adalah kebiasaan yang diulang setiap hari: hadir tepat waktu, menyiapkan bahan, menepati janji, dan menjaga mutu. Kebiasaan ini membentuk kepercayaan pemesan.",
+     "poin": [
+      "Kebiasaan kerja yang dihargai: disiplin waktu, teliti pada rincian, jujur saat ada kesalahan, dan terbuka pada masukan.",
+      "Menyiapkan alat dan bahan sebelum mulai bekerja mengurangi gangguan di tengah pekerjaan.",
+      "Menepati tenggat memerlukan penjadwalan realistis dan menolak pekerjaan yang melebihi kemampuan.",
+      "Menjaga hubungan baik dengan pemesan dan rekan kerja membuka pekerjaan berikutnya."
+     ],
+     "istilah": [
+      {
+       "t": "budaya kerja",
+       "a": "Kebiasaan dan sikap yang menjadi ciri cara bekerja seseorang atau kelompok."
+      },
+      {
+       "t": "tenggat",
+       "a": "Batas waktu penyerahan pekerjaan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Budaya kerja desainer komunikasi visual",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 4 subbab E (halaman 85–86)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Ceklis kesiapan kerja",
+      "keterangan": "Amati contoh daftar kesiapan kerja sebelum memulai proyek."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah kebiasaan kerja profesional",
+      "Membandingkan kebiasaan kerja sendiri"
+     ],
+     "mengaplikasi": [
+      "Menyusun daftar kesiapan kerja pribadi",
+      "Mengerjakan asesmen BAB 4"
+     ],
+     "merefleksi": [
+      "Menulis satu kebiasaan kerja yang akan saya jaga konsisten"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 30 — Ceklis Budaya Kerja Desainer + Asesmen BAB 4",
+     "langkah": [
+      "Isi daftar kesiapan kerja.",
+      "Beri tanda kebiasaan yang sudah kuat.",
+      "Kerjakan asesmen BAB 4."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kejujuran penilaian diri",
+       "skor4": "Penilaian disertai bukti perilaku",
+       "skor3": "Penilaian jujur",
+       "skor2": "Penilaian asal",
+       "skor1": "Tidak mengisi"
+      },
+      {
+       "kriteria": "Ketepatan asesmen",
+       "skor4": "Sebagian besar jawaban tepat",
+       "skor3": "Separuh tepat",
+       "skor2": "Sebagian kecil tepat",
+       "skor1": "Belum tepat"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Kebiasaan kerja profesional ditunjukkan oleh",
+       "opsi": [
+        "Disiplin waktu dan menjaga mutu",
+        "Mengerjakan sebanyak mungkin pekerjaan sekaligus",
+        "Menyembunyikan kesalahan"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Menepati tenggat dimulai dari",
+       "opsi": [
+        "Penjadwalan realistis",
+        "Menunda pekerjaan",
+        "Menerima semua permintaan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Asesmen BAB 4 (proses produksi & budaya kerja)",
+     "bentuk": "individu",
+     "luaran": "Lembar jawaban asesmen + ceklis budaya kerja"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyusun ulang bagian materi yang sulit.",
+     "pengayaan": "Membuat target kerja pribadi berjangka satu bulan."
+    }
+   }
+  },
+  {
+   "minggu": 16,
+   "senin": {
+    "tujuan": [
+     "Menjelaskan pengertian dan fungsi sketsa serta ilustrasi dalam karya DKV.",
+     "Menjelaskan konsep karya sebelum menggambar."
+    ],
+    "pemantik": [
+     "Mengapa desainer membuat sketsa sebelum berkarya?",
+     "Apa bedanya sketsa dan ilustrasi?"
+    ],
+    "materi": {
+     "pengantar": "Sketsa adalah gambaran awal gagasan yang cepat dan sederhana, sedangkan ilustrasi adalah gambar yang sudah punya maksud jelas untuk mendukung pesan. Keduanya menjadi alat berpikir visual.",
+     "poin": [
+      "Sketsa dipakai untuk mengejar gagasan dengan cepat, sehingga kerapian bukan tujuan utamanya.",
+      "Ilustrasi menjelaskan, memperkuat, atau menghias pesan dan biasanya dibuat setelah konsep ditetapkan.",
+      "Konsep karya memuat pesan yang ingin disampaikan, sasaran, dan cara penyampaiannya.",
+      "Teknik sketsa berkembang dari latihan garis, bentuk dasar, dan pengamatan bentuk nyata."
+     ],
+     "istilah": [
+      {
+       "t": "sketsa",
+       "a": "Gambar awal yang sederhana untuk menyusun gagasan."
+      },
+      {
+       "t": "ilustrasi",
+       "a": "Gambar yang memiliki maksud memperjelas atau memperkuat pesan."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Konsep dan teknik sketsa serta ilustrasi",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 5 subbab A dan B (halaman 95–97)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Sketsa kasar ke ilustrasi jadi",
+      "keterangan": "Amati urutan satu gagasan dari coretan awal sampai gambar selesai."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membedakan fungsi sketsa dan ilustrasi",
+      "Menelaah contoh konsep karya"
+     ],
+     "mengaplikasi": [
+      "Membuat sketsa cepat tiga objek di sekitar",
+      "Menjalankan latihan dasar pada simulasi sketsa",
+      "Menulis konsep sederhana satu karya"
+     ],
+     "merefleksi": [
+      "Menulis bagian menggambar yang paling ingin saya latih"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 31 — Konsep Karya & Sketsa Pertama",
+     "langkah": [
+      "Tulis konsep karya (pesan, sasaran, cara).",
+      "Buat tiga sketsa alternatif.",
+      "Pilih satu sketsa untuk dikembangkan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kejelasan konsep",
+       "skor4": "Pesan, sasaran, dan cara penyampaian selaras",
+       "skor3": "Konsep jelas",
+       "skor2": "Konsep kabur",
+       "skor1": "Tidak ada konsep"
+      },
+      {
+       "kriteria": "Keragaman sketsa",
+       "skor4": "Tiga sketsa benar-benar berbeda",
+       "skor3": "Tiga sketsa ada",
+       "skor2": "Dua sketsa",
+       "skor1": "Satu sketsa"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Fungsi utama sketsa adalah",
+       "opsi": [
+        "Menyusun gagasan dengan cepat",
+        "Menghasilkan karya akhir yang rapi",
+        "Menghias laporan"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Ilustrasi dibuat untuk",
+       "opsi": [
+        "Memperjelas atau memperkuat pesan",
+        "Menggantikan huruf pada semua karya",
+        "Menambah jumlah warna"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Tiga sketsa gagasan + konsep karya",
+     "bentuk": "individu",
+     "luaran": "Lembar sketsa dan catatan konsep"
+    },
+    "tindakLanjut": {
+     "remedial": "Latihan garis dan bentuk dasar tambahan.",
+     "pengayaan": "Membuat ilustrasi sederhana untuk satu pesan sekolah."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Mengenali jenis-jenis gambar ilustrasi.",
+     "Memilih jenis ilustrasi yang sesuai dengan pesan."
+    ],
+    "pemantik": [
+     "Kapan ilustrasi realis lebih tepat daripada kartun?",
+     "Apa kelebihan gambar sederhana pada poster ajakan?"
+    ],
+    "materi": {
+     "pengantar": "Ilustrasi memiliki banyak gaya: realis, kartun, dekoratif, dan bentuk sederhana. Pilihan gaya memengaruhi kesan yang diterima pengguna.",
+     "poin": [
+      "Ilustrasi realis menampilkan bentuk mirip kenyataan dan cocok untuk penjelasan teknis.",
+      "Ilustrasi kartun menyederhanakan bentuk dan cocok untuk pesan ramah atau sasaran anak-anak.",
+      "Ilustrasi dekoratif mementingkan keindahan pola dan sering dipakai sebagai pemanis karya.",
+      "Pemilihan gaya mempertimbangkan pesan, sasaran, dan media tempat ilustrasi dipakai."
+     ],
+     "istilah": [
+      {
+       "t": "ilustrasi realis",
+       "a": "Gambar yang meniru bentuk nyata secara rinci."
+      },
+      {
+       "t": "ilustrasi dekoratif",
+       "a": "Gambar yang menekankan keindahan bentuk dan pola."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Jenis-jenis gambar ilustrasi",
+      "keterangan": "Perhatikan contoh pada Buku Sem 1 BAB 5 subbab C (halaman 98–99)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Kumpulkan tiga gaya",
+      "keterangan": "Kumpulkan tiga ilustrasi bergaya berbeda dan tentukan kesan yang ditimbulkan."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membandingkan gaya ilustrasi",
+      "Mengaitkan gaya dengan pesan dan sasaran"
+     ],
+     "mengaplikasi": [
+      "Menggambar satu pesan dengan dua gaya berbeda",
+      "Menjalankan latihan simulasi sketsa",
+      "Memilih gaya yang paling tepat dengan alasan"
+     ],
+     "merefleksi": [
+      "Menulis gaya ilustrasi yang paling cocok dengan kemampuan saya sekarang"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 32 — Dua Gaya untuk Satu Pesan",
+     "langkah": [
+      "Tentukan satu pesan singkat.",
+      "Gambar dengan gaya realis sederhana.",
+      "Gambar dengan gaya kartun.",
+      "Pilih satu dengan alasan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Perbedaan gaya",
+       "skor4": "Dua gaya jelas berbeda dan konsisten",
+       "skor3": "Dua gaya berbeda",
+       "skor2": "Perbedaan samar",
+       "skor1": "Sama saja"
+      },
+      {
+       "kriteria": "Kesesuaian gaya dan pesan",
+       "skor4": "Pilihan beralasan pesan, sasaran, dan media",
+       "skor3": "Pilihan beralasan",
+       "skor2": "Alasan lemah",
+       "skor1": "Tanpa alasan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Ilustrasi kartun paling tepat untuk",
+       "opsi": [
+        "Pesan ramah bagi anak-anak",
+        "Gambar anatomi medis",
+        "Peta teknis"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Pemilihan gaya ilustrasi mempertimbangkan",
+       "opsi": [
+        "Pesan, sasaran, dan media",
+        "Kesukaan perancang saja",
+        "Jumlah warna terbanyak"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Dua ilustrasi satu pesan",
+     "bentuk": "individu",
+     "luaran": "Dua gambar + catatan pemilihan gaya"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan latihan bentuk dasar.",
+     "pengayaan": "Membuat ilustrasi untuk poster kegiatan sekolah."
+    }
+   }
+  },
+  {
+   "minggu": 17,
+   "senin": {
+    "tujuan": [
+     "Menyebutkan alat dan bahan menggambar serta kegunaannya.",
+     "Menjalankan langkah awal membuat sketsa dan ilustrasi dengan urutan yang benar."
+    ],
+    "pemantik": [
+     "Mengapa sketsa ringan lebih baik daripada langsung menggambar rinci?",
+     "Alat apa yang paling membantu membuat garis lurus?"
+    ],
+    "materi": {
+     "pengantar": "Menggambar dimulai dari langkah sederhana: mengamati bentuk, membuat garis bantu, menyusun proporsi, lalu memperjelas rincian. Alat mengikuti kebutuhan, bukan sebaliknya.",
+     "poin": [
+      "Alat gambar dasar: pensil berbagai kehitaman, penghapus, penggaris, dan kertas; alat digital: papan gambar dan pena pena digital.",
+      "Langkah kerja: tentukan bidang gambar, buat garis bantu, susun bentuk dasar, lalu perinci.",
+      "Menggambar dari pengamatan melatih ketepatan bentuk lebih cepat daripada menggambar dari ingatan.",
+      "Latihan singkat tetapi rutin lebih bermanfaat daripada latihan panjang yang jarang."
+     ],
+     "istilah": [
+      {
+       "t": "proporsi",
+       "a": "Perbandingan ukuran antarbagian gambar."
+      },
+      {
+       "t": "garis bantu",
+       "a": "Garis tipis penanda susunan yang dihapus setelah gambar jadi."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Memulai sketsa dan ilustrasi",
+      "keterangan": "Perhatikan langkah dan contoh pada Buku Sem 1 BAB 5 subbab D (halaman 100–106)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Empat tahap menggambar benda",
+      "keterangan": "Amati urutan gambar satu benda dari garis bantu sampai perincian akhir."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah kegunaan alat gambar",
+      "Memahami urutan langkah menggambar"
+     ],
+     "mengaplikasi": [
+      "Menggambar satu benda nyata memakai garis bantu",
+      "Menjalankan latihan pada simulasi sketsa",
+      "Memeriksa proporsi hasil gambar"
+     ],
+     "merefleksi": [
+      "Menulis langkah yang paling sering saya lewatkan saat menggambar"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 33 — Menggambar dari Pengamatan",
+     "langkah": [
+      "Pilih satu benda sederhana.",
+      "Buat garis bantu dan bentuk dasar.",
+      "Perinci dan hapus garis bantu.",
+      "Tulis catatan proporsi."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Ketepatan proporsi",
+       "skor4": "Proporsi tepat dan konsisten",
+       "skor3": "Proporsi cukup tepat",
+       "skor2": "Proporsi menyimpang",
+       "skor1": "Tidak memperhatikan proporsi"
+      },
+      {
+       "kriteria": "Kerapian langkah kerja",
+       "skor4": "Garis bantu rapi dan dihapus bersih",
+       "skor3": "Langkah kerja tertib",
+       "skor2": "Masih ada garis bantu",
+       "skor1": "Tidak memakai garis bantu"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Garis bantu dibuat dengan tujuan",
+       "opsi": [
+        "Menjaga proporsi dan susunan gambar",
+        "Menambah kerumitan",
+        "Menutupi gambar"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Latihan menggambar paling cepat meningkatkan kemampuan jika",
+       "opsi": [
+        "Dilakukan singkat tetapi rutin",
+        "Dilakukan sekali sangat lama",
+        "Hanya menyimak contoh"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Sketsa benda nyata + catatan proporsi",
+     "bentuk": "individu",
+     "luaran": "Satu gambar pensil dan catatan langkah"
+    },
+    "tindakLanjut": {
+     "remedial": "Latihan garis bantu dan bentuk dasar tambahan.",
+     "pengayaan": "Menggambar benda dengan dua sudut pandang berbeda."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menjelaskan prinsip dan unsur desain pada karya gambar.",
+     "Menerapkan prinsip keseimbangan, penekanan, dan kesatuan pada sketsa."
+    ],
+    "pemantik": [
+     "Mengapa gambar yang penuh warna bisa terasa membingungkan?",
+     "Bagian mana yang pertama kali dilihat pada sebuah karya? Mengapa?"
+    ],
+    "materi": {
+     "pengantar": "Unsur desain adalah bahan dasar karya (garis, bentuk, warna, tekstur, ruang), sedangkan prinsip desain adalah cara menyusunnya agar enak dilihat dan pesannya sampai.",
+     "poin": [
+      "Keseimbangan mengatur berat visual kiri dan kanan; dapat simetris maupun tidak simetris.",
+      "Penekanan menentukan bagian yang paling ingin ditonjolkan agar mata pengguna diarahkan.",
+      "Kesatuan membuat semua bagian terasa satu karya, bukan kumpulan gambar terpisah.",
+      "Irama dan proporsi menjaga karya terasa hidup dan nyaman dipandang."
+     ],
+     "istilah": [
+      {
+       "t": "penekanan",
+       "a": "Pengaturan bagian utama yang ingin ditonjolkan dalam karya."
+      },
+      {
+       "t": "kesatuan",
+       "a": "Keselarasan seluruh bagian sehingga karya terasa utuh."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Prinsip dan unsur desain",
+      "keterangan": "Perhatikan uraian pada Buku Sem 1 BAB 5 subbab E (halaman 107–115)."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-prinsip-desain",
+      "judul": "Empat prinsip dasar",
+      "keterangan": "Diagram orisinal: keseimbangan, penekanan, kesatuan, irama."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Membedakan unsur dan prinsip desain",
+      "Mengidentifikasi prinsip pada karya nyata"
+     ],
+     "mengaplikasi": [
+      "Memperbaiki sketsa sendiri dengan menerapkan satu prinsip",
+      "Menandai bagian penekanan pada karya teman"
+     ],
+     "merefleksi": [
+      "Menulis prinsip yang paling sulit saya terapkan dan cara melatihnya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 34 — Menerapkan Prinsip Desain pada Sketsa",
+     "langkah": [
+      "Ambil sketsa sebelumnya.",
+      "Perbaiki keseimbangan dan penekanan.",
+      "Tulis alasan tiap perubahan."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Penerapan prinsip",
+       "skor4": "Tiga prinsip diterapkan tepat dan beralasan",
+       "skor3": "Dua prinsip diterapkan",
+       "skor2": "Satu prinsip",
+       "skor1": "Tidak diterapkan"
+      },
+      {
+       "kriteria": "Mutu perbaikan",
+       "skor4": "Karya jelas lebih nyaman dipandang",
+       "skor3": "Ada perbaikan",
+       "skor2": "Perbaikan kecil",
+       "skor1": "Tidak berubah"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Prinsip yang mengatur bagian utama karya disebut",
+       "opsi": [
+        "Penekanan",
+        "Simetri",
+        "Tekstur"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Kesatuan karya tercapai bila",
+       "opsi": [
+        "Semua bagian terasa selaras dan saling mendukung",
+        "Semua warna dipakai sekaligus",
+        "Setiap bagian berbeda gaya"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Sketsa diperbaiki + daftar prinsip yang dipakai",
+     "bentuk": "individu",
+     "luaran": "Dua versi sketsa + catatan prinsip"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menandai keseimbangan pada contoh karya.",
+     "pengayaan": "Merancang poster sederhana memakai tiga prinsip desain."
+    }
+   }
+  },
+  {
+   "minggu": 18,
+   "senin": {
+    "tujuan": [
+     "Mengembangkan sketsa menjadi karya cetak yang utuh.",
+     "Menjelaskan pertimbangan pemilihan media karya cetak."
+    ],
+    "pemantik": [
+     "Mengapa pesan yang sama perlu gaya berbeda untuk poster dan majalah?",
+     "Apa yang membuat poster berhasil menarik perhatian?"
+    ],
+    "materi": {
+     "pengantar": "Karya cetak seperti poster, komik, dan ilustrasi majalah memiliki aturan berbeda. Poster berbicara dari jarak jauh dengan penekanan kuat, sedangkan ilustrasi majalah dibaca lebih dekat sehingga dapat lebih rinci.",
+     "poin": [
+      "Poster yang baik memiliki satu pesan utama, elemen dominan, dan huruf yang terbaca dari jarak tertentu.",
+      "Ilustrasi majalah dan buku mendukung tulisan, sehingga harus selaras dengan isi teks.",
+      "Komik menyampaikan cerita melalui urutan panel dan balon kata, sehingga alur bacaannya penting.",
+      "Pemilihan media menentukan ukuran, jumlah rincian, dan cara penyajian karya."
+     ],
+     "istilah": [
+      {
+       "t": "elemen dominan",
+       "a": "Bagian karya yang paling menonjol dan mengarahkan perhatian."
+      },
+      {
+       "t": "panel komik",
+       "a": "Kotak berisi adegan dalam cerita bergambar."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "rujukan-buku",
+      "judul": "Konsep karya DKV melalui sketsa",
+      "keterangan": "Perhatikan uraian dan contoh poster serta karya cetak pada Buku Sem 1 BAB 5 subbab F (halaman 116–127)."
+     },
+     {
+      "jenis": "pengamatan",
+      "judul": "Poster baik dan kurang baik",
+      "keterangan": "Bandingkan dua poster: mana yang lebih cepat dipahami dan mengapa?"
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah ciri karya cetak yang berhasil",
+      "Membandingkan poster, ilustrasi majalah, dan komik"
+     ],
+     "mengaplikasi": [
+      "Memilih media yang tepat untuk pesan yang ditentukan",
+      "Menyusun rancangan kasar karya cetak dari sketsa",
+      "Menjalankan simulasi sketsa lanjutan"
+     ],
+     "merefleksi": [
+      "Menulis bagian yang paling menantang saat mengembangkan karya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 35 — Rancangan Karya Cetak dari Sketsa",
+     "langkah": [
+      "Tetapkan pesan dan media.",
+      "Susun rancangan kasar.",
+      "Tentukan elemen dominan.",
+      "Minta umpan balik teman."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kesesuaian media dan pesan",
+       "skor4": "Pilihan media tepat dan beralasan",
+       "skor3": "Pilihan media tepat",
+       "skor2": "Kurang tepat",
+       "skor1": "Tidak sesuai"
+      },
+      {
+       "kriteria": "Kejelasan rancangan",
+       "skor4": "Rancangan memuat pesan, elemen dominan, dan susunan",
+       "skor3": "Rancangan jelas",
+       "skor2": "Rancangan kabur",
+       "skor1": "Belum ada rancangan"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Ciri poster yang berhasil adalah",
+       "opsi": [
+        "Satu pesan utama dengan elemen dominan",
+        "Banyak pesan sekaligus",
+        "Huruf sangat kecil"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Ilustrasi pada majalah sebaiknya",
+       "opsi": [
+        "Selaras dengan isi tulisan",
+        "Bertentangan dengan tulisan",
+        "Tidak berkaitan"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Rancangan karya cetak (poster/komik/ilustrasi)",
+     "bentuk": "individu",
+     "luaran": "Rancangan kasar + catatan konsep"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan memilih media yang paling sederhana.",
+     "pengayaan": "Membuat dua versi poster untuk dua sasaran berbeda."
+    }
+   },
+   "rabu": {
+    "tujuan": [
+     "Menyelesaikan, mempresentasikan, dan menilai karya semester 1.",
+     "Menyelesaikan asesmen akhir semester dan merefleksi capaian belajar."
+    ],
+    "pemantik": [
+     "Apa karya terbaikmu semester ini dan mengapa?",
+     "Apa satu hal yang akan kamu lakukan berbeda pada semester berikutnya?"
+    ],
+    "materi": {
+     "pengantar": "Presentasi karya melatih menjelaskan keputusan desain, bukan sekadar menunjukkan gambar. Refleksi akhir semester membantu merencanakan perbaikan cara belajar.",
+     "poin": [
+      "Struktur penyajian karya: pesan yang diangkat, proses, keputusan desain, dan pelajaran yang didapat.",
+      "Penilaian karya memakai rubrik: kesesuaian pesan, mutu visual, ketelitian teknis, dan kemandirian.",
+      "Refleksi ditulis jujur: apa yang dikuasai, apa yang masih sulit, dan langkah berikutnya.",
+      "Portofolio semester dikemas rapi agar dapat ditunjukkan kepada guru dan orang tua."
+     ],
+     "istilah": [
+      {
+       "t": "presentasi karya",
+       "a": "Kegiatan menjelaskan karya dan keputusan desainnya kepada orang lain."
+      },
+      {
+       "t": "refleksi akhir",
+       "a": "Penilaian diri atas capaian dan rencana perbaikan belajar."
+      }
+     ]
+    },
+    "contohVisual": [
+     {
+      "jenis": "pengamatan",
+      "judul": "Contoh susunan portofolio",
+      "keterangan": "Amati contoh portofolio tiga halaman: karya, proses, dan refleksi."
+     },
+     {
+      "jenis": "diagram",
+      "id": "diagram-alur-produksi",
+      "judul": "Alur presentasi karya",
+      "keterangan": "Diagram orisinal: pesan → proses → keputusan → pelajaran."
+     }
+    ],
+    "aktivitas": {
+     "memahami": [
+      "Menelaah rubrik penilaian karya",
+      "Menyusun kerangka presentasi"
+     ],
+     "mengaplikasi": [
+      "Menyelesaikan karya semester",
+      "Mempresentasikan karya dan menjawab pertanyaan",
+      "Mengerjakan asesmen akhir semester 1"
+     ],
+     "merefleksi": [
+      "Menulis refleksi capaian semester dan rencana semester berikutnya"
+     ]
+    },
+    "lkpd": {
+     "judul": "LKPD 36 — Portofolio & Presentasi Akhir Semester 1",
+     "langkah": [
+      "Susun portofolio minimal tiga karya.",
+      "Tulis catatan proses tiap karya.",
+      "Presentasikan lima menit.",
+      "Isi lembar refleksi."
+     ],
+     "rubrik": [
+      {
+       "kriteria": "Kelengkapan portofolio",
+       "skor4": "Tiga karya lengkap dengan proses dan refleksi",
+       "skor3": "Tiga karya lengkap",
+       "skor2": "Dua karya",
+       "skor1": "Satu karya"
+      },
+      {
+       "kriteria": "Mutu presentasi",
+       "skor4": "Jelas, beralasan, dan menjawab pertanyaan",
+       "skor3": "Jelas dan beralasan",
+       "skor2": "Kurang jelas",
+       "skor1": "Tidak siap"
+      }
+     ]
+    },
+    "asesmenFormatif": {
+     "bentuk": "kuis-pilihan-ganda",
+     "butir": [
+      {
+       "soal": "Hal yang dinilai dalam presentasi karya adalah",
+       "opsi": [
+        "Kemampuan menjelaskan keputusan desain",
+        "Jumlah kata yang diucapkan",
+        "Kerapian pakaian"
+       ],
+       "kunci": 0
+      },
+      {
+       "soal": "Refleksi akhir semester sebaiknya memuat",
+       "opsi": [
+        "Capaian, kesulitan, dan rencana perbaikan",
+        "Daftar nilai teman",
+        "Keluhan saja"
+       ],
+       "kunci": 0
+      }
+     ]
+    },
+    "tugas": {
+     "judul": "Portofolio semester 1 & presentasi karya",
+     "bentuk": "individu",
+     "luaran": "Portofolio 3 karya + lembar refleksi + asesmen akhir semester"
+    },
+    "tindakLanjut": {
+     "remedial": "Pendampingan menyusun portofolio.",
+     "pengayaan": "Membuat karya tambahan untuk pameran kelas."
+    }
+   }
+  }
+ ]
+}

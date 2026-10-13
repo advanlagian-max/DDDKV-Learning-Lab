@@ -1,0 +1,203 @@
+{
+ "part": 5,
+ "minggu": [
+  {
+   "minggu": 25,
+   "senin": {
+    "tujuan": ["Menyebutkan jenis kamera dan kegunaannya.", "Menjelaskan fungsi bagian-bagian kamera DSLR."],
+    "pemantik": ["Mengapa kamera profesional punya lensa yang bisa diganti?", "Bagian kamera mana yang menentukan banyaknya cahaya masuk?"],
+    "materi": {
+     "pengantar": "Fotografi dimulai dari mengenal alat. Kamera bekerja dengan menangkap cahaya melalui lensa dan mengubahnya menjadi gambar. Memahami bagian kamera membuat pengaturan terasa masuk akal, bukan sekadar mengikuti perintah.",
+     "poin": ["Jenis kamera yang umum dijumpai: kamera ponsel, kamera saku, kamera DSLR/mirrorless dengan lensa yang dapat ditukar, dan kamera aksi.", "Bagian utama DSLR: lensa, diafragma dalam lensa, tombol pelepas rana, pengukur cahaya, sensor, dan layar pengatur.", "Lensa memiliki angka jarak fokus dan bukaan; lensa tetap maupun lensa zoom memberi keleluasaan berbeda.", "Perawatan dasar: pasang penutup lensa, bersihkan dengan kain khusus, dan hindari paparan air serta pasir."],
+     "istilah": [{"t": "diafragma", "a": "Bagian lensa yang mengatur banyaknya cahaya yang masuk."}, {"t": "sensor", "a": "Bagian kamera yang mengubah cahaya menjadi data gambar."}, {"t": "rana", "a": "Tirai pembuka yang menentukan lama cahaya masuk."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Peralatan kamera dan bagian DSLR", "keterangan": "Perhatikan uraian dan gambar bagian kamera pada Buku Sem 2 Bab 2 subbab A dan B (halaman 34–48)."}, {"jenis": "pengamatan", "judul": "Menamai bagian kamera", "keterangan": "Amati satu kamera (nyata atau gambar) dan tunjuk bagian-bagiannya beserta fungsinya."}],
+    "aktivitas": {"memahami": ["Membaca uraian jenis dan bagian kamera", "Membedakan fungsi lensa, diafragma, dan sensor"], "mengaplikasi": ["Menandai bagian kamera pada lembar kerja", "Menyalakan dan memeriksa pengaturan kamera sekolah", "Menuliskan satu jenis kamera untuk kebutuhan tertentu"], "merefleksi": ["Menulis bagian kamera yang paling perlu saya kuasai"]},
+    "lkpd": {"judul": "LKPD 49 — Mengenal Bagian Kamera", "langkah": ["Tandai enam bagian kamera.", "Tulis fungsi tiap bagian.", "Sebutkan satu alat perawatan yang diperlukan."], "rubrik": [{"kriteria": "Ketepatan penamaan bagian", "skor4": "Enam bagian tepat dengan fungsi", "skor3": "Enam bagian tepat", "skor2": "Empat bagian", "skor1": "Kurang dari empat"}, {"kriteria": "Pemahaman fungsi", "skor4": "Fungsi dijelaskan dengan kaitannya pada cahaya/gambar", "skor3": "Fungsi dijelaskan", "skor2": "Fungsi umum", "skor1": "Tidak dijelaskan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Bagian lensa yang mengatur banyaknya cahaya masuk adalah", "opsi": ["Diafragma", "Sensor", "Layar"], "kunci": 0}, {"soal": "Bagian kamera yang mengubah cahaya menjadi data gambar adalah", "opsi": ["Sensor", "Rana", "Tombol pelepas"], "kunci": 0}]},
+    "tugas": {"judul": "Uji fungsi bagian kamera", "bentuk": "kelompok", "luaran": "Catatan pengamatan saat mencoba mengubah pengaturan kamera"},
+    "tindakLanjut": {"remedial": "Pendampingan menamai bagian kamera satu per satu.", "pengayaan": "Membandingkan dua jenis kamera dan kegunaannya."}
+   },
+   "rabu": {
+    "tujuan": ["Menjalankan operasi dasar kamera DSLR: menyalakan, mengatur mode, membidik, memfokuskan, dan memotret.", "Menerapkan perawatan dan penyimpanan peralatan fotografi."],
+    "pemantik": ["Mengapa foto bisa terlihat kabur meskipun objeknya terang?", "Mengapa lensa perlu dipasang dan dilepas dengan hati-hati?"],
+    "materi": {
+     "pengantar": "Menguasai kamera berarti dapat mengulang hasil yang sama. Latihan rutin pada mode yang paling sederhana membuat tangan terbiasa sebelum masuk ke pengaturan yang lebih rumit.",
+     "poin": ["Urutan dasar: nyalakan kamera, pilih mode, atur ukuran gambar, pilih titik fokus, bidik, lalu tekan pelepas rana setengah jalan untuk mengunci fokus.", "Cara memegang kamera menentukan ketajaman: siku menempel tubuh dan tarik napas sebelum menekan tombol.", "Lensa dilepas dengan kamera dimatikan, tubuh lensa ditahan, dan penutup dipasang kembali setelah digunakan.", "Penyimpanan: masukkan kamera ke tas dengan silica gel, jauhkan dari panas, dan keluarkan baterai bila lama tidak dipakai."],
+     "istilah": [{"t": "memfokuskan", "a": "Mengatur kamera agar objek utama tampak tajam."}, {"t": "mode kamera", "a": "Pilihan pengaturan otomatis atau manual pada kamera."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Cara memegang kamera", "keterangan": "Bandingkan dua cara memegang kamera dan tentukan mana yang menghasilkan gambar lebih tajam."}, {"jenis": "diagram", "id": "diagram-kamera", "judul": "Urutan dasar memotret", "keterangan": "Diagram orisinal: nyalakan → atur → bidik → kunci fokus → potret."}],
+    "aktivitas": {"memahami": ["Menyimak urutan operasi dasar kamera", "Mengenali tanda fokus pada layar"], "mengaplikasi": ["Melakukan latihan memotret satu objek dengan tiga titik fokus", "Merawat lensa dan menyimpan kamera sesuai prosedur", "Membandingkan tingkat ketajaman hasil"], "merefleksi": ["Menulis kebiasaan memegang kamera yang perlu saya perbaiki"]},
+    "lkpd": {"judul": "LKPD 50 — Operasi Dasar & Perawatan Kamera", "langkah": ["Lakukan urutan dasar memotret.", "Simpan tiga hasil foto.", "Isi ceklis perawatan setelah penggunaan."], "rubrik": [{"kriteria": "Ketepatan operasi", "skor4": "Seluruh langkah dilakukan mandiri dan benar", "skor3": "Langkah dilakukan benar", "skor2": "Perlu bimbingan", "skor1": "Belum dapat"}, {"kriteria": "Kedisiplinan perawatan", "skor4": "Ceklis lengkap dan alat dikembalikan sesuai tempat", "skor3": "Ceklis diisi", "skor2": "Ceklis sebagian", "skor1": "Tidak melakukan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Cara memegang kamera agar hasil tajam adalah", "opsi": ["Siku menempel tubuh dan tahan napas saat menekan", "Kamera dipegang satu tangan jauh dari tubuh", "Kamera diletakkan di atas pagar"], "kunci": 0}, {"soal": "Lensa sebaiknya dilepas saat kamera", "opsi": ["Dimatikan", "Menyala", "Sedang merekam video"], "kunci": 0}]},
+    "tugas": {"judul": "Tiga hasil foto latihan fokus", "bentuk": "individu", "luaran": "Tiga berkas foto + catatan titik fokus yang dipakai"},
+    "tindakLanjut": {"remedial": "Pendampingan latihan memegang dan membidik.", "pengayaan": "Melatih pemotretan objek bergerak perlahan."}
+   }
+  },
+  {
+   "minggu": 26,
+   "senin": {
+    "tujuan": ["Menjelaskan pengertian segitiga eksposur.", "Membedakan pengaruh aperture, shutter speed, dan ISO terhadap hasil foto."],
+    "pemantik": ["Mengapa foto bisa terlalu gelap meskipun matahari terang?", "Apa yang membuat latar belakang foto tampak kabur?"],
+    "materi": {
+     "pengantar": "Eksposur adalah jumlah cahaya yang diterima sensor. Tiga pengatur saling memengaruhi: besar bukaan lensa (aperture), lama cahaya masuk (shutter speed), dan kepekaan sensor (ISO). Mengubah satu pengatur menuntut penyesuaian pengatur lain agar kecerahan tetap seimbang.",
+     "poin": ["Aperture besar (angka kecil) memasukkan banyak cahaya dan membuat ruang tajam menjadi dangkal sehingga latar mudah kabur.", "Aperture kecil (angka besar) memasukkan sedikit cahaya namun ruang tajam menjadi luas.", "Shutter lambat memasukkan lebih banyak cahaya tetapi berisiko gambar kabur jika objek bergerak.", "ISO tinggi mencerahkan gambar pada cahaya minim namun menimbulkan bintik (noise) pada hasil."],
+     "istilah": [{"t": "eksposur", "a": "Jumlah cahaya yang diterima sensor saat memotret."}, {"t": "ruang tajam", "a": "Wilayah pada foto yang tampak tajam."}, {"t": "noise", "a": "Bintik pada foto akibat kepekaan sensor terlalu tinggi."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Segitiga exposure kamera", "keterangan": "Perhatikan uraian dan contoh pengaruh pengaturan pada Buku Sem 2 Bab 2 subbab C (halaman 49–52)."}, {"jenis": "diagram", "id": "diagram-segitiga-eksposur", "judul": "Segitiga eksposur", "keterangan": "Diagram orisinal: aperture, shutter speed, dan ISO beserta akibatnya."}],
+    "aktivitas": {"memahami": ["Membaca uraian tiga pengatur eksposur", "Mengaitkan tiap pengatur dengan akibat visualnya"], "mengaplikasi": ["Menjalankan simulasi fotografi untuk menguji aperture, shutter, dan ISO", "Mencatat pengaruh tiap perubahan", "Menentukan pengaturan untuk kondisi terang dan redup"], "merefleksi": ["Menulis pengatur yang paling sulit saya pahami beserta alasannya"]},
+    "lkpd": {"judul": "LKPD 51 — Mengenal Segitiga Eksposur", "langkah": ["Uji tiga nilai aperture pada simulasi.", "Uji tiga nilai shutter.", "Uji tiga nilai ISO.", "Tulis akibat tiap perubahan."], "rubrik": [{"kriteria": "Ketepatan pengamatan", "skor4": "Sembilan uji dilakukan dan dicatat tepat", "skor3": "Uji dilakukan dengan catatan", "skor2": "Sebagian uji dilakukan", "skor1": "Tidak melakukan uji"}, {"kriteria": "Pemahaman hubungan antar pengatur", "skor4": "Menjelaskan saling pengaruh dengan contoh", "skor3": "Menjelaskan saling pengaruh", "skor2": "Menjelaskan satu arah saja", "skor1": "Belum memahami"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Angka aperture kecil berarti", "opsi": ["Bukaan lebar, latar mudah kabur", "Bukaan sempit, semua tajam", "Cahaya tidak masuk"], "kunci": 0}, {"soal": "ISO tinggi pada cahaya minim menyebabkan", "opsi": ["Bintik (noise) bertambah", "Warna menjadi biru", "Foto menjadi lebih tajam"], "kunci": 0}]},
+    "tugas": {"judul": "Catatan uji tiga pengatur eksposur", "bentuk": "individu", "luaran": "Tabel hasil uji simulasi + kesimpulan"},
+    "tindakLanjut": {"remedial": "Pendampingan mengulang uji satu pengatur saja.", "pengayaan": "Menyusun rekomendasi pengaturan untuk situasi tertentu."}
+   },
+   "rabu": {
+    "tujuan": ["Menerapkan pengaturan eksposur pada latihan pemotretan nyata.", "Menyesuaikan pengaturan sesuai kondisi cahaya di lokasi."],
+    "pemantik": ["Bagaimana memotret di ruang kelas yang lampunya redup?", "Apa yang perlu diubah jika foto terlalu terang?"],
+    "materi": {
+     "pengantar": "Pengaturan eksposur diuji di lokasi nyata. Setiap ruang punya masalah cahaya sendiri, sehingga fotografer perlu menyesuaikan dengan cepat dan memeriksa hasil sebelum meninggalkan lokasi.",
+     "poin": ["Di luar ruangan pada siang hari, bukaan sedang dan ISO rendah sudah cukup.", "Di dalam ruangan, memperlambat shutter membantu namun kamera perlu bertumpu untuk menghindari kabur.", "Menyeimbangkan tiga pengatur dilakukan bertahap: mulai dari kebutuhan ruang tajam, lalu kecepatan, terakhir kepekaan.", "Memeriksa hasil di layar kamera sambil memperhatikan kecerahan diperlukan sebelum penyerahan."],
+     "istilah": [{"t": "semua-sesuai (manual)", "a": "Mode memotret dengan seluruh pengaturan diatur sendiri."}, {"t": "mengunci fokus", "a": "Menyimpan titik fokus pada objek utama sebelum memotret."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Foto terang, normal, gelap", "keterangan": "Amati tiga contoh foto dari kondisi yang sama dan tentukan pengaturan yang paling seimbang."}, {"jenis": "diagram", "id": "diagram-segitiga-eksposur", "judul": "Langkah menyeimbangkan eksposur", "keterangan": "Diagram orisinal: ruang tajam → kecepatan → kepekaan."}],
+    "aktivitas": {"memahami": ["Menelaah masalah pencahayaan ruang kelas", "Mempelajari urutan penyeimbangan"], "mengaplikasi": ["Memotret objek di dalam dan luar ruangan", "Membandingkan hasil dua pengaturan berbeda", "Menjalankan simulasi fotografi untuk menguji ulang"], "merefleksi": ["Menulis pengaturan terbaik yang saya temukan dan alasannya"]},
+    "lkpd": {"judul": "LKPD 52 — Praktik Eksposur Indoor & Outdoor", "langkah": ["Ambil lima foto di dalam ruangan.", "Ambil lima foto di luar ruangan.", "Pilih pengaturan terbaik dan catat alasannya."], "rubrik": [{"kriteria": "Kesesuaian pengaturan", "skor4": "Sepuluh foto dengan pengaturan sesuai kondisi", "skor3": "Delapan foto sesuai", "skor2": "Lima foto sesuai", "skor1": "Kurang dari lima"}, {"kriteria": "Kualitas dokumentasi", "skor4": "Catatan pengaturan lengkap tiap foto", "skor3": "Catatan sebagian besar foto", "skor2": "Catatan singkat", "skor1": "Tidak ada catatan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Pada siang hari di luar ruangan, pengaturan yang tepat umumnya", "opsi": ["Bukaan sedang dan ISO rendah", "Bukaan sangat lebar dan ISO tinggi", "Shutter sangat lambat"], "kunci": 0}, {"soal": "Memotret di ruangan redup dengan shutter lambat sebaiknya", "opsi": ["Kamera ditumpu agar tidak kabur", "Kamera digerakkan cepat", "Lensa ditutup sebagian"], "kunci": 0}]},
+    "tugas": {"judul": "Sepuluh foto latihan eksposur + catatan", "bentuk": "individu", "luaran": "Sepuluh berkas foto dan tabel pengaturan"},
+    "tindakLanjut": {"remedial": "Pendampingan memotret dengan mode otomatis lalu membaca hasilnya.", "pengayaan": "Latihan memotret objek bergerak dengan kecepatan berbeda."}
+   }
+  },
+  {
+   "minggu": 27,
+   "senin": {
+    "tujuan": ["Menggunakan kamera DSLR sesuai langkah penggunaan yang benar.", "Menjelaskan fungsi alat penunjang fotografi indoor dan outdoor."],
+    "pemantik": ["Alat apa yang membuat foto di ruangan gelap tetap terang?", "Mengapa reflektor berguna meski matahari bersinar Terang?"],
+    "materi": {
+     "pengantar": "Alat penunjang membantu fotografer mengendalikan cahaya. Dengan alat sederhana seperti reflektor dan lampu, hasil foto dapat dibuat lebih rapi tanpa harus mengganti kamera.",
+     "poin": ["Langkah penggunaan kamera: siapkan kamera, periksa daya, atur ukuran gambar, atur eksposur, tentukan titik fokus, potret, lalu tinjau hasil.", "Alat penunjang dalam ruangan: lampu belajar atau lampu meja, reflektor dari kertas putih, dan alas/meja foto sederhana.", "Alat penunjang luar ruangan: tripod, penutup lensa, tas tahan air, dan pelindung dari terik berlebih.", "Penggunaan tripod memungkinkan shutter lambat tanpa risiko kabur."],
+     "istilah": [{"t": "reflektor", "a": "Bidang pemantul cahaya yang mengisi bagian bayangan objek."}, {"t": "tripod", "a": "Penyangga tiga kaki untuk menjaga kamera tetap stabil."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Penggunaan kamera dan alat penunjang", "keterangan": "Perhatikan uraian pada Buku Sem 2 Bab 2 subbab D dan E (halaman 53–57)."}, {"jenis": "diagram", "id": "diagram-kamera", "judul": "Peran alat penunjang", "keterangan": "Diagram orisinal: sumber cahaya, reflektor, objek, dan kamera."}],
+    "aktivitas": {"memahami": ["Menelaah fungsi alat penunjang", "Mempelajari langkah penggunaan kamera"], "mengaplikasi": ["Menyiapkan meja foto sederhana dengan reflektor", "Memotret satu objek memakai dan tanpa reflektor", "Membandingkan hasil kedua foto"], "merefleksi": ["Menulis alat penunjang yang paling membantu di kondisi kelas"]},
+    "lkpd": {"judul": "LKPD 53 — Alat Penunjang & Latihan Meja Foto", "langkah": ["Susun meja foto dengan latar sederhana.", "Potret objek tanpa reflektor.", "Potret objek dengan reflektor.", "Bandingkan hasilnya."], "rubrik": [{"kriteria": "Ketepatan pemasangan alat", "skor4": "Susunan alat tepat dan aman", "skor3": "Susunan tepat", "skor2": "Perlu dibantu", "skor1": "Belum tepat"}, {"kriteria": "Mutu perbandingan hasil", "skor4": "Perbedaan dijelaskan dengan bukti foto", "skor3": "Perbandingan dijelaskan", "skor2": "Perbandingan umum", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Alat yang menjaga kamera stabil saat shutter lambat adalah", "opsi": ["Tripod", "Reflektor", "Layar"], "kunci": 0}, {"soal": "Fungsi reflektor adalah", "opsi": ["Mengisi bagian bayangan agar objek tidak terlalu gelap", "Menambah noise", "Memperkecil ukuran berkas"], "kunci": 0}]},
+    "tugas": {"judul": "Dua foto objek (tanpa & dengan reflektor)", "bentuk": "individu", "luaran": "Dua berkas foto + catatan perbedaan"},
+    "tindakLanjut": {"remedial": "Pendampingan menyusun meja foto.", "pengayaan": "Merancang alat penunjang dari bahan sederhana."}
+   },
+   "rabu": {
+    "tujuan": ["Menyebutkan jenis-jenis fotografi dan kegunaannya.", "Menjalankan latihan pembidikan sesuai jenis fotografi yang dipilih."],
+    "pemantik": ["Apa perbedaan kebutuhan foto produk dan foto jurnalistik?", "Jenis foto apa yang paling cocok untuk promosi usaha kecil?"],
+    "materi": {
+     "pengantar": "Jenis fotografi berkembang sesuai kebutuhan pemesan. Mengenal jenisnya membantu menentukan pendekatan: apakah foto harus sangat rinci seperti produk, atau menangkap momen seperti jurnalistik.",
+     "poin": ["Fotografi produk mementingkan ketajaman, latar bersih, dan pencahayaan rata.", "Fotografi potret menonjolkan wajah dan ekspresi, biasanya memakai ruang tajam dangkal.", "Fotografi jurnalistik dan dokumentasi menangkap kejadian secara apa adanya dengan cepat.", "Fotografi lanskap dan arsitektur membutuhkan ruang tajam luas serta komposisi yang tertata."],
+     "istilah": [{"t": "fotografi produk", "a": "Pemotretan barang untuk keperluan promosi atau penjualan."}, {"t": "fotografi jurnalistik", "a": "Pemotretan peristiwa untuk menyampaikan informasi atau berita."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Jenis-jenis fotografi", "keterangan": "Perhatikan contoh pada Buku Sem 2 Bab 2 subbab F (halaman 58–64)."}, {"jenis": "pengamatan", "judul": "Tiga foto, tiga keperluan", "keterangan": "Amati tiga foto: produk, potret, dan peristiwa; tentukan perbedaan pendekatannya."}],
+    "aktivitas": {"memahami": ["Membaca uraian jenis fotografi", "Mengaitkan jenis foto dengan kebutuhan pemesan"], "mengaplikasi": ["Memilih satu jenis fotografi untuk dilatih", "Melakukan latihan pembidikan dan pengambilan gambar", "Menilai kelayakan hasil untuk kebutuhan nyata"], "merefleksi": ["Menulis jenis fotografi yang paling ingin saya tekuni"]},
+    "lkpd": {"judul": "LKPD 54 — Jenis Fotografi & Latihan Pembidikan", "langkah": ["Pilih satu jenis fotografi.", "Tentukan kebutuhan fotonya.", "Ambil lima foto sesuai kebutuhan.", "Tulis penilaian hasil."], "rubrik": [{"kriteria": "Kesesuaian hasil dengan jenis", "skor4": "Lima foto sesuai kebutuhan jenis", "skor3": "Empat foto sesuai", "skor2": "Dua-tiga foto sesuai", "skor1": "Tidak sesuai"}, {"kriteria": "Mutu penilaian diri", "skor4": "Menilai kekurangan dengan alasan teknis", "skor3": "Menilai kekurangan", "skor2": "Penilaian umum", "skor1": "Tidak menilai"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Fotografi produk memerlukan", "opsi": ["Ketajaman dan latar bersih", "Gambar kabur", "Banyak noise"], "kunci": 0}, {"soal": "Fotografi jurnalistik menekankan", "opsi": ["Kecepatan menangkap peristiwa apa adanya", "Kerapian latar studio", "Warna pucat"], "kunci": 0}]},
+    "tugas": {"judul": "Lima foto sesuai jenis fotografi pilihan", "bentuk": "individu", "luaran": "Lima berkas foto + catatan kebutuhan dan penilaian"},
+    "tindakLanjut": {"remedial": "Pendampingan memilih jenis foto yang paling mudah dilakukan.", "pengayaan": "Memotret kebutuhan promosi nyata di sekolah."}
+   }
+  },
+  {
+   "minggu": 28,
+   "senin": {
+    "tujuan": ["Menjelaskan ukuran gambar (shot size) dalam fotografi.", "Menjelaskan pengaruh sudut pengambilan gambar terhadap kesan foto."],
+    "pemantik": ["Mengapa foto dari bawah membuat orang tampak berwibawa?", "Apa bedanya foto seluruh badan dan foto wajah dari sisi cerita?"],
+    "materi": {
+     "pengantar": "Ukuran gambar menentukan seberapa dekat penonton dengan objek, sedangkan sudut pengambilan menentukan posisi penonton terhadap objek. Keduanya menyampaikan kesan yang berbeda.",
+     "poin": ["Ukuran gambar umum: sangat jauh, jauh, sedang, dekat, dan sangat dekat; makin dekat, makin kuat perhatian pada objek.", "Sudut pengambilan umum: sejajar mata, dari bawah (rendah), dari atas (tinggi), dan dari sisi samping.", "Sudut rendah membuat objek tampak berwibawa atau besar; sudut tinggi membuat objek tampak kecil atau lemah.", "Ukuran gambar dan sudut dipilih menurut pesan yang ingin disampaikan, bukan sekadar variasi."],
+     "istilah": [{"t": "ukuran gambar", "a": "Sejauh mana objek tampak dalam bingkai foto."}, {"t": "sudut pengambilan", "a": "Posisi kamera terhadap objek saat memotret."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Ukuran gambar dan sudut pengambilan", "keterangan": "Perhatikan uraian dan contoh pada Buku Sem 2 Bab 2 subbab G (halaman 65–73)."}, {"jenis": "diagram", "id": "diagram-shot-size", "judul": "Lima ukuran gambar", "keterangan": "Diagram orisinal: perbandingan bingkai sangat jauh sampai sangat dekat."}],
+    "aktivitas": {"memahami": ["Membaca uraian ukuran gambar dan sudut", "Mengaitkan ukuran/sudut dengan kesan yang ditimbulkan"], "mengaplikasi": ["Memotret satu objek dengan tiga ukuran gambar", "Memotret objek sama dari tiga sudut", "Menjalankan simulasi fotografi untuk menguji perbedaan"], "merefleksi": ["Menulis ukuran dan sudut yang paling cocok untuk pesan tertentu"]},
+    "lkpd": {"judul": "LKPD 55 — Ukuran Gambar & Sudut Pengambilan", "langkah": ["Ambil tiga ukuran gambar.", "Ambil tiga sudut berbeda.", "Beri keterangan kesan tiap foto."], "rubrik": [{"kriteria": "Kelengkapan variasi", "skor4": "Enam foto dengan variasi jelas dan rapi", "skor3": "Enam foto ada", "skor2": "Empat foto", "skor1": "Kurang dari empat"}, {"kriteria": "Ketepatan keterangan kesan", "skor4": "Kesan dijelaskan sesuai ukuran/sudut", "skor3": "Kesan dijelaskan", "skor2": "Kesan umum", "skor1": "Tidak dijelaskan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Foto dari sudut rendah terhadap objek membuat objek tampak", "opsi": ["Berwibawa dan besar", "Kecil dan lemah", "Sama saja"], "kunci": 0}, {"soal": "Ukuran gambar yang paling dekat berfungsi untuk", "opsi": ["Memusatkan perhatian pada rincian objek", "Menunjukkan seluruh pemandangan", "Menampilkan latar seluas mungkin"], "kunci": 0}]},
+    "tugas": {"judul": "Enam foto variasi ukuran & sudut", "bentuk": "individu", "luaran": "Enam berkas foto + keterangan kesan"},
+    "tindakLanjut": {"remedial": "Pendampingan latihan satu ukuran gambar saja.", "pengayaan": "Menyusun cerita foto lima bingkai tentang satu kegiatan."}
+   },
+   "rabu": {
+    "tujuan": ["Menerapkan komposisi dan aturan penempatan objek dalam bingkai.", "Melakukan pengambilan gambar objek bergerak dengan teknik mengikuti objek."],
+    "pemantik": ["Mengapa objek tidak selalu diletakkan di tengah bingkai?", "Bagaimana memotret teman yang sedang berlari agar tetap tajam?"],
+    "materi": {
+     "pengantar": "Komposisi mengatur letak objek sehingga foto nyaman dilihat. Salah satu pedoman yang sering dipakai adalah menempatkan objek pada sepertiga bidang dan memberi ruang gerak di depan objek.",
+     "poin": ["Pedoman sepertiga: bingkai dibayangkan dibagi tiga secara mendatar dan tegak, lalu objek utama diletakkan dekat garis pembagi.", "Memberi ruang di arah gerak atau arah pandang membuat foto terasa lebih hidup.", "Latar yang terlalu ramai mengganggu objek utama sehingga perlu disederhanakan atau diberi ruang tajam dangkal.", "Teknik mengikuti objek bergerak dilakukan dengan menggerakkan kamera seiring gerak objek pada kecepatan rana sedang."],
+     "istilah": [{"t": "komposisi", "a": "Susunan objek dalam bidang foto."}, {"t": "pedoman sepertiga", "a": "Pedoman penempatan objek pada sepertiga bidang foto."}, {"t": "mengikuti objek", "a": "Teknik menggerakkan kamera searah gerak objek (panning)."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Objek di tengah vs sepertiga", "keterangan": "Bandingkan dua foto dengan penempatan berbeda dan tentukan mana yang lebih nyaman dilihat."}, {"jenis": "diagram", "id": "diagram-komposisi", "judul": "Garis sepertiga", "keterangan": "Diagram orisinal: penempatan objek dan arah gerak pada bingkai."}],
+    "aktivitas": {"memahami": ["Menelaah pedoman komposisi", "Menganalisis penyebab foto terasa ramai"], "mengaplikasi": ["Memotret objek dengan pedoman sepertiga", "Berlatih teknik mengikuti objek bergerak", "Memilih lima hasil terbaik beserta alasannya"], "merefleksi": ["Menulis kebiasaan komposisi yang perlu saya perbaiki"]},
+    "lkpd": {"judul": "LKPD 56 — Praktik Komposisi & Mengikuti Objek", "langkah": ["Ambil tiga foto memakai pedoman sepertiga.", "Ambil tiga foto objek bergerak.", "Pilih hasil terbaik dan jelaskan alasannya."], "rubrik": [{"kriteria": "Penerapan komposisi", "skor4": "Tiga foto tertata rapi sesuai pedoman", "skor3": "Dua foto tertata baik", "skor2": "Satu foto tertata", "skor1": "Belum tertata"}, {"kriteria": "Ketajaman objek bergerak", "skor4": "Objek relatif tajam dengan latar bergerak", "skor3": "Objek cukup tajam", "skor2": "Objek agak kabur", "skor1": "Seluruh foto kabur"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Pedoman sepertiga menempatkan objek utama pada", "opsi": ["Sekitar garis pembagi bidang", "Tepat di tengah selalu", "Tepi paling luar"], "kunci": 0}, {"soal": "Teknik mengikuti objek bergerak dilakukan dengan", "opsi": ["Menggerakkan kamera searah gerak objek", "Menggoyangkan kamera acak", "Menutup lensa"], "kunci": 0}]},
+    "tugas": {"judul": "Enam foto komposisi & objek bergerak", "bentuk": "individu", "luaran": "Enam berkas foto + pilihan terbaik dengan alasan"},
+    "tindakLanjut": {"remedial": "Pendampingan latihan penempatan objek.", "pengayaan": "Memotret kegiatan sekolah untuk kebutuhan publikasi."}
+   }
+  },
+  {
+   "minggu": 29,
+   "senin": {
+    "tujuan": ["Menjelaskan karakter arah cahaya dalam fotografi.", "Memilih arah cahaya yang sesuai dengan pesan foto."],
+    "pemantik": ["Mengapa wajah bisa tampak rata saat cahaya datang dari depan?", "Arah cahaya mana yang paling menonjolkan tekstur?"],
+    "materi": {
+     "pengantar": "Arah datangnya cahaya membentuk bayangan, dan bayanganlah yang membuat objek terlihat berdimensi. Memindahkan satu langkah posisi lampu bisa mengubah keseluruhan kesan foto.",
+     "poin": ["Cahaya dari depan meratakan bayangan sehingga objek terkesan datar namun aman untuk foto produk.", "Cahaya dari samping menonjolkan tekstur dan bentuk sehingga cocok untuk foto barang bertekstur.", "Cahaya dari belakang menciptakan siluet atau garis cahaya di tepi objek, memberi kesan dramatis.", "Cahaya dari atas membuat bayangan di bawah objek dan sering kurang menyenangkan untuk wajah."],
+     "istilah": [{"t": "arah cahaya", "a": "Datangnya cahaya terhadap posisi objek dan kamera."}, {"t": "siluet", "a": "Bentuk objek gelap tanpa rincian karena cahaya berasal dari belakang."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Pencahayaan pada fotografi", "keterangan": "Perhatikan uraian dan contoh arah cahaya pada Buku Sem 2 Bab 2 subbab H (halaman 74–76)."}, {"jenis": "diagram", "id": "diagram-cahaya", "judul": "Empat arah cahaya", "keterangan": "Diagram orisinal: depan, samping, belakang, dan atas beserta kesan yang muncul."}],
+    "aktivitas": {"memahami": ["Membaca uraian arah cahaya", "Membandingkan kesan tiap arah"], "mengaplikasi": ["Memotret satu objek dengan empat arah cahaya", "Menjalankan simulasi pencahayaan untuk menguji perbedaan", "Memilih arah terbaik sesuai pesan"], "merefleksi": ["Menulis arah cahaya yang paling cocok untuk kebutuhan fotografi saya"]},
+    "lkpd": {"judul": "LKPD 57 — Empat Arah Cahaya", "langkah": ["Siapkan satu objek dan satu sumber cahaya.", "Potret dari empat arah.", "Tulis kesan tiap foto."], "rubrik": [{"kriteria": "Kelengkapan variasi cahaya", "skor4": "Empat arah terdokumentasi jelas", "skor3": "Empat arah ada", "skor2": "Dua-tiga arah", "skor1": "Kurang dari dua"}, {"kriteria": "Analisis kesan", "skor4": "Kesan dijelaskan dengan kaitannya pada bayangan", "skor3": "Kesan dijelaskan", "skor2": "Kesan umum", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Cahaya dari samping paling cocok untuk", "opsi": ["Menonjolkan tekstur objek", "Membuat siluet", "Menghilangkan bayangan"], "kunci": 0}, {"soal": "Foto siluet terjadi bila cahaya datang dari", "opsi": ["Belakang objek", "Depan objek", "Samping objek"], "kunci": 0}]},
+    "tugas": {"judul": "Empat foto arah cahaya satu objek", "bentuk": "individu", "luaran": "Empat berkas foto + catatan kesan"},
+    "tindakLanjut": {"remedial": "Pendampingan memindahkan sumber cahaya secara bertahap.", "pengayaan": "Membuat foto produk dengan tiga arah cahaya berbeda lalu memilih terbaik."}
+   },
+   "rabu": {
+    "tujuan": ["Menerapkan pencahayaan pada pemotretan di dalam dan luar ruangan.", "Mengatasi masalah pencahayaan umum dengan alat sederhana."],
+    "pemantik": ["Bagaimana menghindari bayangan gelap di bawah mata saat foto di luar?", "Apa yang bisa dipakai sebagai reflektor darurat?"],
+    "materi": {
+     "pengantar": "Di lapangan, cahaya tidak selalu ideal. Fotografer mengatasinya dengan memindahkan objek, memantulkan cahaya, atau mengubah posisi kamera.",
+     "poin": ["Pada siang terik, memotret di area teduh dengan pantulan cahaya memberi hasil lebih rata pada wajah.", "Memotret menghadap arah cahaya menghindari wajah gelap; memotret membelakangi cahaya menghasilkan siluet.", "Kertas putih atau dinding terang dapat dipakai sebagai reflektor darurat.", "Di dalam ruangan, menyalakan lampu tambahan dan menjauhkan objek dari dinding menghasilkan bayangan lebih rapi."],
+     "istilah": [{"t": "cahaya tidak langsung", "a": "Cahaya yang dipantulkan lebih dahulu sehingga lebih lembut."}, {"t": "bayangan keras", "a": "Bayangan dengan tepi tajam akibat sumber cahaya kecil dan dekat."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Siang terik vs area teduh", "keterangan": "Bandingkan foto di bawah matahari langsung dan di area teduh dengan pantulan."}, {"jenis": "diagram", "id": "diagram-cahaya", "judul": "Solusi cahaya lapangan", "keterangan": "Diagram orisinal: memindah objek, memantul, mengubah posisi kamera."}],
+    "aktivitas": {"memahami": ["Menganalisis masalah pencahayaan lapangan", "Menelaah penggunaan reflektor darurat"], "mengaplikasi": ["Memotret di dalam dan luar ruangan dengan pencahayaan buatan seadanya", "Mengatasi satu masalah bayangan keras", "Menjalankan simulasi pencahayaan"], "merefleksi": ["Menulis solusi yang paling berhasil saya terapkan hari ini"]},
+    "lkpd": {"judul": "LKPD 58 — Praktik Foto Indoor & Outdoor", "langkah": ["Ambil tiga foto di dalam ruangan.", "Ambil tiga foto di luar ruangan.", "Catat masalah cahaya dan solusinya."], "rubrik": [{"kriteria": "Mutu hasil foto", "skor4": "Enam foto terang seimbang dan tajam", "skor3": "Empat-lima foto baik", "skor2": "Dua-tiga foto baik", "skor1": "Sebagian besar belum baik"}, {"kriteria": "Catatan solusi", "skor4": "Masalah dan solusi dijelaskan tepat", "skor3": "Catatan jelas", "skor2": "Catatan singkat", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Untuk menghindari wajah gelap saat foto di luar, sebaiknya", "opsi": ["Memotret menghadap arah cahaya", "Memotret membelakangi cahaya", "Menutup sebagian lensa"], "kunci": 0}, {"soal": "Reflektor darurat dapat dibuat dari", "opsi": ["Kertas putih atau dinding terang", "Kain hitam", "Kaca gelap"], "kunci": 0}]},
+    "tugas": {"judul": "Enam foto indoor & outdoor + catatan solusi", "bentuk": "individu", "luaran": "Enam berkas foto dan tabel masalah-solusi"},
+    "tindakLanjut": {"remedial": "Pendampingan memilih lokasi dengan cahaya lebih baik.", "pengayaan": "Membuat panduan pencahayaan sederhana untuk kelas."}
+   }
+  },
+  {
+   "minggu": 30,
+   "senin": {
+    "tujuan": ["Menjelaskan langkah dasar penyuntingan foto digital.", "Menerapkan penyesuaian dasar tanpa berlebihan."],
+    "pemantik": ["Seberapa jauh foto boleh diubah sebelum dianggap tidak jujur?", "Mengapa foto yang terlalu banyak disunting terlihat aneh?"],
+    "materi": {
+     "pengantar": "Penyuntingan memperbaiki foto agar tampil sesuai maksud, bukan menjadikannya berbeda dari kenyataan. Penyesuaian dasar mencakup memotong bingkai, kecerahan, kontras, dan warna.",
+     "poin": ["Pemotongan bingkai (crop) memperbaiki komposisi dan membuang bagian yang mengganggu.", "Kecerahan dan kontras disesuaikan agar rincian gelap dan terang tetap terlihat.", "Penyesuaian warna menjaga kesan asli objek; pergantian warna berlebihan membuat foto terasa tidak wajar.", "Aturan penting: foto untuk keperluan dokumentasi dan berita tidak boleh diubah isinya."],
+     "istilah": [{"t": "penyuntingan", "a": "Pengolahan berkas foto setelah pengambilan gambar."}, {"t": "pemotongan bingkai", "a": "Memotong sebagian bidang foto untuk memperbaiki susunan (crop)."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Penyuntingan fotografi digital", "keterangan": "Perhatikan uraian langkah penyuntingan pada Buku Sem 2 Bab 2 subbab I (halaman 77–81)."}, {"jenis": "diagram", "id": "diagram-sunting", "judul": "Langkah sunting dasar", "keterangan": "Diagram orisinal: potong → kecerahan → kontras → warna → simpan versi."}],
+    "aktivitas": {"memahami": ["Membaca uraian langkah penyuntingan", "Membedakan penyesuaian wajar dan berlebihan"], "mengaplikasi": ["Menyunting satu foto memakai penyesuaian dasar", "Menyimpan versi sebelum dan sesudah", "Memeriksa hasil pada dua ukuran tampilan"], "merefleksi": ["Menulis batas penyuntingan yang menurut saya pantas"]},
+    "lkpd": {"judul": "LKPD 59 — Penyuntingan Dasar Foto", "langkah": ["Pilih satu foto hasil praktik.", "Potong dan sesuaikan kecerahan.", "Sesuaikan kontras dan warna.", "Simpan dua versi."], "rubrik": [{"kriteria": "Ketepatan penyesuaian", "skor4": "Hasil lebih baik tanpa kehilangan rincian", "skor3": "Hasil membaik", "skor2": "Penyesuaian berlebihan", "skor1": "Tidak disunting"}, {"kriteria": "Penyimpanan versi", "skor4": "Dua versi tersimpan rapi dengan catatan", "skor3": "Dua versi tersimpan", "skor2": "Hanya satu versi", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Pemotongan bingkai berfungsi untuk", "opsi": ["Memperbaiki komposisi dan membuang bagian pengganggu", "Menambah rincian yang hilang", "Mengubah isi foto"], "kunci": 0}, {"soal": "Foto dokumentasi tidak boleh disunting dengan cara", "opsi": ["Menghilangkan atau mengubah isi peristiwa", "Menyesuaikan kecerahan", "Memotong bingkai"], "kunci": 0}]},
+    "tugas": {"judul": "Foto sebelum & sesudah disunting", "bentuk": "individu", "luaran": "Dua berkas foto + catatan langkah penyuntingan"},
+    "tindakLanjut": {"remedial": "Pendampingan menyunting satu langkah saja.", "pengayaan": "Menyunting tiga foto dengan gaya konsisten."}
+   },
+   "rabu": {
+    "tujuan": ["Mengevaluasi hasil foto memakai kriteria yang jelas.", "Menyelesaikan uji kompetensi Bab 2 dan merefleksi capaian."],
+    "pemantik": ["Kriteria apa yang kamu pakai untuk memilih foto terbaik?", "Apa yang membedakan foto sekadar jadi dan foto yang berhasil?"],
+    "materi": {
+     "pengantar": "Menilai foto memerlukan kriteria agar penilaian tidak sekadar selera. Kriteria umum meliputi ketajaman, eksposur, komposisi, dan kesesuaian dengan keperluan.",
+     "poin": ["Ketajaman: bagian utama foto harus tajam dan tanpa guncangan.", "Eksposur: kecerahan tidak membuat bagian penting kehilangan rincian.", "Komposisi: susunan objek, latar, dan ruang gerak mendukung pesan.", "Kesesuaian keperluan: foto produk harus bersih, foto kegiatan harus menangkap momen."],
+     "istilah": [{"t": "evaluasi hasil", "a": "Penilaian karya berdasarkan kriteria yang telah ditetapkan."}, {"t": "seleksi foto", "a": "Memilih foto terbaik dari sekumpulan hasil pemotretan."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Rangkuman dan uji kompetensi Bab 2", "keterangan": "Pelajari rangkuman dan contoh soal pada Buku Sem 2 Bab 2 bagian akhir (halaman 82–86)."}, {"jenis": "diagram", "id": "diagram-sunting", "judul": "Empat kriteria penilaian foto", "keterangan": "Diagram orisinal: ketajaman, eksposur, komposisi, kesesuaian keperluan."}],
+    "aktivitas": {"memahami": ["Menelaah kriteria penilaian foto", "Membandingkan penilaian dua pengamat"], "mengaplikasi": ["Menyeleksi sepuluh foto menjadi tiga terbaik", "Menulis alasan pemilihan dengan kriteria", "Mengerjakan uji kompetensi Bab 2"], "merefleksi": ["Menulis kemampuan fotografi yang sudah berkembang dan yang masih lemah"]},
+    "lkpd": {"judul": "LKPD 60 — Evaluasi Foto & Uji Kompetensi Bab 2", "langkah": ["Susun sepuluh foto hasil latihan.", "Seleksi tiga terbaik dengan kriteria.", "Kerjakan uji kompetensi Bab 2."], "rubrik": [{"kriteria": "Ketepatan seleksi", "skor4": "Tiga foto terbaik dipilih dengan alasan kriteria", "skor3": "Tiga foto dipilih dengan alasan", "skor2": "Alasan umum", "skor1": "Tanpa alasan"}, {"kriteria": "Ketepatan uji kompetensi", "skor4": "Sebagian besar jawaban tepat", "skor3": "Separuh tepat", "skor2": "Sebagian kecil tepat", "skor1": "Belum tepat"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Kriteria yang memastikan bagian utama foto tajam disebut", "opsi": ["Ketajaman", "Kesesuaian keperluan", "Nada warna"], "kunci": 0}, {"soal": "Foto produk yang baik memiliki", "opsi": ["Latar bersih dan objek tajam", "Latar ramai", "Bayangan keras menutupi objek"], "kunci": 0}, {"soal": "Langkah pertama penyuntingan yang disarankan adalah", "opsi": ["Memotong bingkai untuk memperbaiki komposisi", "Mengganti seluruh warna", "Menambah teks"], "kunci": 0}]},
+    "tugas": {"judul": "Tiga foto terbaik + uji kompetensi Bab 2", "bentuk": "individu", "luaran": "Tiga berkas foto, catatan alasan, lembar jawaban uji kompetensi"},
+    "tindakLanjut": {"remedial": "Pendampingan menilai foto dengan daftar kriteria.", "pengayaan": "Menyusun portofolio foto bertema untuk kelas."}
+   }
+  }
+ ]
+}

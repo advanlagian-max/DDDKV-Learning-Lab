@@ -1,0 +1,203 @@
+{
+ "part": 4,
+ "minggu": [
+  {
+   "minggu": 19,
+   "senin": {
+    "tujuan": ["Menjelaskan pengertian tipografi dan perannya dalam karya DKV.", "Menyusun garis waktu perkembangan tipografi dari era pracetak hingga digital."],
+    "pemantik": ["Bagaimana manusia menuliskan pesan sebelum ada huruf cetak?", "Mengapa bentuk huruf berbeda-beda di setiap zaman?"],
+    "materi": {
+     "pengantar": "Tipografi adalah seni dan teknik memilih serta menata huruf agar pesan tersampaikan. Perjalanannya dimulai dari gambar di dinding gua, berkembang menjadi tulisan berbasis bunyi, lalu menjadi huruf cetak yang dapat diperbanyak.",
+     "poin": ["Era pracetak: pesan disampaikan melalui gambar dan simbol, kemudian berkembang menjadi tulisan berbasis bunyi.", "Era cetak: penemuan mesin cetak memungkinkan huruf diproduksi berulang dengan bentuk yang sama.", "Era digital: huruf dibuat dan diatur di komputer sehingga variasi dan pengaturannya jauh lebih luas.", "Istilah kunci tipografi: piktograf, ideografi, fonograf, dan huruf berbasis alfabet."],
+     "istilah": [{"t": "tipografi", "a": "Seni dan teknik memilih serta menata huruf agar pesan mudah dipahami."}, {"t": "piktograf", "a": "Tulisan berupa gambar yang mewakili objek atau peristiwa."}, {"t": "fonograf", "a": "Tanda atau huruf yang menandakan bunyi."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Sejarah dan pengertian tipografi", "keterangan": "Perhatikan contoh piktograf, ideografi, dan perkembangan huruf pada Buku Sem 2 Bab 1 subbab A dan B (halaman 4–6)."}, {"jenis": "pengamatan", "judul": "Papan nama di sekolah", "keterangan": "Amati lima tulisan di sekitar sekolah, catat bentuk hurufnya dan kesan yang ditimbulkan."}],
+    "aktivitas": {"memahami": ["Membaca uraian sejarah tipografi", "Membedakan piktograf, ideografi, dan fonograf"], "mengaplikasi": ["Menyusun garis waktu tiga era tipografi", "Menjalankan simulasi tipografi untuk merasakan perubahan bentuk huruf", "Menulis asal usul bentuk huruf pada satu papan nama"], "merefleksi": ["Menulis alasan mengapa bentuk huruf memengaruhi kesan pesan"]},
+    "lkpd": {"judul": "LKPD 37 — Garis Waktu Perkembangan Tipografi", "langkah": ["Susun garis waktu tiga era.", "Beri satu contoh nyata tiap era.", "Tulis kesimpulan perubahan fungsi huruf."], "rubrik": [{"kriteria": "Ketepatan garis waktu", "skor4": "Tiga era tepat dengan contoh dan ciri", "skor3": "Tiga era tepat", "skor2": "Dua era", "skor1": "Satu era"}, {"kriteria": "Mutu kesimpulan", "skor4": "Kesimpulan mengaitkan perkembangan dengan kebutuhan zaman", "skor3": "Kesimpulan jelas", "skor2": "Kesimpulan umum", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Tulisan berupa gambar yang mewakili objek disebut", "opsi": ["Piktograf", "Fonograf", "Alfabet"], "kunci": 0}, {"soal": "Era ketika huruf dapat diperbanyak dengan bentuk sama disebut era", "opsi": ["Cetak", "Pracetak", "Digital"], "kunci": 0}]},
+    "tugas": {"judul": "Catatan bentuk huruf lima papan nama sekolah", "bentuk": "individu", "luaran": "Tabel bentuk huruf + kesan yang ditimbulkan"},
+    "tindakLanjut": {"remedial": "Pendampingan menyusun garis waktu bersama.", "pengayaan": "Menelusuri satu jenis huruf dan sejarah pembuatnya."}
+   },
+   "rabu": {
+    "tujuan": ["Menjelaskan peran tipografi dalam menyampaikan pesan DKV.", "Menilai keterbacaan tulisan pada karya nyata."],
+    "pemantik": ["Apa yang terjadi jika poster memakai huruf yang sulit dibaca?", "Kapan huruf berhias justru tidak tepat dipakai?"],
+    "materi": {
+     "pengantar": "Tipografi bekerja bersama gambar untuk mengarahkan mata pengguna. Pilihan huruf, ukuran, dan susunan menentukan apakah pesan cepat dipahami atau justru membingungkan.",
+     "poin": ["Huruf menyampaikan suasana: bentuk tegas memberi kesan kuat, bentuk lembut memberi kesan ramah.", "Ukuran dan ketebalan huruf menentukan apa yang dibaca lebih dahulu.", "Jumlah huruf yang banyak menuntut susunan yang lebih sederhana agar tetap mudah dibaca.", "Pesan penting diletakkan pada bagian karya yang paling mudah dijangkau mata."],
+     "istilah": [{"t": "keterbacaan", "a": "Kemudahan teks dikenali dan dibaca."}, {"t": "hierarki teks", "a": "Urutan kepentingan teks yang terlihat dari ukuran dan posisinya."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Peran huruf pada karya", "keterangan": "Perhatikan contoh penerapan huruf pada karya pada Buku Sem 2 Bab 1 (halaman 5–8)."}, {"jenis": "pengamatan", "judul": "Tiga tulisan, tiga kesan", "keterangan": "Amati tiga contoh tulisan dengan bentuk berbeda dan tuliskan kesan yang muncul."}],
+    "aktivitas": {"memahami": ["Menelaah hubungan bentuk huruf dan kesan pesan", "Mengidentifikasi masalah keterbacaan"], "mengaplikasi": ["Menilai lima tulisan memakai daftar periksa keterbacaan", "Menjalankan simulasi tipografi untuk menguji ukuran dan jarak", "Memperbaiki satu judul agar lebih mudah dibaca"], "merefleksi": ["Menulis pilihan huruf yang paling cocok untuk karya saya dan alasannya"]},
+    "lkpd": {"judul": "LKPD 38 — Menilai Keterbacaan Tulisan", "langkah": ["Pilih lima tulisan dari karya nyata.", "Nilai dengan daftar periksa.", "Usulkan perbaikan satu tulisan."], "rubrik": [{"kriteria": "Ketelitian penilaian", "skor4": "Lima tulisan dinilai rinci dan beralasan", "skor3": "Lima tulisan dinilai", "skor2": "Tiga tulisan", "skor1": "Kurang dari tiga"}, {"kriteria": "Mutu usulan perbaikan", "skor4": "Perbaikan tepat dan menjawab masalah", "skor3": "Perbaikan masuk akal", "skor2": "Perbaikan umum", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Teks penting sebaiknya diletakkan pada", "opsi": ["Bagian yang paling mudah dijangkau mata", "Sudut paling bawah", "Tepi karya"], "kunci": 0}, {"soal": "Bentuk huruf yang tegas memberi kesan", "opsi": ["Kuat dan serius", "Lucu dan santai", "Tidak ada kesan"], "kunci": 0}]},
+    "tugas": {"judul": "Perbaikan satu judul karya", "bentuk": "individu", "luaran": "Judul sebelum dan sesudah diperbaiki + alasan"},
+    "tindakLanjut": {"remedial": "Pendampingan mengukur ukuran huruf minimal.", "pengayaan": "Merancang judul untuk tiga jenis kegiatan berbeda."}
+   }
+  },
+  {
+   "minggu": 20,
+   "senin": {
+    "tujuan": ["Mengelompokkan jenis huruf berdasarkan klasifikasi tipografi.", "Menjelaskan ciri bentuk tiap kelompok huruf."],
+    "pemantik": ["Mengapa huruf untuk kartu undangan dan spanduk berbeda?", "Bisakah kamu menebak suasana hanya dari bentuk huruf?"],
+    "materi": {
+     "pengantar": "Huruf dikelompokkan berdasarkan bentuk dasarnya. Mengenal kelompok ini membantu memilih huruf sesuai kebutuhan, bukan berdasarkan selera sesaat.",
+     "poin": ["Huruf berkait (serif) memiliki ujung berkait dan memberi kesan klasik serta formal.", "Huruf tanpa kait (sans serif) bersih dan tegas sehingga cocok untuk tampilan digital dan judul modern.", "Huruf hias dan huruf tulis (script) berkesan dekoratif dan paling cocok untuk aksen, bukan teks panjang.", "Kelompok huruf bertipografi tebal dan berjarak lebar sering dipakai untuk poster kegiatan."],
+     "istilah": [{"t": "huruf berkait", "a": "Huruf dengan ujung goresan berkait; cocok untuk bacaan formal."}, {"t": "huruf tanpa kait", "a": "Huruf tanpa kait; bersih dan mudah dibaca pada layar."}, {"t": "huruf hias", "a": "Huruf dengan bentuk dekoratif untuk aksen singkat."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Jenis atau klasifikasi tipografi", "keterangan": "Perhatikan contoh klasifikasi huruf pada Buku Sem 2 Bab 1 subbab C (halaman 7–8), termasuk gambar contoh klasifikasi huruf."}, {"jenis": "pengamatan", "judul": "Kumpulkan lima jenis huruf", "keterangan": "Kumpulkan contoh huruf dari kemasan, buku, dan papan nama, lalu kelompokkan."}],
+    "aktivitas": {"memahami": ["Membaca klasifikasi huruf", "Membandingkan ciri bentuk antar kelompok"], "mengaplikasi": ["Mengelompokkan lima contoh huruf", "Mengganti jenis huruf pada satu judul memakai simulasi tipografi", "Menulis alasan pemilihan huruf"], "merefleksi": ["Menulis jenis huruf yang paling cocok untuk karya saya"]},
+    "lkpd": {"judul": "LKPD 39 — Klasifikasi Huruf", "langkah": ["Kumpulkan lima contoh huruf.", "Kelompokkan tiap contoh.", "Tulis ciri pembeda yang kamu gunakan."], "rubrik": [{"kriteria": "Ketepatan pengelompokan", "skor4": "Lima contoh tepat dengan ciri beralasan", "skor3": "Lima contoh tepat", "skor2": "Tiga contoh tepat", "skor1": "Kurang dari tiga"}, {"kriteria": "Mutu penjelasan ciri", "skor4": "Ciri dijelaskan dengan istilah tepat", "skor3": "Ciri dijelaskan", "skor2": "Ciri umum", "skor1": "Tidak dijelaskan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Huruf serif memiliki ciri", "opsi": ["Ujung goresan berkait", "Tanpa kait sama sekali", "Selalu berwarna"], "kunci": 0}, {"soal": "Huruf script paling tepat dipakai untuk", "opsi": ["Aksen atau judul pendek", "Teks berita panjang", "Daftar angka"], "kunci": 0}]},
+    "tugas": {"judul": "Lembar klasifikasi huruf kelas", "bentuk": "kelompok", "luaran": "Poster tempel berisi empat kelompok huruf dan contohnya"},
+    "tindakLanjut": {"remedial": "Pendampingan mengenali ciri serif dan sans serif.", "pengayaan": "Mencampur dua jenis huruf pada satu karya dan menilai hasilnya."}
+   },
+   "rabu": {
+    "tujuan": ["Memilih jenis huruf sesuai karakter pesan dan sasaran.", "Menjelaskan alasan pemilihan huruf dengan bukti visual."],
+    "pemantik": ["Huruf seperti apa yang cocok untuk acara resmi sekolah?", "Apa akibatnya memakai terlalu banyak jenis huruf dalam satu karya?"],
+    "materi": {
+     "pengantar": "Memilih huruf adalah keputusan komunikasi. Satu karya biasanya cukup memakai satu hingga dua jenis huruf: satu untuk bagian utama, satu untuk keterangan.",
+     "poin": ["Jumlah jenis huruf yang sedikit menjaga karya tetap rapi dan mudah dibaca.", "Huruf untuk judul boleh lebih ekspresif, sedangkan teks penjelas sebaiknya sederhana.", "Karakter huruf dipadankan dengan sasaran: anak-anak, remaja, atau kalangan formal.", "Uji cepat dilakukan dengan membaca karya dari jarak jauh sebelum memutuskan."],
+     "istilah": [{"t": "pemasangan huruf", "a": "Menggabungkan dua jenis huruf agar tetap selaras."}, {"t": "sasaran pembaca", "a": "Kelompok orang yang menjadi tujuan pesan."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Satu pesan tiga huruf", "keterangan": "Amati satu judul yang dicetak dengan tiga jenis huruf berbeda; catat mana yang paling tepat."}, {"jenis": "diagram", "id": "diagram-hierarki-tipografi", "judul": "Judul dan teks penjelas", "keterangan": "Diagram orisinal: susunan hierarki huruf pada satu karya."}],
+    "aktivitas": {"memahami": ["Menelaah pedoman jumlah jenis huruf", "Mengaitkan karakter huruf dengan sasaran"], "mengaplikasi": ["Merancang satu judul dan teks penjelas", "Menguji keterbacaan dari tiga jarak berbeda", "Menjalankan simulasi tipografi untuk membandingkan pilihan"], "merefleksi": ["Menulis kesalahan pemilihan huruf yang biasa saya lakukan"]},
+    "lkpd": {"judul": "LKPD 40 — Memilih Huruf untuk Sebuah Pesan", "langkah": ["Tetapkan pesan dan sasaran.", "Pilih dua jenis huruf (judul dan penjelas).", "Uji keterbacaan dan catat hasilnya."], "rubrik": [{"kriteria": "Kesesuaian huruf dan pesan", "skor4": "Pilihan huruf tepat, beralasan, dan teruji", "skor3": "Pilihan tepat dan beralasan", "skor2": "Pilihan kurang tepat", "skor1": "Tanpa pertimbangan"}, {"kriteria": "Pelaksanaan uji keterbacaan", "skor4": "Diuji dari tiga jarak dengan catatan", "skor3": "Diuji dari dua jarak", "skor2": "Diuji sekilas", "skor1": "Tidak diuji"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Jumlah jenis huruf yang disarankan dalam satu karya adalah", "opsi": ["Satu sampai dua jenis", "Empat sampai lima jenis", "Sebanyak mungkin"], "kunci": 0}, {"soal": "Uji keterbacaan dilakukan dengan cara", "opsi": ["Membaca karya dari beberapa jarak", "Melihat karya sambil berdiri", "Menanyakan warna favorit teman"], "kunci": 0}]},
+    "tugas": {"judul": "Rancangan judul + teks penjelas dua jenis huruf", "bentuk": "individu", "luaran": "Satu halaman rancangan + catatan hasil uji"},
+    "tindakLanjut": {"remedial": "Pendampingan memilih huruf dengan contoh yang sudah jadi.", "pengayaan": "Menyusun panduan sederhana pemilihan huruf untuk kelas."}
+   }
+  },
+  {
+   "minggu": 21,
+   "senin": {
+    "tujuan": ["Menjelaskan fungsi tipografi dalam karya komunikasi.", "Menyebutkan bagian-bagian anatomi huruf."],
+    "pemantik": ["Bagian mana dari huruf yang membuatnya mudah dikenali?", "Mengapa huruf dan angka punya aturan lebar yang berbeda?"],
+    "materi": {
+     "pengantar": "Setiap huruf tersusun atas bagian-bagian yang punya nama. Mengenal anatomi huruf membantu ketika harus mengatur jarak, memilih huruf, atau menjelaskan alasan desain.",
+     "poin": ["Fungsi tipografi: menyampaikan pesan, menarik perhatian, membangun suasana, dan menjaga keterbacaan.", "Bagian huruf meliputi batang tegak, garis lengkung, garis dasar, garis tinggi huruf kecil, dan ekor pada huruf tertentu.", "Perbedaan tinggi dan lebar bagian huruf memengaruhi kerapatan dan keterbacaan dalam susunan kalimat.", "Istilah penting: ascender, descender, x-height, dan baseline."],
+     "istilah": [{"t": "baseline", "a": "Garis dasar tempat huruf berdiri."}, {"t": "x-height", "a": "Tinggi huruf kecil tanpa bagian naik atau turun."}, {"t": "descender", "a": "Bagian huruf yang turun di bawah garis dasar."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Fungsi tipografi dan anatomi huruf", "keterangan": "Perhatikan uraian dan diagram anatomi pada Buku Sem 2 Bab 1 subbab D (halaman 9–13)."}, {"jenis": "diagram", "id": "diagram-anatomi-huruf", "judul": "Anatomi huruf", "keterangan": "Diagram orisinal: baseline, x-height, ascender, dan descender pada satu huruf."}],
+    "aktivitas": {"memahami": ["Membaca uraian fungsi dan anatomi huruf", "Menandai bagian huruf pada contoh"], "mengaplikasi": ["Menandai anatomi pada dua jenis huruf berbeda", "Mengukur tinggi huruf kecil dan tinggi total", "Menjalankan simulasi tipografi untuk mengamati x-height"], "merefleksi": ["Menulis bagian anatomi yang paling berpengaruh pada keterbacaan menurut saya"]},
+    "lkpd": {"judul": "LKPD 41 — Bedah Anatomi Huruf", "langkah": ["Pilih dua jenis huruf.", "Tandai baseline, x-height, ascender, descender.", "Bandingkan hasilnya."], "rubrik": [{"kriteria": "Ketepatan penandaan", "skor4": "Semua bagian ditandai tepat pada dua huruf", "skor3": "Bagian ditandai tepat", "skor2": "Ada penandaan keliru", "skor1": "Belum tepat"}, {"kriteria": "Mutu perbandingan", "skor4": "Perbandingan menyebut pengaruh ke keterbacaan", "skor3": "Perbandingan jelas", "skor2": "Perbandingan umum", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Garis tempat huruf berdiri disebut", "opsi": ["Baseline", "Ascender", "Kerning"], "kunci": 0}, {"soal": "Bagian huruf yang turun di bawah garis dasar disebut", "opsi": ["Descender", "x-height", "Leading"], "kunci": 0}]},
+    "tugas": {"judul": "Kartu anatomi huruf (satu jenis huruf)", "bentuk": "individu", "luaran": "Gambar huruf besar dengan tanda bagian dan keterangannya"},
+    "tindakLanjut": {"remedial": "Pendampingan menandai bagian huruf bersama.", "pengayaan": "Membandingkan anatomi huruf pada dua bahasa/tulisan berbeda."}
+   },
+   "rabu": {
+    "tujuan": ["Membaca anatomi huruf pada karya nyata.", "Menjelaskan pengaruh bentuk huruf terhadap kesan karya."],
+    "pemantik": ["Mengapa tulisan pada kemasan makanan sering memakai huruf bulat?", "Apa yang membuat sebuah tulisan terasa mewah?"],
+    "materi": {
+     "pengantar": "Pada karya nyata, pilihan huruf bekerja bersama warna dan gambar. Mengamati anatomi pada karya membantu memahami mengapa suatu desain terasa tepat atau justru mengganggu.",
+     "poin": ["Huruf dengan tinggi huruf kecil besar umumnya lebih mudah dibaca pada ukuran kecil.", "Huruf dengan banyak lekuk dan hiasan sulit dibaca pada ukuran sangat kecil atau jarak jauh.", "Perbedaan ketebalan goresan menimbulkan kesan ringan atau berat.", "Kombinasi huruf yang berbeda asal dapat dipakai selama salah satu menjadi penanda utama."],
+     "istilah": [{"t": "ketebalan goresan", "a": "Tebal tipisnya garis pembentuk huruf."}, {"t": "huruf penanda", "a": "Huruf utama yang menjadi ciri tampilan karya."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Anatomi pada kemasan", "keterangan": "Amati dua kemasan: tandai pemakaian anatomi huruf dan jelaskan kesannya."}, {"jenis": "diagram", "id": "diagram-anatomi-huruf", "judul": "Perbandingan tebal tipis", "keterangan": "Diagram orisinal: pengaruh ketebalan goresan terhadap kesan."}],
+    "aktivitas": {"memahami": ["Mengamati anatomi pada karya nyata", "Mengaitkan bentuk huruf dengan kesan"], "mengaplikasi": ["Menganalisis dua kemasan lalu menulis hasil temuan", "Mengatur ketebalan huruf pada judul memakai simulasi tipografi", "Menyusun rekomendasi perbaikan"], "merefleksi": ["Menulis pengaruh bentuk huruf yang paling saya rasakan pada karya sehari-hari"]},
+    "lkpd": {"judul": "LKPD 42 — Membaca Anatomi Huruf pada Karya", "langkah": ["Pilih dua karya nyata.", "Tandai bagian anatomi yang menonjol.", "Tulis pengaruhnya pada keterbacaan."], "rubrik": [{"kriteria": "Ketajaman pengamatan", "skor4": "Temuan rinci dan beralasan pada dua karya", "skor3": "Temuan jelas", "skor2": "Temuan umum", "skor1": "Tidak menemukan"}, {"kriteria": "Relevansi kesimpulan", "skor4": "Kesimpulan mengaitkan anatomi dan keterbacaan", "skor3": "Kesimpulan relevan", "skor2": "Kesimpulan lemah", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Huruf dengan tinggi huruf kecil besar umumnya", "opsi": ["Lebih mudah dibaca pada ukuran kecil", "Sulit dibaca", "Tidak dapat dicetak"], "kunci": 0}, {"soal": "Huruf berhias berlebihan sebaiknya dihindari pada", "opsi": ["Teks ukuran kecil", "Judul besar", "Poster jarak jauh"], "kunci": 0}]},
+    "tugas": {"judul": "Laporan pengamatan anatomi huruf", "bentuk": "individu", "luaran": "Satu halaman berisi dua karya, tanda anatomi, dan kesimpulan"},
+    "tindakLanjut": {"remedial": "Pendampingan membaca anatomi pada satu karya.", "pengayaan": "Merancang ulang tulisan kemasan sederhana."}
+   }
+  },
+  {
+   "minggu": 22,
+   "senin": {
+    "tujuan": ["Menjelaskan keterbacaan (legibility, readability, visibility) dalam tipografi.", "Menerapkan prinsip hierarki teks pada susunan judul dan isi."],
+    "pemantik": ["Apa bedanya huruf yang mudah dikenali dan tulisan yang mudah dibaca?", "Bagaimana menentukan mana yang harus paling besar dalam sebuah poster?"],
+    "materi": {
+     "pengantar": "Keterbacaan memiliki tiga sisi: kejelasan bentuk huruf, kenyamanan membaca rangkaian teks, dan keterlihatan dari jarak atau kondisi tertentu. Ketiganya memengaruhi keputusan desain.",
+     "poin": ["Legibility berkaitan dengan kejelasan bentuk huruf sehingga setiap karakter mudah dikenali.", "Readability berkaitan dengan kenyamanan membaca keseluruhan teks, dipengaruhi jarak baris dan panjang baris.", "Visibility berkaitan dengan keterlihatan dari jarak jauh, dipengaruhi ukuran, kontras, dan penempatan.", "Hierarki teks menyusun urutan: judul utama, subjudul, keterangan, dan rincian."],
+     "istilah": [{"t": "legibility", "a": "Kemudahan setiap huruf dikenali."}, {"t": "readability", "a": "Kemudahan teks secara keseluruhan dibaca."}, {"t": "visibility", "a": "Kemudahan teks terlihat dari jarak atau kondisi tertentu."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Prinsip tipografi dan tata letak", "keterangan": "Perhatikan uraian prinsip serta contoh tata letaknya pada Buku Sem 2 Bab 1 subbab D (halaman 13–21)."}, {"jenis": "diagram", "id": "diagram-hierarki-tipografi", "judul": "Empat tingkat hierarki teks", "keterangan": "Diagram orisinal: judul, subjudul, keterangan, rincian."}],
+    "aktivitas": {"memahami": ["Membedakan legibility, readability, dan visibility", "Mengidentifikasi tingkat hierarki teks"], "mengaplikasi": ["Menyusun hierarki teks pada satu rancangan poster", "Menjalankan simulasi tipografi untuk menguji ukuran dan jarak", "Menilai keterbacaan judul teman"], "merefleksi": ["Menulis satu kebiasaan baru saat menyusun teks pada karya"]},
+    "lkpd": {"judul": "LKPD 43 — Hierarki Teks & Keterbacaan", "langkah": ["Tentukan judul, subjudul, dan keterangan.", "Atur ukuran sesuai tingkat kepentingan.", "Uji keterbacaan dan perbaiki."], "rubrik": [{"kriteria": "Ketepatan hierarki", "skor4": "Empat tingkat terlihat jelas dan konsisten", "skor3": "Tiga tingkat jelas", "skor2": "Hierarki kabur", "skor1": "Semua teks sama besar"}, {"kriteria": "Hasil uji keterbacaan", "skor4": "Perbaikan berdasarkan hasil uji tercatat", "skor3": "Uji dilakukan", "skor2": "Uji sekilas", "skor1": "Tidak diuji"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Kenyamanan membaca keseluruhan teks disebut", "opsi": ["Readability", "Legibility", "Visibility"], "kunci": 0}, {"soal": "Faktor utama keterlihatan dari jarak jauh adalah", "opsi": ["Ukuran, kontras, dan penempatan", "Jumlah gambar", "Warna meja"], "kunci": 0}]},
+    "tugas": {"judul": "Rancangan poster bertingkat teks", "bentuk": "individu", "luaran": "Satu rancangan dengan hierarki teks dan catatan uji"},
+    "tindakLanjut": {"remedial": "Pendampingan menentukan teks utama.", "pengayaan": "Membandingkan dua versi poster dengan hierarki berbeda."}
+   },
+   "rabu": {
+    "tujuan": ["Menpraktikkan tata letak teks yang mudah dibaca.", "Menjelaskan pengaruh panjang baris dan jarak tepi pada kenyamanan membaca."],
+    "pemantik": ["Mengapa baris yang terlalu panjang cepat membuat mata lelah?", "Apa gunanya ruang kosong pada susunan teks?"],
+    "materi": {
+     "pengantar": "Tata letak teks mengatur lebar kolom, jarak baris, dan ruang kosong. Susunan yang baik membuat mata bergerak nyaman tanpa tersesat.",
+     "poin": ["Panjang baris yang nyaman umumnya menampung sekitar 45–75 karakter.", "Jarak baris yang terlalu rapat membuat teks terasa padat; terlalu renggang membuat teks sulit diikuti.", "Ruang kosong (white space) memberi nafas dan menandai bagian penting.", "Perataan teks dilakukan sesuai kebutuhan: rata kiri nyaman untuk bacaan, rata tengah cocok untuk judul pendek."],
+     "istilah": [{"t": "lebar kolom", "a": "Panjang baris teks dalam satu susunan."}, {"t": "ruang kosong", "a": "Area tanpa isi yang membantu mata beristirahat."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Dua versi satu paragraf", "keterangan": "Bandingkan paragraf dengan perataan berbeda lalu pilih yang paling nyaman dibaca."}, {"jenis": "diagram", "id": "diagram-hierarki-tipografi", "judul": "Jarak dan ruang", "keterangan": "Diagram orisinal: pengaruh jarak baris dan ruang kosong."}],
+    "aktivitas": {"memahami": ["Menelaah panjang baris dan jarak baris", "Mengidentifikasi fungsi ruang kosong"], "mengaplikasi": ["Menata ulang satu paragraf teks", "Membandingkan tiga variasi jarak baris", "Menjalankan simulasi tipografi untuk menguji jarak"], "merefleksi": ["Menulis pengaturan teks yang paling nyaman bagi saya saat membaca"]},
+    "lkpd": {"judul": "LKPD 44 — Praktik Tata Letak Teks", "langkah": ["Susun satu paragraf pada kolom sempit dan lebar.", "Uji tiga jarak baris.", "Pilih yang terbaik dengan alasan."], "rubrik": [{"kriteria": "Kelengkapan uji", "skor4": "Tiga variasi diuji dan dicatat hasilnya", "skor3": "Dua variasi diuji", "skor2": "Satu variasi", "skor1": "Tidak diuji"}, {"kriteria": "Mutu pilihan akhir", "skor4": "Pilihan beralasan kenyamanan dan keterbacaan", "skor3": "Pilihan beralasan", "skor2": "Alasan lemah", "skor1": "Tanpa alasan"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Panjang baris yang nyaman umumnya memuat sekitar", "opsi": ["45–75 karakter", "150–200 karakter", "1–10 karakter"], "kunci": 0}, {"soal": "Fungsi ruang kosong dalam tata letak adalah", "opsi": ["Memberi nafas dan menandai bagian penting", "Mengisi halaman kosong", "Menambah jumlah teks"], "kunci": 0}]},
+    "tugas": {"judul": "Lembar uji tata letak teks", "bentuk": "individu", "luaran": "Tiga variasi tata letak + kesimpulan pilihan"},
+    "tindakLanjut": {"remedial": "Pendampingan mengukur panjang baris.", "pengayaan": "Menyusun halaman buklet sederhana dengan tata letak rapi."}
+   }
+  },
+  {
+   "minggu": 23,
+   "senin": {
+    "tujuan": ["Menjelaskan pengertian leading, kerning, dan tracking.", "Membedakan ketiga pengatur spasi dan kegunaannya."],
+    "pemantik": ["Mengapa tulisan yang hurufnya berdesakan sulit dibaca?", "Kapan jarak huruf perlu dilebarkan?"],
+    "materi": {
+     "pengantar": "Tiga istilah spasi sering membingungkan: leading mengatur jarak antarbaris, kerning mengatur jarak antardua huruf, dan tracking mengatur jarak seluruh huruf dalam satu bagian teks.",
+     "poin": ["Leading yang tepat menjaga mata berpindah baris tanpa tersesat.", "Kerning dipakai untuk memperbaiki pasangan huruf yang tampak berdesakan atau terlalu renggang.", "Tracking melebarkan atau merapatkan jarak seluruh huruf, sering dipakai pada judul pendek atau teks berukuran kecil berwarna terang.", "Ketiganya diatur setelah jenis huruf dan ukuran dipilih, bukan sebelumnya."],
+     "istilah": [{"t": "leading", "a": "Jarak antarbaris dalam satu blok teks."}, {"t": "kerning", "a": "Pengaturan jarak antardua huruf tertentu."}, {"t": "tracking", "a": "Pengaturan jarak seluruh huruf pada satu bagian teks."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Leading, kerning, dan tracking", "keterangan": "Perhatikan contoh pengaturan dan penjelasannya pada Buku Sem 2 Bab 1 subbab E (halaman 22–25)."}, {"jenis": "diagram", "id": "diagram-spasi", "judul": "Tiga pengatur spasi", "keterangan": "Diagram orisinal: leading, kerning, dan tracking pada satu contoh teks."}],
+    "aktivitas": {"memahami": ["Membaca uraian tiga istilah spasi", "Mengidentifikasi masalah spasi pada contoh teks"], "mengaplikasi": ["Mengubah leading, tracking, dan jarak huruf pada simulasi tipografi", "Memperbaiki satu judul yang spasi antarhurufnya buruk", "Mencatat pengaruh tiap perubahan"], "merefleksi": ["Menulis pengaturan spasi yang paling sering saya lewatkan"]},
+    "lkpd": {"judul": "LKPD 45 — Tiga Pengatur Spasi", "langkah": ["Salin satu judul ke dalam simulasi.", "Ubah leading, tracking, dan jarak huruf.", "Tulis pengaruh tiap perubahan."], "rubrik": [{"kriteria": "Pemahaman istilah", "skor4": "Tiga istilah dijelaskan tepat dan dibedakan", "skor3": "Tiga istilah dijelaskan", "skor2": "Sebagian tertukar", "skor1": "Belum memahami"}, {"kriteria": "Mutu catatan pengamatan", "skor4": "Pengaruh tiap perubahan dijelaskan dengan contoh", "skor3": "Pengaruh dijelaskan", "skor2": "Catatan singkat", "skor1": "Tidak mencatat"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Jarak antarbaris dalam blok teks disebut", "opsi": ["Leading", "Kerning", "Tracking"], "kunci": 0}, {"soal": "Pengaturan jarak antardua huruf tertentu disebut", "opsi": ["Kerning", "Leading", "Baseline"], "kunci": 0}]},
+    "tugas": {"judul": "Catatan pengamatan tiga pengatur spasi", "bentuk": "individu", "luaran": "Tangkapan hasil simulasi + catatan pengaruh"},
+    "tindakLanjut": {"remedial": "Pendampingan membedakan istilah dengan contoh langsung.", "pengayaan": "Menata spasi judul untuk tiga ukuran berbeda."}
+   },
+   "rabu": {
+    "tujuan": ["Mengatur spasi pada karya nyata agar mudah dibaca.", "Menjelaskan pengaruh keterbacaan dan keterlihatan pada hasil akhir karya."],
+    "pemantik": ["Mengapa teks putih di latar gelap sering perlu jarak huruf lebih lebar?", "Apa akibatnya jarak baris terlalu rapat pada paragraf panjang?"],
+    "materi": {
+     "pengantar": "Pengaturan spasi diuji pada karya nyata: poster, kartu, dan tampilan digital. Hasil akhir dinilai dari kemudahan membaca, bukan dari seberapa banyak pengaturan yang diubah.",
+     "poin": ["Teks terang di latar gelap tampak menyatu sehingga perlu jarak huruf lebih longgar dan ketebalan memadai.", "Paragraf panjang memerlukan jarak baris lebih longgar daripada judul.", "Judul pendek dapat memakai jarak huruf lebih lebar agar terlihat megah, sepanjang tidak mengganggu keterbacaan.", "Kesalahan spasi paling mudah ditemukan dengan mencetak karya dan membacanya dari jarak baca nyata."],
+     "istilah": [{"t": "uji cetak", "a": "Mencetak karya untuk memeriksa hasil sebelum diproduksi banyak."}, {"t": "jarak baca nyata", "a": "Jarak yang biasa dipakai pengguna saat membaca karya."}]
+    },
+    "contohVisual": [{"jenis": "pengamatan", "judul": "Sebelum dan sesudah diatur spasinya", "keterangan": "Amati satu poster dengan spasi keliru dan versi perbaikannya."}, {"jenis": "diagram", "id": "diagram-spasi", "judul": "Perbaikan spasi bertahap", "keterangan": "Diagram orisinal: urutan perbaikan judul, subjudul, lalu paragraf."}],
+    "aktivitas": {"memahami": ["Menelaah kebutuhan spasi pada berbagai jenis teks", "Mengidentifikasi kesalahan spasi"], "mengaplikasi": ["Memperbaiki spasi pada satu karya sendiri", "Menguji hasil cetak dari jarak baca nyata", "Menjalankan simulasi tipografi untuk membandingkan hasil"], "merefleksi": ["Menulis perbaikan spasi yang paling berpengaruh pada karya saya"]},
+    "lkpd": {"judul": "LKPD 46 — Praktik Pengaturan Spasi", "langkah": ["Perbaiki judul, subjudul, dan paragraf.", "Cetak uji.", "Bandingkan versi sebelum dan sesudah."], "rubrik": [{"kriteria": "Ketepatan perbaikan", "skor4": "Perbaikan tepat pada tiga bagian teks", "skor3": "Perbaikan pada dua bagian", "skor2": "Perbaikan pada satu bagian", "skor1": "Tidak diperbaiki"}, {"kriteria": "Dokumentasi hasil", "skor4": "Perbandingan lengkap dengan catatan alasan", "skor3": "Ada perbandingan", "skor2": "Hanya versi akhir", "skor1": "Tidak ada bukti"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Teks terang di latar gelap umumnya memerlukan", "opsi": ["Jarak huruf lebih longgar", "Jarak huruf sangat rapat", "Ukuran sangat kecil"], "kunci": 0}, {"soal": "Cara paling andal menemukan kesalahan spasi adalah", "opsi": ["Mencetak dan membaca dari jarak baca nyata", "Melihat sebentar di layar", "Menanyakan warna favorit"], "kunci": 0}]},
+    "tugas": {"judul": "Karya sebelum & sesudah pengaturan spasi", "bentuk": "individu", "luaran": "Dua versi karya + catatan perbaikan"},
+    "tindakLanjut": {"remedial": "Pendampingan memperbaiki satu bagian teks.", "pengayaan": "Menyusun pedoman spasi sederhana untuk karya kelas."}
+   }
+  },
+  {
+   "minggu": 24,
+   "senin": {
+    "tujuan": ["Merancang karya desain berbasis tipografi.", "Menyusun lembar pertanggungjawaban desain."],
+    "pemantik": ["Karya jenis apa yang paling menonjolkan huruf?", "Bagaimana menjelaskan alasan pemilihan huruf kepada orang lain?"],
+    "materi": {
+     "pengantar": "Karya berbasis tipografi menempatkan huruf sebagai unsur utama: poster tipografis, kartu undangan, dan penanda kegiatan. Perancangan dimulai dari pesan, bukan dari pilihan huruf.",
+     "poin": ["Langkah perancangan: tetapkan pesan dan sasaran, pilih huruf, atur hierarki, atur spasi, lalu uji keterbacaan.", "Lembar pertanggungjawaban memuat pesan, sasaran, pilihan huruf, pengaturan spasi, dan alasan tiap keputusan.", "Umpan balik teman dipakai untuk memastikan pesan terbaca oleh orang yang tidak tahu konsep awal.", "Berkas akhir disimpan dalam versi siap cetak beserta versi kerjanya."],
+     "istilah": [{"t": "pertanggungjawaban desain", "a": "Penjelasan tertulis atas keputusan desain yang diambil."}, {"t": "versi siap cetak", "a": "Berkas akhir yang sudah diperiksa untuk diproduksi."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Contoh karya tipografi", "keterangan": "Perhatikan contoh karya dan uraian prinsipnya pada Buku Sem 2 Bab 1 (halaman 13–25)."}, {"jenis": "pengamatan", "judul": "Bedah poster tipografis", "keterangan": "Amati satu poster tipografis: bagaimana huruf menjadi gambar utama?"}],
+    "aktivitas": {"memahami": ["Menelaah langkah perancangan karya tipografi", "Menyusun kerangka lembar pertanggungjawaban"], "mengaplikasi": ["Merancang karya tipografi berdasarkan pesan yang dipilih", "Menjalankan simulasi tipografi untuk menguji rancangan", "Meminta umpan balik teman dan mencatatnya"], "merefleksi": ["Menulis keputusan desain yang paling sulit saya ambil"]},
+    "lkpd": {"judul": "LKPD 47 — Perancangan Karya Tipografi", "langkah": ["Tetapkan pesan dan sasaran.", "Rancang tiga alternatif.", "Pilih satu dan uji keterbacaan.", "Isi lembar pertanggungjawaban."], "rubrik": [{"kriteria": "Mutu rancangan", "skor4": "Rancangan kuat, sesuai pesan, dan teruji", "skor3": "Rancangan sesuai pesan", "skor2": "Rancangan lemah", "skor1": "Belum ada rancangan"}, {"kriteria": "Kelengkapan pertanggungjawaban", "skor4": "Semua keputusan dijelaskan dengan alasan", "skor3": "Sebagian besar dijelaskan", "skor2": "Penjelasan singkat", "skor1": "Tidak ada"}]},
+    "asesmenFormatif": {"bentuk": "kuis-pilihan-ganda", "butir": [{"soal": "Perancangan karya tipografi dimulai dari", "opsi": ["Penetapan pesan dan sasaran", "Pemilihan jenis huruf", "Pemilihan warna kertas"], "kunci": 0}, {"soal": "Lembar pertanggungjawaban desain memuat", "opsi": ["Alasan keputusan desain", "Daftar nilai teman", "Riwayat belanja bahan"], "kunci": 0}]},
+    "tugas": {"judul": "Karya tipografi tahap rancangan", "bentuk": "individu", "luaran": "Rancangan terpilih + lembar pertanggungjawaban"},
+    "tindakLanjut": {"remedial": "Pendampingan menyusun kerangka pertanggungjawaban.", "pengayaan": "Merancang varian karya untuk sasaran berbeda."}
+   },
+   "rabu": {
+    "tujuan": ["Menyelesaikan dan mempresentasikan karya tipografi.", "Menyelesaikan uji kompetensi Bab 1 Tipografi dan merefleksi capaian."],
+    "pemantik": ["Apa yang kamu ubah dari rancangan awal setelah presentasi?", "Apa satu hal baru yang kamu kuasai tentang huruf?"],
+    "materi": {
+     "pengantar": "Karya akhir dinilai dari keterpaduan pesan, pilihan huruf, dan ketelitian teknis. Uji kompetensi mengukur pemahaman istilah dan kemampuan menerapkan prinsip.",
+     "poin": ["Presentasi memuat pesan, proses, keputusan, dan pelajaran yang didapat.", "Perbaikan akhir didasarkan pada umpan balik, bukan sekadar selera.", "Uji Kompetensi Bab 1 mencakup istilah tipografi, anatomi huruf, prinsip keterbacaan, dan pengaturan spasi.", "Portofolio karya tipografi disimpan bersama catatan prosesnya."],
+     "istilah": [{"t": "uji kompetensi", "a": "Penilaian akhir untuk mengukur penguasaan satu bab."}, {"t": "penilaian sejawat", "a": "Penilaian antar siswa memakai rubrik yang disepakati."}]
+    },
+    "contohVisual": [{"jenis": "rujukan-buku", "judul": "Rangkuman dan uji kompetensi Bab 1", "keterangan": "Pelajari rangkuman dan contoh soal pada Buku Sem 2 Bab 1 bagian akhir (halaman 26–30)."}, {"jenis": "diagram", "id": "diagram-spasi", "judul": "Ceklis sebelum menyerahkan karya", "keterangan": "Diagram orisinal: pesan, huruf, hierarki, spasi, keterbacaan."}],
+    "aktivitas": {"memahami": ["Menelaah rangkuman Bab 1", "Menyusun kerangka presentasi karya"], "mengaplikasi": ["Menyelesaikan karya tipografi", "Mempresentasikan dan menerima pertanyaan", "Mengerjakan uji kompetensi Bab 1"], "merefleksi": ["Menulis capaian dan rencana perbaikan pada bab berikutnya"]},
+    "lkpd": {"judul": "LKPD 48 — Penyelesaian Karya & Presentasi Tipografi", "langkah": ["Selesaikan karya berdasarkan umpan balik.", "Presentasikan tiga menit.", "Kerjakan uji kompetensi Bab 1."], "rubrik": [{"kriteria": "Kualitas karya akhir", "skor4": "Pesan kuat, huruf tepat, spasi rapi, mudah dibaca", "skor3": "Karya baik dan mudah dibaca", "skor2": "Karya cukup", "skor1": "Belum selesai"}, {"kriteria": "Mutu presentasi", "skor4": "Menjelaskan keputusan desain dengan alasan dan menjawab pertanyaan", "skor3": "Menjelaskan dengan alasan", "skor2": "Menjelaskan singkat", "skor1": "Tidak siap"}]},
+    "asesmenFormatif": {"bentuk": "uji-kompetensi-ebab-buku", "butir": [{"soal": "Istilah untuk jarak antarbaris adalah", "opsi": ["Leading", "Kerning", "Tracking"], "kunci": 0}, {"soal": "Kemudahan teks terlihat dari jarak jauh disebut", "opsi": ["Visibility", "Readability", "Legibility"], "kunci": 0}, {"soal": "Langkah akhir sebelum karya dicetak banyak adalah", "opsi": ["Uji cetak dan pemeriksaan keterbacaan", "Menambah jenis huruf", "Memperkecil ukuran teks"], "kunci": 0}]},
+    "tugas": {"judul": "Karya tipografi akhir + uji kompetensi Bab 1", "bentuk": "individu", "luaran": "Karya siap cetak, lembar pertanggungjawaban, dan lembar jawaban uji kompetensi"},
+    "tindakLanjut": {"remedial": "Pendampingan mengulang materi spasi dan hierarki.", "pengayaan": "Membuat karya tipografi untuk acara nyata di sekolah."}
+   }
+  }
+ ]
+}

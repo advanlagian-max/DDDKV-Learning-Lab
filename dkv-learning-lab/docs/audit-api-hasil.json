@@ -1,0 +1,337 @@
+{
+  "waktu": "2026-10-13T14:44:48.897Z",
+  "basis": "http://localhost:8080",
+  "ringkas": "AUDIT API/DATA: 33/33 LULUS",
+  "hasil": [
+    {
+      "no": 1,
+      "area": "A. Kurikulum",
+      "fitur": "Daftar 36 minggu tersedia dari API",
+      "langkah": "GET /api/kurikulum (token guru)",
+      "harapan": "36 minggu, nomor 1–36 berurutan, tiap minggu punya tema/sumber/tujuan",
+      "aktual": "36 minggu; nomor 1–36; lengkap=true; semua bertema=true; semua bersumber=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 2,
+      "area": "A. Kurikulum",
+      "fitur": "72 pertemuan (Senin–Rabu) lengkap dengan agenda",
+      "langkah": "GET /api/kurikulum/1…36 lalu hitung pertemuanSenin & pertemuanRabu",
+      "harapan": "72 pertemuan, setiap pertemuan berisi agenda bertahap (tahap, menit, kegiatan)",
+      "aktual": "72 pertemuan; agenda lengkap 72/72; contoh pertama: minggu 1 senin — 6 tahap",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 3,
+      "area": "A. Kurikulum",
+      "fitur": "Data 36 minggu tersimpan di basis data aplikasi",
+      "langkah": "SELECT COUNT(*) FROM weeks (SQLite aplikasi)",
+      "harapan": "36 baris minggu tersimpan sehingga guru dapat menyuntingnya",
+      "aktual": "36 baris pada tabel weeks",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 4,
+      "area": "B. JP",
+      "fitur": "Setiap minggu tepat 12 JP (Senin 6 JP + Rabu 6 JP)",
+      "langkah": "Hitung jp pertemuanSenin + pertemuanRabu untuk 36 minggu",
+      "harapan": "semua minggu = 12 JP; Senin = 6 JP; Rabu = 6 JP",
+      "aktual": "menit per pertemuan 270 (6 JP × 45 menit); minggu bernilai 12 JP: 36/36; Senin6: 36/36; Rabu6: 36/36",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 5,
+      "area": "B. JP",
+      "fitur": "Jumlah menit agenda setiap pertemuan sama dengan 6 JP (270 menit)",
+      "langkah": "Jumlahkan menit seluruh tahap agenda pada 72 pertemuan",
+      "harapan": "0 pertemuan dengan selisih (72 × 270 menit)",
+      "aktual": "72/72 pertemuan tepat 270 menit",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 6,
+      "area": "C. Navigasi & akses",
+      "fitur": "Peserta didik diblokir dari seluruh endpoint guru/admin",
+      "langkah": "10 permintaan ke endpoint guru/admin memakai token siswa",
+      "harapan": "semua jawaban HTTP 403",
+      "aktual": "GET=403, GET=403, GET=403, GET=403, GET=403, PUT=403, POST=403, GET=403, GET=403, POST=403",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 7,
+      "area": "C. Navigasi & akses",
+      "fitur": "Navigasi minggu siswa mengikuti kunci menu guru (server, bukan hanya tombol)",
+      "langkah": "Siswa membuka minggu 1 (di luar minggu aktif 2) saat menu navigasi terkunci, lalu setelah guru membukanya",
+      "harapan": "terkunci → 403 berlabel locked beserta alasan; terbuka → 200 dengan data minggu",
+      "aktual": "terkunci=403 (locked:true: \"Menu navigasi minggu sebelumnya belum dibuka oleh guru.\"); terbuka=200 (tema minggu terbaca=true)",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 8,
+      "area": "C. Navigasi & akses",
+      "fitur": "Peran guru: dapat mengakses fitur kelas, tidak dapat mengelola akun",
+      "langkah": "GET /api/guru/siswa (guru) dan GET /api/admin/users (guru)",
+      "harapan": "guru: 200 untuk kelas, 403 untuk akun admin",
+      "aktual": "guru/siswa=200, admin/users=403",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 9,
+      "area": "D. Progres & tugas",
+      "fitur": "Progres per pertemuan tersimpan & minggu selesai setelah Senin+Rabu",
+      "langkah": "POST /api/siswa/progress minggu 30 (senin, lalu rabu) → GET /api/siswa/progress",
+      "harapan": "status berjalan setelah Senin, selesai setelah Rabu, aktivitas tersimpan",
+      "aktual": "setelah senin=\"berjalan\", setelah rabu=\"selesai\", tersimpan=[senin,rabu]",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 10,
+      "area": "D. Progres & tugas",
+      "fitur": "Hasil tugas siswa tersimpan dan terbaca ulang (guru & siswa)",
+      "langkah": "POST /api/tugas/1/submit → GET /api/tugas (siswa) & GET /api/guru/submissions (guru)",
+      "harapan": "kiriman tersimpan (status submitted/terkumpul) dan jawaban dapat dibaca kembali",
+      "aktual": "kirim=200 (-); status pada daftar siswa=open; tugas terbuka untuk siswa=4, tugas di sisi guru=4",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 11,
+      "area": "D. Progres & tugas",
+      "fitur": "Hasil pekerjaan asesmen (kuis) tersimpan di server dan dapat dibaca kembali",
+      "langkah": "POST /api/asesmen/A-01-S-KUIS/kerja (2 butir, sebagian sengaja salah) → GET /api/asesmen/A-01-S-KUIS/kerja",
+      "harapan": "tersimpan status dinilai dengan skor 100 (hitung ulang independen); GET mengembalikan jawaban & skor yang sama",
+      "aktual": "kirim=200 (skor server=100, harapan=100); baca ulang status=dinilai skor=100 jawaban identik=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 12,
+      "area": "D. Progres & tugas",
+      "fitur": "Portofolio & refleksi tersimpan, guru dapat memberi umpan balik",
+      "langkah": "POST /api/portofolio → POST /api/portofolio/:id/feedback (guru) → POST /api/refleksi → GET keduanya",
+      "harapan": "karya tersimpan, umpan balik guru tersimpan, refleksi tersimpan",
+      "aktual": "karya=200, umpan balik guru=200, refleksi=200 & terbaca=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 13,
+      "area": "E. Nilai & rubrik",
+      "fitur": "Skor otomatis kuis dihitung server (proporsional jumlah benar)",
+      "langkah": "Kirim jawaban benar semua & satu salah pada A-04-S-KUIS (2 butir)",
+      "harapan": "benar semua → 100; satu salah → 50",
+      "aktual": "Aditya Pratama: 1/2 → 50; Bella Ramadhani: 2/2 → 100; Citra Lestari: 2/2 → 100; Dimas Aryo: 2/2 → 100",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 14,
+      "area": "E. Nilai & rubrik",
+      "fitur": "Konversi rubrik 1–4 → 0–100 berbobot dan konsisten",
+      "langkah": "Nilai A-04-PRAKTIK dengan semua kriteria 4, semua 2, dan campuran {\"Persiapan & alat/bahan\":4,\"Proses & langkah kerja\":3,\"Keselamatan, ketertiban, kebersihan\":2,\"Kemandirian & pemecahan masalah\":1}",
+      "harapan": "semua 4 → 100; semua 2 → 50; campuran → 63",
+      "aktual": "semua4=100, semua2=50, campuran=63 (bobot 25/25/25/25)",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 15,
+      "area": "E. Nilai & rubrik",
+      "fitur": "Rekap nilai akhir = rata-rata berbobot komponen yang sudah dinilai (dihitung ulang independen)",
+      "langkah": "Ambil seluruh skor per asesmen siswa dari API, hitung Σ(skor×bobot)/Σbobot, bandingkan dengan nilai akhir rekap",
+      "harapan": "nilai akhir rekap = 75",
+      "aktual": "server=75; hitung ulang=75; selisih=0",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 16,
+      "area": "E. Nilai & rubrik",
+      "fitur": "Remedial muncul hanya untuk nilai di bawah KKTp asesmen",
+      "langkah": "GET /api/guru/asesmen-remedial?kelas_id=1",
+      "harapan": "setiap baris memiliki skor < KKTp asesmen tersebut",
+      "aktual": "2 baris; semua patuh=true; contoh: 50 < KKTp 75",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 17,
+      "area": "F. Simulasi",
+      "fitur": "Hasil laboratorium tersimpan, divalidasi, dan tunduk kunci menu",
+      "langkah": "POST /api/simulasi/hasil (valid, sim tidak dikenal, skor di luar rentang, saat menu dikunci) → GET hasil",
+      "harapan": "valid → 200 & tersimpan; sim tidak dikenal/skor tidak sah → 400; menu dikunci → 403",
+      "aktual": "valid=200 (tersimpan=8 baris); sim asing=400; skor 99 dari 3=400; terkunci=403",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 18,
+      "area": "G. Validasi",
+      "fitur": "Login: isian kosong & kredensial salah ditangani dengan pesan jelas",
+      "langkah": "POST /api/auth/login tanpa isian, password salah, username tidak ada",
+      "harapan": "400 untuk isian kosong; 401 untuk kredensial salah; tidak ada 500",
+      "aktual": "kosong=400 (Username dan password wajib diisi.); salah=401; tidak ada=401",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 19,
+      "area": "G. Validasi",
+      "fitur": "Permintaan ke sumber daya/parameter tidak sah dijawab 400/404 (bukan 500)",
+      "langkah": "Tugas & asesmen tidak ada; catatan supervisi tidak ada; minggu 37; hari kamis",
+      "harapan": "404 untuk data tidak ada, 400 untuk parameter tidak sah",
+      "aktual": "tugas=404, asesmen=404, supervisi=404, minggu-37=400, hari-kamis=400",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 20,
+      "area": "G. Validasi",
+      "fitur": "Aturan nilai & instrumen ditegakkan (konfirmasi guru, bobot rubrik 100, skor 1–4)",
+      "langkah": "Nilai tanpa konfirmasi; simpan rubrik berbobot 105; skor indikator 9; kode indikator asing",
+      "harapan": "semuanya ditolak HTTP 400 dengan pesan yang menjelaskan",
+      "aktual": "tanpa konfirmasi=400; bobot 105=400; skor 9=400; kode asing=400",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 21,
+      "area": "G. Validasi",
+      "fitur": "Kiriman tanpa jawaban tidak menjatuhkan server & ditangani wajar",
+      "langkah": "POST pekerjaan asesmen tanpa body jawaban, lalu cek server masih melayani",
+      "harapan": "jawaban 200/400 dengan pesan; /api/meta tetap 200 setelahnya",
+      "aktual": "kirim kosong=400 (Pekerjaan ini sudah terkumpul. Ajukan revisi bila guru memberi kesempatan revisi.); server sesudahnya=200",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 22,
+      "area": "H. Keamanan",
+      "fitur": "Tidak ada hash/kolom kata sandi yang dikirim ke klien",
+      "langkah": "Pindai 6 endpoint utama (auth/me, guru, admin, meta, tugas) mencari password_hash/$2a$",
+      "harapan": "0 endpoint membocorkan kata sandi",
+      "aktual": "0 pembocoran pada 6 endpoint yang dipindai",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 23,
+      "area": "H. Keamanan",
+      "fitur": "Rate limit, token palsu, tanpa token, dan logout berlaku benar",
+      "langkah": "6 percobaan login gagal; token palsu; tanpa token; logout lalu pakai token lama",
+      "harapan": "5 gagal → 401 & percobaan ke-6 → 429; token palsu/tanpa token → 401; setelah logout → 401",
+      "aktual": "rate: 401,401,401,401,401,429; token palsu=401; tanpa token=401; logout=200; token lama setelah logout=401",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 24,
+      "area": "H. Keamanan",
+      "fitur": "Percobaan injeksi SQL tidak berhasil & tidak menimbulkan galat server",
+      "langkah": "Login dengan username injeksi; nomor minggu injeksi; id asesmen injeksi",
+      "harapan": "401/400/404 — tanpa 500 dan tanpa data terleak",
+      "aktual": "login=401, minggu=404, asesmen=404",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 25,
+      "area": "H. Keamanan",
+      "fitur": "Pekerjaan asesmen hanya dapat dibaca oleh pemiliknya (tidak ada jalur lintas siswa)",
+      "langkah": "Siswa membaca GET /api/asesmen/:id/kerja; periksa field & kepemilikan; siswa mencoba endpoint kiriman guru",
+      "harapan": "hanya ada satu pekerjaan (milik sendiri) dan endpoint guru tetap 403",
+      "aktual": "kunci 'kerja' tunggal=true; endpoint guru=403; daftar siswa uji=6 akun",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 26,
+      "area": "I. Materi vs sumber",
+      "fitur": "Setiap rujukan halaman buku pada kurikulum benar-benar ada di berkas sumber",
+      "langkah": "Terjemahkan halaman cetak kurikulum → penanda <<<HAL n>>> memakai selisih yang dibuktikan dari kepala halaman buku, lalu periksa tiap halaman dalam rentang",
+      "harapan": "0 rujukan halaman yang menggantung; selisih halaman terbukti dari isi buku",
+      "aktual": "35/36 minggu mencantumkan rentang halaman buku; bukti selisih B1=35−23=12 ✓, B2=15−1=14 ✓; halaman menggantung: 0",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 27,
+      "area": "I. Materi vs sumber",
+      "fitur": "Kata kunci tiap minggu dapat ditemukan pada halaman buku yang dirujuk",
+      "langkah": "Untuk tiap minggu: cocokkan kata kunci materi dengan teks pada rentang halaman cetak yang dirujuk (memakai selisih halaman yang sama)",
+      "harapan": "setiap minggu yang merujuk halaman buku punya dasar teks (≥1 kata kunci) dan rata-rata kecocokan ≥70%; minggu tanpa rujukan buku dilaporkan terpisah",
+      "aktual": "rata-rata kecocokan 90% dari 35 minggu (5 kata kunci/minggu); minggu tanpa dasar teks: 0; minggu <60%: tidak ada; tanpa rujukan halaman buku: m1 (Struktur buku & cara belajar; Minggu orientasi & diagnostik adalah usulan operasional, tidak ada padanan bab di buku)",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 28,
+      "area": "I. Materi vs sumber",
+      "fitur": "Modul 72 pertemuan lengkap (9 bagian), butir kuis & rubrik sah, rujukan halaman modul cocok",
+      "langkah": "Periksa 72 modul: kelengkapan 9 bagian, kunci jawaban di dalam rentang opsi, rubrik 4 tingkat, dan rujukan halaman pada contoh visual",
+      "harapan": "0 modul kurang bagian, 0 butir kunci tak sah, 0 rubrik kurang, 0 rujukan halaman menggantung",
+      "aktual": "modul kurang bagian: 0; butir kunci tidak sah=0; rubrik tidak 4 tingkat=0; rujukan halaman modul menggantung=0",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 29,
+      "area": "J. Supervisi vs dokumen",
+      "fitur": "18 indikator instrumen sama persis dengan dokumen sekolah (tidak ada yang dikarang)",
+      "langkah": "Bandingkan /api/supervisi/indikator dengan butir instrumen C.1–C.4 pada docs/01 §4 (dokumen SUP)",
+      "harapan": "aspek C.1(4) C.2(5) C.3(5) C.4(4) = 18 butir identik",
+      "aktual": "18 indikator: C.1(4) C.2(5) C.3(5) C.4(4); identik=true",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 30,
+      "area": "J. Supervisi vs dokumen",
+      "fitur": "Skala 1–4, identitas supervisor, dan catatan instrumen sesuai dokumen",
+      "langkah": "GET /api/supervisi/indikator (skala), GET /api/supervisi/:id (institusi & supervisor), rata-rata aspek C.1 dari 4,3,2,4",
+      "harapan": "skala 1–4 berlabel; supervisor Saidun, S.Pd., M.M. NIP 197009201994021002; catatan memuat program sekolah; rata C.1 = 3.25",
+      "aktual": "skala=1/2/3/4; supervisor=Saidun, S.Pd., M.M. (197009201994021002); program sekolah disebut=true; rata C.1=3.25",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 31,
+      "area": "J. Supervisi vs dokumen",
+      "fitur": "Dokumentasi 72 pertemuan memuat tujuh unsur permintaan sekolah",
+      "langkah": "GET /api/supervisi/dokumentasi (72 entri) & detail 3/rabu (tujuan, memahami, mengaplikasi, merefleksi, prinsip, bukti, observasi, refleksi guru, tindak lanjut)",
+      "harapan": "72 entri; detail memuat 9 kunci; daftar prinsip pembelajaran mendalam tersedia (≥8 pilihan, ditandai manual)",
+      "aktual": "72 entri · kunci detail: 9/9 · pilihan prinsip=9 (contoh: Mindful & berkesadaran (mindful learning); Pembelajaran bermakna (meaningful learning))",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 32,
+      "area": "K. Kualitas",
+      "fitur": "Pemeriksaan tipe TypeScript & build produksi",
+      "langkah": "npx tsc --noEmit && npm run build",
+      "harapan": "0 error & build sukses",
+      "aktual": "tsc: 0 error · build: ✓ built in 1.97s",
+      "status": "LULUS",
+      "perbaikan": ""
+    },
+    {
+      "no": 33,
+      "area": "K. Kualitas",
+      "fitur": "Integritas basis data & kelengkapan data inti",
+      "langkah": "PRAGMA integrity_check; hitung baris weeks/assessments/supervision_indicators/users",
+      "harapan": "integrity_check = ok; 36 minggu; 260 asesmen; 18 indikator; akun demo lengkap",
+      "aktual": "integrity=ok; weeks=36; asesmen=260; indikator=18; pengguna=13",
+      "status": "LULUS",
+      "perbaikan": ""
+    }
+  ]
+}

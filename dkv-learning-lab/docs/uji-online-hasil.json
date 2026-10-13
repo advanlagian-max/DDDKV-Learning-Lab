@@ -1,0 +1,86 @@
+{
+  "waktu": "2026-10-13T12:01:08.305Z",
+  "ringkas": "UJI KESIAPAN ONLINE: 10/10 LULUS",
+  "hasil": [
+    {
+      "no": 1,
+      "fitur": "Endpoint kesehatan untuk pemantauan uptime",
+      "langkah": "GET /api/health (tanpa token)",
+      "harapan": "200 + ok:true + status basis data + mode daring",
+      "aktual": "HTTP 200; ok=true; basis_data=ok; mode_daring=false; uptime=0s",
+      "status": "LULUS"
+    },
+    {
+      "no": 2,
+      "fitur": "Pemalsuan X-Forwarded-For tidak melewati pembatasan login",
+      "langkah": "6× login gagal untuk satu akun, tiap percobaan memakai header X-Forwarded-For berbeda",
+      "harapan": "percobaan ke-6 ditolak 429 (terkunci), bukan 401 lagi",
+      "aktual": "urutan kode balasan=401, 401, 401, 401, 401, 429 → percobaan ke-6 ditolak 429",
+      "status": "LULUS"
+    },
+    {
+      "no": 3,
+      "fitur": "IP pada log aktivitas tidak dapat dipalsukan",
+      "langkah": "Baca tabel activity_logs setelah 6 percobaan gagal ber-header palsu",
+      "harapan": "kolom ip berisi alamat soket (127.0.0.1), bukan 203.0.113.x",
+      "aktual": "IP tercatat: 127.0.0.1 (header palsu diabaikan)",
+      "status": "LULUS"
+    },
+    {
+      "no": 4,
+      "fitur": "Header keamanan dasar & kompatibilitas pratinjau",
+      "langkah": "Periksa header balasan GET /api/health pada mode lokal",
+      "harapan": "nosniff + Referrer-Policy ada; X-Frame-Options/CSP bingkai TIDAK aktif (agar pratinjau tetap tampil)",
+      "aktual": "nosniff=nosniff; referrer-policy=strict-origin-when-cross-origin; x-frame-options=(mati); csp=(mati)",
+      "status": "LULUS"
+    },
+    {
+      "no": 10,
+      "fitur": "Alur normal tetap sehat setelah pengerasan",
+      "langkah": "Login guru → pakai token → GET /api/kurikulum",
+      "harapan": "login 200 + 36 minggu terbaca",
+      "aktual": "login=200; /api/kurikulum=200; minggu=36",
+      "status": "LULUS"
+    },
+    {
+      "no": 9,
+      "fitur": "Peringatan akun demo masih memakai password bawaan",
+      "langkah": "Jalankan server lalu periksa keluaran konsol",
+      "harapan": "tercetak peringatan beserta daftar akun demo yang belum diganti",
+      "aktual": "peringatan tercetak di konsol saat server dijalankan",
+      "status": "LULUS"
+    },
+    {
+      "no": 5,
+      "fitur": "Pengerasan mode daring (DKV_ONLINE=1)",
+      "langkah": "Jalankan server dengan DKV_ONLINE=1 lalu periksa header",
+      "harapan": "X-Frame-Options=DENY, CSP frame-ancestors 'none', HSTS aktif, mode_daring=true",
+      "aktual": "x-frame-options=DENY; csp=\"frame-ancestors 'none'; base-uri 'self'; object-src 'none'\"; hsts=\"max-age=15552000; includeSubDomains\"; mode_daring=true",
+      "status": "LULUS"
+    },
+    {
+      "no": 6,
+      "fitur": "DKV_TRUST_PROXY=1: IP asli pemanggil tercatat",
+      "langkah": "Kirim login gagal dengan X-Forwarded-For: 198.51.100.7 (server di belakang proxy)",
+      "harapan": "kolom ip pada log = 198.51.100.7 (bukan 127.0.0.1)",
+      "aktual": "IP tercatat=198.51.100.7 (header dipercaya saat DKV_TRUST_PROXY=1)",
+      "status": "LULUS"
+    },
+    {
+      "no": 7,
+      "fitur": "HOST=127.0.0.1 mengikat hanya ke localhost",
+      "langkah": "Jalankan server dengan HOST=127.0.0.1 lalu periksa /proc/net/tcp",
+      "harapan": "alamat ikat 127.0.0.1 (0100007F), bukan 0.0.0.0 (00000000)",
+      "aktual": "alamat ikat=0100007F (tidak terbuka ke jaringan)",
+      "status": "LULUS"
+    },
+    {
+      "no": 8,
+      "fitur": "Penjaga brute force lintas-IP (15 gagal/15 menit per akun)",
+      "langkah": "Isi 15 kegagalan untuk kunci 'aditya|*' lalu coba login dari IP yang masih bersih",
+      "harapan": "ditolak 429 (walau IP pemanggil belum pernah gagal)",
+      "aktual": "HTTP 429; pesan=\"Terlalu banyak percobaan gagal. Coba lagi setelah 2026-10-13 12:16:07 UTC.\"",
+      "status": "LULUS"
+    }
+  ]
+}

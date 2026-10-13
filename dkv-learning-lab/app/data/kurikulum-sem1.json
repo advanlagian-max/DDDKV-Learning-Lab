@@ -1,0 +1,3461 @@
+{
+  "meta": {
+    "semester": 1,
+    "judul": "Peta Operasional Pembelajaran Minggu 1-18 - Dasar-Dasar DKV Kelas X",
+    "versi": "0.1-tahap1",
+    "catatan": "Rancangan operasional berbasis buku teks Dasar-Dasar Desain Komunikasi Visual Kelas X Semester 1 (Kemendikbudristek, 2022). BUKAN ATP resmi - wajib diverifikasi guru terhadap CP, ATP sekolah, dan kalender pendidikan SMKN 3 Kuningan. Alokasi menit per tahap dapat diubah guru.",
+    "sumber": [
+      {
+        "kode": "B1",
+        "nama": "Dasar-Dasar Desain Komunikasi Visual Semester 1 (Buku Siswa Kelas X SMK)",
+        "penerbit": "Kemendikbudristek",
+        "tahun": 2022,
+        "halaman": 176
+      },
+      {
+        "kode": "SUP",
+        "nama": "Instrumen Supervisi Akademik Kurikulum Merdeka dengan Pendekatan Deep Learning",
+        "keterangan": "Dokumen sekolah - dasar indikator perencanaan, pelaksanaan, 5C deep learning, asesmen, refleksi"
+      }
+    ]
+  },
+  "minggu": [
+    {
+      "minggu": 1,
+      "semester": 1,
+      "tema": "Orientasi Pembelajaran DKV, Asesmen Diagnostik, dan Pengenalan Aplikasi",
+      "statusSumber": "sebagian",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "Petunjuk Penggunaan Buku",
+          "subbab": null,
+          "halaman": "xii-xiv",
+          "ket": "Struktur buku & cara belajar"
+        },
+        {
+          "kode": "SUP",
+          "bab": null,
+          "subbab": null,
+          "halaman": null,
+          "ket": "Minggu orientasi & diagnostik adalah usulan operasional, tidak ada padanan bab di buku"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan cakupan mata pelajaran Dasar-Dasar DKV dan kaitannya dengan kompetensi keahlian DKV.",
+        "Mengidentifikasi minat, pengalaman awal, dan gaya belajar melalui asesmen diagnostik.",
+        "Menggunakan aplikasi DKV Learning Lab (login, membuka materi, menyimpan portofolio) sesuai prosedur."
+      ],
+      "kataKunci": [
+        "orientasi",
+        "asesmen diagnostik",
+        "kontrak belajar",
+        "portofolio digital"
+      ],
+      "pemantik": [
+        "Apa yang kamu bayangkan saat mendengar profesi desainer?",
+        "Di mana saja kamu melihat karya desain hari ini, dari bangun tidur sampai tiba di sekolah?"
+      ],
+      "materiInti": [
+        "Peta mata pelajaran DD DKV: 5 bab semester 1 (technopreneur, K3, teknologi industri, proses produksi, sketsa & ilustrasi) dan 3 bab semester 2 (tipografi, fotografi, komputer grafis) sesuai daftar isi buku.",
+        "Cara menggunakan buku teks: fitur Aktivitas, Rangkuman, Asesmen, Pengayaan, Latihan Soal (Petunjuk Penggunaan Buku).",
+        "Kontrak dan budaya belajar DKV: disiplin, kebersihan studio, kejujuran karya, kolaborasi.",
+        "Alur aplikasi: dashboard, materi 36 minggu, simulasi, LKPD, asesmen, portofolio."
+      ],
+      "petaKonsep": [
+        "Orientasi",
+        "Profil mata pelajaran",
+        "Asesmen diagnostik",
+        "Kontrak belajar",
+        "Pengenalan aplikasi"
+      ],
+      "pertemuanSenin": {
+        "tema": "Tur pembelajaran & asesmen diagnostik",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 30,
+            "kegiatan": "Salam, perkenalan, penjelasan tujuan minggu."
+          },
+          {
+            "tahap": "Sosialisasi mata pelajaran",
+            "menit": 45,
+            "kegiatan": "Guru memaparkan cakupan DD DKV dan bentuk asesmen."
+          },
+          {
+            "tahap": "Asesmen diagnostik pengetahuan",
+            "menit": 60,
+            "kegiatan": "Kuis diagnostik daring: dasar desain, unsur visual, warna, alat kerja."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat; guru meninjau hasil sementara."
+          },
+          {
+            "tahap": "Asesmen diagnostik non-kognitif",
+            "menit": 60,
+            "kegiatan": "Angket minat, pengalaman, gaya belajar, akses perangkat."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 60,
+            "kegiatan": "Umpan balik awal hasil diagnostik dan penguatan harapan belajar."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Kontrak belajar & pengenalan aplikasi",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 25,
+            "kegiatan": "Meninjau ringkasan diagnostik; menetapkan target belajar pribadi."
+          },
+          {
+            "tahap": "Kontrak & budaya kerja studio",
+            "menit": 45,
+            "kegiatan": "Menyusun kesepakatan kelas: keselamatan, kebersihan, etika karya."
+          },
+          {
+            "tahap": "Tur aplikasi",
+            "menit": 70,
+            "kegiatan": "Praktik login, menelusuri menu Materi, Simulasi, LKPD, Portofolio."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Unggah karya awal",
+            "menit": 90,
+            "kegiatan": "Setiap siswa mengunggah satu karya/ide awal ke portofolio sebagai baseline."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi penggunaan aplikasi; komitmen pekan depan."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah peta materi 36 minggu di aplikasi",
+          "Menyimak struktur buku teks"
+        ],
+        "mengaplikasi": [
+          "Login & menelusuri aplikasi mandiri",
+          "Mengunggah karya awal ke portofolio"
+        ],
+        "merefleksi": [
+          "Menuliskan target belajar pribadi semester 1",
+          "Menuliskan satu kekhawatiran dan satu harapan"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 01 - Peta Diri & Kontrak Belajar DKV",
+        "langkah": [
+          "Isi lembar profil belajar (minat, pengalaman, perangkat)",
+          "Tuliskan 3 target kompetensi semester 1",
+          "Sepakati kontrak belajar bersama"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Kelengkapan profil diri",
+            "skor4": "Terisi detail dan jujur",
+            "skor3": "Terisi lengkap",
+            "skor2": "Sebagian terisi",
+            "skor1": "Sangat kurang"
+          },
+          {
+            "kriteria": "Kualitas target belajar",
+            "skor4": "Spesifik, terukur, beralasan",
+            "skor3": "Spesifik dan relevan",
+            "skor2": "Umum",
+            "skor1": "Tidak relevan"
+          },
+          {
+            "kriteria": "Keterlibatan kesepakatan kelas",
+            "skor4": "Aktif memberi usulan",
+            "skor3": "Ikut menyepakati",
+            "skor2": "Pasif",
+            "skor1": "Tidak terlibat"
+          }
+        ],
+        "bobot": 10
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-diagnostik",
+        "jumlahSoal": 15,
+        "cakupan": "Pengetahuan awal desain, alat, keselamatan kerja",
+        "catatan": "Diagnostik tidak menjadi nilai akhir; dipakai untuk pemetaan kelompok dan diferensiasi."
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Siswa menyebutkan cakupan mata pelajaran DD DKV",
+        "Siswa berhasil login dan mengunggah karya awal",
+        "Hasil diagnostik terdokumentasi"
+      ],
+      "remedial": "Pendampingan penggunaan aplikasi bagi siswa yang belum berhasil login/unggah.",
+      "pengayaan": "Menelusuri 1 profil profesi DKV dan menuliskannya sebagai bahan berbagi di minggu 3.",
+      "refleksiSiswa": [
+        "Apa ekspektasi saya terhadap mata pelajaran DKV?",
+        "Mengapa desain komunikasi visual penting menurut saya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Tujuan orientasi observabel; ada asesmen awal.",
+        "pelaksanaan": "Dominan fasilitasi & praktik aplikasi.",
+        "asesmen": "Diagnostik dipakai untuk tindak lanjut.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": "Minggu orientasi adalah usulan operasional di luar bab buku; dapat digabung dengan minggu 2 bila minggu efektif berkurang."
+    },
+    {
+      "minggu": 2,
+      "semester": 1,
+      "tema": "Technopreneurship dalam Bidang DKV",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 1 Profil Technopreneur, Peluang Usaha, dan Profesi di Bidang DKV",
+          "subbab": "A. Technopreneur Desain Komunikasi Visual",
+          "halaman": "3-5"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan pengertian technopreneur dan technopreneurship dengan bahasa sendiri.",
+        "Mengidentifikasi tujuan dan karakter wirausaha bidang DKV.",
+        "Menyebutkan contoh pemanfaatan teknologi oleh technopreneur DKV."
+      ],
+      "kataKunci": [
+        "technopreneur",
+        "entrepreneur",
+        "wirausaha",
+        "teknologi"
+      ],
+      "pemantik": [
+        "Jika techno bertemu entrepreneur, peluang apa yang lahir untuk lulusan DKV?",
+        "Aplikasi apa di ponselmu yang menurutmu dibuat oleh technopreneur?"
+      ],
+      "materiInti": [
+        "Pengertian technopreneur: gabungan techno (teknologi) dan entrepreneur (wirausaha), yaitu pemanfaatan kemajuan teknologi untuk berwirausaha (hal. 3).",
+        "Tujuan berwirausaha: keuntungan, lapangan kerja, inovasi, kemandirian ekonomi.",
+        "Karakter wirausaha yang dibangun sejak dini: kreativitas, inovasi, kepekaan peluang, keberanian mengambil risiko terukur.",
+        "Contoh praktik technopreneur DKV: jasa desain daring, konten kreator, studio digital, penjualan produk desain."
+      ],
+      "petaKonsep": [
+        "Technopreneur DKV",
+        "Pengertian",
+        "Tujuan wirausaha",
+        "Karakter wirausaha",
+        "Contoh bidang DKV"
+      ],
+      "pertemuanSenin": {
+        "tema": "Pengertian & tujuan technopreneurship",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menyebut sumber penghasilan dari keterampilan desain."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A. Technopreneur DKV; diskusi berpasangan merumuskan definisi sendiri."
+          },
+          {
+            "tahap": "Demonstrasi & penguatan",
+            "menit": 45,
+            "kegiatan": "Guru menampilkan contoh technopreneur DKV; klarifikasi konsep."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Kelompok memetakan tujuan & karakter wirausaha ke peta konsep."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal: pengertian, tujuan, karakter."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi lisan: karakter wirausaha yang paling menantang."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik: peluang technopreneur DKV di sekitar kita",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Tinjau kuis Senin; penguatan konsep."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Membahas contoh jasa desain daring dan produk digital DKV."
+          },
+          {
+            "tahap": "Simulasi interaktif",
+            "menit": 40,
+            "kegiatan": "Simulasi Technopreneurship: memilih ide usaha DKV, menetapkan harga, menerima umpan balik kelayakan."
+          },
+          {
+            "tahap": "Praktik terbimbing",
+            "menit": 110,
+            "kegiatan": "Kelompok menyusun mini-profil ide usaha DKV (nama, layanan, pengguna, teknologi)."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 35,
+            "kegiatan": "Presentasi kilat 2 menit per kelompok."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan LKPD ke portofolio; refleksi tertulis."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Membaca & merumuskan definisi technopreneur",
+          "Menganalisis contoh technopreneur DKV"
+        ],
+        "mengaplikasi": [
+          "Menjalankan simulasi ide usaha",
+          "Menyusun mini-profil ide usaha"
+        ],
+        "merefleksi": [
+          "Menilai kesesuaian karakter wirausaha dengan diri",
+          "Menuliskan ide usaha yang ingin dieksplorasi"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-technopreneur",
+        "judul": "Simulasi Technopreneurship DKV",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 02 - Peta Ide Technopreneur DKV",
+        "langkah": [
+          "Tentukan bidang layanan DKV",
+          "Tuliskan calon pengguna dan masalah yang dijawab",
+          "Tuliskan teknologi pendukung",
+          "Presentasikan kilat"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan konsep",
+            "skor4": "Mengaitkan teknologi & wirausaha tepat dan kreatif",
+            "skor3": "Tepat",
+            "skor2": "Kurang tepat",
+            "skor1": "Keliru konsep"
+          },
+          {
+            "kriteria": "Kelayakan ide",
+            "skor4": "Pengguna & masalah jelas, realistis",
+            "skor3": "Jelas",
+            "skor2": "Kabur",
+            "skor1": "Tidak jelas"
+          },
+          {
+            "kriteria": "Kualitas presentasi",
+            "skor4": "Runtut, percaya diri, menanggapi pertanyaan",
+            "skor3": "Runtut",
+            "skor2": "Terbata-bata",
+            "skor1": "Tidak siap"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Pengertian, tujuan, karakter technopreneur"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan technopreneur dengan kalimat sendiri",
+        "Menghasilkan satu ide usaha DKV realistis"
+      ],
+      "remedial": "Membaca ulang hal. 3-5 dan menyusun peta konsep bersama guru.",
+      "pengayaan": "Mewawancarai satu pelaku UMKM tentang peran desain pada usahanya (unggah ringkasan).",
+      "refleksiSiswa": [
+        "Karakter wirausaha apa yang sudah saya miliki?",
+        "Ide usaha DKV apa yang paling ingin saya coba?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Tujuan ranah C4-C6 tergambar pada LKPD.",
+        "pelaksanaan": "Ada eksplorasi, simulasi, presentasi.",
+        "asesmen": "Formatif individual + rubrik kelompok.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 3,
+      "semester": 1,
+      "tema": "Profesi dan Peluang Usaha di Bidang DKV",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 1",
+          "subbab": "B. Prospek Profesi Desainer Komunikasi Visual",
+          "halaman": "6-10"
+        }
+      ],
+      "tujuan": [
+        "Mengidentifikasi minimal enam profesi DKV beserta lingkup pekerjaannya.",
+        "Menjelaskan hubungan peluang usaha dan perencanaan yang matang.",
+        "Membandingkan tuntutan kompetensi dua profesi DKV yang diminati."
+      ],
+      "kataKunci": [
+        "profesi DKV",
+        "ilustrator",
+        "fotografer",
+        "videografer",
+        "peluang usaha"
+      ],
+      "pemantik": [
+        "Profesi DKV mana yang paling menarik bagimu dan keterampilan apa yang dituntutnya?",
+        "Mengapa peluang harus disertai perencanaan?"
+      ],
+      "materiInti": [
+        "Peluang dan perencanaan saling berkaitan; perencanaan adalah hal mendasar dalam membangun usaha (hal. 6).",
+        "Profil profesi DKV: ilustrator, komikus, desainer grafis, animator, fotografer indoor/outdoor, videografer, editor video (gambar 1.1-1.8).",
+        "Tujuan penggunaan DKV: menyampaikan informasi, pesan, instruksi, dan persuasi.",
+        "Peluang kerja: industri kreatif, studio, media, periklanan, hingga wirausaha mandiri."
+      ],
+      "petaKonsep": [
+        "Peluang & perencanaan",
+        "Profesi DKV",
+        "Lingkup pekerjaan",
+        "Kompetensi",
+        "Tujuan penggunaan DKV"
+      ],
+      "pertemuanSenin": {
+        "tema": "Menjelajah profesi DKV",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Berbagi hasil tugas pengayaan minggu 2."
+          },
+          {
+            "tahap": "Eksplorasi profesi",
+            "menit": 65,
+            "kegiatan": "Membaca B. Prospek Profesi; tiap kelompok menguraikan 2 profesi."
+          },
+          {
+            "tahap": "Demo & klarifikasi",
+            "menit": 45,
+            "kegiatan": "Guru menampilkan contoh hasil kerja tiap profesi."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Menghubungkan profesi-produk kerja-kompetensi kunci dalam tabel."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis mencocokkan profesi dan deskripsi pekerjaan."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: profesi yang ingin dieksplorasi lebih jauh."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Peluang & perencanaan usaha DKV",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau kuis; penguatan hubungan profesi-usaha."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Diskusi: mengapa perencanaan mendasar dalam membangun usaha?"
+          },
+          {
+            "tahap": "Praktik analisis peluang",
+            "menit": 130,
+            "kegiatan": "Kelompok mengamati kebutuhan desain di lingkungan dan menuliskan 3 peluang jasa DKV serta perencanaannya."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 45,
+            "kegiatan": "Presentasi hasil analisis; guru mengoreksi asumsi tidak realistis."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 15,
+            "kegiatan": "Simpan LKPD ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menganalisis lingkup 6+ profesi DKV",
+          "Menelaah tujuan penggunaan DKV"
+        ],
+        "mengaplikasi": [
+          "Memetakan peluang jasa DKV di sekitar",
+          "Menyusun perencanaan sederhana"
+        ],
+        "merefleksi": [
+          "Menilai kesesuaian diri dengan profesi pilihan",
+          "Menuliskan langkah pertama pekan ini"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-technopreneur",
+        "judul": "Simulasi Technopreneurship DKV (mode peluang & harga)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 03 - Analisis Profesi & Peluang Usaha DKV",
+        "langkah": [
+          "Pilih 2 profesi dan uraikan pekerjaannya",
+          "Amati 3 kebutuhan desain di sekitar",
+          "Susun perencanaan sederhana untuk 1 peluang"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan uraian profesi",
+            "skor4": "Tepat disertai contoh produk kerja",
+            "skor3": "Tepat",
+            "skor2": "Sebagian keliru",
+            "skor1": "Keliru"
+          },
+          {
+            "kriteria": "Relevansi peluang",
+            "skor4": "Kontekstual dan terbukti",
+            "skor3": "Relevan",
+            "skor2": "Umum",
+            "skor1": "Tidak relevan"
+          },
+          {
+            "kriteria": "Kelogisan perencanaan",
+            "skor4": "Runut, mempertimbangkan sumber daya",
+            "skor3": "Runut",
+            "skor2": "Melompat-lompat",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-mencocokkan",
+        "jumlahSoal": 8,
+        "cakupan": "Profesi DKV dan deskripsi pekerjaan"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menguraikan minimal 6 profesi DKV",
+        "Menghasilkan analisis peluang berbasis pengamatan nyata"
+      ],
+      "remedial": "Bimbingan mengisi tabel profesi-produk-kompetensi dengan contoh sederhana.",
+      "pengayaan": "Membuat infografis peta profesi DKV untuk dipajang di kelas.",
+      "refleksiSiswa": [
+        "Profesi mana yang paling cocok dengan kekuatan saya?",
+        "Apa yang perlu saya latih untuk sampai ke sana?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Bersinambung dengan pengayaan minggu 2.",
+        "pelaksanaan": "Observasi lapangan ringan menambah kebermaknaan.",
+        "asesmen": "Formatif mencocokkan + rubrik analisis.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 4,
+      "semester": 1,
+      "tema": "Potensi Diri, Ide Kreatif, dan Perencanaan Usaha Sederhana",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 1",
+          "subbab": "C. Mengenal Potensi Desainer sejak Dini + Rangkuman/Asesmen/Pengayaan BAB 1",
+          "halaman": "11-16"
+        }
+      ],
+      "tujuan": [
+        "Mengidentifikasi potensi diri (kreativitas dan inovasi) sebagai calon desainer.",
+        "Menjelaskan bagaimana ide kreatif muncul menurut Zimmerer (Suryana, 2003) pada buku hal. 11.",
+        "Menyusun rencana usaha sederhana bidang DKV secara berkelompok."
+      ],
+      "kataKunci": [
+        "potensi diri",
+        "kreativitas",
+        "inovasi",
+        "ide kreatif",
+        "rencana usaha"
+      ],
+      "pemantik": [
+        "Kapankah ide terbaikmu muncul: santai, bosan, atau mendesak?",
+        "Apa bedanya kreativitas dan inovasi?"
+      ],
+      "materiInti": [
+        "Desainer perlu kreativitas dan inovasi tinggi; kreativitas adalah kemampuan berpikir menemukan ide baru.",
+        "Zimmerer (Suryana, 2003): ide-ide kreatif sering muncul ketika wirausaha (lihat buku hal. 11) - kaitkan dengan kebiasaan mengamati dan mencatat.",
+        "Mengenal potensi diri: minat, bakat, keterampilan awal, dan cara mengembangkannya.",
+        "Penyusunan rencana usaha sederhana: ide, sasaran pengguna, produk/jasa, cara produksi, perkiraan biaya & harga."
+      ],
+      "petaKonsep": [
+        "Potensi desainer",
+        "Kreativitas",
+        "Inovasi",
+        "Ide kreatif",
+        "Rencana usaha sederhana"
+      ],
+      "pertemuanSenin": {
+        "tema": "Potensi diri & munculnya ide kreatif",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menuliskan ide paling menarik yang pernah muncul."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca C. Mengenal Potensi Desainer sejak Dini; menandai kalimat kunci."
+          },
+          {
+            "tahap": "Pemetaan diri",
+            "menit": 45,
+            "kegiatan": "Mengisi lembar potensi diri: kekuatan, kelemahan, peluang latihan."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan ide: satu tema, hasilkan 10 alternatif ide visual/jasa desain."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis singkat materi minggu 2-4."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: kebiasaan yang membuat ide lebih sering muncul."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik rencana usaha sederhana + asesmen BAB 1",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Mengulas potensi diri; membentuk kelompok."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 35,
+            "kegiatan": "Guru memandu format kanvas rencana usaha 1 halaman."
+          },
+          {
+            "tahap": "Kerja kelompok",
+            "menit": 120,
+            "kegiatan": "Menyusun rencana usaha sederhana: ide, pengguna, produk, biaya, harga."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 45,
+            "kegiatan": "Presentasi kanvas usaha; umpan balik kelayakan."
+          },
+          {
+            "tahap": "Asesmen & dokumentasi",
+            "menit": 35,
+            "kegiatan": "Menuntaskan Asesmen BAB 1 (buku hal. 14-15); simpan ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah konsep kreativitas & inovasi",
+          "Menganalisis contoh rencana usaha"
+        ],
+        "mengaplikasi": [
+          "Latihan 10 alternatif ide",
+          "Menyusun kanvas rencana usaha"
+        ],
+        "merefleksi": [
+          "Memetakan potensi diri",
+          "Menuliskan komitmen latihan kreativitas mingguan"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-technopreneur",
+        "judul": "Simulasi Technopreneurship DKV (uji harga & kelayakan)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-6"
+      },
+      "lkpd": {
+        "judul": "LKPD 04 - Kanvas Rencana Usaha Sederhana DKV",
+        "langkah": [
+          "Tetapkan ide & sasaran pengguna",
+          "Rancang produk/jasa",
+          "Hitung perkiraan biaya dan harga",
+          "Presentasikan dan revisi"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Kelengkapan kanvas",
+            "skor4": "Semua komponen terisi logis",
+            "skor3": "Lengkap",
+            "skor2": "Ada yang kosong",
+            "skor1": "Tidak lengkap"
+          },
+          {
+            "kriteria": "Kelogisan angka",
+            "skor4": "Biaya & harga beralasan, ada perhitungan",
+            "skor3": "Beralasan",
+            "skor2": "Menebak",
+            "skor1": "Tanpa hitungan"
+          },
+          {
+            "kriteria": "Kolaborasi",
+            "skor4": "Peran jelas, semua berkontribusi",
+            "skor3": "Berkontribusi",
+            "skor2": "Didominasi sebagian",
+            "skor1": "Tidak bekerja sama"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "BAB 1 utuh"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menghasilkan 10 alternatif ide dalam waktu terbatas",
+        "Kanvas rencana usaha lengkap dan logis"
+      ],
+      "remedial": "Menyelesaikan 3 komponen kanvas kunci dengan pendampingan.",
+      "pengayaan": "Mengembangkan kanvas menjadi proposal 1 halaman bergambar.",
+      "refleksiSiswa": [
+        "Apa kekuatan kreatif saya yang paling menonjol?",
+        "Bagian mana dari rencana usaha yang paling sulit?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Mencakup ranah mencipta dengan rubrik.",
+        "pelaksanaan": "Latihan divergen sebelum konvergen.",
+        "asesmen": "Kuis formatif + rubrik kanvas + asesmen buku.",
+        "deepLearning": "joyful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 5,
+      "semester": 1,
+      "tema": "K3, Ergonomi, dan Kebiasaan Kerja Aman",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 2 Keutamaan Keselamatan dan Kesehatan Kerja",
+          "subbab": "A. Keselamatan pada Individu Pekerja",
+          "halaman": "19-31"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan prinsip ergonomi posisi kerja duduk dan berdiri.",
+        "Mencontohkan posisi kerja aman untuk desain, fotografi, dan videografi.",
+        "Memperbaiki postur kerja sendiri berdasarkan prinsip K3."
+      ],
+      "kataKunci": [
+        "K3",
+        "keselamatan dan kesehatan kerja",
+        "posisi kerja",
+        "postur"
+      ],
+      "pemantik": [
+        "Berapa jam kamu duduk di depan layar tanpa beranjak? Apa risikonya?",
+        "Posisi seperti apa yang berbahaya saat memotret dari sudut rendah?"
+      ],
+      "materiInti": [
+        "Ergonomi duduk di depan komputer: posisi tubuh, jangkauan tangan, ketinggian kursi sampai siku menekuk tegak lurus meja (gambar 2.1-2.3).",
+        "Postur saat pengambilan gambar beragam sudut termasuk posisi low angle (gambar 2.4).",
+        "Posisi yang tidak disarankan: menggambar dengan bersandar dan kaki menekuk menopang pekerjaan (gambar 2.5).",
+        "Bekerja berdiri tegak/tidak membungkuk (2.6), pijakan tambahan (2.7), kaki pivot saat following shot (2.8), minta bantuan saat mengangkat beban berat (2.9)."
+      ],
+      "petaKonsep": [
+        "K3 individu",
+        "Ergonomi duduk",
+        "Postur fotografi/videografi",
+        "Pijakan & pivot",
+        "Angkat beban"
+      ],
+      "pertemuanSenin": {
+        "tema": "Ergonomi kerja desainer",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: keluhan pegal setelah praktik komputer."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A. Keselamatan pada Individu Pekerja; menandai 5 aturan ergonomi."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mendemonstrasikan pengaturan kursi, meja, dan jarak layar."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Berpasangan saling mengoreksi postur kerja dengan lembar ceklis."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal ergonomi."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Menuliskan satu perbaikan kebiasaan kerja pribadi."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik K3: fotografi & pekerjaan fisik ringan",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau kuis; membahas risiko kerja studio dan lapangan."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Membahas gambar 2.4-2.9: posisi memotret, pivot, angkat beban."
+          },
+          {
+            "tahap": "Simulasi & praktik posisi",
+            "menit": 40,
+            "kegiatan": "Latihan mengenali posisi berisiko dan memilih tindakan aman."
+          },
+          {
+            "tahap": "Praktik terarah",
+            "menit": 110,
+            "kegiatan": "Praktik posisi memotret berbagai sudut secara aman dan latihan pivot di halaman sekolah."
+          },
+          {
+            "tahap": "Pembahasan hasil",
+            "menit": 35,
+            "kegiatan": "Meninjau hasil latihan; mengaitkan posisi kerja dengan kualitas."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah catatan K3 ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah aturan ergonomi",
+          "Mengidentifikasi risiko postur"
+        ],
+        "mengaplikasi": [
+          "Mengoreksi postur teman dengan ceklis",
+          "Mempraktikkan posisi memotret aman"
+        ],
+        "merefleksi": [
+          "Menilai kebiasaan kerja sendiri",
+          "Menetapkan satu target perbaikan ergonomi"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-k3-ergonomi",
+        "judul": "Simulasi K3 & Ergonomi Kerja Desain",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 05 - Ceklis Ergonomi & Posisi Kerja Aman",
+        "langkah": [
+          "Amati stasiun kerja pasangan",
+          "Beri tanda pada 10 butir ceklis",
+          "Diskusikan perbaikan",
+          "Praktikkan posisi memotret aman"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketelitian observasi",
+            "skor4": "Temuan halus & beralasan",
+            "skor3": "Temuan tepat",
+            "skor2": "Temuan umum",
+            "skor1": "Tidak teliti"
+          },
+          {
+            "kriteria": "Ketepatan perbaikan",
+            "skor4": "Sesuai prinsip ergonomi",
+            "skor3": "Sesuai",
+            "skor2": "Kurang sesuai",
+            "skor1": "Tidak sesuai"
+          },
+          {
+            "kriteria": "Kedisiplinan praktik",
+            "skor4": "Konsisten aman, peduli teman",
+            "skor3": "Aman",
+            "skor2": "Perlu diingatkan",
+            "skor1": "Berisiko"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Ergonomi duduk, posisi fotografi, angkat beban"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menunjukkan posisi kerja duduk ergonomis",
+        "Menyebutkan minimal 5 risiko postur buruk"
+      ],
+      "remedial": "Pendampingan pengaturan stasiun kerja satu per satu.",
+      "pengayaan": "Membuat poster mini K3 ergonomi untuk lab komputer.",
+      "refleksiSiswa": [
+        "Kebiasaan kerja yang perlu saya perbaiki adalah...",
+        "Bagaimana saya menjaga kesehatan saat bekerja lama?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Tujuan psikomotor terukur melalui ceklis.",
+        "pelaksanaan": "Demonstrasi + praktik langsung.",
+        "asesmen": "Ceklis praktik + kuis konsep.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 6,
+      "semester": 1,
+      "tema": "Keselamatan Penggunaan Peralatan dan Perangkat Kerja",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 2",
+          "subbab": "B. Keselamatan pada Peralatan Kerja",
+          "halaman": "32-38"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan prosedur perawatan dan penyimpanan peralatan kerja DKV.",
+        "Mendemonstrasikan penggunaan alat kerja yang aman (pensil, cutter, kuas, kamera, flashdisk).",
+        "Menyusun jadwal perawatan peralatan studio kelas."
+      ],
+      "kataKunci": [
+        "perawatan alat",
+        "penyimpanan",
+        "lensa kamera",
+        "penyimpanan data"
+      ],
+      "pemantik": [
+        "Alat kerja mana yang paling sering rusak karena salah perawatan?",
+        "Apa yang terjadi bila penutup flashdisk hilang?"
+      ],
+      "materiInti": [
+        "Semua alat kerja memiliki cara perawatan dan penggunaan berbeda; kelalaian merusak alat dan mengganggu produksi (hal. 32).",
+        "Menjaga ketajaman ujung pensil dengan peraut/cutter (2.10); tempat penyimpanan dari botol plastik bekas (2.11).",
+        "Menyimpan kuas dengan bulu menghadap ke atas (2.12); tidak menyentuh lensa kamera dengan jari (2.13).",
+        "Pengelolaan data: penutup flashdisk hilang berisiko merusak file; rutin menyalin/memindahkan data (hal. 37-38)."
+      ],
+      "petaKonsep": [
+        "Peralatan kerja",
+        "Perawatan",
+        "Penyimpanan aman",
+        "Kebersihan alat",
+        "Penyimpanan data"
+      ],
+      "pertemuanSenin": {
+        "tema": "Prosedur perawatan peralatan",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Mengamati kondisi alat kerja kelas."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca B. Keselamatan pada Peralatan Kerja; mencatat prosedur tiap alat."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mendemonstrasikan perawatan lensa, kuas, dan pensil."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Praktik membersihkan & menata peralatan; membuat tempat penyimpanan sederhana."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis prosedur perawatan per alat."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi kondisi alat sebelum-sesudah."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Manajemen data & jadwal perawatan",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Cerita insiden kehilangan data."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Membahas penanganan flashdisk, penyalinan, penamaan file."
+          },
+          {
+            "tahap": "Praktik terstruktur",
+            "menit": 125,
+            "kegiatan": "Menata file karya (folder semester-minggu-tugas) dan menyusun jadwal perawatan alat."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi hasil",
+            "menit": 40,
+            "kegiatan": "Presentasi jadwal perawatan; tetapkan PIC mingguan."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan LKPD ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah prosedur perawatan",
+          "Mengidentifikasi akibat kelalaian"
+        ],
+        "mengaplikasi": [
+          "Praktik perawatan & penataan alat",
+          "Menyusun struktur folder karya"
+        ],
+        "merefleksi": [
+          "Menilai tanggung jawab terhadap alat bersama",
+          "Menetapkan kebiasaan pengelolaan file"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 06 - Perawatan Alat & Pengelolaan Data Karya",
+        "langkah": [
+          "Isi kartu kondisi alat",
+          "Praktikkan 3 prosedur perawatan",
+          "Buat struktur folder karya",
+          "Susun jadwal perawatan kelas"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan prosedur",
+            "skor4": "Sesuai prosedur buku dan rapi",
+            "skor3": "Sesuai prosedur",
+            "skor2": "Ada langkah terlewat",
+            "skor1": "Tidak sesuai"
+          },
+          {
+            "kriteria": "Kerapian pengelolaan data",
+            "skor4": "Struktur & penamaan konsisten",
+            "skor3": "Rapi",
+            "skor2": "Sekadar menyalin",
+            "skor1": "Tidak teratur"
+          },
+          {
+            "kriteria": "Realistis jadwal",
+            "skor4": "Terjadwal, ada PIC & ceklis",
+            "skor3": "Terjadwal",
+            "skor2": "Umum",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Perawatan alat & penanganan data"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Mempraktikkan perawatan minimal 3 jenis alat",
+        "Struktur folder karya terbentuk dan digunakan"
+      ],
+      "remedial": "Demonstrasi ulang prosedur yang belum dikuasai.",
+      "pengayaan": "Membuat panduan bergambar 1 halaman cara merawat alat studio.",
+      "refleksiSiswa": [
+        "Alat apa yang paling perlu saya hati-hati menggunakannya?",
+        "Bagaimana saya memastikan karya tidak hilang?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Materi buku dikaitkan kondisi nyata studio.",
+        "pelaksanaan": "Praktik perawatan langsung & pembagian tanggung jawab.",
+        "asesmen": "Rubrik proses kerja.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 7,
+      "semester": 1,
+      "tema": "Keselamatan Ruang Kerja serta Penanganan Hasil Pekerjaan",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 2",
+          "subbab": "C. Keselamatan pada Lingkungan Kerja + D. Keselamatan pada Hasil Kerja + Rangkuman & Asesmen BAB 2",
+          "halaman": "39-50"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan syarat lingkungan kerja aman dan sehat (cahaya, sirkulasi udara, kelayakan ruang).",
+        "Menerapkan cara menangani hasil karya (kertas/digital) agar tidak rusak.",
+        "Menyelesaikan asesmen BAB 2 secara mandiri dan jujur."
+      ],
+      "kataKunci": [
+        "lingkungan kerja",
+        "sirkulasi udara",
+        "keselamatan karya",
+        "unsur media"
+      ],
+      "pemantik": [
+        "Seberapa nyaman ruang praktik kita? Apa yang bisa diperbaiki?",
+        "Bagaimana memperlakukan karya cetak agar awet bertahun-tahun?"
+      ],
+      "materiInti": [
+        "Lingkungan kerja luar ruangan: keamanan dari risiko kecelakaan, cuaca ekstrem, kelayakan lingkungan/bangunan (hal. 39).",
+        "Lingkungan kerja dalam ruangan: sirkulasi udara dengan exhaust fan, pengaturan titik lampu, ruang praktik dengan cahaya cukup (gambar 2.14-2.15).",
+        "Hasil kerja DKV: gambar manual/digital, fotografi, videografi - media penyampai pesan: informasi, ajakan, larangan, perintah, imbauan (hal. 41).",
+        "Unsur media: visual (gambar, warna, ornamen, tipografi, foto) dan verbal (judul, subjudul, slogan, paragraf pesan); penanganan karya kertas dengan hati-hati (2.16-2.17)."
+      ],
+      "petaKonsep": [
+        "Lingkungan kerja",
+        "Dalam & luar ruangan",
+        "Keselamatan hasil kerja",
+        "Unsur visual & verbal",
+        "Penanganan karya"
+      ],
+      "pertemuanSenin": {
+        "tema": "Lingkungan kerja aman & nyaman",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Survei kilat kenyamanan ruang praktik (cahaya, udara, kebisingan)."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca C. Keselamatan pada Lingkungan Kerja; membandingkan kondisi ideal dan nyata."
+          },
+          {
+            "tahap": "Demonstrasi & diskusi",
+            "menit": 45,
+            "kegiatan": "Mengamati pengaturan lampu & exhaust fan; diskusi lingkungan kerja luar ruangan."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Menyusun rekomendasi perbaikan lingkungan praktik dengan sketsa tata letak."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal lingkungan kerja."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Menetapkan satu perbaikan ruang praktik yang bisa segera dilakukan."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Penanganan hasil karya + asesmen BAB 2",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Mengamati contoh karya cetak yang rusak/terawat."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Membahas D. Keselamatan pada Hasil Kerja: unsur visual-verbal dan penanganan karya."
+          },
+          {
+            "tahap": "Praktik perawatan karya",
+            "menit": 90,
+            "kegiatan": "Praktik menyimpan, melindungi, dan mengarsipkan karya cetak serta file digital."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Asesmen BAB 2",
+            "menit": 80,
+            "kegiatan": "Mengerjakan Asesmen BAB 2 (buku hal. 46-49) secara mandiri."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Menutup bab: rangkuman, refleksi, dokumentasi portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah syarat lingkungan kerja aman",
+          "Menganalisis unsur media visual & verbal"
+        ],
+        "mengaplikasi": [
+          "Menyusun rekomendasi perbaikan ruang",
+          "Mempraktikkan penanganan karya"
+        ],
+        "merefleksi": [
+          "Menilai kebersihan & keamanan ruang latihan sendiri",
+          "Menyimpulkan pentingnya K3 bagi kualitas karya"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 07 - Audit Ringan Ruang Kerja & Perawatan Karya",
+        "langkah": [
+          "Isi ceklis lingkungan kerja (cahaya, udara, tata letak)",
+          "Tuliskan 3 rekomendasi perbaikan",
+          "Praktikkan penanganan karya cetak dan digital"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketelitian audit ruang",
+            "skor4": "Temuan lengkap dan beralasan",
+            "skor3": "Temuan tepat",
+            "skor2": "Sebagian",
+            "skor1": "Tidak teliti"
+          },
+          {
+            "kriteria": "Mutu rekomendasi",
+            "skor4": "Realistis, spesifik, dapat dikerjakan",
+            "skor3": "Realistis",
+            "skor2": "Umum",
+            "skor1": "Tidak relevan"
+          },
+          {
+            "kriteria": "Penerapan penanganan karya",
+            "skor4": "Sesuai prosedur dan rapi",
+            "skor3": "Sesuai",
+            "skor2": "Kurang sesuai",
+            "skor1": "Tidak sesuai"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Lingkungan kerja & penanganan hasil kerja"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menghasilkan audit lingkungan kerja yang akurat",
+        "Karya tersimpan rapi dan terlindungi"
+      ],
+      "remedial": "Pendampingan menyusun rekomendasi dengan contoh kerangka terisi sebagian.",
+      "pengayaan": "Membuat label arsip karya dan sistem penomoran portofolio kelas.",
+      "refleksiSiswa": [
+        "Apa perbaikan ruang kerja yang akan saya mulai dari diri sendiri?",
+        "Bagaimana cara saya merawat karya terbaik saya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Asesmen buku diintegrasikan sebagai penutup bab.",
+        "pelaksanaan": "Audit nyata ruang praktik.",
+        "asesmen": "Asesmen sumatif bab + rubrik LKPD.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 8,
+      "semester": 1,
+      "tema": "Perkembangan Industri dan Proses Produksi DKV",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 3 Perkembangan Teknologi Industri dan Dunia Kerja Bidang DKV",
+          "subbab": "A. Perkembangan Proses Produksi Industri Kreatif (pengantar BAB 3 hal. 51-52)",
+          "halaman": "51-53"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan peran industri kreatif bagi perekonomian nasional.",
+        "Menjelaskan posisi DKV sebagai subsektor ekonomi kreatif yang tumbuh pesat.",
+        "Menemukan contoh perkembangan proses produksi DKV di lingkungan sekitar."
+      ],
+      "kataKunci": [
+        "industri kreatif",
+        "ekonomi kreatif",
+        "proses produksi",
+        "subsektor"
+      ],
+      "pemantik": [
+        "Industri apa yang menurutmu 'menjual ide'?",
+        "Karya DKV apa yang muncul di sekitarmu karena perkembangan industri kreatif?"
+      ],
+      "materiInti": [
+        "Industri kreatif di Indonesia menjadi motor penggerak perekonomian nasional (hal. 53).",
+        "DKV merupakan salah satu dari empat subsektor ekonomi kreatif yang mengalami pertumbuhan sangat pesat.",
+        "Peranan DKV: memberikan dampak besar pada subsektor ekonomi kreatif di Indonesia (kemasan, iklan, identitas visual, media digital).",
+        "Pengantar BAB 3: perkembangan teknologi industri dan dunia kerja bidang DKV (hal. 51-52)."
+      ],
+      "petaKonsep": [
+        "Industri kreatif",
+        "Ekonomi kreatif",
+        "Subsektor DKV",
+        "Proses produksi",
+        "Dampak ekonomi"
+      ],
+      "pertemuanSenin": {
+        "tema": "Industri kreatif & posisi DKV",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: mendata produk kreatif yang dipakai siswa hari ini."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A. Perkembangan Proses Produksi Industri Kreatif; mencatat data peran industri kreatif."
+          },
+          {
+            "tahap": "Demonstrasi & penguatan",
+            "menit": 45,
+            "kegiatan": "Guru menampilkan contoh karya DKV pada produk ekonomi kreatif."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Kelompok memetakan contoh subsektor ekonomi kreatif dan peran DKV di dalamnya."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal industri kreatif."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: peluang yang terlihat dari pertumbuhan industri kreatif."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Menelusuri proses produksi DKV",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Mengulas kuis; menghubungkan industri kreatif dengan tahapan produksi."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Mengenal gambaran alur produksi karya DKV dari brief sampai karya jadi."
+          },
+          {
+            "tahap": "Studi kasus ringan",
+            "menit": 125,
+            "kegiatan": "Kelompok membedah satu contoh karya DKV sederhana (mis. poster kantin): siapa terlibat, alat, tahapan."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 40,
+            "kegiatan": "Presentasi hasil bedah karya."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan hasil ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah peran industri kreatif nasional",
+          "Mengidentifikasi subsektor ekonomi kreatif"
+        ],
+        "mengaplikasi": [
+          "Memetakan contoh peran DKV",
+          "Membedah alur produksi contoh karya"
+        ],
+        "merefleksi": [
+          "Menghubungkan pertumbuhan industri dengan rencana karier pribadi"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 08 - Peta Industri Kreatif & Peran DKV",
+        "langkah": [
+          "Daftar 5 subsektor ekonomi kreatif",
+          "Tunjukkan peran DKV di tiap subsektor",
+          "Bedah 1 karya dan tuliskan tahapannya"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Keluasan pemetaan",
+            "skor4": "Lengkap dengan contoh nyata",
+            "skor3": "Lengkap",
+            "skor2": "Terbatas",
+            "skor1": "Tidak lengkap"
+          },
+          {
+            "kriteria": "Ketepatan peran DKV",
+            "skor4": "Mengaitkan peran dgn karya konkret",
+            "skor3": "Tepat",
+            "skor2": "Kurang tepat",
+            "skor1": "Keliru"
+          },
+          {
+            "kriteria": "Kedalaman bedah karya",
+            "skor4": "Tahapan dan pihak terlibat akurat",
+            "skor3": "Cukup akurat",
+            "skor2": "Dangkal",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Industri kreatif & subsektor DKV"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan peran industri kreatif bagi ekonomi",
+        "Membedah alur produksi satu karya DKV"
+      ],
+      "remedial": "Membaca ulang hal. 51-53 dengan pendampingan dan melengkapi peta sederhana.",
+      "pengayaan": "Mengumpulkan 3 contoh karya DKV lokal Kuningan/Jawa Barat dan peran ekonominya.",
+      "refleksiSiswa": [
+        "Bagian mana dari industri kreatif yang paling menjanjikan bagi saya?",
+        "Apa satu keterampilan baru yang ingin saya pelajari dari industri ini?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Minggu ini bersifat fondasi bab; beban materi disesuaikan.",
+        "pelaksanaan": "Studi kasus kontekstual.",
+        "asesmen": "Kuis + rubrik LKPD.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": "Pengantar BAB 3 (hal. 51-52) ditambahkan; subbab A buku relatif singkat (1 halaman) sehingga diperkaya studi kasus agar cukup untuk 6 JP + 6 JP."
+    },
+    {
+      "minggu": 9,
+      "semester": 1,
+      "tema": "Perkembangan Teknologi Industri dan Era Industri 4.0",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 3",
+          "subbab": "B. Desain Komunikasi Visual dalam Industri 4.0",
+          "halaman": "54-56"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan pengertian revolusi industri dan latar sejarahnya.",
+        "Menjelaskan ciri Industri 4.0 dan implikasinya bagi dunia kerja DKV.",
+        "Menganalisis perubahan cara produksi karya sebelum dan sesudah Industri 4.0."
+      ],
+      "kataKunci": [
+        "revolusi industri",
+        "Industri 4.0",
+        "teknologi",
+        "internet"
+      ],
+      "pemantik": [
+        "Apa yang berubah dari cara manusia memproduksi barang dalam 200 tahun terakhir?",
+        "Pekerjaan desain apa yang mulai digantikan atau dibantu teknologi?"
+      ],
+      "materiInti": [
+        "Revolusi industri adalah perubahan besar cara manusia mengolah sumber daya dan memproduksi barang; berawal dari fenomena tahun 1750-1850 (hal. 54).",
+        "Pada masa itu terjadi perubahan besar di bidang pertanian, transportasi, dan manufaktur.",
+        "Industri 4.0 ditandai digitalisasi, otomasi, dan keterhubungan sistem produksi.",
+        "Implikasi bagi DKV: produksi karya lebih cepat, kolaborasi jarak jauh, tuntutan keterampilan digital."
+      ],
+      "petaKonsep": [
+        "Revolusi industri",
+        "Sejarah 1750-1850",
+        "Industri 4.0",
+        "Otomasi & digitalisasi",
+        "Dampak pada kerja DKV"
+      ],
+      "pertemuanSenin": {
+        "tema": "Dari revolusi industri ke Industri 4.0",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: urutkan penemuan (mesin uap, listrik, komputer, internet) pada garis waktu."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca B. DKV dalam Industri 4.0; mencatat ciri tiap era."
+          },
+          {
+            "tahap": "Demonstrasi & penguatan",
+            "menit": 45,
+            "kegiatan": "Guru membandingkan proses produksi manual, analog, dan digital."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Kelompok membuat garis waktu revolusi industri dengan contoh di bidang DKV."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal revolusi industri & Industri 4.0."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: keterampilan apa yang wajib dimiliki desainer era 4.0?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Industri 4.0 dan masa depan kerja DKV",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau garis waktu; membahas temuan menarik."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Ciri Industri 4.0: otomasi, data, konektivitas, kolaborasi digital."
+          },
+          {
+            "tahap": "Diskusi terarah",
+            "menit": 130,
+            "kegiatan": "Debat peran: peluang dan tantangan Industri 4.0 bagi desainer muda (kelompok pro & kontra)."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Rumusan bersama",
+            "menit": 40,
+            "kegiatan": "Menyusun daftar keterampilan masa depan DKV hasil diskusi."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan rumusan ke portofolio; refleksi tertulis."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah latar revolusi industri",
+          "Mengidentifikasi ciri Industri 4.0"
+        ],
+        "mengaplikasi": [
+          "Menyusun garis waktu revolusi industri-DKV",
+          "Berargumen dalam diskusi peran"
+        ],
+        "merefleksi": [
+          "Menilai kesiapan diri menghadapi kerja digital"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 09 - Garis Waktu Revolusi Industri & Dampak DKV",
+        "langkah": [
+          "Susun garis waktu 4 era",
+          "Isi contoh perubahan produksi DKV per era",
+          "Tuliskan 5 keterampilan desainer era 4.0"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan garis waktu",
+            "skor4": "Akurat & lengkap dengan konteks",
+            "skor3": "Akurat",
+            "skor2": "Ada kekeliruan",
+            "skor1": "Tidak akurat"
+          },
+          {
+            "kriteria": "Relevansi contoh DKV",
+            "skor4": "Contoh konkret dan variatif",
+            "skor3": "Relevan",
+            "skor2": "Terbatas",
+            "skor1": "Tidak ada"
+          },
+          {
+            "kriteria": "Kualitas argumentasi diskusi",
+            "skor4": "Beralasan kuat, menanggapi sanggahan",
+            "skor3": "Beralasan",
+            "skor2": "Lemah",
+            "skor1": "Tidak berargumen"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Revolusi industri, Industri 4.0, dampak DKV"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan perbedaan era produksi dengan contoh",
+        "Menyebutkan minimal 5 keterampilan desainer era 4.0"
+      ],
+      "remedial": "Pendampingan menyusun garis waktu dengan kartu bantu.",
+      "pengayaan": "Menulis 1 paragraf prediksi: pekerjaan DKV 10 tahun ke depan.",
+      "refleksiSiswa": [
+        "Sisi Industri 4.0 yang paling saya siap hadapi?",
+        "Sisi yang masih perlu saya pelajari?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Diskusi peran membangun berpikir kritis.",
+        "pelaksanaan": "Guru berperan fasilitator debat.",
+        "asesmen": "Formatif + rubrik argumentasi.",
+        "deepLearning": "critical-thinking"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 10,
+      "semester": 1,
+      "tema": "Teknologi Digital dan Media dalam Pekerjaan DKV",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 3",
+          "subbab": "C. Teknologi Digital Desain Komunikasi Visual dalam Industri",
+          "halaman": "57-61"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan peralihan teknologi analog/manual ke digital dalam industri DKV.",
+        "Mengidentifikasi manfaat teknologi digital bagi efisiensi dan mutu produksi.",
+        "Membandingkan alat kerja analog dan digital untuk satu jenis karya."
+      ],
+      "kataKunci": [
+        "teknologi digital",
+        "analog",
+        "media",
+        "produksi"
+      ],
+      "pemantik": [
+        "Bagaimana desainer bekerja sebelum ada komputer?",
+        "Apa yang paling mengubah cara kerja DKV menurutmu: komputer, internet, atau kamera digital?"
+      ],
+      "materiInti": [
+        "Peralihan teknologi digital menggantikan teknologi analog dan manual telah menghasilkan proses produksi yang lebih efisien dan bermutu tinggi (hal. 57).",
+        "Peralatan analog beralih menggunakan peralatan digital (kamera, alat gambar, percetakan).",
+        "Jalan panjang penggunaan teknologi digital dalam industri DKV.",
+        "Dampak: kecepatan revisi, kemudahan duplikasi, konsistensi hasil, dan kolaborasi."
+      ],
+      "petaKonsep": [
+        "Analog ke digital",
+        "Peralatan digital",
+        "Efisiensi produksi",
+        "Mutu hasil",
+        "Alur kerja baru"
+      ],
+      "pertemuanSenin": {
+        "tema": "Peralihan teknologi analog-digital",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: membandingkan foto analog keluarga dan foto ponsel."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca C. Teknologi Digital DKV dalam Industri; mencatat contoh peralihan alat."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru menunjukkan perbandingan alat analog dan digital (kamera, alat gambar, cetak)."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Menelaah studi kasus: membuat poster dengan cara manual vs digital; catat waktu & mutu."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal teknologi digital."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: alat digital apa yang paling ingin saya kuasai?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik: memilih alat digital sesuai kebutuhan karya",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau hasil minggu lalu; kaitkan dengan pilihan alat."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Kriteria memilih alat: jenis luaran, efisiensi, biaya, keterampilan."
+          },
+          {
+            "tahap": "Praktik terstruktur",
+            "menit": 130,
+            "kegiatan": "Kelompok menyusun tabel rekomendasi alat digital untuk 5 jenis karya DKV dan menyiapkan contoh mini (mock-up sederhana dengan alat yang tersedia)."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 40,
+            "kegiatan": "Presentasi tabel rekomendasi; guru mengoreksi pilihan yang kurang tepat."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah alasan peralihan teknologi",
+          "Mengidentifikasi manfaat digitalisasi"
+        ],
+        "mengaplikasi": [
+          "Membandingkan proses manual & digital",
+          "Menyusun tabel rekomendasi alat"
+        ],
+        "merefleksi": [
+          "Menilai keterampilan digital pribadi saat ini"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-bitmap-vektor",
+        "judul": "Simulasi Bitmap vs Vektor (pratinjau digitalisasi gambar)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 10 - Analog vs Digital: Pilihan Alat Kerja DKV",
+        "langkah": [
+          "Pilih 1 jenis karya",
+          "Uraikan cara analog dan cara digital",
+          "Bandingkan efisiensi & mutu",
+          "Tulis rekomendasi alat"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan perbandingan",
+            "skor4": "Perbandingan seimbang, berbasis bukti",
+            "skor3": "Perbandingan jelas",
+            "skor2": "Satu sisi saja",
+            "skor1": "Tidak membandingkan"
+          },
+          {
+            "kriteria": "Kelogisan rekomendasi",
+            "skor4": "Sesuai kebutuhan & sumber daya",
+            "skor3": "Logis",
+            "skor2": "Kurang logis",
+            "skor1": "Tidak logis"
+          },
+          {
+            "kriteria": "Kualitas presentasi",
+            "skor4": "Jelas, ringkas, meyakinkan",
+            "skor3": "Jelas",
+            "skor2": "Kurang jelas",
+            "skor1": "Tidak siap"
+          }
+        ],
+        "bobot": 15
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Peralihan analog-digital & manfaatnya"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan minimal 3 dampak digitalisasi pada DKV",
+        "Memberi rekomendasi alat yang beralasan"
+      ],
+      "remedial": "Membandingkan 1 karya saja dengan pendampingan.",
+      "pengayaan": "Mencoba satu aplikasi desain gratis sederhana dan menuliskan pengalamannya.",
+      "refleksiSiswa": [
+        "Alat digital apa yang sudah saya kuasai?",
+        "Apa langkah pertama menguasai alat baru?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Mengaitkan sejarah teknologi dengan praktik alat.",
+        "pelaksanaan": "Perbandingan konkret, bukan ceramah.",
+        "asesmen": "Rubrik analisis + kuis.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 11,
+      "semester": 1,
+      "tema": "Industri Kreatif dan Prinsip Kerja yang Memperhatikan Lingkungan",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 3",
+          "subbab": "D. DKV di Era Kemajuan Teknologi Industri + E. Konsep Industri Hijau + Rangkuman/Asesmen BAB 3",
+          "halaman": "62-74"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan siklus industri: praproduksi, produksi, dan pascaproduksi.",
+        "Menjelaskan konsep industri hijau dan penerapannya pada pekerjaan DKV.",
+        "Menyusun usulan praktik kerja DKV yang lebih ramah lingkungan."
+      ],
+      "kataKunci": [
+        "industri hijau",
+        "siklus industri",
+        "praproduksi",
+        "pascaproduksi",
+        "ramah lingkungan"
+      ],
+      "pemantik": [
+        "Apa yang terjadi pada sampah sisa produksi cetak?",
+        "Bisakah pekerjaan desain tetap ramah lingkungan?"
+      ],
+      "materiInti": [
+        "Kemajuan teknologi industri memberikan kemudahan dan hasil yang lebih baik serta konsisten pada produk DKV (hal. 62).",
+        "Siklus industri: praproduksi (perancangan & persiapan sumber daya), produksi, dan pascaproduksi hingga menjadi barang jadi (hal. 67).",
+        "Konsep industri hijau: produksi yang memperhatikan lingkungan.",
+        "Penerapan pada DKV: hemat kertas & tinta, pengelolaan limbah cetak, pemanfaatan bahan daur ulang, desain hemat energi."
+      ],
+      "petaKonsep": [
+        "Kemajuan teknologi industri",
+        "Siklus industri",
+        "Praproduksi-Produksi-Pascaproduksi",
+        "Industri hijau",
+        "Praktik ramah lingkungan"
+      ],
+      "pertemuanSenin": {
+        "tema": "Siklus industri & teknologi",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: melacak perjalanan satu poster dari ide sampai dicetak."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca D dan E: kemajuan teknologi industri, siklus industri, industri hijau."
+          },
+          {
+            "tahap": "Demonstrasi & penguatan",
+            "menit": 45,
+            "kegiatan": "Guru memaparkan siklus industri dengan contoh studio DKV dan percetakan."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Menempatkan pekerjaan DKV (desainer, fotografer, percetakan) ke dalam siklus praproduksi-produksi-pascaproduksi."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal siklus industri."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: di tahap mana desainer paling banyak berperan?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik kerja ramah lingkungan + asesmen BAB 3",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau siklus industri; memunculkan isu limbah & energi."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 35,
+            "kegiatan": "Prinsip industri hijau di bidang DKV."
+          },
+          {
+            "tahap": "Kerja kelompok",
+            "menit": 110,
+            "kegiatan": "Menyusun usulan 'studio DKV hijau': 5 kebijakan praktis (kertas, tinta, listrik, limbah, desain)."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi & umpan balik",
+            "menit": 40,
+            "kegiatan": "Presentasi usulan; penilaian kelayakan."
+          },
+          {
+            "tahap": "Asesmen & dokumentasi",
+            "menit": 45,
+            "kegiatan": "Menuntaskan Asesmen BAB 3 (buku hal. 70-73); dokumentasi portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah konsep industri hijau",
+          "Mengidentifikasi tahap siklus industri"
+        ],
+        "mengaplikasi": [
+          "Memetakan peran DKV pada siklus",
+          "Menyusun kebijakan studio hijau"
+        ],
+        "merefleksi": [
+          "Menilai kebiasaan kerja sendiri dari sisi lingkungan"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-alur-produksi",
+        "judul": "Simulasi Alur Produksi DKV (menyusun tahapan produksi)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 11 - Studio DKV Hijau & Siklus Produksi",
+        "langkah": [
+          "Lengkapi diagram siklus industri",
+          "Tuliskan 5 kebijakan ramah lingkungan",
+          "Rancang ceklis penerapan mingguan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan diagram siklus",
+            "skor4": "Tepat, lengkap dengan contoh",
+            "skor3": "Tepat",
+            "skor2": "Ada kekeliruan",
+            "skor1": "Tidak tepat"
+          },
+          {
+            "kriteria": "Mutu kebijakan hijau",
+            "skor4": "Spesifik, terukur, realistis",
+            "skor3": "Spesifik",
+            "skor2": "Umum",
+            "skor1": "Tidak relevan"
+          },
+          {
+            "kriteria": "Keterlibatan kelompok",
+            "skor4": "Semua berkontribusi, peran jelas",
+            "skor3": "Berkontribusi",
+            "skor2": "Sebagian pasif",
+            "skor1": "Tidak kooperatif"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Siklus industri & industri hijau"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan 3 tahap siklus industri",
+        "Menghasilkan kebijakan kerja ramah lingkungan yang dapat diterapkan"
+      ],
+      "remedial": "Melengkapi diagram siklus industri dengan kata kunci terbantu.",
+      "pengayaan": "Menghitung perkiraan penghematan kertas/tinta dari satu kebijakan hijau.",
+      "refleksiSiswa": [
+        "Kebiasaan saya yang paling tidak ramah lingkungan?",
+        "Kebijakan hijau mana yang bisa saya mulai besok?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Isu lingkungan menjadi konteks nyata pembentukan karakter.",
+        "pelaksanaan": "Diskusi kelompok menghasilkan produk kebijakan.",
+        "asesmen": "Asesmen bab + rubrik usulan.",
+        "deepLearning": "meaningful-connection-to-real-life"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 12,
+      "semester": 1,
+      "tema": "Pengantar Kreativitas dan Eksplorasi Ide",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 4 Teknik Dasar Proses Produksi pada Industri DKV",
+          "subbab": "A. Konsep Kreativitas",
+          "halaman": "77-79"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan konsep kreativitas sebagai respons terhadap masalah.",
+        "Membedakan peran latar belakang permasalahan dalam melahirkan solusi desain.",
+        "Menghasilkan banyak alternatif ide dari satu latar belakang masalah."
+      ],
+      "kataKunci": [
+        "kreativitas",
+        "masalah",
+        "ide",
+        "solusi",
+        "latar belakang permasalahan"
+      ],
+      "pemantik": [
+        "Masalah apa di sekolahmu yang bisa dijawab dengan karya desain?",
+        "Apakah ide muncul dari masalah atau dari kebebasan berkarya?"
+      ],
+      "materiInti": [
+        "Kreativitas dibutuhkan ketika manusia menghadapi masalah dan harus mencari solusinya (hal. 77).",
+        "Masalah berasal dari sendi kehidupan masyarakat: sosial, budaya, ekonomi, sains, teknologi.",
+        "Solusi awalnya berangkat dari suatu ide untuk menjawab latar belakang permasalahan.",
+        "Alur dasar: latar belakang masalah, ide, alternatif solusi, karya desain."
+      ],
+      "petaKonsep": [
+        "Masalah",
+        "Ide",
+        "Solusi",
+        "Latar belakang permasalahan",
+        "Karya DKV"
+      ],
+      "pertemuanSenin": {
+        "tema": "Kreativitas dari masalah ke ide",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: mengumpulkan 5 masalah nyata di sekolah yang bisa dijawab desain."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A. Konsep Kreativitas; menelaah alur masalah-ide-solusi."
+          },
+          {
+            "tahap": "Demonstrasi & penguatan",
+            "menit": 45,
+            "kegiatan": "Contoh latar belakang masalah pada karya DKV nyata (kampanye, poster layanan)."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan 'problem → 15 ide': dari satu masalah, tulis sebanyak mungkin ide solusi."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal konsep kreativitas."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Merefleksikan proses berpikir saat ide tersendat."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Mengasah eksplorasi ide",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau ide-ide dari sesi Senin."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Teknik memancing ide: observasi, pertanyaan apa-jika, pembalikan asumsi."
+          },
+          {
+            "tahap": "Praktik terstruktur",
+            "menit": 130,
+            "kegiatan": "Kerja kelompok: pilih satu masalah terkuat, kembangkan latar belakang masalah dan 10 alternatif solusi visual."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Presentasi kilat & pemilihan",
+            "menit": 40,
+            "kegiatan": "Presentasi 1 menit per kelompok; kelas memilih ide paling kuat dengan alasan."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan hasil eksplorasi ide ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah hubungan masalah-ide-solusi",
+          "Menganalisis latar belakang masalah karya nyata"
+        ],
+        "mengaplikasi": [
+          "Latihan problem-15 ide",
+          "Mengembangkan 10 alternatif solusi visual"
+        ],
+        "merefleksi": [
+          "Menilai cara saya menyalurkan ide ketika buntu",
+          "Menuliskan kebiasaan yang meningkatkan produktivitas ide"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 12 - Problem to Ide: Eksplorasi Solusi Visual",
+        "langkah": [
+          "Pilih satu masalah nyata",
+          "Tuliskan latar belakang masalah (fakta & dampak)",
+          "Hasilkan 10 alternatif ide",
+          "Pilih 2 terbaik dengan alasan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketajaman latar belakang masalah",
+            "skor4": "Fakta jelas, dampak terukur",
+            "skor3": "Jelas",
+            "skor2": "Umum",
+            "skor1": "Tidak jelas"
+          },
+          {
+            "kriteria": "Kuantitas & variasi ide",
+            "skor4": "10 ide, beragam pendekatan",
+            "skor3": "10 ide",
+            "skor2": "5-9 ide",
+            "skor1": "Kurang dari 5"
+          },
+          {
+            "kriteria": "Kualitas pemilihan ide",
+            "skor4": "Alasan kuat & terkait masalah",
+            "skor3": "Beralasan",
+            "skor2": "Lemah",
+            "skor1": "Tanpa alasan"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Konsep kreativitas & alur masalah-ide"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan kreativitas sebagai jawaban atas masalah",
+        "Menghasilkan minimal 10 alternatif ide dari 1 masalah"
+      ],
+      "remedial": "Pendampingan menemukan masalah yang lebih spesifik.",
+      "pengayaan": "Membuat papan 'bank ide kelas' yang diisi ide mingguan.",
+      "refleksiSiswa": [
+        "Masalah apa yang paling mengganggu saya dan layak dijawab dengan desain?",
+        "Apa yang membuat saya berhenti beride?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Pembuka bab 4 dirancang agar kreativitas berakar pada masalah nyata.",
+        "pelaksanaan": "Aturan 'tanpa kritik' saat sesi ide (joyful & aman).",
+        "asesmen": "Rubrik divergensi ide.",
+        "deepLearning": "joyful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 13,
+      "semester": 1,
+      "tema": "Berpikir Kreatif dan Pemecahan Masalah Desain",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 4",
+          "subbab": "B. Berpikir Kreatif",
+          "halaman": "80-81"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan berpikir kreatif sebagai cara memandang masalah dari sudut pandang berbeda.",
+        "Menghasilkan solusi desain yang dapat dipertanggungjawabkan alasannya.",
+        "Menerapkan teknik pemecahan masalah pada kasus desain sederhana."
+      ],
+      "kataKunci": [
+        "berpikir kreatif",
+        "sudut pandang",
+        "memecahkan masalah",
+        "alasan yang jelas"
+      ],
+      "pemantik": [
+        "Apa yang membuat orang kreatif terlihat 'unik'?",
+        "Bolehkah ide aneh? Asal apa syaratnya?"
+      ],
+      "materiInti": [
+        "Berpikir kreatif bukan berpikir angka; ia adalah cara berpikir dari sudut pandang berbeda dalam memecahkan masalah (hal. 80).",
+        "Orang kreatif kadang dianggap antik/unik, asalkan memiliki alasan yang jelas dan dapat dipertanggungjawabkan.",
+        "Tingkat efektivitas solusi ditentukan oleh kesesuaian ide dengan masalah & konteks.",
+        "Latihan: membalik asumsi, meminjam sudut pandang pengguna, dan menggabungkan gagasan."
+      ],
+      "petaKonsep": [
+        "Sudut pandang berbeda",
+        "Pemecahan masalah",
+        "Alasan yang dapat dipertanggungjawabkan",
+        "Efektivitas solusi"
+      ],
+      "pertemuanSenin": {
+        "tema": "Berpikir dari sudut pandang berbeda",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: satu masalah, tiga sudut pandang (pengguna, penjual, pengelola)."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca B. Berpikir Kreatif; menandai syarat ide yang dapat dipertanggungjawabkan."
+          },
+          {
+            "tahap": "Demonstrasi & penguatan",
+            "menit": 45,
+            "kegiatan": "Contoh desain yang lahir dari sudut pandang tidak biasa."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan membalik asumsi: 'bagaimana jika syaratnya dibalik?' untuk satu konteks DKV."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal berpikir kreatif."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: ide aneh saya yang ternyata bisa dipertanggungjawabkan."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik pemecahan masalah desain",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Membentuk tim dan memilih kasus desain nyata."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Langkah pemecahan masalah: pahami, rancang, uji ide, perbaiki."
+          },
+          {
+            "tahap": "Praktik kelompok",
+            "menit": 130,
+            "kegiatan": "Setiap tim menyelesaikan satu kasus (mis. poster imbauan hemat air) dengan 2 alternatif konsep dan alasan pemilihannya."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Uji ide bersama",
+            "menit": 40,
+            "kegiatan": "Tim saling menguji: 'apakah ide ini menjawab masalah dan bisa dipertanggungjawabkan?'"
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Simpan proses + hasil ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah definisi berpikir kreatif",
+          "Menganalisis syarat ide yang dapat dipertanggungjawabkan"
+        ],
+        "mengaplikasi": [
+          "Latihan membalik asumsi",
+          "Menyelesaikan kasus desain dengan 2 alternatif konsep"
+        ],
+        "merefleksi": [
+          "Menilai keberanian diri memunculkan ide tidak biasa",
+          "Menuliskan standar pertanggungjawaban ide saya"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 13 - Kasus Desain: 2 Konsep & Alasannya",
+        "langkah": [
+          "Tuliskan masalah & sasaran",
+          "Susun 2 konsep alternatif",
+          "Bandingkan kekuatan/kelemahan",
+          "Pilih 1 dan berikan alasan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Kejelasan rumusan masalah",
+            "skor4": "Sasaran, konteks, kriteria sukses jelas",
+            "skor3": "Jelas",
+            "skor2": "Kabur",
+            "skor1": "Tidak jelas"
+          },
+          {
+            "kriteria": "Perbedaan konsep",
+            "skor4": "Dua konsep benar-benar berbeda sudut pandang",
+            "skor3": "Berbeda",
+            "skor2": "Mirip",
+            "skor1": "Sama saja"
+          },
+          {
+            "kriteria": "Kekuatan argumen",
+            "skor4": "Argumen kuat, berbasis kriteria",
+            "skor3": "Beralasan",
+            "skor2": "Lemah",
+            "skor1": "Tanpa alasan"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Berpikir kreatif & pertanggungjawaban ide"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan syarat ide kreatif yang dapat dipertanggungjawabkan",
+        "Menghasilkan 2 konsep berbeda untuk 1 masalah"
+      ],
+      "remedial": "Bimbingan menemukan alternatif sudut pandang dengan daftar pemicu.",
+      "pengayaan": "Menguji ide ke 5 responden (teman/keluarga) dan menuliskan hasilnya.",
+      "refleksiSiswa": [
+        "Sudut pandang apa yang paling sering saya lupakan?",
+        "Bagaimana saya menguji ide sebelum final?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Menekankan berpikir kritis melalui pembandingan konsep.",
+        "pelaksanaan": "Uji ide antar tim (peer review).",
+        "asesmen": "Rubrik + kuis.",
+        "deepLearning": "critical-thinking"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 14,
+      "semester": 1,
+      "tema": "Penerapan Kreativitas dalam Industri DKV",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 4",
+          "subbab": "C. Kreativitas dalam Industri Kreatif",
+          "halaman": "82-83"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan mengapa nilai jual industri kreatif bergantung pada kreativitas.",
+        "Menganalisis peran kreativitas pada contoh produk industri kreatif.",
+        "Menilai peluang pengembangan kreativitas pada karya sendiri."
+      ],
+      "kataKunci": [
+        "industri kreatif",
+        "ekonomi kreatif",
+        "kreativitas",
+        "nilai jual"
+      ],
+      "pemantik": [
+        "Mengapa dua poster dengan pesan sama bisa bernilai berbeda?",
+        "Apa yang membuat karya 'murah' dan 'mahal'?"
+      ],
+      "materiInti": [
+        "Industri kreatif menitikberatkan produksi melalui pemanfaatan sumber daya proses kreatif (hal. 82).",
+        "Nilai jual bergantung seberapa banyak kreativitas dilibatkan; makin banyak, makin tinggi nilainya.",
+        "Kreativitas menjadi pembeda produk di pasar.",
+        "Penerapan: identitas visual, kemasan, konten promosi, pengalaman pengguna."
+      ],
+      "petaKonsep": [
+        "Sumber daya kreatif",
+        "Nilai jual",
+        "Diferensiasi produk",
+        "Studi kasus industri"
+      ],
+      "pertemuanSenin": {
+        "tema": "Kreativitas sebagai nilai jual",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: membandingkan dua produk sejenis dengan desain berbeda."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca C. Kreativitas dalam Industri Kreatif; mengaitkan kreativitas dengan nilai jual."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru membedah 2 studi kasus produk (sebelum & sesudah redesain)."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Kelompok menilai 3 produk lokal: di mana letak kreativitas dan pengaruhnya pada nilai."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal kreativitas & nilai jual."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: kreativitas dalam karya saya sendiri sejauh ini."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Praktik: menaikkan nilai karya dengan kreativitas",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Memilih karya sebelumnya yang akan ditingkatkan nilainya."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Kriteria karya bernilai: pesan jelas, orisinal, kontekstual, rapi."
+          },
+          {
+            "tahap": "Praktik peningkatan karya",
+            "menit": 130,
+            "kegiatan": "Siswa meredesain konsep karya sederhana (mis. label produk kantin) dengan menambah unsur kreativitas, mencatat perubahan."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Klinik karya",
+            "menit": 40,
+            "kegiatan": "Umpan balik guru & teman pada karya hasil redesain."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Dokumentasi sebelum-sesudah ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah hubungan kreativitas-nilai jual",
+          "Menganalisis studi kasus produk"
+        ],
+        "mengaplikasi": [
+          "Menilai produk lokal",
+          "Meredesain karya sederhana"
+        ],
+        "merefleksi": [
+          "Menilai perkembangan kreativitas karya saya"
+        ]
+      },
+      "simulasi": null,
+      "lkpd": {
+        "judul": "LKPD 14 - Redesain: Dari Biasa ke Bernilai",
+        "langkah": [
+          "Pilih satu karya/produk sederhana",
+          "Analisis kekurangan nilai jualnya",
+          "Redesain dengan 3 penambahan kreativitas",
+          "Presentasikan sebelum-sesudah"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketajaman analisis",
+            "skor4": "Menemukan akar masalah nilai jual",
+            "skor3": "Analisis tepat",
+            "skor2": "Dangkal",
+            "skor1": "Tidak ada"
+          },
+          {
+            "kriteria": "Kualitas redesain",
+            "skor4": "Perubahan bermakna dan terukur",
+            "skor3": "Ada perubahan jelas",
+            "skor2": "Perubahan kecil",
+            "skor1": "Tidak berubah"
+          },
+          {
+            "kriteria": "Dokumentasi proses",
+            "skor4": "Lengkap dengan alasan tiap perubahan",
+            "skor3": "Lengkap",
+            "skor2": "Sebagian",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Kreativitas dalam industri kreatif"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan peran kreativitas pada nilai jual",
+        "Menghasilkan redesain dengan alasan perubahan"
+      ],
+      "remedial": "Redesain 1 unsur saja dengan contoh pendampingan.",
+      "pengayaan": "Menghitung estimasi kenaikan harga jual dari redesain.",
+      "refleksiSiswa": [
+        "Unsur kreativitas apa yang paling kuat dalam karya saya?",
+        "Apa yang perlu saya tambahkan agar karya lebih bernilai?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Praktik redesain menunjukkan penerapan, bukan hafalan.",
+        "pelaksanaan": "Klinik karya memupuk umpan balik konstruktif.",
+        "asesmen": "Rubrik dokumentasi proses.",
+        "deepLearning": "meaningful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 15,
+      "semester": 1,
+      "tema": "Alur Proses Produksi, Teknologi, dan Budaya Kerja",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 4",
+          "subbab": "D. Kreativitas Proses Produksi dan Teknologi + E. Budaya Kerja Desainer Komunikasi Visual + Rangkuman/Asesmen BAB 4",
+          "halaman": "84-92"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan bagaimana kreativitas proses produksi dan teknologi menentukan mutu produk.",
+        "Membedakan media konvensional dan nonkonvensional dalam pekerjaan desainer.",
+        "Menjelaskan budaya kerja profesional desainer komunikasi visual."
+      ],
+      "kataKunci": [
+        "proses produksi",
+        "mutu produk",
+        "media konvensional",
+        "media nonkonvensional",
+        "budaya kerja"
+      ],
+      "pemantik": [
+        "Apakah produk baru harus benar-benar baru?",
+        "Media apa saja yang bisa dipakai desainer selain kertas?"
+      ],
+      "materiInti": [
+        "Kreativitas proses produksi dan teknologi memberi mutu pada produk yang dihasilkan (hal. 84).",
+        "Produk tidak selalu baru; dapat berupa pengembangan produk yang sudah ada (contoh pada buku: ojek pangkalan vs ojek online, gambar 4.6).",
+        "Budaya kerja desainer: memecahkan masalah secara kreatif melalui berbagai media komunikasi visual (hal. 85).",
+        "Media konvensional (poster, leaflet, brosur, media cetak) dan nonkonvensional (media digital & pengalaman)."
+      ],
+      "petaKonsep": [
+        "Kreativitas proses produksi",
+        "Teknologi",
+        "Mutu produk",
+        "Media konvensional/nonkonvensional",
+        "Budaya kerja"
+      ],
+      "pertemuanSenin": {
+        "tema": "Kreativitas proses produksi & teknologi",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menyebut produk lama yang telah dikembangkan (contoh buku: ojek pangkalan vs daring)."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca D & E; mencatat faktor mutu produk dan peran teknologi."
+          },
+          {
+            "tahap": "Demonstrasi & penguatan",
+            "menit": 45,
+            "kegiatan": "Membedah pengembangan produk dari sisi desain & teknologi."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Kelompok memilih produk lama di sekitar, memetakan 3 cara pengembangannya dari sisi DKV."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal proses produksi & mutu."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: pengembangan produk mendorong saya berpikir seperti apa?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Budaya kerja desainer + asesmen BAB 4",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Menghubungkan budaya kerja dengan kebiasaan belajar sehari-hari."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 35,
+            "kegiatan": "Budaya kerja: disiplin waktu, komunikasi, etika klien, pengelolaan revisi."
+          },
+          {
+            "tahap": "Simulasi peran kerja",
+            "menit": 110,
+            "kegiatan": "Simulasi mini-studio: peran desainer, klien, dan penilai; menangani satu brief dengan revisi terkendali."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 20,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Pembahasan & umpan balik",
+            "menit": 40,
+            "kegiatan": "Membahas dinamika kerja: negosiasi, komunikasi visual, penyelesaian perbedaan."
+          },
+          {
+            "tahap": "Asesmen & dokumentasi",
+            "menit": 45,
+            "kegiatan": "Menuntaskan Asesmen BAB 4 (buku hal. 89-91); dokumentasi."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah faktor mutu produk",
+          "Mengidentifikasi media konvensional & nonkonvensional"
+        ],
+        "mengaplikasi": [
+          "Memetakan pengembangan produk",
+          "Simulasi peran kerja studio"
+        ],
+        "merefleksi": [
+          "Menilai kesiapan budaya kerja profesional saya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-alur-produksi",
+        "judul": "Simulasi Alur Produksi DKV (urutan tahapan & revisi)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 15 - Pengembangan Produk & Budaya Kerja Studio",
+        "langkah": [
+          "Pilih produk lama",
+          "Tuliskan 3 pengembangan dari sisi DKV & teknologi",
+          "Ikuti simulasi peran studio",
+          "Catat pelajaran budaya kerja"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Relevansi pengembangan",
+            "skor4": "Menyentuh inti masalah pengguna",
+            "skor3": "Relevan",
+            "skor2": "Dangkal",
+            "skor1": "Tidak relevan"
+          },
+          {
+            "kriteria": "Keterlibatan simulasi peran",
+            "skor4": "Peran dijalankan antusias & profesional",
+            "skor3": "Dijalankan",
+            "skor2": "Setengah hati",
+            "skor1": "Tidak terlibat"
+          },
+          {
+            "kriteria": "Refleksi budaya kerja",
+            "skor4": "Wawasan spesifik & personal",
+            "skor3": "Refleksi jelas",
+            "skor2": "Umum",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Proses produksi, mutu, media, budaya kerja"
+      },
+      "proyek": null,
+      "kriteriaKeberhasilan": [
+        "Menjelaskan pengembangan produk dengan contoh",
+        "Menunjukkan perilaku kerja studio yang profesional dalam simulasi"
+      ],
+      "remedial": "Menyelesaikan 1 analisis pengembangan produk dengan kerangka terbantu.",
+      "pengayaan": "Menuliskan kode etik desainer versi kelas (10 butir).",
+      "refleksiSiswa": [
+        "Sikap kerja apa yang paling saya butuhkan saat ini?",
+        "Bagaimana saya menanggapi kritik klien nanti?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Simulasi peran mendukung dimensi kolaborasi & komunikasi.",
+        "pelaksanaan": "Pengelolaan kelas berpusat pada aktivitas.",
+        "asesmen": "Asesmen bab + rubrik simulasi.",
+        "deepLearning": "collaboration-communication"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 16,
+      "semester": 1,
+      "tema": "Dasar Sketsa dan Ilustrasi",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 5 Sketsa dan Ilustrasi",
+          "subbab": "A. Konsep dalam Sketsa dan Ilustrasi + B. Teknik Gambar Sketsa dan Ilustrasi + C. Jenis-Jenis Gambar Ilustrasi",
+          "halaman": "93-99"
+        }
+      ],
+      "tujuan": [
+        "Menjelaskan konsep karya sebagai gagasan awal berkarya DKV.",
+        "Menerapkan minimal dua teknik gambar sketsa/ilustrasi.",
+        "Membedakan jenis-jenis gambar ilustrasi dan penggunaannya."
+      ],
+      "kataKunci": [
+        "konsep karya",
+        "tema",
+        "sketsa",
+        "ilustrasi",
+        "kartun"
+      ],
+      "pemantik": [
+        "Mengapa ide perlu 'dituangkan' lebih dulu sebelum berkarya rapi?",
+        "Ilustrasi jenis apa yang paling sering kamu lihat di buku dan iklan?"
+      ],
+      "materiInti": [
+        "Konsep karya = gagasan/ide sebelum membuat karya; merupakan kegiatan awal berkarya yang melibatkan proses berpikir, diawali menentukan tema (hal. 95).",
+        "Teknik gambar sketsa & ilustrasi, antara lain teknik arsir: membuat garis sejajar/menyilang untuk kesan gelap-terang (hal. 96).",
+        "Sketsa adalah gambar rancangan kasar yang dibuat cepat dan tidak menuntut detail.",
+        "Jenis gambar ilustrasi: kartun 2D dan 3D, dan jenis lain sesuai buku (hal. 98-99)."
+      ],
+      "petaKonsep": [
+        "Konsep karya",
+        "Tema",
+        "Sketsa",
+        "Ilustrasi",
+        "Teknik & jenis"
+      ],
+      "pertemuanSenin": {
+        "tema": "Konsep karya & teknik sketsa",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: melihat buku sketsa desainer; menebak alur pikirnya."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca A & B; mencatat pengertian konsep karya dan langkah awalnya."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mendemonstrasikan teknik arsir sejajar dan menyilang."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan arsir pada beberapa bentuk geometris & benda sederhana untuk pencapaian gelap-terang."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal konsep karya & teknik sketsa."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: teknik mana yang paling nyaman & mengapa."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Jenis ilustrasi & mulai berkarya",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Meninjau hasil latihan arsir; menetapkan target perbaikan."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Membahas jenis ilustrasi (kartun 2D/3D dan lain-lain) serta konteks pemakaiannya."
+          },
+          {
+            "tahap": "Praktik sketsa konsep",
+            "menit": 130,
+            "kegiatan": "Setiap siswa membuat 3 sketsa kasar konsep karya (1 tema, 3 pendekatan visual) dan melabeli teknik yang dipakai."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Klinik sketsa",
+            "menit": 40,
+            "kegiatan": "Umpan balik keliling: kekuatan komposisi, arah pengembangan."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Foto & unggah sketsa ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah konsep karya & alur berkarya",
+          "Menganalisis jenis ilustrasi"
+        ],
+        "mengaplikasi": [
+          "Latihan teknik arsir",
+          "Membuat 3 sketsa konsep"
+        ],
+        "merefleksi": [
+          "Menilai perkembangan keterampilan sketsa saya"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-sketsa-lab",
+        "judul": "Laboratorium Sketsa (papan latihan digital: garis, arsir, komposisi)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 16 - Tiga Sketsa Satu Tema",
+        "langkah": [
+          "Tentukan tema",
+          "Buat 3 sketsa kasar berbeda pendekatan",
+          "Labeli teknik yang dipakai",
+          "Pilih 1 untuk dikembangkan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan penerapan teknik",
+            "skor4": "Arsir/garis rapi, gelap-terang terbentuk",
+            "skor3": "Teknik terlihat",
+            "skor2": "Belum terkendali",
+            "skor1": "Belum menerapkan"
+          },
+          {
+            "kriteria": "Variasi ide",
+            "skor4": "3 pendekatan berbeda dan jelas",
+            "skor3": "Berbeda",
+            "skor2": "Mirip",
+            "skor1": "Hanya meniru"
+          },
+          {
+            "kriteria": "Keterangan proses",
+            "skor4": "Label teknik & alasan lengkap",
+            "skor3": "Lengkap",
+            "skor2": "Sebagian",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 5,
+        "cakupan": "Konsep karya, teknik, jenis ilustrasi"
+      },
+      "proyek": {
+        "judul": "Proyek Mini: Sketsa Konsep Poster Sekolah",
+        "jenis": "individu",
+        "luaran": "3 sketsa konsep (pilih 1 untuk penyelesaian pada minggu 18)",
+        "tenggat": "Minggu 18"
+      },
+      "kriteriaKeberhasilan": [
+        "Menjelaskan konsep karya dengan contoh",
+        "Menghasilkan 3 sketsa konsep bertema"
+      ],
+      "remedial": "Latihan arsir tambahan dengan pola sederhana.",
+      "pengayaan": "Mencoba satu teknik tambahan dari buku dan membandingkan hasilnya.",
+      "refleksiSiswa": [
+        "Bagaimana ide saya berubah saat disketsa?",
+        "Teknik apa yang ingin saya kuasai berikutnya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Bermula dari konsep, bukan langsung teknik (sesuai urutan buku).",
+        "pelaksanaan": "Latihan bertahap: teknik dulu, lalu konsep.",
+        "asesmen": "Rubrik proses & hasil.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 17,
+      "semester": 1,
+      "tema": "Teknik Dasar Menggambar dan Ilustrasi Sesuai Cakupan Buku",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 5",
+          "subbab": "D. Memulai Sketsa dan Ilustrasi + E. Prinsip dan Unsur Desain",
+          "halaman": "100-115"
+        }
+      ],
+      "tujuan": [
+        "Menggunakan alat sketsa/ilustrasi sesuai jenis dan fungsinya.",
+        "Menjelaskan prinsip desain: kesatuan, keseimbangan, proporsi, penekanan, irama.",
+        "Menerapkan prinsip dan unsur desain pada karya sketsa."
+      ],
+      "kataKunci": [
+        "pensil H/B",
+        "kertas",
+        "kesatuan",
+        "keseimbangan",
+        "proporsi",
+        "penekanan",
+        "irama"
+      ],
+      "pemantik": [
+        "Kenapa pensil punya kode H dan B?",
+        "Mengapa karya yang rapi masih bisa terasa 'tidak enak dilihat'?"
+      ],
+      "materiInti": [
+        "Alat sketsa/ilustrasi: pensil digolongkan keras (4H-9H), sedang (H, HB, F, 2H, 3H), dan lunak (black/B); pemilihan alat memengaruhi hasil (hal. 100).",
+        "Memulai sketsa: sikap kerja, urutan menggambar, pengembangan bentuk dasar ke detail.",
+        "Prinsip desain (hal. 107): kesatuan, keseimbangan, proporsi, penekanan, dan irama.",
+        "Penerapan prinsip pada susunan karya; pengenalan unsur desain visual yang menyusun karya."
+      ],
+      "petaKonsep": [
+        "Alat & bahan",
+        "Memulai sketsa",
+        "Prinsip desain",
+        "Unsur desain",
+        "Penerapan"
+      ],
+      "pertemuanSenin": {
+        "tema": "Alat, bahan, dan langkah memulai sketsa",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Apersepsi: menguji berbagai pensil pada kertas, membandingkan hasil."
+          },
+          {
+            "tahap": "Eksplorasi konsep",
+            "menit": 65,
+            "kegiatan": "Membaca D. Memulai Sketsa dan Ilustrasi; mencatat golongan pensil & fungsinya."
+          },
+          {
+            "tahap": "Demonstrasi",
+            "menit": 45,
+            "kegiatan": "Guru mendemonstrasikan langkah menggambar dari bentuk dasar ke detail."
+          },
+          {
+            "tahap": "Latihan terbimbing",
+            "menit": 80,
+            "kegiatan": "Latihan menggambar objek sederhana dengan tahapan bentuk dasar → proporsi → detail."
+          },
+          {
+            "tahap": "Asesmen formatif",
+            "menit": 30,
+            "kegiatan": "Kuis 5 soal alat & langkah sketsa."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 25,
+            "kegiatan": "Refleksi: kesulitan pada tahap mana?"
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Prinsip & unsur desain dalam karya",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Menampilkan 2 karya: satu harmonis, satu sumbang; menebak penyebabnya."
+          },
+          {
+            "tahap": "Penguatan konsep",
+            "menit": 40,
+            "kegiatan": "Membahas prinsip desain: kesatuan, keseimbangan, proporsi, penekanan, irama."
+          },
+          {
+            "tahap": "Praktik penerapan",
+            "menit": 130,
+            "kegiatan": "Menyusun ulang sketsa minggu 16 dengan menerapkan minimal 3 prinsip desain; mencatat perubahan."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Klinik & presentasi karya",
+            "menit": 40,
+            "kegiatan": "Presentasi singkat: prinsip apa yang diterapkan dan efeknya."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 25,
+            "kegiatan": "Unggah karya final minggu ini ke portofolio."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah fungsi alat gambar",
+          "Menjelaskan 5 prinsip desain"
+        ],
+        "mengaplikasi": [
+          "Latihan tahapan menggambar",
+          "Menerapkan prinsip desain pada sketsa"
+        ],
+        "merefleksi": [
+          "Menilai kualitas komposisi karya sendiri"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-sketsa-lab",
+        "judul": "Laboratorium Sketsa (latihan komposisi & prinsip desain)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 17 - Prinsip Desain pada Sketsa Saya",
+        "langkah": [
+          "Pilih sketsa terbaik minggu 16",
+          "Terapkan minimal 3 prinsip desain",
+          "Foto sebelum-sesudah",
+          "Tuliskan alasan perubahan"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Ketepatan penerapan prinsip",
+            "skor4": "Prinsip terlihat jelas dan konsisten",
+            "skor3": "Terlihat",
+            "skor2": "Samar",
+            "skor1": "Tidak terlihat"
+          },
+          {
+            "kriteria": "Perbaikan mutu komposisi",
+            "skor4": "Perubahan membuat karya jauh lebih kuat",
+            "skor3": "Ada perbaikan",
+            "skor2": "Sedikit",
+            "skor1": "Tidak berubah"
+          },
+          {
+            "kriteria": "Penjelasan perubahan",
+            "skor4": "Alasan terkait prinsip & dampak visual",
+            "skor3": "Alasan jelas",
+            "skor2": "Umum",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 20
+      },
+      "asesmenFormatif": {
+        "bentuk": "kuis-pilihan-ganda",
+        "jumlahSoal": 8,
+        "cakupan": "Alat gambar & prinsip desain"
+      },
+      "proyek": {
+        "judul": "Proyek Mini: Sketsa Konsep Poster Sekolah (lanjutan)",
+        "jenis": "individu",
+        "luaran": "Karya sketsa final dengan prinsip desain",
+        "tenggat": "Minggu 18"
+      },
+      "kriteriaKeberhasilan": [
+        "Menggunakan alat gambar sesuai fungsi",
+        "Menerapkan minimal 3 prinsip desain secara jelas"
+      ],
+      "remedial": "Latihan menerapkan 1 prinsip (kesatuan) dengan pendampingan.",
+      "pengayaan": "Menganalisis 1 karya profesional dari sisi 5 prinsip desain.",
+      "refleksiSiswa": [
+        "Prinsip mana yang paling sulit saya terapkan?",
+        "Apa perbedaan karya saya sebelum dan sesudah?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Mengaitkan keterampilan teknis dengan prinsip desain.",
+        "pelaksanaan": "Praktik perbaikan karya (revisi) menjadi kebiasaan.",
+        "asesmen": "Rubrik sebelum-sesudah.",
+        "deepLearning": "mindful"
+      },
+      "catatanVerifikasi": null
+    },
+    {
+      "minggu": 18,
+      "semester": 1,
+      "tema": "Unsur Visual, Pengembangan Konsep Sketsa, Refleksi, dan Evaluasi Semester",
+      "statusSumber": "sesuai-buku",
+      "sumber": [
+        {
+          "kode": "B1",
+          "bab": "BAB 5",
+          "subbab": "F. Konsep Karya DKV melalui Sketsa + Rangkuman/Asesmen BAB 5 + Latihan Soal Semester 1",
+          "halaman": "116-144"
+        }
+      ],
+      "tujuan": [
+        "Mengembangkan sketsa menjadi konsep karya DKV yang utuh.",
+        "Menyebutkan bentuk karya cetak yang dapat diwujudkan dari sketsa/ilustrasi (poster, majalah, komik, dan lain-lain).",
+        "Menyelesaikan asesmen akhir semester dan refleksi pembelajaran."
+      ],
+      "kataKunci": [
+        "karya cetak",
+        "poster",
+        "majalah",
+        "komik",
+        "evaluasi semester"
+      ],
+      "pemantik": [
+        "Sketsa saya cocok menjadi karya apa: poster, komik, atau lainnya?",
+        "Apa capaian terbesar saya semester ini?"
+      ],
+      "materiInti": [
+        "Karya sketsa & ilustrasi dapat diwujudkan pada karya-karya cetak: poster, majalah, komik, dan lain-lain (hal. 116).",
+        "Poster adalah karya desain grafis pada selembar kertas yang memuat komposisi gambar dan huruf (buku hal. 116).",
+        "Pengembangan konsep: dari sketsa terpilih menuju karya yang memiliki pesan jelas.",
+        "Evaluasi semester: rangkuman, asesmen bab 5, latihan soal semester 1, refleksi capaian."
+      ],
+      "petaKonsep": [
+        "Sketsa",
+        "Konsep karya",
+        "Karya cetak (poster/majalah/komik)",
+        "Portofolio",
+        "Evaluasi semester"
+      ],
+      "pertemuanSenin": {
+        "tema": "Dari sketsa menjadi karya",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Pembukaan",
+            "menit": 25,
+            "kegiatan": "Meninjau sketsa final; menentukan bentuk karya akhir."
+          },
+          {
+            "tahap": "Eksplorasi & penguatan",
+            "menit": 60,
+            "kegiatan": "Membaca F. Konsep Karya DKV melalui Sketsa: poster, majalah, komik."
+          },
+          {
+            "tahap": "Kerja karya",
+            "menit": 130,
+            "kegiatan": "Menyelesaikan karya dari sketsa terpilih (poster/komik halaman/ilustrasi majalah) beserta pesan visualnya."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Umpan balik",
+            "menit": 30,
+            "kegiatan": "Klinik karya terakhir sebelum penilaian."
+          },
+          {
+            "tahap": "Refleksi & penutup",
+            "menit": 10,
+            "kegiatan": "Ceklis kesiapan penilaian."
+          }
+        ]
+      },
+      "pertemuanRabu": {
+        "tema": "Presentasi karya, asesmen, dan refleksi semester",
+        "jp": 6,
+        "menit": 270,
+        "agenda": [
+          {
+            "tahap": "Apersepsi",
+            "menit": 20,
+            "kegiatan": "Penjelasan alur presentasi & penilaian akhir semester."
+          },
+          {
+            "tahap": "Presentasi karya",
+            "menit": 80,
+            "kegiatan": "Setiap siswa mempresentasikan karyanya: pesan, prinsip desain, proses."
+          },
+          {
+            "tahap": "Umpan balik & penilaian",
+            "menit": 45,
+            "kegiatan": "Guru menilai dengan rubrik; teman memberi apresiasi terarah."
+          },
+          {
+            "tahap": "Istirahat & transisi",
+            "menit": 15,
+            "kegiatan": "Istirahat."
+          },
+          {
+            "tahap": "Asesmen akhir semester",
+            "menit": 75,
+            "kegiatan": "Mengerjakan Asesmen BAB 5 dan Latihan Soal Semester 1 (buku hal. 129-144) secara bertahap."
+          },
+          {
+            "tahap": "Refleksi & dokumentasi",
+            "menit": 35,
+            "kegiatan": "Refleksi capaian semester, kurasi portofolio, penetapan target semester 2."
+          }
+        ]
+      },
+      "aktivitas": {
+        "memahami": [
+          "Menelaah bentuk karya cetak dari sketsa",
+          "Meninjau prinsip desain pada karya"
+        ],
+        "mengaplikasi": [
+          "Menyelesaikan karya akhir",
+          "Mempresentasikan karyanya"
+        ],
+        "merefleksi": [
+          "Menilai capaian semester 1",
+          "Menetapkan target semester 2"
+        ]
+      },
+      "simulasi": {
+        "id": "sim-sketsa-lab",
+        "judul": "Laboratorium Sketsa (penyelesaian konsep karya)",
+        "jenis": "interaktif",
+        "status": "rencana-tahap-7"
+      },
+      "lkpd": {
+        "judul": "LKPD 18 - Karya Akhir Semester & Kurasi Portofolio",
+        "langkah": [
+          "Selesaikan karya dari sketsa terpilih",
+          "Tuliskan deskripsi karya (pesan, prinsip, proses)",
+          "Presentasikan",
+          "Kurasi 5 karya terbaik semester 1"
+        ],
+        "rubrik": [
+          {
+            "kriteria": "Kualitas karya akhir",
+            "skor4": "Pesan jelas, komposisi kuat, pengerjaan rapi",
+            "skor3": "Pesan jelas, cukup rapi",
+            "skor2": "Pesan kabur",
+            "skor1": "Belum selesai"
+          },
+          {
+            "kriteria": "Kemampuan presentasi",
+            "skor4": "Runtut, percaya diri, menjelaskan proses",
+            "skor3": "Runtut",
+            "skor2": "Terbata-bata",
+            "skor1": "Tidak siap"
+          },
+          {
+            "kriteria": "Kualitas refleksi & kurasi",
+            "skor4": "Refleksi tajam, kurasi beralasan",
+            "skor3": "Refleksi jelas",
+            "skor2": "Umum",
+            "skor1": "Tidak ada"
+          }
+        ],
+        "bobot": 25
+      },
+      "asesmenFormatif": {
+        "bentuk": "asesmen-sumatif-bab-dan-semester",
+        "jumlahSoal": 20,
+        "cakupan": "Asesmen BAB 5 & Latihan Soal Semester 1 (buku hal. 129-144)"
+      },
+      "proyek": {
+        "judul": "Proyek Mini: Karya Cetak dari Sketsa Konsep",
+        "jenis": "individu",
+        "luaran": "Poster/komik/ilustrasi majalah dengan deskripsi karya",
+        "tenggat": "Minggu 18 (selesai)"
+      },
+      "kriteriaKeberhasilan": [
+        "Karya akhir selesai dengan pesan yang dapat dijelaskan",
+        "Portofolio semester terkurasi minimal 5 karya",
+        "Asesmen semester selesai"
+      ],
+      "remedial": "Penyelesaian karya dengan penyederhanaan skala & pendampingan; mengulang bagian asesmen yang belum lulus.",
+      "pengayaan": "Menyusun pameran mini kelas atas karya semester 1 dan menjadi pemandu pameran.",
+      "refleksiSiswa": [
+        "Capaian terbesar saya semester ini adalah...",
+        "Kompetensi apa yang ingin saya perkuat semester 2?",
+        "Karya mana yang paling menggambarkan perkembangan saya?"
+      ],
+      "catatanSupervisi": {
+        "perencanaan": "Penutup semester mengintegrasikan asesmen, refleksi, dan portofolio.",
+        "pelaksanaan": "Presentasi karya memberi rasa bangga & tanggung jawab (joyful).",
+        "asesmen": "Rubrik karya + asesmen buku.",
+        "deepLearning": "meaningful-mindful-joyful"
+      },
+      "catatanVerifikasi": "Latihan Soal Semester 1 (hal. 133-144) digunakan sebagai bagian asesmen sumatif; jumlah butir & bobot menyesuaikan kebijakan guru."
+    }
+  ]
+}
